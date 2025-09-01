@@ -1,0 +1,8 @@
+selenium
+pandas
+numpy
+selenium-wire
+beautifulsoup4 
+requests 
+blinker==1.4 
+webdriver-manager
