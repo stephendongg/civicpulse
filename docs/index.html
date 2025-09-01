@@ -1,0 +1,221 @@
+<!-- THIS SECTION IS COMPLETELY VIBE CODED - I AM NOT GOOD AT FRONTEND -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>CivicPulse — Minimal Prototype</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!--
+    Style goals:
+    - readable defaults
+    - light/dark aware
+    - minimal surface area
+  -->
+  <style>
+    :root { --bg:#fff; --fg:#111; --muted:#666; --border:#e5e7eb; --card:#f8fafc; --link:#1d4ed8; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg:#0b0e14; --fg:#e8edf5; --muted:#9aa4b2; --border:#1f2937; --card:#11151f; --link:#7aa2ff; }
+    }
+
+    html, body { margin:0; background:var(--bg); color:var(--fg);
+      font:16px/1.55 system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; }
+
+    .wrap { max-width: 880px; margin: 0 auto; padding: 16px; }
+
+    header { position: sticky; top: 0; background: var(--bg); border-bottom: 1px solid var(--border); }
+    h1 { margin: 0 0 4px; font-size: 20px; }
+    .sub { color: var(--muted); font-size: 14px; }
+    .pill { display:inline-block; margin-left:8px; padding:2px 8px; font-size:12px;
+            border:1px solid var(--border); border-radius:999px; background:var(--card); }
+
+    .card { border:1px solid var(--border); border-radius:12px; background:var(--card);
+            padding:16px; margin:16px 0; }
+    .card h2 { margin:0 0 8px; font-size:18px; }
+
+    a { color: var(--link); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* small, clear stats grid */
+    .stats { display:grid; gap:8px; grid-template-columns: 1fr; }
+    @media (min-width:700px){ .stats { grid-template-columns: repeat(3,1fr); } }
+    .stat { border:1px solid var(--border); border-radius:10px; padding:10px 12px; background:var(--bg); }
+    .stat .big { font-weight:600; }
+
+    /* section panels */
+    .section { border:1px solid var(--border); border-radius:12px; margin:12px 0; }
+    .section header { padding:12px 14px; border-bottom:1px solid var(--border); }
+    .section h3 { margin:0; font-size:16px; }
+    .section .body { padding:12px 14px; }
+    ul { margin:8px 0 0; padding-left:18px; }
+    .muted { color: var(--muted); }
+  </style>
+</head>
+
+<body>
+  <!-- page header -->
+  <header>
+    <div class="wrap">
+      <h1>🏙️ CivicPulse <span id="place" class="pill"></span></h1>
+      <div class="sub">Last Updated: <span id="updated">—</span></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- quick counts by category -->
+    <section class="card">
+      <h2>📊 Today’s Civic Activity</h2>
+      <div id="stats" class="stats"></div>
+    </section>
+
+    <!-- global topline -->
+    <section class="card">
+      <h2>Top Line</h2>
+      <div id="topline"></div>
+    </section>
+
+    <!-- sections mount here -->
+    <div id="sections"></div>
+  </main>
+
+  <script>
+    /*
+      1) point this to your generated JSON
+         (keep it next to index.html for easy GitHub Pages hosting)
+    */
+    const DIGEST_PATH = "civicpulse_digest_New_York_NY.json";
+
+    /*
+      2) emoji + label for each CIN key (used in the stats strip)
+    */
+    const LABELS = {
+      emergencies_risks:      ["🚨", "Emergency/Risk alerts"],
+      civic_information:      ["🏛️", "Civic updates"],
+      political_information:  ["🗳️", "Political developments"],
+      transportation:         ["🚇", "Transportation issues"],
+      health_welfare:         ["🩺", "Health & Welfare"],
+      education:              ["🎓", "Education"],
+      economic_opportunities: ["💼", "Economic opportunities"],
+      environment:            ["🌿", "Environment"],
+      other:                  ["📰", "Other"]
+    };
+
+    /*
+      3) tiny Markdown helper:
+         - turn [text](url) into <a>
+         - keep newlines
+    */
+    function mdToHtml(md) {
+      return (md || "")
+        .replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
+        .replace(/\n/g, "<br/>");
+    }
+
+    /*
+      4) build the stats strip (simple counts per section)
+    */
+    function renderStats(order, sections) {
+      const mount = document.getElementById("stats");
+      mount.innerHTML = "";
+      order.forEach(key => {
+        const sec = sections[key]; if (!sec) return;
+        const count = Array.isArray(sec.items) ? sec.items.length : 0;
+        const [emoji, label] = LABELS[key] || ["•", key];
+        const div = document.createElement("div");
+        div.className = "stat";
+        div.innerHTML = `<div class="big">${emoji} ${count}</div><div class="muted">${label}</div>`;
+        mount.appendChild(div);
+      });
+    }
+
+    /*
+      5) make one section panel:
+         - title
+         - summary (markdown)
+         - items (either parsed objects or plain strings)
+    */
+    function renderSection(key, sec) {
+      const box = document.createElement("section");
+      box.className = "section";
+
+      const head = document.createElement("header");
+      head.innerHTML = `<h3>${sec.title || key}</h3>`;
+      box.appendChild(head);
+
+      const body = document.createElement("div");
+      body.className = "body";
+
+      // summary: if it starts with "### Title", drop that heading line
+      if (sec.summary_md) {
+        const stripped = sec.summary_md.replace(/^#+\s*[^\n]+\n*/, "");
+        const div = document.createElement("div");
+        div.innerHTML = mdToHtml(stripped);
+        body.appendChild(div);
+      }
+
+      // items: support both object form and plain-line fallback
+      const ul = document.createElement("ul");
+      const items = Array.isArray(sec.items) ? sec.items : [];
+      if (!items.length) {
+        const li = document.createElement("li");
+        li.className = "muted"; li.textContent = "No items.";
+        ul.appendChild(li);
+      } else {
+        items.forEach(it => {
+          const li = document.createElement("li");
+          if (typeof it === "string") {
+            li.textContent = it; // if you kept ctx.splitlines()
+          } else {
+            const title = it.title || "(untitled)";
+            const parts = [];
+            if (it.source) parts.push(it.source);
+            if (it.utc)    parts.push(it.utc);
+            li.innerHTML = `<strong>${title}</strong>${parts.length ? `<div class="muted">${parts.join(" · ")}</div>` : ""}`;
+            if (it.link) {
+              const a = document.createElement("a");
+              a.href = it.link; a.textContent = "Read";
+              a.target = "_blank"; a.rel = "noopener";
+              li.appendChild(document.createElement("br"));
+              li.appendChild(a);
+            }
+          }
+          ul.appendChild(li);
+        });
+      }
+
+      body.appendChild(ul);
+      box.appendChild(body);
+      return box;
+    }
+
+    /*
+      6) load JSON and render the page
+    */
+    fetch(DIGEST_PATH)
+      .then(r => r.json())
+      .then(data => {
+        // header
+        document.getElementById("place").textContent = data.place || "Unknown";
+        document.getElementById("updated").textContent =
+          data.generated_at_utc
+            ? new Date(data.generated_at_utc).toLocaleDateString(undefined, { year:"numeric", month:"short", day:"numeric" })
+            : "—";
+
+        // topline
+        document.getElementById("topline").innerHTML = mdToHtml(data.topline_md || "");
+
+        // sections + stats
+        const order = data.order || Object.keys(data.sections || {});
+        const sections = data.sections || {};
+        renderStats(order, sections);
+
+        const mount = document.getElementById("sections");
+        mount.innerHTML = "";
+        order.forEach(key => { if (sections[key]) mount.appendChild(renderSection(key, sections[key])); });
+      })
+      .catch(() => {
+        document.getElementById("topline").textContent = "Failed to load data.";
+      });
+  </script>
+</body>
+</html>
