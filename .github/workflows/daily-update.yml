@@ -1,0 +1,40 @@
+name: Daily CivicPulse Update
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC (adjust timezone as needed)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  update-civicpulse:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser requests pandas openai dotenv
+        
+    - name: Run CivicPulse update
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: python update.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add docs/civicpulse_digest_New_York_NY.json
+        git add local_news_labeled_New_York_NY.csv
+        git add civicpulse_sections_New_York_NY.md
+        git diff --staged --quiet || git commit -m "Daily CivicPulse update - $(date)"
+        git push

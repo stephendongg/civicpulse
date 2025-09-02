@@ -1,0 +1,409 @@
+# === Google News Local feed (readable version) ===
+# Works in Colab/Jupyter. Just change PLACE.
+
+import requests, feedparser
+import os, json, time
+import pandas as pd
+from urllib.parse import urlparse
+from openai import OpenAI
+from datetime import datetime, timezone
+from dotenv import load_dotenv
+
+load_dotenv() 
+
+# Change this to your city/county
+PLACE = "New York NY"
+
+# Short header string = polite, but simple
+HEADERS = {"User-Agent": "CivicPulse/0.1"}
+
+def build_feed_url(place):
+    """Return the Google News local RSS feed URL for a place."""
+    base = "https://news.google.com/rss/local/section/geo/"
+    tail = "?hl=en-US&gl=US&ceid=US:en"
+    return base + requests.utils.quote(place) + tail
+
+def fetch_feed(url):
+    """Download and parse the RSS feed into a Python object."""
+    r = requests.get(url, headers=HEADERS, timeout=20)
+    r.raise_for_status()
+    return feedparser.parse(r.text)
+
+# Build URL and fetch results
+feed_url = build_feed_url(PLACE)
+feed = fetch_feed(feed_url)
+
+print(f"Local feed URL:\n{feed_url}\n")
+print(f"Found {len(feed.entries)} stories:\n")
+
+# Print first few titles + metadata
+for i, story in enumerate(feed.entries[:5], 1):  # Just show first 5 to avoid too much output
+    print(f"{i:02d}. {story.title}")
+    print(f"    {story.published}")
+    print(f"    {story.link}\n")
+
+# === Label Google News Local feed titles with CIN taxonomy ===
+# Assumes `feed`, `PLACE`, and `feed_url` already exist from your previous cell.
+
+# --- 0) OpenAI setup ---
+# Get API key from environment variable (set in GitHub Secrets)
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
+    raise ValueError("OPENAI_API_KEY environment variable is required")
+
+client = OpenAI(api_key=api_key)
+
+MODEL = "gpt-4o-mini"   # fast & affordable
+BATCH_SIZE = 25         # label many titles per API call
+SLEEP_BETWEEN = 0.2     # short pause between calls
+
+
+# --- 1) Build a DataFrame from the feed ---
+rows = []
+for e in feed.entries:
+    title = getattr(e, "title", "").strip()
+    link = getattr(e, "link", "")
+    published = getattr(e, "published", "") or getattr(e, "updated", "")
+    source = ""
+    if hasattr(e, "source") and isinstance(e.source, dict):
+        source = e.source.get("title") or ""
+    rows.append({
+        "place": PLACE,
+        "title": title,
+        "link": link,
+        "published": published,
+        "source": source,
+        "domain": urlparse(link).netloc,
+        "feed_url": feed_url,
+    })
+
+df = pd.DataFrame(rows)
+print(f"DataFrame built: {len(df)} rows")
+print(df.head(5))
+
+# --- 2) Your taxonomy + instructions (7 + other) ---
+CIN_LABELS = [
+    "emergencies_risks",       # 1) Emergencies and risks
+    "health_welfare",          # 2) Health and welfare
+    "education",               # 3) Education
+    "transportation",          # 4) Transportation
+    "economic_opportunities",  # 5) Economic opportunities
+    "environment",             # 6) Environment
+    "civic_information",       # 7) Civic information
+    "political_information",   # 8) Political information
+    "nonlocal",                # 9) Non-local/national/international news
+    "other"                    # spillover
+]
+
+FEW_SHOTS = [
+  # 1) emergencies_risks
+  {"title": "Subway stabbing at Midtown station; suspect sought", "label": "emergencies_risks"},
+  {"title": "Water main break triggers boil advisory downtown",    "label": "emergencies_risks"},
+
+  # 2) health_welfare
+  {"title": "City issues heat advisory; cooling centers open",     "label": "health_welfare"},
+  {"title": "County clinic adds free vaccination hours Saturday",  "label": "health_welfare"},
+
+  # 3) education
+  {"title": "School calendar: holidays and parent-teacher nights", "label": "education"},
+  {"title": "Teachers union and district reach tentative contract", "label": "education"},
+
+  # 4) transportation
+  {"title": "Bridge lane closure causes detour on Route 2",        "label": "transportation"},
+  {"title": "Transit authority installs 80 EV chargers at hub",    "label": "transportation"},
+
+  # 5) economic_opportunities
+  {"title": "City launches small-business training grants",        "label": "economic_opportunities"},
+  {"title": "Job fair to feature apprenticeships and CDL roles",   "label": "economic_opportunities"},
+
+  # 6) environment
+  {"title": "Air quality alert due to wildfire smoke",             "label": "environment"},
+  {"title": "River restoration project opens new trail access",    "label": "environment"},
+
+  # 7) civic_information
+  {"title": "City Council passes $4.1B budget for sanitation",     "label": "civic_information"},
+  {"title": "Judge blocks city plan to relocate migrant families", "label": "civic_information"},
+
+  # 8) political_information
+  {"title": "Redistricting map could boost one party",             "label": "political_information"},
+  {"title": "Mayoral candidate launches campaign rally",           "label": "political_information"},
+
+  # 9) nonlocal - ADD THESE NEW EXAMPLES
+  {"title": "Putin Finds a Growing Embrace on the Global Stage", "label": "nonlocal"},
+  {"title": "Fed should be independent but has made mistakes", "label": "nonlocal"},
+  {"title": "Crime Crackdown in D.C. Shows Trump Administration's Policy", "label": "nonlocal"},
+  {"title": "Xi, Putin and Modi Try to Signal Unity at China Summit", "label": "nonlocal"},
+  {"title": "Russia Suspected of Jamming GPS for E.U. Leader's Plane", "label": "nonlocal"},
+  {"title": "Supreme Court to hear case on federal immigration policy", "label": "nonlocal"},
+
+  # other
+  {"title": "Museum hosts free night for city workers",            "label": "other"},
+  {"title": "Former official reveals Parkinson's diagnosis",       "label": "other"},
+]
+
+def build_fewshot_block(fewshots):
+    lines = [f'Headline: "{ex["title"]}"\nLabel: {ex["label"]}' for ex in fewshots]
+    return "Examples:\n\n" + "\n\n".join(lines)
+
+FEW_SHOT_TEXT = build_fewshot_block(FEW_SHOTS)
+
+SYSTEM_INSTRUCTIONS = f"""
+You are a careful classifier for LOCAL news headlines for {PLACE}. Choose exactly ONE label from:
+{', '.join(CIN_LABELS)}.
+
+Definitions (map each headline to the single best-fitting domain):
+1) Emergencies and risks — immediate/long-term threats: crime, accidents, severe weather, outages, disasters.
+2) Health and welfare — hospitals, clinics, disease/outbreaks, public advisories, group-specific health information.
+3) Education — schools, teachers, students, universities, closures, policies, parent/child educational choices.
+4) Transportation — roads, traffic, transit systems, costs, schedules, detours, rail/subway/ferry, charging.
+5) Economic opportunities — jobs, job training, small-business assistance, affordability/cost-of-living.
+6) Environment — air/water quality, environmental hazards, climate impacts, restoration/recreation/parks.
+7) Civic information — government services, council/courts, ordinances, budgets, agency notices, civic associations.
+8) Political information — candidates, campaigns, elections, parties, partisan conflict, public policy debates.
+9) Nonlocal — national/international news, federal policy, foreign affairs, stories not directly relevant to local residents.
+10) Other — everything else (sports, arts, entertainment, celebrity/individual health updates, human interest).
+
+Tie-break priority if multiple seem plausible:
+nonlocal > emergencies_risks > civic_information > political_information > transportation > health_welfare > education > economic_opportunities > environment > other.
+
+IMPORTANT: Be aggressive about labeling as "nonlocal". If a story is primarily about national politics, international affairs, or federal policy (even if mentioned by local outlets), label it "nonlocal".
+
+Return ONLY a JSON array. For each item:
+{{"id": <int>, "category": <one of labels>, "confidence": <0..1>, "reason": "<=20 words>"}}
+
+{FEW_SHOT_TEXT}
+"""
+
+# --- 3) Label in batches ---
+def label_batch(titles_with_ids):
+    """Send a batch of titles to GPT and get labels back."""
+    enumerated_titles = "\n".join(f"{idx}. {title}" for idx, title in titles_with_ids)
+    user_msg = f"Label these headlines:\n\n{enumerated_titles}"
+    
+    resp = client.chat.completions.create(
+        model=MODEL,
+        temperature=0,
+        messages=[
+            {"role": "system", "content": SYSTEM_INSTRUCTIONS},
+            {"role": "user", "content": user_msg},
+        ],
+    )
+    return resp.choices[0].message.content.strip()
+
+# Prepare data for labeling
+titles_list = df["title"].tolist()
+all_labels = []
+
+print(f"Labeling {len(titles_list)} titles in batches of {BATCH_SIZE}...")
+
+for i in range(0, len(titles_list), BATCH_SIZE):
+    batch_titles = titles_list[i:i+BATCH_SIZE]
+    batch_with_ids = [(j, title) for j, title in enumerate(batch_titles, start=i)]
+    
+    try:
+        raw_response = label_batch(batch_with_ids)
+        parsed = json.loads(raw_response)
+        all_labels.extend(parsed)
+        print(f"Batch {i//BATCH_SIZE + 1}: Labeled {len(batch_titles)} items")
+    except Exception as e:
+        print(f"Error in batch {i//BATCH_SIZE + 1}: {e}")
+        # Add fallback labels for this batch
+        for j, title in batch_with_ids:
+            all_labels.append({"id": j, "category": "other", "confidence": 0.0, "reason": "labeling failed"})
+    
+    if SLEEP_BETWEEN > 0:
+        time.sleep(SLEEP_BETWEEN)
+
+# --- 4) Merge labels back into DataFrame ---
+label_lookup = {item["id"]: item for item in all_labels}
+df["category"] = [label_lookup.get(i, {"category": "other"})["category"] for i in range(len(df))]
+df["confidence"] = [label_lookup.get(i, {"confidence": 0.0})["confidence"] for i in range(len(df))]
+df["reason"] = [label_lookup.get(i, {"reason": "unknown"})["reason"] for i in range(len(df))]
+
+print("\nLabeling complete! Sample results:")
+print(df[["title", "category", "confidence"]].head(10))
+
+# Save labeled data
+csv_path = f"local_news_labeled_{PLACE.replace(' ','_')}.csv"
+df.to_csv(csv_path, index=False)
+print(f"Saved labeled data to: {csv_path}")
+
+
+# Filter out nonlocal content for summary generation
+original_count = len(df)
+df = df[df["category"] != "nonlocal"].reset_index(drop=True)
+filtered_count = len(df)
+nonlocal_removed = original_count - filtered_count
+
+print(f"\nFiltered out {nonlocal_removed} nonlocal stories")
+print(f"Keeping {filtered_count} local stories for civic digest")
+
+# === Generate summaries for each category ===
+
+# Order for final output
+CIN_ORDER = [
+    "emergencies_risks", "civic_information", "political_information",
+    "transportation", "health_welfare", "education", "economic_opportunities",
+    "environment", "other"
+]
+
+CIN_PRETTY = {
+    "emergencies_risks": "Emergencies & Risks",
+    "health_welfare": "Health & Welfare",
+    "education": "Education",
+    "transportation": "Transportation",
+    "economic_opportunities": "Economic Opportunities",
+    "environment": "Environment",
+    "civic_information": "Civic Information",
+    "political_information": "Political Information",
+    "other": "Other"
+}
+
+# --- 1) Group by category and build context strings ---
+per_section = {}
+for cat in CIN_LABELS:
+    subset = df[df["category"] == cat]
+    if len(subset) == 0:
+        continue
+    
+    lines = []
+    for _, row in subset.iterrows():
+        line = f"- {row['title']} - {row['source']} (source: {row['source']}, {row['published']})"
+        lines.append(line)
+        lines.append(f"  Link: {row['link']}")
+    
+    per_section[cat] = "\n".join(lines)
+
+print("Categories with content:")
+for cat, content in per_section.items():
+    print(f"- {cat}: {len(content.splitlines())} lines")
+
+# --- 2) Section examples for consistent formatting ---
+SECTION_EXAMPLES = {
+    "emergencies_risks": {
+        "topline": "Multiple incidents across the region highlight ongoing safety concerns and emergency response efforts.",
+        "bullets": [
+            "Police investigate shooting incident downtown that left two injured. [Read](link)",
+            "Water main break on Fifth Street causes service disruptions for 200 homes. [Read](link)",
+            "Emergency crews respond to apartment fire, evacuating 15 residents safely. [Read](link)"
+        ]
+    },
+    "transportation": {
+        "topline": "Transit disruptions continue with light rail cancellations and bridge lane closures affecting commuters.",
+        "bullets": [
+            "NJ Transit canceled nearly 100 light rail trains due to signal issues. [Read](link)",
+            "Manhattan Bridge lane closure causes delays through Thursday morning. [Read](link)"
+        ]
+    }
+}
+
+def build_examples_text(examples_dict):
+    """Convert examples dict to formatted text for prompts"""
+    lines = []
+    for category, content in examples_dict.items():
+        pretty_name = CIN_PRETTY.get(category, category.title())
+        lines.append(f"**{pretty_name} Example:**")
+        lines.append(content["topline"])
+        lines.append("")
+        for bullet in content["bullets"]:
+            lines.append(f"- {bullet}")
+        lines.append("")
+    return "\n".join(lines)
+
+EXAMPLES_TEXT = build_examples_text(SECTION_EXAMPLES)
+
+# Updated SECTION_SYSTEM with examples
+SECTION_SYSTEM = f"""
+You are an editor summarizing local news for a single domain.
+Summarize only items provided. Be concise, factual, non-duplicative.
+
+FORMAT REQUIREMENTS:
+- Start with a one-sentence topline (≤ 25 words)
+- Then 2–4 bullets. Each bullet: 1 sentence (≤ 22 words), include [Read](URL) link
+- Include timestamps only if timing is critical
+- Follow the exact format shown in examples below
+
+{EXAMPLES_TEXT}
+
+Output Markdown following this exact format. Do not invent facts. Use provided URLs only.
+"""
+
+def summarize_section(cat_key, context):
+    pretty = CIN_PRETTY.get(cat_key, cat_key.title())
+    user_msg = f"""Domain: {pretty}
+Items:
+{context}
+
+Write Markdown for this domain only. Do not invent facts. Include links as [Read](URL)."""
+    resp = client.chat.completions.create(
+        model=MODEL,
+        temperature=0.2,
+        messages=[
+            {"role": "system", "content": SECTION_SYSTEM},
+            {"role": "user", "content": user_msg},
+        ],
+    )
+    return f"### {pretty}\n\n" + resp.choices[0].message.content.strip()
+
+section_markdowns = []
+sections_map = {}
+
+for cat in CIN_ORDER:
+    ctx = per_section.get(cat)
+    if ctx:
+        md_block = summarize_section(cat, ctx)
+        section_markdowns.append(md_block)
+
+        # NEW: also save a structured version
+        sections_map[cat] = {
+            "title": CIN_PRETTY.get(cat, cat.title()),
+            "summary_md": md_block,
+            "items": ctx.splitlines()  # keep minimal; replace later with a parser if you want
+        }
+
+# --- 4) (Optional) Global top line from all included items ---
+all_ctx = "\n".join(per_section[c] for c in CIN_ORDER if c in per_section)
+TOPLINE_SYSTEM = "Write a single 1–2 sentence 'Top Line' (<= 50 words) summarizing the most important cross-domain updates. Use only the provided items."
+topline_resp = client.chat.completions.create(
+    model=MODEL,
+    temperature=0.2,
+    messages=[
+        {"role": "system", "content": TOPLINE_SYSTEM},
+        {"role": "user", "content": all_ctx},
+    ],
+)
+topline = topline_resp.choices[0].message.content.strip()
+
+# --- 5) Stitch final Markdown and save ---
+final_md = topline + "\n\n" + "\n\n".join(section_markdowns)
+print(final_md[:1500])
+
+md_path = f"civicpulse_sections_{PLACE.replace(' ','_')}.md"
+with open(md_path, "w", encoding="utf-8") as f:
+    f.write(final_md)
+print("Saved ->", md_path)
+
+# === Create JSON output for website ===
+final_json = {
+    "place": PLACE,
+    "generated_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+    "topline_md": topline,                 # topline included here
+    "order": [k for k in CIN_ORDER if k in sections_map],
+    "sections": sections_map                # {"civic_information": {...}, ...}
+}
+json_path = f"civicpulse_digest_{PLACE.replace(' ','_')}.json"
+with open(json_path, "w", encoding="utf-8") as f:
+    json.dump(final_json, f, ensure_ascii=False, indent=2)
+print("Saved ->", json_path)
+
+
+# At the end, make sure to create the docs directory if it doesn't exist
+os.makedirs("docs", exist_ok=True)
+
+# Copy to docs folder for website
+docs_json_path = f"docs/civicpulse_digest_{PLACE.replace(' ','_')}.json"
+with open(docs_json_path, "w", encoding="utf-8") as f:
+    json.dump(final_json, f, ensure_ascii=False, indent=2)
+print("Copied to docs ->", docs_json_path)
+
+print("\n=== CivicPulse update complete! ===")
