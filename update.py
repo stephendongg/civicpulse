@@ -55,7 +55,7 @@ client = OpenAI(api_key=api_key)
 
 MODEL = "gpt-4o-mini"   # fast & affordable
 BATCH_SIZE = 25         # label many titles per API call
-SLEEP_BETWEEN = 0.2     # short pause between calls
+SLEEP_BETWEEN = 0.1     # short pause between calls
 
 
 # --- 1) Build a DataFrame from the feed ---

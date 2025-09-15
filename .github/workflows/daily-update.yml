@@ -5,6 +5,12 @@ on:
     # Run daily at 6 AM UTC (adjust timezone as needed)
     - cron: '0 6 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub UI
+  push:              # on push to main
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   update-civicpulse:
@@ -31,10 +37,10 @@ jobs:
       
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add docs/civicpulse_digest_New_York_NY.json
         git add local_news_labeled_New_York_NY.csv
         git add civicpulse_sections_New_York_NY.md
         git diff --staged --quiet || git commit -m "Daily CivicPulse update - $(date)"
-        git push
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/stephendongg/civicpulse HEAD:main
