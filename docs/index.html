@@ -1,310 +1,334 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>CivicPulse — New York NY</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <head>
+    <meta charset="utf-8" />
+    <title>CivicPulse — New York NY</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    
-    body { 
-      background: #fff; 
-      color: #111;
-      font: 16px/1.6 system-ui, -apple-system, sans-serif; 
-    }
-
-    .wrap { 
-      max-width: 900px; 
-      margin: 0 auto; 
-      padding: 20px; 
-    }
-
-    header { 
-      padding: 20px 0 16px;
-      border-bottom: 1px solid #e5e7eb;
-      margin-bottom: 24px;
-    }
-    
-    h1 { 
-      font-size: 28px; 
-      color: #2563eb;
-      margin-bottom: 8px;
-    }
-    
-    .sub { 
-      color: #666; 
-      font-size: 14px; 
-    }
-    
-    .pill { 
-      display: inline-block; 
-      margin-left: 12px; 
-      padding: 4px 12px; 
-      font-size: 12px;
-      border: 1px solid #e5e7eb; 
-      border-radius: 20px; 
-      background: #f8fafc;
-    }
-
-    .card { 
-      border: 1px solid #e5e7eb; 
-      border-radius: 8px; 
-      background: #f8fafc;
-      padding: 24px; 
-      margin: 20px 0;
-    }
-    
-    .card h2 { 
-      margin: 0 0 16px; 
-      font-size: 20px;
-      color: #2563eb;
-    }
-
-    .topline-card {
-      background: #2563eb;
-      color: white;
-      border: none;
-    }
-    
-    .topline-card h2 {
-      color: white;
-    }
-
-    a { 
-      color: #2563eb; 
-      text-decoration: none; 
-    }
-    
-    a:hover { 
-      text-decoration: underline; 
-    }
-
-    /* Stats grid */
-    .stats { 
-      display: grid; 
-      gap: 12px; 
-      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    }
-
-    .sub {
-      font-weight: 500;
-    }
-    
-    
-    .stat { 
-      border: 1px solid #e5e7eb; 
-      border-radius: 8px; 
-      padding: 12px; 
-      background: #fff;
-      text-align: center;
-    }
-    
-    .stat .big { 
-      font-weight: 600; 
-      font-size: 16px;
-      margin-bottom: 4px;
-    }
-
-    /* Sections */
-    .section { 
-      border: 1px solid #e5e7eb; 
-      border-radius: 8px; 
-      margin: 20px 0;
-      background: #fff;
-    }
-    
-    .section header { 
-      padding: 16px 20px; 
-      border-bottom: 1px solid #e5e7eb;
-      background: #f8fafc;
-    }
-    
-    .section h3 { 
-      margin: 0; 
-      font-size: 18px;
-      color: #2563eb;
-    }
-    
-    .section .body { 
-      padding: 20px; 
-    }
-
-    .summary {
-      margin-bottom: 20px;
-      padding: 16px;
-      background: #f8fafc;
-      border-radius: 6px;
-      border-left: 3px solid #2563eb;
-    }
-
-    .article-item {
-      padding: 12px 0;
-      border-bottom: 1px solid #f3f4f6;
-    }
-    
-    .article-item:last-child {
-      border-bottom: none;
-    }
-    
-    .article-title {
-      font-weight: 600;
-      margin-bottom: 6px;
-    }
-    
-    .article-meta {
-      color: #666;
-      font-size: 14px;
-      display: flex;
-      gap: 12px;
-      align-items: center;
-      flex-wrap: wrap;
-    }
-    
-    .read-link {
-      background: #2563eb;
-      color: white;
-      padding: 4px 8px;
-      border-radius: 4px;
-      font-size: 12px;
-      text-decoration: none;
-      font-weight: 500;
-    }
-    
-    .read-link:hover {
-      background: #1d4ed8;
-      text-decoration: none;
-    }
-
-    .muted { 
-      color: #666; 
-    }
-
-    @media (max-width: 768px) {
-      .wrap { padding: 16px; }
-      h1 { font-size: 24px; }
-      .stats { grid-template-columns: 1fr; }
-      .article-meta { flex-direction: column; align-items: flex-start; gap: 6px; }
-    }
-  </style>
-</head>
-
-<body>
-  <div class="wrap">
-    <header>
-      <h1>🏙️ CivicPulse <span id="place" class="pill"></span></h1>
-      <div class="sub">Last Updated: <span id="updated">—</span></div>
-    </header>
-
-    <main>
-      <!-- Quick counts -->
-      <section class="card">
-        <h2>📊 Today's Activity</h2>
-        <div id="stats" class="stats"></div>
-      </section>
-
-      <!-- Topline -->
-      <section class="card topline-card">
-        <h2>🔍 Top Line</h2>
-        <div id="topline"></div>
-      </section>
-
-      <!-- Sections -->
-      <div id="sections"></div>
-    </main>
-  </div>
-
-  <script>
-    const DIGEST_PATH = "civicpulse_digest_New_York_NY.json";
-
-    const LABELS = {
-      emergencies_risks:      ["🚨", "Emergency/Risk alerts"],
-      civic_information:      ["🏛️", "Civic updates"],
-      political_information:  ["🗳️", "Political developments"],
-      transportation:         ["🚇", "Transportation issues"],
-      health_welfare:         ["🩺", "Health & Welfare"],
-      education:              ["🎓", "Education"],
-      economic_opportunities: ["💼", "Economic opportunities"],
-      environment:            ["🌿", "Environment"],
-      other:                  ["📰", "Other"]
-    };
-
-    function mdToHtml(md) {
-      return (md || "")
-        .replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
-        .replace(/\n/g, "<br/>");
-    }
-
-
-    function renderStats(order, sections) {
-      const mount = document.getElementById("stats");
-      mount.innerHTML = "";
-      order.forEach(key => {
-        const sec = sections[key]; 
-        if (!sec) return;
-        const count = Array.isArray(sec.items) ? Math.floor(sec.items.length / 2) : 0;
-        const [emoji, label] = LABELS[key] || ["•", key];
-        const div = document.createElement("div");
-        div.className = "stat";
-        div.innerHTML = `<div class="big">${emoji} ${count}</div><div class="muted">${label}</div>`;
-        mount.appendChild(div);
-      });
-    }
-    function renderSection(key, sec) {
-      const box = document.createElement("section");
-      box.className = "section";
-
-      const head = document.createElement("header");
-      head.innerHTML = `<h3>${sec.title || key}</h3>`;
-      box.appendChild(head);
-
-      const body = document.createElement("div");
-      body.className = "body";
-
-      // Only show the AI summary
-      if (sec.summary_md) {
-        const stripped = sec.summary_md.replace(/^#+\s*[^\n]+\n*/, "");
-        const summaryDiv = document.createElement("div");
-        summaryDiv.className = "summary";
-        summaryDiv.innerHTML = mdToHtml(stripped);
-        body.appendChild(summaryDiv);
+    <style>
+      :root {
+        --background: #ffffff;
+        --foreground: #111111;
+        --accent: #c37b33;
+        --border: #000000;
+        --muted: #555555;
       }
 
-      box.appendChild(body);
-      return box;
-    }
-    // Load and render
-    fetch(DIGEST_PATH)
-      .then(r => r.json())
-      .then(data => {
-        document.getElementById("place").textContent = data.place || "Unknown";
-        document.getElementById("updated").textContent =
-          data.generated_at_utc
-            ? new Date(data.generated_at_utc).toLocaleDateString(undefined, { 
-                year: "numeric", 
-                month: "short", 
-                day: "numeric",
-                hour: "2-digit",
-                minute: "2-digit"
-              })
-            : "—";
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
 
-        document.getElementById("topline").innerHTML = mdToHtml(data.topline_md || "");
+      body {
+        margin: 0;
+        background: var(--background);
+        color: var(--foreground);
+        font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+      }
 
-        const order = data.order || Object.keys(data.sections || {});
-        const sections = data.sections || {};
-        renderStats(order, sections);
+      .wrap {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 32px 20px 56px;
+      }
 
-        const mount = document.getElementById("sections");
-        mount.innerHTML = "";
-        order.forEach(key => { 
-          if (sections[key]) mount.appendChild(renderSection(key, sections[key])); 
+      /* Masthead */
+      header {
+        margin-bottom: 32px;
+      }
+
+      .masthead-top {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        font-size: 13px;
+        color: #444444;
+        margin-bottom: 10px;
+      }
+
+      h1 {
+        margin: 0 0 12px;
+        font-size: 44px;
+        font-weight: 600;
+        text-align: center;
+        letter-spacing: 0.01em;
+      }
+
+      .word-civic {
+        color: #000000;
+      }
+
+      .word-pulse {
+        color: var(--accent);
+      }
+
+      .place-label {
+        padding: 2px 10px;
+        border: 1px solid var(--border);
+        font-size: 14px;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+      }
+
+      nav.nav-row {
+        display: flex;
+        justify-content: center;
+        gap: 28px;
+        margin: 0;
+        font-size: 13px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+      }
+
+      .nav-row a {
+        color: var(--border);
+        text-decoration: none;
+      }
+
+      .nav-row a:first-child {
+        font-weight: 600;
+      }
+
+      /* Daily fact */
+      .daily-fact {
+        margin: 26px 0 36px;
+        font-size: 18px;
+        line-height: 1.5;
+      }
+
+      .daily-fact strong {
+        display: inline-block;
+        margin-right: 10px;
+        font-size: 1em;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+
+      #topline {
+        display: inline;
+      }
+
+      #topline a {
+        color: inherit;
+      }
+
+      /* Featured grid */
+      .featured-grid {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 16px;
+      }
+
+      .featured-card {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        padding: 20px;
+        border: 1px solid var(--border);
+        background: var(--background);
+      }
+
+      .featured-card h3 {
+        margin: 0;
+        font-size: 13px;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+
+      .featured-body {
+        font-size: 15px;
+      }
+
+      .muted {
+        margin-top: auto;
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      /* Footer */
+      .footer-note {
+        margin-top: 40px;
+        font-size: 14px;
+        text-align: right;
+      }
+
+      .footer-note a {
+        color: var(--border);
+      }
+
+      @media (max-width: 600px) {
+        .wrap {
+          padding: 24px 16px 40px;
+        }
+
+        .masthead-top {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+
+        h1 {
+          font-size: 36px;
+        }
+
+        .featured-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .daily-fact {
+          margin: 22px 0 28px;
+          font-size: 17px;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="wrap">
+      <header>
+        <div class="masthead-top">
+          <div>Last Updated <span id="updated">—</span></div>
+          <div class="place-label" id="place">—</div>
+        </div>
+        <h1>
+          <span class="word-civic">Civic</span><span class="word-pulse">Pulse</span>
+        </h1>
+        <nav class="nav-row" aria-label="Primary">
+          <a href="#">Daily Pulse</a>
+          <a href="#">Sentiments</a>
+          <a href="#">Forum</a>
+          <a href="#">Games</a>
+        </nav>
+      </header>
+
+      <main>
+        <p class="daily-fact" id="daily-fact">
+          <strong>Daily Fact</strong>
+          <span id="topline">Loading…</span>
+        </p>
+
+        <section class="featured-grid" id="featured" aria-label="Featured civic updates"></section>
+      </main>
+
+      <footer class="footer-note">
+        <a href="#">Subscribe to email digest</a>
+      </footer>
+    </div>
+
+    <script>
+      "use strict";
+
+      const DIGEST_PATH = "civicpulse_digest_New_York_NY.json";
+
+      const featuredGroups = [
+        { label: "Risks / Alerts", keys: ["emergencies_risks"] },
+        { label: "Civics / Politics", keys: ["civic_information", "political_information"] },
+        { label: "Opportunities / Welfare", keys: ["economic_opportunities", "health_welfare"] },
+        { label: "Community", keys: ["transportation", "education", "environment", "other"] }
+      ];
+
+      const elements = {
+        place: document.getElementById("place"),
+        updated: document.getElementById("updated"),
+        topline: document.getElementById("topline"),
+        featured: document.getElementById("featured")
+      };
+
+      function mdToHtml(markdown = "") {
+        return markdown
+          .replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
+          .replace(/\n/g, "<br/>");
+      }
+
+      function getSectionSummary(section) {
+        if (!section) {
+          return null;
+        }
+
+        if (section.summary_md) {
+          const clean = section.summary_md.replace(/^#+\s*[^\n]+\n*/, "");
+          return { html: mdToHtml(clean), title: section.title || "" };
+        }
+
+        if (Array.isArray(section.items) && section.items.length > 0) {
+          return { html: mdToHtml(section.items[0]), title: section.title || "" };
+        }
+
+        return null;
+      }
+
+      function findSummary(group, sections) {
+        for (const key of group.keys) {
+          const summary = getSectionSummary(sections[key]);
+          if (summary) {
+            return summary;
+          }
+        }
+
+        return { html: "No updates available right now.", title: "" };
+      }
+
+      function renderFeatured(sections) {
+        elements.featured.replaceChildren();
+
+        featuredGroups.forEach(group => {
+          const { html, title } = findSummary(group, sections);
+          const card = document.createElement("article");
+          card.className = "featured-card";
+          card.innerHTML = `
+            <h3>${group.label}</h3>
+            <div class="featured-body">${html}</div>
+            ${title ? `<div class="muted">From ${title}</div>` : ""}
+          `;
+          elements.featured.append(card);
         });
-      })
-      .catch(err => {
-        console.error("Failed to load data:", err);
-        document.getElementById("topline").textContent = "Failed to load data. Please try again later.";
-      });
-  </script>
-</body>
+      }
+
+      function formatGeneratedAt(generatedAt) {
+        if (!generatedAt) {
+          return "—";
+        }
+
+        const generated = new Date(generatedAt);
+        const datePart = generated.toLocaleDateString(undefined, {
+          month: "numeric",
+          day: "numeric"
+        });
+        const timePart = generated.toLocaleTimeString(undefined, {
+          hour: "numeric",
+          minute: "2-digit"
+        });
+
+        return `${datePart} at ${timePart}`;
+      }
+
+      async function loadDigest() {
+        const response = await fetch(DIGEST_PATH);
+        if (!response.ok) {
+          throw new Error(`Failed to fetch digest: ${response.status}`);
+        }
+
+        return response.json();
+      }
+
+      async function initialisePage() {
+        try {
+          const data = await loadDigest();
+          elements.place.textContent = data.place || "Essentials District";
+          elements.updated.textContent = formatGeneratedAt(data.generated_at_utc);
+          elements.topline.innerHTML = mdToHtml(data.topline_md || "No daily fact available today.");
+
+          const sections = data.sections || {};
+          renderFeatured(sections);
+        } catch (error) {
+          console.error("Failed to load data:", error);
+          elements.topline.textContent = "Failed to load data. Please try again later.";
+        }
+      }
+
+      initialisePage();
+    </script>
+  </body>
 </html>
