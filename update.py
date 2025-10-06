@@ -81,95 +81,115 @@ df = pd.DataFrame(rows)
 print(f"DataFrame built: {len(df)} rows")
 print(df.head(5))
 
-# --- 2) Your taxonomy + instructions (7 + other) ---
+# --- 2) Your taxonomy + instructions (4 main + community) ---
 CIN_LABELS = [
-    "emergencies_risks",       # 1) Emergencies and risks
-    "health_welfare",          # 2) Health and welfare
-    "education",               # 3) Education
-    "transportation",          # 4) Transportation
-    "economic_opportunities",  # 5) Economic opportunities
-    "environment",             # 6) Environment
-    "civic_information",       # 7) Civic information
-    "political_information",   # 8) Political information
-    "nonlocal",                # 9) Non-local/national/international news
+    "risks_alerts",            # 1) Risks & Alerts - emergencies, safety, health alerts
+    "civics_politics",         # 2) Civics & Politics - government, policy, elections
+    "opportunities_welfare",   # 3) Opportunities & Welfare - jobs, services, benefits
+    "community",               # 4) Community - events, culture, local interest
+    "nonlocal",                # 5) Non-local/national/international news
     "other"                    # spillover
 ]
 
 FEW_SHOTS = [
-  # 1) emergencies_risks
-  {"title": "Subway stabbing at Midtown station; suspect sought", "label": "emergencies_risks"},
-  {"title": "Water main break triggers boil advisory downtown",    "label": "emergencies_risks"},
+  # 1) risks_alerts - ONLY immediate ongoing threats
+  {"title": "Active shooter reported at downtown mall - evacuate immediately", "label": "risks_alerts", "importance": 1.0},
+  {"title": "Water main break triggers boil advisory downtown", "label": "risks_alerts", "importance": 0.8},
+  {"title": "City issues heat advisory; cooling centers open", "label": "risks_alerts", "importance": 0.7},
+  {"title": "Air quality alert due to wildfire smoke", "label": "risks_alerts", "importance": 0.8},
+  {"title": "Major power outage affects 10,000 homes", "label": "risks_alerts", "importance": 0.8},
 
-  # 2) health_welfare
-  {"title": "City issues heat advisory; cooling centers open",     "label": "health_welfare"},
-  {"title": "County clinic adds free vaccination hours Saturday",  "label": "health_welfare"},
+  # 2) civics_politics - including crime investigations
+  {"title": "Police investigate shooting incident downtown", "label": "civics_politics", "importance": 0.3},
+  {"title": "City Council passes $4.1B budget for sanitation", "label": "civics_politics", "importance": 0.7},
+  {"title": "Judge blocks city plan to relocate migrant families", "label": "civics_politics", "importance": 0.6},
+  {"title": "Mayoral candidate launches campaign rally", "label": "civics_politics", "importance": 0.4},
+  {"title": "Teachers union and district reach tentative contract", "label": "civics_politics", "importance": 0.6},
 
-  # 3) education
-  {"title": "School calendar: holidays and parent-teacher nights", "label": "education"},
-  {"title": "Teachers union and district reach tentative contract", "label": "education"},
+  # 3) opportunities_welfare - jobs, services, benefits, healthcare, education services
+  {"title": "City launches small-business training grants", "label": "opportunities_welfare", "importance": 0.6},
+  {"title": "Job fair to feature apprenticeships and CDL roles", "label": "opportunities_welfare", "importance": 0.5},
+  {"title": "County clinic adds free vaccination hours Saturday", "label": "opportunities_welfare", "importance": 0.5},
+  {"title": "School calendar: holidays and parent-teacher nights", "label": "opportunities_welfare", "importance": 0.4},
+  {"title": "Transit authority installs 80 EV chargers at hub", "label": "opportunities_welfare", "importance": 0.4},
 
-  # 4) transportation
-  {"title": "Bridge lane closure causes detour on Route 2",        "label": "transportation"},
-  {"title": "Transit authority installs 80 EV chargers at hub",    "label": "transportation"},
+  # 4) community - events, culture, entertainment, local interest, human stories
+  {"title": "Museum hosts free night for city workers", "label": "community", "importance": 0.6},  # Was 0.4
+  {"title": "River restoration project opens new trail access", "label": "community", "importance": 0.5},  # Was 0.3
+  {"title": "Atlantic Antic celebrates 50 years with Brooklyn's biggest street fair", "label": "community", "importance": 0.6},  # Was 0.4
+  {"title": "NY Liberty fires head coach", "label": "community", "importance": 0.4},  # Was 0.3
 
-  # 5) economic_opportunities
-  {"title": "City launches small-business training grants",        "label": "economic_opportunities"},
-  {"title": "Job fair to feature apprenticeships and CDL roles",   "label": "economic_opportunities"},
 
-  # 6) environment
-  {"title": "Air quality alert due to wildfire smoke",             "label": "environment"},
-  {"title": "River restoration project opens new trail access",    "label": "environment"},
+  # 5) nonlocal - national/international news
+  {"title": "Putin Finds a Growing Embrace on the Global Stage", "label": "nonlocal", "importance": 0.1},
+  {"title": "Fed should be independent but has made mistakes", "label": "nonlocal", "importance": 0.2},
+  {"title": "Crime Crackdown in D.C. Shows Trump Administration's Policy", "label": "nonlocal", "importance": 0.2},
+  {"title": "Xi, Putin and Modi Try to Signal Unity at China Summit", "label": "nonlocal", "importance": 0.1},
+  {"title": "Supreme Court to hear case on federal immigration policy", "label": "nonlocal", "importance": 0.3},
 
-  # 7) civic_information
-  {"title": "City Council passes $4.1B budget for sanitation",     "label": "civic_information"},
-  {"title": "Judge blocks city plan to relocate migrant families", "label": "civic_information"},
-
-  # 8) political_information
-  {"title": "Redistricting map could boost one party",             "label": "political_information"},
-  {"title": "Mayoral candidate launches campaign rally",           "label": "political_information"},
-
-  # 9) nonlocal - ADD THESE NEW EXAMPLES
-  {"title": "Putin Finds a Growing Embrace on the Global Stage", "label": "nonlocal"},
-  {"title": "Fed should be independent but has made mistakes", "label": "nonlocal"},
-  {"title": "Crime Crackdown in D.C. Shows Trump Administration's Policy", "label": "nonlocal"},
-  {"title": "Xi, Putin and Modi Try to Signal Unity at China Summit", "label": "nonlocal"},
-  {"title": "Russia Suspected of Jamming GPS for E.U. Leader's Plane", "label": "nonlocal"},
-  {"title": "Supreme Court to hear case on federal immigration policy", "label": "nonlocal"},
-
-  # other
-  {"title": "Museum hosts free night for city workers",            "label": "other"},
-  {"title": "Former official reveals Parkinson's diagnosis",       "label": "other"},
+  # other - unclear or doesn't fit main categories
+  {"title": "Former official reveals Parkinson's diagnosis", "label": "other", "importance": 0.2},
 ]
 
 def build_fewshot_block(fewshots):
-    lines = [f'Headline: "{ex["title"]}"\nLabel: {ex["label"]}' for ex in fewshots]
+    lines = [f'Headline: "{ex["title"]}"\nLabel: {ex["label"]}\nImportance: {ex.get("importance", 0.5)}' for ex in fewshots]
     return "Examples:\n\n" + "\n\n".join(lines)
 
 FEW_SHOT_TEXT = build_fewshot_block(FEW_SHOTS)
-
 SYSTEM_INSTRUCTIONS = f"""
 You are a careful classifier for LOCAL news headlines for {PLACE}. Choose exactly ONE label from:
 {', '.join(CIN_LABELS)}.
 
 Definitions (map each headline to the single best-fitting domain):
-1) Emergencies and risks — immediate/long-term threats: crime, accidents, severe weather, outages, disasters.
-2) Health and welfare — hospitals, clinics, disease/outbreaks, public advisories, group-specific health information.
-3) Education — schools, teachers, students, universities, closures, policies, parent/child educational choices.
-4) Transportation — roads, traffic, transit systems, costs, schedules, detours, rail/subway/ferry, charging.
-5) Economic opportunities — jobs, job training, small-business assistance, affordability/cost-of-living.
-6) Environment — air/water quality, environmental hazards, climate impacts, restoration/recreation/parks.
-7) Civic information — government services, council/courts, ordinances, budgets, agency notices, civic associations.
-8) Political information — candidates, campaigns, elections, parties, partisan conflict, public policy debates.
-9) Nonlocal — national/international news, federal policy, foreign affairs, stories not directly relevant to local residents.
-10) Other — everything else (sports, arts, entertainment, celebrity/individual health updates, human interest).
+1) RISKS_ALERTS — ONLY immediate ongoing threats: active emergencies, evacuation orders, active shooter situations, major infrastructure failures (power outages, bridge collapses), severe weather warnings requiring immediate action.
+
+2) CIVICS_POLITICS — government services, city council, courts, budgets, ordinances, elections, campaigns, policy debates, union negotiations, official decisions, crime investigations, police incidents.
+
+3) OPPORTUNITIES_WELFARE — jobs, job training, business assistance, healthcare services, education services, social programs, benefits, community resources.
+
+4) COMMUNITY — local events, culture, arts, entertainment, sports, human interest stories, neighborhood news, celebrations, local personalities.
+
+5) NONLOCAL — national/international news, federal policy, foreign affairs, stories not directly relevant to local residents.
+
+6) OTHER — unclear or doesn't fit main categories.
+
+CRITICAL RULE: If a crime has already happened and police are investigating, it goes to CIVICS_POLITICS, NOT RISKS_ALERTS. Only use RISKS_ALERTS for ongoing active threats requiring immediate action.
+
+IMPORTANCE by category (0.0 = low, 1.0 = high):
+
+RISKS_ALERTS:
+- 1.0: Active threats, ongoing emergencies, immediate danger
+- 0.8: Major safety issues, significant disruptions, health emergencies  
+- 0.6: Safety alerts, weather warnings, traffic disruptions
+- 0.2: Background safety news
+
+CIVICS_POLITICS:
+- 1.0: Major policy changes, emergency ordinances, election results
+- 0.8: Budget decisions, significant government actions, major court rulings
+- 0.6: Council meetings, policy debates, campaign developments
+- 0.4: Administrative updates, minor policy changes, political commentary
+- 0.3: Crime investigations, police incidents, routine government news
+- 0.2: Political personalities, routine government news
+
+OPPORTUNITIES_WELFARE:
+- 1.0: Major service launches/closures, significant program changes
+- 0.8: New job programs, major healthcare initiatives, education policy
+- 0.6: Job fairs, training opportunities, service updates, school information
+- 0.4: Program announcements, minor service changes
+- 0.2: Individual success stories, routine program news
+
+COMMUNITY:
+- 0.6: Major cultural events, significant community developments
+- 0.4: Local events, entertainment, neighborhood news
+- 0.2: Individual achievements, human interest, routine community news
 
 Tie-break priority if multiple seem plausible:
-nonlocal > emergencies_risks > civic_information > political_information > transportation > health_welfare > education > economic_opportunities > environment > other.
+nonlocal > civics_politics > opportunities_welfare > community > risks_alerts > other.
 
 IMPORTANT: Be aggressive about labeling as "nonlocal". If a story is primarily about national politics, international affairs, or federal policy (even if mentioned by local outlets), label it "nonlocal".
 
 Return ONLY a JSON array. For each item:
-{{"id": <int>, "category": <one of labels>, "confidence": <0..1>, "reason": "<=20 words>"}}
+{{"id": <int>, "category": <one of labels>, "confidence": <0..1>, "importance": <0..1>, "reason": "<=20 words>"}}
 
 {FEW_SHOT_TEXT}
 """
@@ -209,7 +229,7 @@ for i in range(0, len(titles_list), BATCH_SIZE):
         print(f"Error in batch {i//BATCH_SIZE + 1}: {e}")
         # Add fallback labels for this batch
         for j, title in batch_with_ids:
-            all_labels.append({"id": j, "category": "other", "confidence": 0.0, "reason": "labeling failed"})
+            all_labels.append({"id": j, "category": "other", "confidence": 0.0, "importance": 0.5, "reason": "labeling failed"})
     
     if SLEEP_BETWEEN > 0:
         time.sleep(SLEEP_BETWEEN)
@@ -218,10 +238,11 @@ for i in range(0, len(titles_list), BATCH_SIZE):
 label_lookup = {item["id"]: item for item in all_labels}
 df["category"] = [label_lookup.get(i, {"category": "other"})["category"] for i in range(len(df))]
 df["confidence"] = [label_lookup.get(i, {"confidence": 0.0})["confidence"] for i in range(len(df))]
+df["importance"] = [float(label_lookup.get(i, {"importance": 0.5})["importance"]) for i in range(len(df))]
 df["reason"] = [label_lookup.get(i, {"reason": "unknown"})["reason"] for i in range(len(df))]
 
 print("\nLabeling complete! Sample results:")
-print(df[["title", "category", "confidence"]].head(10))
+print(df[["title", "category", "confidence", "importance"]].head(10))
 
 # Save labeled data
 csv_path = f"local_news_labeled_{PLACE.replace(' ','_')}.csv"
@@ -238,33 +259,44 @@ nonlocal_removed = original_count - filtered_count
 print(f"\nFiltered out {nonlocal_removed} nonlocal stories")
 print(f"Keeping {filtered_count} local stories for civic digest")
 
+# Filter for ONLY critical, actionable content
+print(f"\nFiltering for CRITICAL actionable content...")
+# df_for_summaries = df[df["importance"] >= 0.6].copy()  # Much stricter - only 0.6+ importance
+df_for_summaries = df[
+    (df["category"] == "risks_alerts") & (df["importance"] >= 0.5) |      # Keep important safety info
+    (df["category"] == "civics_politics") & (df["importance"] >= 0.5) |   # Raise back to 0.5 for civics
+    (df["category"] == "opportunities_welfare") & (df["importance"] >= 0.4) | # Lower to 0.4 for opportunities
+    (df["category"] == "community") & (df["importance"] >= 0.4) |         # Raise to 0.4 for community
+    (df["category"] == "other") & (df["importance"] >= 0.6)              # Keep strict for other
+].copy()
+print(f"Keeping {len(df_for_summaries)} CRITICAL items (from {len(df)} total)")
+
+
 # === Generate summaries for each category ===
 
 # Order for final output
 CIN_ORDER = [
-    "emergencies_risks", "civic_information", "political_information",
-    "transportation", "health_welfare", "education", "economic_opportunities",
-    "environment", "other"
+    "risks_alerts", "civics_politics", "opportunities_welfare", "community", "other"
 ]
 
 CIN_PRETTY = {
-    "emergencies_risks": "Emergencies & Risks",
-    "health_welfare": "Health & Welfare",
-    "education": "Education",
-    "transportation": "Transportation",
-    "economic_opportunities": "Economic Opportunities",
-    "environment": "Environment",
-    "civic_information": "Civic Information",
-    "political_information": "Political Information",
+    "risks_alerts": "Risks & Alerts",
+    "civics_politics": "Civics & Politics", 
+    "opportunities_welfare": "Opportunities & Welfare",
+    "community": "Community",
     "other": "Other"
 }
 
 # --- 1) Group by category and build context strings ---
 per_section = {}
 for cat in CIN_LABELS:
-    subset = df[df["category"] == cat]
+    # Use df_for_summaries instead of df - this contains only high-importance items
+    subset = df_for_summaries[df_for_summaries["category"] == cat]
     if len(subset) == 0:
         continue
+
+    # Sort by importance (highest first)
+    subset = subset.sort_values("importance", ascending=False)
     
     lines = []
     for _, row in subset.iterrows():
@@ -280,19 +312,23 @@ for cat, content in per_section.items():
 
 # --- 2) Section examples for consistent formatting ---
 SECTION_EXAMPLES = {
-    "emergencies_risks": {
-        "topline": "Multiple incidents across the region highlight ongoing safety concerns and emergency response efforts.",
+    "risks_alerts": {
         "bullets": [
             "Police investigate shooting incident downtown that left two injured. [Read](link)",
             "Water main break on Fifth Street causes service disruptions for 200 homes. [Read](link)",
-            "Emergency crews respond to apartment fire, evacuating 15 residents safely. [Read](link)"
+            "Heat advisory issued with cooling centers opening citywide. [Read](link)"
         ]
     },
-    "transportation": {
-        "topline": "Transit disruptions continue with light rail cancellations and bridge lane closures affecting commuters.",
+    "civics_politics": {
         "bullets": [
-            "NJ Transit canceled nearly 100 light rail trains due to signal issues. [Read](link)",
-            "Manhattan Bridge lane closure causes delays through Thursday morning. [Read](link)"
+            "Council passes $4.1B sanitation budget in 8-2 vote. [Read](link)",
+            "Mayoral candidate announces affordable housing platform. [Read](link)"
+        ]
+    },
+    "opportunities_welfare": {
+        "bullets": [
+            "City launches small-business training grants for 200 entrepreneurs. [Read](link)",
+            "Job fair features apprenticeships and CDL training opportunities. [Read](link)"
         ]
     }
 }
@@ -303,8 +339,6 @@ def build_examples_text(examples_dict):
     for category, content in examples_dict.items():
         pretty_name = CIN_PRETTY.get(category, category.title())
         lines.append(f"**{pretty_name} Example:**")
-        lines.append(content["topline"])
-        lines.append("")
         for bullet in content["bullets"]:
             lines.append(f"- {bullet}")
         lines.append("")
@@ -314,12 +348,15 @@ EXAMPLES_TEXT = build_examples_text(SECTION_EXAMPLES)
 
 # Updated SECTION_SYSTEM with examples
 SECTION_SYSTEM = f"""
-You are an editor summarizing local news for a single domain.
-Summarize only items provided. Be concise, factual, non-duplicative.
+You are an editor summarizing local news for residents of {PLACE}.
+Only include information that residents NEED to know to make decisions or take action.
 
 FORMAT REQUIREMENTS:
-- Start with a one-sentence topline (≤ 25 words)
-- Then 2–4 bullets. Each bullet: 1 sentence (≤ 22 words), include [Read](URL) link
+- NO topline summary - go straight to bullets
+- Include all genuinely important items (no arbitrary limits)
+- Prioritize by importance: high importance items first
+- Each bullet: 1 sentence (≤ 20 words), include [Read](URL) link
+- Skip routine/background news that doesn't affect daily life
 - Include timestamps only if timing is critical
 - Follow the exact format shown in examples below
 
@@ -374,6 +411,46 @@ topline_resp = client.chat.completions.create(
 )
 topline = topline_resp.choices[0].message.content.strip()
 
+# --- 4.5) Generate daily positive fact ---
+if len(df_for_summaries) > 0:
+    POSITIVE_FACT_SYSTEM = """
+    You are selecting ONE positive, uplifting fact about New York City from the provided local news items.
+    Choose something that highlights community resilience, innovation, or positive developments.
+    
+    IMPORTANT: Do NOT choose items that are already being summarized in the main civic updates sections.
+    Look for positive stories that are NOT in the high-importance civic content.
+    
+    Format: One sentence (≤ 25 words) that starts with "Today in NYC:" and ends with a positive note.
+    """
+    
+    # Get items that are NOT in the high-importance civic updates (to avoid redundancy)
+    civic_titles = set(df_for_summaries["title"].tolist())
+    non_civic_items = df[~df["title"].isin(civic_titles) & (df["category"] != "nonlocal")]
+    
+    # Look for positive items from community, opportunities, or other categories
+    positive_candidates = non_civic_items[
+        (non_civic_items["category"].isin(["community", "opportunities_welfare"])) |
+        (non_civic_items["title"].str.contains("celebrate|open|launch|success|volunteer|donate|help", case=False, na=False))
+    ]
+    
+    if len(positive_candidates) > 0:
+        sample_items = positive_candidates.head(5)["title"].tolist()
+        items_text = "\n".join([f"- {item}" for item in sample_items])
+        
+        fact_resp = client.chat.completions.create(
+            model=MODEL,
+            temperature=0.3,
+            messages=[
+                {"role": "system", "content": POSITIVE_FACT_SYSTEM},
+                {"role": "user", "content": f"Items (NOT in main civic updates): {items_text}\n\nSelect the most positive fact that's different from the civic updates above."},
+            ],
+        )
+        daily_fact = fact_resp.choices[0].message.content.strip()
+    else:
+        daily_fact = "Today in NYC: Stay engaged with your community through local news and civic participation."
+else:
+    daily_fact = "Today in NYC: Stay engaged with your community through local news and civic participation."
+
 # --- 5) Stitch final Markdown and save ---
 final_md = topline + "\n\n" + "\n\n".join(section_markdowns)
 print(final_md[:1500])
@@ -387,9 +464,10 @@ print("Saved ->", md_path)
 final_json = {
     "place": PLACE,
     "generated_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-    "topline_md": topline,                 # topline included here
+    "daily_fact": daily_fact,
+    "topline_md": topline,
     "order": [k for k in CIN_ORDER if k in sections_map],
-    "sections": sections_map                # {"civic_information": {...}, ...}
+    "sections": sections_map
 }
 json_path = f"civicpulse_digest_{PLACE.replace(' ','_')}.json"
 with open(json_path, "w", encoding="utf-8") as f:

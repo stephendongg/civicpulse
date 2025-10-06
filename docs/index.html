@@ -107,6 +107,15 @@
         text-transform: uppercase;
       }
 
+      .topline {
+        margin: 20px 0;
+        padding: 16px;
+        background: #f8f9fa;
+        border-left: 3px solid var(--accent);
+        font-size: 16px;
+        line-height: 1.5;
+      }
+
       #topline {
         display: inline;
       }
@@ -197,23 +206,23 @@
         </h1>
         <nav class="nav-row" aria-label="Primary">
           <a href="#">Daily Pulse</a>
-          <a href="#">Sentiments</a>
-          <a href="#">Forum</a>
-          <a href="#">Games</a>
+          <a href="#">Sentiments (soon!)</a>
+          <!-- <a href="#">Forum</a>
+          <a href="#">Games</a> -->
         </nav>
       </header>
 
       <main>
         <p class="daily-fact" id="daily-fact">
           <strong>Daily Fact</strong>
-          <span id="topline">Loading…</span>
+          <span id="daily-fact-content">Loading…</span>
         </p>
 
         <section class="featured-grid" id="featured" aria-label="Featured civic updates"></section>
       </main>
 
       <footer class="footer-note">
-        <a href="#">Subscribe to email digest</a>
+        <a href="#">Subscribe to email digest (soon!)</a>
       </footer>
     </div>
 
@@ -223,16 +232,16 @@
       const DIGEST_PATH = "civicpulse_digest_New_York_NY.json";
 
       const featuredGroups = [
-        { label: "Risks / Alerts", keys: ["emergencies_risks"] },
-        { label: "Civics / Politics", keys: ["civic_information", "political_information"] },
-        { label: "Opportunities / Welfare", keys: ["economic_opportunities", "health_welfare"] },
-        { label: "Community", keys: ["transportation", "education", "environment", "other"] }
+        { label: "Risks / Alerts", keys: ["risks_alerts"] },
+        { label: "Civics / Politics", keys: ["civics_politics"] },
+        { label: "Opportunities / Welfare", keys: ["opportunities_welfare"] },
+        { label: "Community", keys: ["community"] }
       ];
 
       const elements = {
         place: document.getElementById("place"),
         updated: document.getElementById("updated"),
-        topline: document.getElementById("topline"),
+        dailyFact: document.getElementById("daily-fact-content"),
         featured: document.getElementById("featured")
       };
 
@@ -318,7 +327,7 @@
           const data = await loadDigest();
           elements.place.textContent = data.place || "Essentials District";
           elements.updated.textContent = formatGeneratedAt(data.generated_at_utc);
-          elements.topline.innerHTML = mdToHtml(data.topline_md || "No daily fact available today.");
+          elements.dailyFact.innerHTML = mdToHtml(data.daily_fact || "No daily fact available today.");
 
           const sections = data.sections || {};
           renderFeatured(sections);
