@@ -261,7 +261,7 @@ print(f"Keeping {filtered_count} local stories for civic digest")
 
 # Filter for ONLY critical, actionable content
 print(f"\nFiltering for CRITICAL actionable content...")
-# df_for_summaries = df[df["importance"] >= 0.6].copy()  # Much stricter - only 0.6+ importance
+
 df_for_summaries = df[
     (df["category"] == "risks_alerts") & (df["importance"] >= 0.5) |      # Keep important safety info
     (df["category"] == "civics_politics") & (df["importance"] >= 0.5) |   # Raise back to 0.5 for civics
