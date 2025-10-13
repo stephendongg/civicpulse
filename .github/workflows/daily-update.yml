@@ -2,8 +2,8 @@ name: Daily CivicPulse Update
 
 on:
   schedule:
-    # Run daily at 6 AM UTC (adjust timezone as needed)
-    - cron: '0 6 * * *'
+    # Run daily at 11 AM UTC (6 am EST)
+    - cron: '0 11 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub UI
   push:              # on push to main
     branches:

@@ -41,7 +41,7 @@ for i, story in enumerate(feed.entries[:5], 1):  # Just show first 5 to avoid to
     print(f"{i:02d}. {story.title}")
     print(f"    {story.published}")
     print(f"    {story.link}\n")
-
+    print(f"    {story.source.title}\n")
 # === Label Google News Local feed titles with CIN taxonomy ===
 # Assumes `feed`, `PLACE`, and `feed_url` already exist from your previous cell.
 
@@ -314,21 +314,21 @@ for cat, content in per_section.items():
 SECTION_EXAMPLES = {
     "risks_alerts": {
         "bullets": [
-            "Police investigate shooting incident downtown that left two injured. [Read](link)",
-            "Water main break on Fifth Street causes service disruptions for 200 homes. [Read](link)",
-            "Heat advisory issued with cooling centers opening citywide. [Read](link)"
+            "Police investigate shooting incident downtown that left two injured. [↗](link)",
+            "Water main break on Fifth Street causes service disruptions for 200 homes. [↗](link)",
+            "Heat advisory issued with cooling centers opening citywide. [↗](link)"
         ]
     },
     "civics_politics": {
         "bullets": [
-            "Council passes $4.1B sanitation budget in 8-2 vote. [Read](link)",
-            "Mayoral candidate announces affordable housing platform. [Read](link)"
+            "Council passes $4.1B sanitation budget in 8-2 vote. [↗](link)",
+            "Mayoral candidate announces affordable housing platform. [↗](link)"
         ]
     },
     "opportunities_welfare": {
         "bullets": [
-            "City launches small-business training grants for 200 entrepreneurs. [Read](link)",
-            "Job fair features apprenticeships and CDL training opportunities. [Read](link)"
+            "City launches small-business training grants for 200 entrepreneurs. [↗](link)",
+            "Job fair features apprenticeships and CDL training opportunities. [↗](link)"
         ]
     }
 }
@@ -355,7 +355,7 @@ FORMAT REQUIREMENTS:
 - NO topline summary - go straight to bullets
 - Include all genuinely important items (no arbitrary limits)
 - Prioritize by importance: high importance items first
-- Each bullet: 1 sentence (≤ 20 words), include [Read](URL) link
+- Each bullet: 1 sentence (≤ 20 words), include [↗](URL) link
 - Skip routine/background news that doesn't affect daily life
 - Include timestamps only if timing is critical
 - Follow the exact format shown in examples below
@@ -371,7 +371,7 @@ def summarize_section(cat_key, context):
 Items:
 {context}
 
-Write Markdown for this domain only. Do not invent facts. Include links as [Read](URL)."""
+Write Markdown for this domain only. Do not invent facts. Include links as [↗](URL)."""
     resp = client.chat.completions.create(
         model=MODEL,
         temperature=0.2,
@@ -414,13 +414,16 @@ topline = topline_resp.choices[0].message.content.strip()
 # --- 4.5) Generate daily positive fact ---
 if len(df_for_summaries) > 0:
     POSITIVE_FACT_SYSTEM = """
-    You are selecting ONE positive, uplifting fact about New York City from the provided local news items.
+    You are creating ONE positive, uplifting fact about New York City from the provided local news items.
     Choose something that highlights community resilience, innovation, or positive developments.
     
-    IMPORTANT: Do NOT choose items that are already being summarized in the main civic updates sections.
-    Look for positive stories that are NOT in the high-importance civic content.
+    IMPORTANT: 
+    - Do NOT choose items that are already being summarized in the main civic updates sections.
+    - Look for positive stories that are NOT in the high-importance civic content.
+    - Make it a COMPLETE, SELF-CONTAINED fact that doesn't require clicking a link to understand.
+    - Include specific details (names, places, numbers) from the news item so it's informative on its own.
     
-    Format: One sentence (≤ 25 words) that starts with "Today in NYC:" and ends with a positive note.
+    Format: One complete sentence (≤ 30 words) that is positive and uplifting.
     """
     
     # Get items that are NOT in the high-importance civic updates (to avoid redundancy)
@@ -442,14 +445,14 @@ if len(df_for_summaries) > 0:
             temperature=0.3,
             messages=[
                 {"role": "system", "content": POSITIVE_FACT_SYSTEM},
-                {"role": "user", "content": f"Items (NOT in main civic updates): {items_text}\n\nSelect the most positive fact that's different from the civic updates above."},
+                {"role": "user", "content": f"Items (NOT in main civic updates): {items_text}\n\nCreate a complete, self-contained positive fact from one of these items. Include specific details so readers don't need to click a link."},
             ],
         )
         daily_fact = fact_resp.choices[0].message.content.strip()
     else:
-        daily_fact = "Today in NYC: Stay engaged with your community through local news and civic participation."
+        daily_fact = "Stay engaged with your community through local news and civic participation."
 else:
-    daily_fact = "Today in NYC: Stay engaged with your community through local news and civic participation."
+    daily_fact = "Stay engaged with your community through local news and civic participation."
 
 # --- 5) Stitch final Markdown and save ---
 final_md = topline + "\n\n" + "\n\n".join(section_markdowns)

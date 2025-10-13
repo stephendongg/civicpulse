@@ -12,6 +12,7 @@
         --accent: #c37b33;
         --border: #000000;
         --muted: #555555;
+        --accent2: #1F3A5F;
       }
 
       *,
@@ -151,6 +152,24 @@
         font-size: 15px;
       }
 
+      .featured-body a {
+        text-decoration: none;
+        color: var(--accent2);
+      }
+
+      .featured-body a:hover {
+        text-decoration: underline;
+      }
+
+      .daily-fact a {
+        text-decoration: none;
+        color: var(--accent2);
+      }
+
+      .daily-fact a:hover {
+        text-decoration: underline;
+      }
+
       .muted {
         margin-top: auto;
         font-size: 12px;
@@ -166,6 +185,11 @@
 
       .footer-note a {
         color: var(--border);
+        text-decoration: none;
+      }
+
+      .footer-note a:hover {
+        text-decoration: underline;
       }
 
       @media (max-width: 600px) {
@@ -206,7 +230,7 @@
         </h1>
         <nav class="nav-row" aria-label="Primary">
           <a href="#">Daily Pulse</a>
-          <a href="#">Sentiments (soon!)</a>
+          <!-- <a href="#">Sentiments (soon!)</a> -->
           <!-- <a href="#">Forum</a>
           <a href="#">Games</a> -->
         </nav>
@@ -214,7 +238,7 @@
 
       <main>
         <p class="daily-fact" id="daily-fact">
-          <strong>Daily Fact</strong>
+          <strong>Daily Fact:</strong>
           <span id="daily-fact-content">Loading…</span>
         </p>
 
@@ -222,7 +246,7 @@
       </main>
 
       <footer class="footer-note">
-        <a href="#">Subscribe to email digest (soon!)</a>
+        <a href="https://forms.gle/y4knwDwoe8aeJXS2A">Send us your feedback</a>
       </footer>
     </div>
 
@@ -289,7 +313,6 @@
           card.innerHTML = `
             <h3>${group.label}</h3>
             <div class="featured-body">${html}</div>
-            ${title ? `<div class="muted">From ${title}</div>` : ""}
           `;
           elements.featured.append(card);
         });
