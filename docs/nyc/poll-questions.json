@@ -1,0 +1,75 @@
+{
+    "questions": [
+      {
+        "id": "monday-commute",
+        "active_days": [1],
+        "question": "How was your commute this morning?",
+        "options": [
+          "Smooth 🚇",
+          "Crowded 😤",
+          "Worked from home 💻"
+        ]
+      },
+      {
+        "id": "tuesday-cost",
+        "active_days": [2],
+        "question": "Would you rather have cheaper rent or better coffee?",
+        "options": [
+          "Cheaper rent 💸",
+          "Better coffee ☕"
+        ]
+      },
+      {
+        "id": "wednesday-belonging",
+        "active_days": [3],
+        "question": "Do you feel like you belong in NYC?",
+        "options": [
+          "Definitely 🗽",
+          "Getting there 😊",
+          "Not yet 😅"
+        ]
+      },
+      {
+        "id": "thursday-food",
+        "active_days": [4],
+        "question": "What’s more NYC?",
+        "options": [
+          "Pizza 🍕",
+          "Bagel 🥯",
+          "Bodega sandwich 🥪"
+        ]
+      },
+      {
+        "id": "friday-vibe",
+        "active_days": [5],
+        "question": "What’s your Friday vibe?",
+        "options": [
+          "Going out 🍸",
+          "Staying in 🛋️",
+          "Still working 💻"
+        ]
+      },
+      {
+        "id": "saturday-worth",
+        "active_days": [6],
+        "question": "Is NYC worth the chaos?",
+        "options": [
+          "Always ❤️",
+          "Sometimes 😬",
+          "Ask me next month 🤔"
+        ]
+      },
+      {
+        "id": "sunday-reflect",
+        "active_days": [0],
+        "question": "What made you smile in NYC this week?",
+        "options": [
+          "Someone kind 💬",
+          "Something small 😊",
+          "The city itself 🌆"
+        ]
+      }
+    ],
+    "rotation_schedule": "daily"
+  }
+  

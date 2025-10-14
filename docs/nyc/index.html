@@ -89,7 +89,7 @@
         text-decoration: none;
       }
 
-      .nav-row a:first-child {
+      .nav-row a.active {
         font-weight: 600;
       }
 
@@ -176,6 +176,78 @@
         color: var(--muted);
       }
 
+      /* Poll styles */
+      .poll-container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 32px;
+        border: 1px solid var(--border);
+      }
+
+      .poll-question {
+        font-size: 20px;
+        font-weight: 600;
+        margin: 0 0 24px;
+      }
+
+      .poll-options {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        margin-bottom: 24px;
+      }
+
+      .poll-option input[type="radio"] {
+        position: absolute;
+        opacity: 0;
+      }
+
+      .poll-option label {
+        display: block;
+        padding: 16px 20px;
+        border: 2px solid var(--border);
+        cursor: pointer;
+      }
+
+      .poll-option input[type="radio"]:checked + label {
+        background: var(--accent2);
+        color: white;
+        border-color: var(--accent2);
+      }
+
+      .poll-submit {
+        width: 100%;
+        padding: 14px 24px;
+        background: var(--accent);
+        color: white;
+        border: none;
+        font-size: 16px;
+        font-weight: 600;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        cursor: pointer;
+      }
+
+      .poll-submit:disabled {
+        background: var(--muted);
+        cursor: not-allowed;
+      }
+
+      .success-message {
+        display: none;
+        padding: 20px;
+        background: #e8f5e9;
+        border: 2px solid #4caf50;
+        color: #2e7d32;
+        text-align: center;
+        font-weight: 600;
+        margin-top: 20px;
+      }
+
+      .success-message.show {
+        display: block;
+      }
+
       /* Footer */
       .footer-note {
         margin-top: 40px;
@@ -229,8 +301,8 @@
           <span class="word-civic">Civic</span><span class="word-pulse">Pulse</span>
         </h1>
         <nav class="nav-row" aria-label="Primary">
-          <a href="#">Daily Pulse</a>
-          <!-- <a href="#">Sentiments (soon!)</a> -->
+          <a href="#pulse" id="nav-pulse">Daily Pulse</a>
+          <!-- <a href="#poll" id="nav-poll">Daily Poll</a> -->
           <!-- <a href="#">Forum</a>
           <a href="#">Games</a> -->
         </nav>
@@ -360,7 +432,159 @@
         }
       }
 
-      initialisePage();
+      // Get today's question based on day of week
+      function getTodaysQuestion(pollData) {
+        const dayOfWeek = new Date().getDay(); // 0=Sunday, 1=Monday, ..., 6=Saturday
+        
+        // Find question for today
+        const question = pollData.questions.find(q => 
+          q.active_days && q.active_days.includes(dayOfWeek)
+        );
+        
+        // Fallback to first question if none match
+        return question || pollData.questions[0];
+      }
+
+      // Load and display poll
+      async function showPoll() {
+        try {
+          // Load poll questions
+          const response = await fetch('poll-questions.json');
+          const pollData = await response.json();
+          const question = getTodaysQuestion(pollData);
+          
+          // Build options HTML
+          const optionsHTML = question.options.map((option, index) => `
+            <div class="poll-option">
+              <input type="radio" id="option${index + 1}" name="poll_response" value="${option}" required />
+              <label for="option${index + 1}">${option}</label>
+            </div>
+          `).join('');
+          
+          // Render poll
+          const main = document.querySelector("main");
+          main.innerHTML = `
+            <div class="poll-container">
+              <h2 class="poll-question">${question.question}</h2>
+              <form id="poll-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+                <div class="poll-options">
+                  ${optionsHTML}
+                </div>
+                <input type="hidden" name="poll_date" id="poll_date" />
+                <input type="hidden" name="poll_id" value="${question.id}" />
+                <input type="hidden" name="_subject" value="CivicPulse Daily Poll Response" />
+                <button type="submit" class="poll-submit" id="submit-btn">Submit Vote</button>
+              </form>
+              <div class="success-message" id="success-message">
+                ✓ Thank you for voting! Your response has been recorded.
+              </div>
+            </div>
+          `;
+
+          initPollForm();
+        } catch (error) {
+          console.error('Failed to load poll:', error);
+          const main = document.querySelector("main");
+          main.innerHTML = '<div class="poll-container"><p>Unable to load poll. Please try again later.</p></div>';
+        }
+      }
+
+      function initPollForm() {
+        const today = new Date().toISOString().split('T')[0];
+        document.getElementById('poll_date').value = today;
+
+        const lastVoteDate = localStorage.getItem('civicpulse_last_vote');
+        const form = document.getElementById('poll-form');
+        const submitBtn = document.getElementById('submit-btn');
+        const successMessage = document.getElementById('success-message');
+
+        if (lastVoteDate === today) {
+          submitBtn.disabled = true;
+          submitBtn.textContent = "You've already voted today";
+          successMessage.textContent = "You've already submitted your vote for today. Come back tomorrow!";
+          successMessage.classList.add('show');
+        }
+
+        form.addEventListener('submit', async function(e) {
+          e.preventDefault();
+          const formData = new FormData(form);
+          
+          try {
+            submitBtn.disabled = true;
+            submitBtn.textContent = "Submitting...";
+
+            const response = await fetch(form.action, {
+              method: 'POST',
+              body: formData,
+              headers: { 'Accept': 'application/json' }
+            });
+
+            if (response.ok) {
+              localStorage.setItem('civicpulse_last_vote', today);
+              form.style.display = 'none';
+              successMessage.classList.add('show');
+            } else {
+              throw new Error('Form submission failed');
+            }
+          } catch (error) {
+            submitBtn.disabled = false;
+            submitBtn.textContent = "Submit Vote";
+            alert('There was an error submitting your vote. Please try again.');
+          }
+        });
+      }
+
+      function updateNav() {
+        const navPulse = document.getElementById('nav-pulse');
+        const navPoll = document.getElementById('nav-poll');
+        
+        // If poll nav doesn't exist, just make pulse active
+        if (!navPoll) {
+          if (navPulse) navPulse.classList.add('active');
+          return;
+        }
+        
+        if (window.location.hash === '#poll') {
+          navPulse.classList.remove('active');
+          navPoll.classList.add('active');
+        } else {
+          navPulse.classList.add('active');
+          navPoll.classList.remove('active');
+        }
+      }
+
+      function route() {
+        updateNav();
+        
+        if (window.location.hash === '#poll') {
+          const pollNav = document.getElementById('nav-poll');
+          if (!pollNav) {
+            // Poll is disabled, redirect to pulse
+            window.location.hash = '#pulse';
+            return;
+          }
+          showPoll();
+        } else {
+          // Show digest (for #home, #, or no hash)
+          const main = document.querySelector("main");
+          main.innerHTML = `
+            <p class="daily-fact" id="daily-fact">
+              <strong>Daily Fact:</strong>
+              <span id="daily-fact-content">Loading…</span>
+            </p>
+            <section class="featured-grid" id="featured" aria-label="Featured civic updates"></section>
+          `;
+          
+          // Re-assign elements after DOM update
+          elements.dailyFact = document.getElementById("daily-fact-content");
+          elements.featured = document.getElementById("featured");
+          
+          initialisePage();
+        }
+      }
+
+      window.addEventListener('hashchange', route);
+      route();
     </script>
   </body>
 </html>
