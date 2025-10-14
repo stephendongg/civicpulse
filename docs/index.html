@@ -2,365 +2,39 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>CivicPulse — New York NY</title>
+    <title>CivicPulse</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+    <meta http-equiv="refresh" content="0; url=./nyc/" />
     <style>
-      :root {
-        --background: #ffffff;
-        --foreground: #111111;
-        --accent: #c37b33;
-        --border: #000000;
-        --muted: #555555;
-        --accent2: #1F3A5F;
-      }
-
-      *,
-      *::before,
-      *::after {
-        box-sizing: border-box;
-      }
-
       body {
-        margin: 0;
-        background: var(--background);
-        color: var(--foreground);
-        font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        font-size: 16px;
-        line-height: 1.6;
-      }
-
-      .wrap {
-        max-width: 960px;
-        margin: 0 auto;
-        padding: 32px 20px 56px;
-      }
-
-      /* Masthead */
-      header {
-        margin-bottom: 32px;
-      }
-
-      .masthead-top {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
         display: flex;
-        justify-content: space-between;
-        gap: 16px;
-        font-size: 13px;
-        color: #444444;
-        margin-bottom: 10px;
-      }
-
-      h1 {
-        margin: 0 0 12px;
-        font-size: 44px;
-        font-weight: 600;
-        text-align: center;
-        letter-spacing: 0.01em;
-      }
-
-      .word-civic {
-        color: #000000;
-      }
-
-      .word-pulse {
-        color: var(--accent);
-      }
-
-      .place-label {
-        padding: 2px 10px;
-        border: 1px solid var(--border);
-        font-size: 14px;
-        letter-spacing: 0.06em;
-        text-transform: uppercase;
-      }
-
-      nav.nav-row {
-        display: flex;
+        align-items: center;
         justify-content: center;
-        gap: 28px;
+        height: 100vh;
         margin: 0;
-        font-size: 13px;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
+        background: #ffffff;
+        color: #111111;
       }
-
-      .nav-row a {
-        color: var(--border);
+      
+      .container {
+        text-align: center;
+      }
+      
+      a {
+        color: #1F3A5F;
         text-decoration: none;
       }
-
-      .nav-row a:first-child {
-        font-weight: 600;
-      }
-
-      /* Daily fact */
-      .daily-fact {
-        margin: 26px 0 36px;
-        font-size: 18px;
-        line-height: 1.5;
-      }
-
-      .daily-fact strong {
-        display: inline-block;
-        margin-right: 10px;
-        font-size: 1em;
-        letter-spacing: 0.1em;
-        text-transform: uppercase;
-      }
-
-      .topline {
-        margin: 20px 0;
-        padding: 16px;
-        background: #f8f9fa;
-        border-left: 3px solid var(--accent);
-        font-size: 16px;
-        line-height: 1.5;
-      }
-
-      #topline {
-        display: inline;
-      }
-
-      #topline a {
-        color: inherit;
-      }
-
-      /* Featured grid */
-      .featured-grid {
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 16px;
-      }
-
-      .featured-card {
-        display: flex;
-        flex-direction: column;
-        gap: 12px;
-        padding: 20px;
-        border: 1px solid var(--border);
-        background: var(--background);
-      }
-
-      .featured-card h3 {
-        margin: 0;
-        font-size: 13px;
-        letter-spacing: 0.1em;
-        text-transform: uppercase;
-      }
-
-      .featured-body {
-        font-size: 15px;
-      }
-
-      .featured-body a {
-        text-decoration: none;
-        color: var(--accent2);
-      }
-
-      .featured-body a:hover {
+      
+      a:hover {
         text-decoration: underline;
-      }
-
-      .daily-fact a {
-        text-decoration: none;
-        color: var(--accent2);
-      }
-
-      .daily-fact a:hover {
-        text-decoration: underline;
-      }
-
-      .muted {
-        margin-top: auto;
-        font-size: 12px;
-        color: var(--muted);
-      }
-
-      /* Footer */
-      .footer-note {
-        margin-top: 40px;
-        font-size: 14px;
-        text-align: right;
-      }
-
-      .footer-note a {
-        color: var(--border);
-        text-decoration: none;
-      }
-
-      .footer-note a:hover {
-        text-decoration: underline;
-      }
-
-      @media (max-width: 600px) {
-        .wrap {
-          padding: 24px 16px 40px;
-        }
-
-        .masthead-top {
-          flex-direction: column;
-          align-items: flex-start;
-        }
-
-        h1 {
-          font-size: 36px;
-        }
-
-        .featured-grid {
-          grid-template-columns: 1fr;
-        }
-
-        .daily-fact {
-          margin: 22px 0 28px;
-          font-size: 17px;
-        }
       }
     </style>
   </head>
-
   <body>
-    <div class="wrap">
-      <header>
-        <div class="masthead-top">
-          <div>Last Updated <span id="updated">—</span></div>
-          <div class="place-label" id="place">—</div>
-        </div>
-        <h1>
-          <span class="word-civic">Civic</span><span class="word-pulse">Pulse</span>
-        </h1>
-        <nav class="nav-row" aria-label="Primary">
-          <a href="#">Daily Pulse</a>
-          <!-- <a href="#">Sentiments (soon!)</a> -->
-          <!-- <a href="#">Forum</a>
-          <a href="#">Games</a> -->
-        </nav>
-      </header>
-
-      <main>
-        <p class="daily-fact" id="daily-fact">
-          <strong>Daily Fact:</strong>
-          <span id="daily-fact-content">Loading…</span>
-        </p>
-
-        <section class="featured-grid" id="featured" aria-label="Featured civic updates"></section>
-      </main>
-
-      <footer class="footer-note">
-        <a href="https://forms.gle/y4knwDwoe8aeJXS2A">Send us your feedback</a>
-      </footer>
+    <div class="container">
+      <h1>CivicPulse</h1>
+      <p>Redirecting to <a href="./nyc/">New York</a>...</p>
     </div>
-
-    <script>
-      "use strict";
-
-      const DIGEST_PATH = "civicpulse_digest_New_York_NY.json";
-
-      const featuredGroups = [
-        { label: "Risks / Alerts", keys: ["risks_alerts"] },
-        { label: "Civics / Politics", keys: ["civics_politics"] },
-        { label: "Opportunities / Welfare", keys: ["opportunities_welfare"] },
-        { label: "Community", keys: ["community"] }
-      ];
-
-      const elements = {
-        place: document.getElementById("place"),
-        updated: document.getElementById("updated"),
-        dailyFact: document.getElementById("daily-fact-content"),
-        featured: document.getElementById("featured")
-      };
-
-      function mdToHtml(markdown = "") {
-        return markdown
-          .replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
-          .replace(/\n/g, "<br/>");
-      }
-
-      function getSectionSummary(section) {
-        if (!section) {
-          return null;
-        }
-
-        if (section.summary_md) {
-          const clean = section.summary_md.replace(/^#+\s*[^\n]+\n*/, "");
-          return { html: mdToHtml(clean), title: section.title || "" };
-        }
-
-        if (Array.isArray(section.items) && section.items.length > 0) {
-          return { html: mdToHtml(section.items[0]), title: section.title || "" };
-        }
-
-        return null;
-      }
-
-      function findSummary(group, sections) {
-        for (const key of group.keys) {
-          const summary = getSectionSummary(sections[key]);
-          if (summary) {
-            return summary;
-          }
-        }
-
-        return { html: "No updates available right now.", title: "" };
-      }
-
-      function renderFeatured(sections) {
-        elements.featured.replaceChildren();
-
-        featuredGroups.forEach(group => {
-          const { html, title } = findSummary(group, sections);
-          const card = document.createElement("article");
-          card.className = "featured-card";
-          card.innerHTML = `
-            <h3>${group.label}</h3>
-            <div class="featured-body">${html}</div>
-          `;
-          elements.featured.append(card);
-        });
-      }
-
-      function formatGeneratedAt(generatedAt) {
-        if (!generatedAt) {
-          return "—";
-        }
-
-        const generated = new Date(generatedAt);
-        const datePart = generated.toLocaleDateString(undefined, {
-          month: "numeric",
-          day: "numeric"
-        });
-        const timePart = generated.toLocaleTimeString(undefined, {
-          hour: "numeric",
-          minute: "2-digit"
-        });
-
-        return `${datePart} at ${timePart}`;
-      }
-
-      async function loadDigest() {
-        const response = await fetch(DIGEST_PATH);
-        if (!response.ok) {
-          throw new Error(`Failed to fetch digest: ${response.status}`);
-        }
-
-        return response.json();
-      }
-
-      async function initialisePage() {
-        try {
-          const data = await loadDigest();
-          elements.place.textContent = data.place || "Essentials District";
-          elements.updated.textContent = formatGeneratedAt(data.generated_at_utc);
-          elements.dailyFact.innerHTML = mdToHtml(data.daily_fact || "No daily fact available today.");
-
-          const sections = data.sections || {};
-          renderFeatured(sections);
-        } catch (error) {
-          console.error("Failed to load data:", error);
-          elements.topline.textContent = "Failed to load data. Please try again later.";
-        }
-      }
-
-      initialisePage();
-    </script>
   </body>
 </html>

@@ -478,13 +478,13 @@ with open(json_path, "w", encoding="utf-8") as f:
 print("Saved ->", json_path)
 
 
-# At the end, make sure to create the docs directory if it doesn't exist
-os.makedirs("docs", exist_ok=True)
+# At the end, make sure to create the docs/nyc directory if it doesn't exist
+os.makedirs("docs/nyc", exist_ok=True)
 
-# Copy to docs folder for website
-docs_json_path = f"docs/civicpulse_digest_{PLACE.replace(' ','_')}.json"
+# Copy to docs/nyc folder for website
+docs_json_path = f"docs/nyc/civicpulse_digest_{PLACE.replace(' ','_')}.json"
 with open(docs_json_path, "w", encoding="utf-8") as f:
     json.dump(final_json, f, ensure_ascii=False, indent=2)
-print("Copied to docs ->", docs_json_path)
+print("Copied to docs/nyc ->", docs_json_path)
 
 print("\n=== CivicPulse update complete! ===")
