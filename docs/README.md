@@ -1,16 +1,5 @@
-# CivicPulse Digest Preview
-
-To preview the digest locally (with live data loading), serve the repository over HTTP and open the page in your browser.
-
-```bash
-python3 -m http.server 8000
-```
-
-Then visit:
-- NYC: [http://localhost:8000/docs/nyc/](http://localhost:8000/docs/nyc/)
-- Root (redirects to NYC): [http://localhost:8000/docs/](http://localhost:8000/docs/)
-
-When you are finished previewing, press `Ctrl+C` in the terminal to stop the server. This avoids cross-origin blocking when the page fetches `civicpulse_digest_New_York_NY.json`.
+## CivicPulse Digest Preview
+Side project to daily-ingest and organize local news of New York City. 
 
 ## Live Site Structure
 
