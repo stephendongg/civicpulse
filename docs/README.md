@@ -1,7 +1,10 @@
-## CivicPulse Digest Preview
-Side project to daily-ingest and organize local news of New York City. 
+<div align="center">
 
-## Live Site Structure
+## 🏙️ CivicPulse Digest (Preview)
+Side project to daily-ingest and organize local civic news for New York City.
 
-- **Root**: https://stephendongg.github.io/civicpulse/ (redirects to /nyc)
-- **NYC**: https://stephendongg.github.io/civicpulse/nyc/
+**Live Site**  
+🔗 https://stephendongg.github.io/civicpulse/  
+🔗 https://stephendongg.github.io/civicpulse/nyc/
+
+</div>
