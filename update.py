@@ -1,8 +1,16 @@
-# === Google News Local feed (readable version) ===
-# Works in Colab/Jupyter. Just change PLACE.
+#!/usr/bin/env python3
+"""
+CivicPulse News Aggregator
+--------------------------
+Fetches local news from Google News RSS feed, classifies articles using 
+OpenAI GPT-4, generates summaries, and outputs a JSON digest for the website.
 
-import requests, feedparser
-import os, json, time
+Runs daily via GitHub Actions.
+"""
+
+# === Google News Local feed ===
+
+import requests, feedparser, os, json, time
 import pandas as pd
 from urllib.parse import urlparse
 from openai import OpenAI
@@ -11,7 +19,7 @@ from dotenv import load_dotenv
 
 load_dotenv() 
 
-# Change this to your city/county
+# Global Variable that allows us to specify the location
 PLACE = "New York NY"
 
 # Short header string = polite, but simple
@@ -36,14 +44,8 @@ feed = fetch_feed(feed_url)
 print(f"Local feed URL:\n{feed_url}\n")
 print(f"Found {len(feed.entries)} stories:\n")
 
-# Print first few titles + metadata
-for i, story in enumerate(feed.entries[:5], 1):  # Just show first 5 to avoid too much output
-    print(f"{i:02d}. {story.title}")
-    print(f"    {story.published}")
-    print(f"    {story.link}\n")
-    print(f"    {story.source.title}\n")
+
 # === Label Google News Local feed titles with CIN taxonomy ===
-# Assumes `feed`, `PLACE`, and `feed_url` already exist from your previous cell.
 
 # --- 0) OpenAI setup ---
 # Get API key from environment variable (set in GitHub Secrets)
@@ -81,7 +83,7 @@ df = pd.DataFrame(rows)
 print(f"DataFrame built: {len(df)} rows")
 print(df.head(5))
 
-# --- 2) Your taxonomy + instructions (4 main + community) ---
+# --- 2) Taxonomy + instructions (4 main + community) ---
 CIN_LABELS = [
     "risks_alerts",            # 1) Risks & Alerts - emergencies, safety, health alerts
     "civics_politics",         # 2) Civics & Politics - government, policy, elections
@@ -262,13 +264,15 @@ print(f"Keeping {filtered_count} local stories for civic digest")
 # Filter for ONLY critical, actionable content
 print(f"\nFiltering for CRITICAL actionable content...")
 
-df_for_summaries = df[
-    (df["category"] == "risks_alerts") & (df["importance"] >= 0.5) |      # Keep important safety info
-    (df["category"] == "civics_politics") & (df["importance"] >= 0.5) |   # Raise back to 0.5 for civics
-    (df["category"] == "opportunities_welfare") & (df["importance"] >= 0.4) | # Lower to 0.4 for opportunities
-    (df["category"] == "community") & (df["importance"] >= 0.4) |         # Raise to 0.4 for community
-    (df["category"] == "other") & (df["importance"] >= 0.6)              # Keep strict for other
-].copy()
+mask = (
+    ((df["category"] == "risks_alerts") & (df["importance"] >= 0.5)) |
+    ((df["category"] == "civics_politics") & (df["importance"] >= 0.5)) |
+    ((df["category"] == "opportunities_welfare") & (df["importance"] >= 0.4)) |
+    ((df["category"] == "community") & (df["importance"] >= 0.4)) |
+    ((df["category"] == "other") & (df["importance"] >= 0.6))
+)
+df_for_summaries = df[mask].copy()
+
 print(f"Keeping {len(df_for_summaries)} CRITICAL items (from {len(df)} total)")
 
 
@@ -487,4 +491,4 @@ with open(docs_json_path, "w", encoding="utf-8") as f:
     json.dump(final_json, f, ensure_ascii=False, indent=2)
 print("Copied to docs/nyc ->", docs_json_path)
 
-print("\n=== CivicPulse update complete! ===")
+print("\n✓ CivicPulse update complete!")
