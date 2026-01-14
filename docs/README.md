@@ -8,7 +8,7 @@
 
 Fetches NYC news → Classifies with GPT-4 → Filters by importance → Generates daily digest
 
-Uses a custom taxonomy adapted from the FCC's Critical Information Needs framework to categorize local news into actionable civic categories.
+Uses a custom taxonomy adapted from the FCC's Critical Information Needs framework for civic categorization.
 
 Automated via GitHub Actions.
 
