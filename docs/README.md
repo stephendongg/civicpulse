@@ -12,6 +12,8 @@ Uses a custom taxonomy adapted from the FCC's Critical Information Needs framewo
 
 Automated via GitHub Actions.
 
+_Probably one user... me!_
+
 ## Tech
 
 Python • OpenAI API • GitHub Pages
