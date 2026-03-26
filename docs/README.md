@@ -4,6 +4,8 @@
 
 [View live →](https://stephendongg.github.io/civicpulse/nyc/)
 
+_Probably one user... me!_
+
 ## How it works
 
 Fetches NYC news → Classifies with GPT-4 → Filters by importance → Generates daily digest
@@ -12,7 +14,6 @@ Uses a custom taxonomy adapted from the FCC's Critical Information Needs framewo
 
 Automated via GitHub Actions.
 
-_Probably one user... me!_
 
 ## Tech
 
