@@ -1,10 +1,8 @@
 # CivicPulse NYC
 
-**Prototype** — AI-powered civic news classifier and digest generator.
+**Prototype** — AI-powered civic news classifier and digest generator. Probably one user... me!
 
 [View live →](https://stephendongg.github.io/civicpulse/nyc/)
-
-_Probably one user... me!_
 
 ## How it works
 
