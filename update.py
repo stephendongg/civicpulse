@@ -55,7 +55,8 @@ if not api_key:
 
 client = OpenAI(api_key=api_key)
 
-MODEL = "gpt-4o-mini"   # fast & affordable
+# MODEL = "gpt-4o-mini"   # fast & affordable
+MODEL = "gpt-5.4"       # strong model 
 BATCH_SIZE = 25         # label many titles per API call
 SLEEP_BETWEEN = 0.1     # short pause between calls
 

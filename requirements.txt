@@ -7,3 +7,4 @@ requests
 blinker==1.4 
 webdriver-manager
 python-dotenv
+feedparser
