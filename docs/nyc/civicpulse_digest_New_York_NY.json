@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-03T20:57:08Z",
-  "daily_fact": "An electric-green stream flowing through Brooklyn’s Green-Wood Cemetery is a positive sign of spring, caused by harmless fluorescent dye that helps staff trace and maintain the historic cemetery’s water system.",
-  "topline_md": "New York’s biggest updates center on affordability and public infrastructure: the City Council backed fully subsidized Fair Fares for 1.3 million riders, while officials also advanced plans on sidewalk-shed reform, highway expansion limits, and air-quality upgrades even as gaps persist in funding for volunteer fire companies and trash containerization.",
+  "generated_at_utc": "2026-04-03T21:21:42Z",
+  "daily_fact": "Curbed reports that an electric-green stream in New York City is actually a positive sign, caused by harmless dye used to trace and improve the city’s water systems.",
+  "topline_md": "New York is weighing major affordability and infrastructure shifts—expanding Fair Fares to fully cover transit for 1.3 million residents while lawmakers scramble over looming health-insurance losses for 450,000 people—as debates intensify over street safety, trash reform, and highway expansion.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -11,78 +11,108 @@
   "sections": {
     "civics_politics": {
       "title": "Civics & Politics",
-      "summary_md": "### Civics & Politics\n\n- Council backs expanding Fair Fares to fully cover subway and bus fares for 1.3 million New Yorkers. [↗](https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1BSbGJseTF3bzcxZlo4VFpjcHVjTUlDWUNjVkRWUnc5X2dLY2J5SndoYURjbWNxSWROQXNmbjZqeVZSQXBpdDNmRUdwWmJpZ19vYi1qM0NTTWR1dDYySEhTSUZYZ2lBcGJIOVhvR0Vva1o1bl9Fbko0SHNZRnJRenVDQTctUjhJZnFxdDlyWU1iTXlKTEVIdHlBOW5vQjY5QnlFN0JZQ183Q180Z1gzeVVma0JtSGczU2oyS3hkTVFFLWxtZ0E?oc=5)\n- City unveils a plan to reduce long-standing sidewalk sheds and falling-debris hazards across New York City. [↗](https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1k1Q3gxLU9EZjBmZHh0NDN1c2dCaXl5RXZVM1J0Nm81bm41VHRmNjV3c1F1SXFiR1drMFRmZmtRVTV2R0N0bkgxMXY4TUUzMTJGcVZqNng2TWhGV0FwUnZCOFludExlZlp2MUVnLURBUmdtcHJFN28yTGE1RnZuamgzUFZPbjZLQ3NPcGh30gGTAUFVX3lxTE14MndwalAtVXF4c3cxZmhJZ2ctUUE0eDRmRzNlS1dweHNxSmNYVEItdTZkaVJXSEJBWjF1WHRWWlQyVm0wMFVQREJ2Z214dFV0SWxQNC1NN2lpNHNIQWdXU2xTRGd3bVp4VlFkZVFwYTUtU3N3Uy04WkdEeEVOcDRBaGdkXzh0UXRNMDVvNldsYlNEcw?oc=5)\n- A state bill would block highway expansions near vulnerable communities, affecting future road projects in and around the city. [↗](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVXlkQ3FYVy1jamY0c2lZanN5ZVozNFJvck5JRDNqNUpKdlJHcXkxMjdYRzlpaTdXaXJjSm1fRWZsSTA3U3pEZ0gwdFY3b0dqbUhXOGc2MFB5QVZnaHoxSlI4Nk01dHR0Q1U1WkczdEg3RDJiNGdmMjdmRF9XMDJkallaMGgwY2EzdnhleDJhallQNVcySGVfY0dRMTBpZzdMdS1tancwQ3V2TnM?oc=5)\n- AOC is urging Hochul to drop plans to widen the Cross Bronx Expressway. [↗](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORl9IOUhkby1UVUQ3R3JDcUNuOEUzc0kwTGxMMm5UcnJ5N3VXamZITjdzMzJmRk9QX2JDZ0hsOUUxdXpMUzZSX2R2THRxOGVrYmRMZzJFVVZKR0ZDdWZHZGxBQzV5eFhZd1ZscmFzY1hGTTRONUttYjBLRC1mMkhSbGRKbE1LVEwzRUZTZEN3LW1ic1hpSFJYVXpnb2puXzhVbmUtdXZDLWc?oc=5)\n- A new bill would give City Council members more control over appointing local community board members. [↗](https://news.google.com/rss/articles/CBMickFVX3lxTE5nY1Byek91MGlOejRYM1V6bkpPM0JRSzNsdmM5dF90aHJmaHV1SVhxbEo0WWlxb25KUFdOaUZzV0htMlFjNldpVkR2QWs5OS1kV3Vva1BCSXlRbklEcWpYcThQdVgzODFKUDBOT2l2dzlndw?oc=5)\n- Manhattan Chinatown is getting private-carting reforms aimed at overhauling commercial trash collection. [↗](https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFo3UkNZMTNkbnVaOXZFakZXNzRvenpublJyZ1QzTFFkYXAwTTFuWWt0ZjlMSWNvdGR4LW1Oc1BoUEhRRnpYaUdMNmtLTG1nRHVOOXlTcUw2VW9UQnQ1SmViQXpMV1FrYXowTVBvd0dMYXZad3RVQzdPNjhNY0tyNDJ0c1ZtbVRJTVRwdEpNc2NianBucEg4U05ic0FBR0l2?oc=5)\n- Staten Island volunteer fire companies say they still lack city funding despite handling thousands of 911 calls. [↗](https://news.google.com/rss/articles/CBMizAFBVV95cUxOanA2ZHRweDFQQUUtYTQ4ZDlpM2xVeWJwR1hFQ3lhajFiT2NYUFl3ZFpiZGJoQjI2YVVZTEhRTnlGck1YQlBqLVA3cDh6V19NLTEwc200a09rdXdJTUhHUkNaazdpMlZtZE1UYkV0b2pFUTJNNElNU1NKVDFjLURrSmtPR2ZfWEJPSzVoMXRsR3E2YmtpVUlhdnp5eEpKS2VLVVFHR0RNUHhSTUpMSllTaHg0al85RjAxVl9KQnFheXpEM0Vlb014TmRZNWjSAeABQVVfeXFMTURtYmZ0VWtkYW42MFRVNGxRYmdVal9zdDhlQVZvTk41NlpVUXZzWW54Mm5lUDdfM3FKTXlXSjdibU5zbTBvTC0zTHp5NnFNUU1ZMlJZck5zekhmc0RNRTdVdHA4SGFKUjA4b0FIZFJTSk85ZTBjUVFpRVZSZHNvS21ja0YzMWludmUzS2hoNmpGRHdDaXpjeURtUWtfeWZwRVBlNW1oY1ZPekdpTUxYeG9JZlc2bnRRRTFob0h1NEp4bHJZclQteExVaHE5RlZLVUZUeUgybGFKNzJVdXNyNzA?oc=5)\n- Business and good-government groups are opposing a state bill requiring two-person subway train crews. [↗](https://news.google.com/rss/articles/CBMifkFVX3lxTFAwSmdMRVFOWXp4QmVuRDBtU3pWWlhMMlZPNThpQ1ZaV1phOFpwalRqVVJPTkdtR2RRVnFsMFBmNHZKNXlWbDV5NUJQS0VWQzVydG1aamFCaHpOWlJfRm9tdTdWWXZnNHVYVUlubWVjOC1qcW9waWtYZkZybEZFUQ?oc=5)\n- Advocates say Hochul should accelerate climate-law implementation amid energy-security concerns tied to conflict with Iran. [↗](https://news.google.com/rss/articles/CBMitAFBVV95cUxPeUxvVktON0ZVTlB2VHBiTHlwNjdsVGhXUU5vdnlYNEo3RVNIZjRiM1M3RGZnakFIZExsbk1xX2lYUXd1akVGN21FeTM3cVl1VTFtc2JtVWZEdnJna0N0TUtpLUpmS00xQVBWOTlLaHVaaS03Q2lLdUwzNkp5Mmd5Q3FFRUYyMTFMc2kzUlJtTXJuOGpZck95OGhzZDFLdkcyRXdLWjVPellKWVh5RnV6OGU3VnY?oc=5)\n- The city budget still does not fund a broader trash containerization program. [↗](https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzZPNkJvZUFMcXppV2EybUdEYURuTzRTY0hORGFPSHo5S0NROHoyM2RJa3pzRXNES2ZWT1ZHRVhscUJidUE4dnNsQkl3ZVg5ZUctY1lXV0VZTEg1R0NmZksxenYxUXllQnF2UVlNRFZOMHRjbTFyLVl4UElfdml6aFhkVzUwX1luM1U0SWpJdXJPc0hsNDdwb3Q5Vnh3N3RadWp3OTRsNHRncG1sSnlz?oc=5)",
       "items": [
-        "- Council backs Fair Fares expansion to cover 100% of subway, bus costs for 1.3M New Yorkers - New York Post - New York Post (Thu, 02 Apr 2026 21:33:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1BSbGJseTF3bzcxZlo4VFpjcHVjTUlDWUNjVkRWUnc5X2dLY2J5SndoYURjbWNxSWROQXNmbjZqeVZSQXBpdDNmRUdwWmJpZ19vYi1qM0NTTWR1dDYySEhTSUZYZ2lBcGJIOVhvR0Vva1o1bl9Fbko0SHNZRnJRenVDQTctUjhJZnFxdDlyWU1iTXlKTEVIdHlBOW5vQjY5QnlFN0JZQ183Q180Z1gzeVVma0JtSGczU2oyS3hkTVFFLWxtZ0E?oc=5",
-        "- Staten Island volunteer fire companies lack city funding despite thousands of 911 responses - SILive.com - SILive.com (Fri, 03 Apr 2026 09:50:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOanA2ZHRweDFQQUUtYTQ4ZDlpM2xVeWJwR1hFQ3lhajFiT2NYUFl3ZFpiZGJoQjI2YVVZTEhRTnlGck1YQlBqLVA3cDh6V19NLTEwc200a09rdXdJTUhHUkNaazdpMlZtZE1UYkV0b2pFUTJNNElNU1NKVDFjLURrSmtPR2ZfWEJPSzVoMXRsR3E2YmtpVUlhdnp5eEpKS2VLVVFHR0RNUHhSTUpMSllTaHg0al85RjAxVl9KQnFheXpEM0Vlb014TmRZNWjSAeABQVVfeXFMTURtYmZ0VWtkYW42MFRVNGxRYmdVal9zdDhlQVZvTk41NlpVUXZzWW54Mm5lUDdfM3FKTXlXSjdibU5zbTBvTC0zTHp5NnFNUU1ZMlJZck5zekhmc0RNRTdVdHA4SGFKUjA4b0FIZFJTSk85ZTBjUVFpRVZSZHNvS21ja0YzMWludmUzS2hoNmpGRHdDaXpjeURtUWtfeWZwRVBlNW1oY1ZPekdpTUxYeG9JZlc2bnRRRTFob0h1NEp4bHJZclQteExVaHE5RlZLVUZUeUgybGFKNzJVdXNyNzA?oc=5",
-        "- New NYC plan to cut down on sidewalk sheds, falling debris - ABC7 New York - ABC7 New York (Thu, 02 Apr 2026 22:19:37 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1k1Q3gxLU9EZjBmZHh0NDN1c2dCaXl5RXZVM1J0Nm81bm41VHRmNjV3c1F1SXFiR1drMFRmZmtRVTV2R0N0bkgxMXY4TUUzMTJGcVZqNng2TWhGV0FwUnZCOFludExlZlp2MUVnLURBUmdtcHJFN28yTGE1RnZuamgzUFZPbjZLQ3NPcGh30gGTAUFVX3lxTE14MndwalAtVXF4c3cxZmhJZ2ctUUE0eDRmRzNlS1dweHNxSmNYVEItdTZkaVJXSEJBWjF1WHRWWlQyVm0wMFVQREJ2Z214dFV0SWxQNC1NN2lpNHNIQWdXU2xTRGd3bVp4VlFkZVFwYTUtU3N3Uy04WkdEeEVOcDRBaGdkXzh0UXRNMDVvNldsYlNEcw?oc=5",
-        "- State Bill Would Stop Highway Expansions Near Vulnerable New Yorkers - Streetsblog New York City - Streetsblog New York City (Fri, 03 Apr 2026 04:04:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVXlkQ3FYVy1jamY0c2lZanN5ZVozNFJvck5JRDNqNUpKdlJHcXkxMjdYRzlpaTdXaXJjSm1fRWZsSTA3U3pEZ0gwdFY3b0dqbUhXOGc2MFB5QVZnaHoxSlI4Nk01dHR0Q1U1WkczdEg3RDJiNGdmMjdmRF9XMDJkallaMGgwY2EzdnhleDJhallQNVcySGVfY0dRMTBpZzdMdS1tancwQ3V2TnM?oc=5",
-        "- NYC Council members would have more control in establishing community boards, per new bill - amNewYork - amNewYork (Thu, 02 Apr 2026 19:00:43 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMickFVX3lxTE5nY1Byek91MGlOejRYM1V6bkpPM0JRSzNsdmM5dF90aHJmaHV1SVhxbEo0WWlxb25KUFdOaUZzV0htMlFjNldpVkR2QWs5OS1kV3Vva1BCSXlRbklEcWpYcThQdVgzODFKUDBOT2l2dzlndw?oc=5",
-        "- TWU’s 2-person subway train crew bill would derail progress, good government and business groups tell state pols - amNewYork - amNewYork (Thu, 02 Apr 2026 18:15:20 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMifkFVX3lxTFAwSmdMRVFOWXp4QmVuRDBtU3pWWlhMMlZPNThpQ1ZaV1phOFpwalRqVVJPTkdtR2RRVnFsMFBmNHZKNXlWbDV5NUJQS0VWQzVydG1aamFCaHpOWlJfRm9tdTdWWXZnNHVYVUlubWVjOC1qcW9waWtYZkZybEZFUQ?oc=5",
-        "- NY energy experts, advocates say Iran war shows need for Hochul to implement climate law - gothamist.com - gothamist.com (Thu, 02 Apr 2026 18:28:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPeUxvVktON0ZVTlB2VHBiTHlwNjdsVGhXUU5vdnlYNEo3RVNIZjRiM1M3RGZnakFIZExsbk1xX2lYUXd1akVGN21FeTM3cVl1VTFtc2JtVWZEdnJna0N0TUtpLUpmS00xQVBWOTlLaHVaaS03Q2lLdUwzNkp5Mmd5Q3FFRUYyMTFMc2kzUlJtTXJuOGpZck95OGhzZDFLdkcyRXdLWjVPellKWVh5RnV6OGU3VnY?oc=5",
-        "- Trash Containerization Program Remains Unfunded in Mamdani’s City Budget - Streetsblog New York City - Streetsblog New York City (Thu, 02 Apr 2026 04:02:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzZPNkJvZUFMcXppV2EybUdEYURuTzRTY0hORGFPSHo5S0NROHoyM2RJa3pzRXNES2ZWT1ZHRVhscUJidUE4dnNsQkl3ZVg5ZUctY1lXV0VZTEg1R0NmZksxenYxUXllQnF2UVlNRFZOMHRjbTFyLVl4UElfdml6aFhkVzUwX1luM1U0SWpJdXJPc0hsNDdwb3Q5Vnh3N3RadWp3OTRsNHRncG1sSnlz?oc=5",
-        "- Reforms to 'wild west' private trash industry come to Manhattan's Chinatown - gothamist.com - gothamist.com (Fri, 03 Apr 2026 10:01:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFo3UkNZMTNkbnVaOXZFakZXNzRvenpublJyZ1QzTFFkYXAwTTFuWWt0ZjlMSWNvdGR4LW1Oc1BoUEhRRnpYaUdMNmtLTG1nRHVOOXlTcUw2VW9UQnQ1SmViQXpMV1FrYXowTVBvd0dMYXZad3RVQzdPNjhNY0tyNDJ0c1ZtbVRJTVRwdEpNc2NianBucEg4U05ic0FBR0l2?oc=5",
-        "- AOC urges Hochul to scrap plan that would widen Cross Bronx Expressway - PoliticsNY - PoliticsNY (Fri, 03 Apr 2026 20:15:08 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxORl9IOUhkby1UVUQ3R3JDcUNuOEUzc0kwTGxMMm5UcnJ5N3VXamZITjdzMzJmRk9QX2JDZ0hsOUUxdXpMUzZSX2R2THRxOGVrYmRMZzJFVVZKR0ZDdWZHZGxBQzV5eFhZd1ZscmFzY1hGTTRONUttYjBLRC1mMkhSbGRKbE1LVEwzRUZTZEN3LW1ic1hpSFJYVXpnb2puXzhVbmUtdXZDLWc?oc=5"
+        {
+          "title": "Council backs full Fair Fares subsidy for 1.3 million New Yorkers",
+          "source": "New York Post",
+          "why_it_matters": "Free bus and subway rides would significantly cut commuting costs for many low-income residents.",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1BSbGJseTF3bzcxZlo4VFpjcHVjTUlDWUNjVkRWUnc5X2dLY2J5SndoYURjbWNxSWROQXNmbjZqeVZSQXBpdDNmRUdwWmJpZ19vYi1qM0NTTWR1dDYySEhTSUZYZ2lBcGJIOVhvR0Vva1o1bl9Fbko0SHNZRnJRenVDQTctUjhJZnFxdDlyWU1iTXlKTEVIdHlBOW5vQjY5QnlFN0JZQ183Q180Z1gzeVVma0JtSGczU2oyS3hkTVFFLWxtZ0E?oc=5",
+          "published_iso": "2026-04-02T21:33:00Z"
+        },
+        {
+          "title": "City unveils plan to reduce sidewalk sheds and falling debris",
+          "source": "ABC7 New York",
+          "why_it_matters": "The proposal could improve street safety, sidewalks, and neighborhood quality of life citywide.",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1k1Q3gxLU9EZjBmZHh0NDN1c2dCaXl5RXZVM1J0Nm81bm41VHRmNjV3c1F1SXFiR1drMFRmZmtRVTV2R0N0bkgxMXY4TUUzMTJGcVZqNng2TWhGV0FwUnZCOFludExlZlp2MUVnLURBUmdtcHJFN28yTGE1RnZuamgzUFZPbjZLQ3NPcGh30gGTAUFVX3lxTE14MndwalAtVXF4c3cxZmhJZ2ctUUE0eDRmRzNlS1dweHNxSmNYVEItdTZkaVJXSEJBWjF1WHRWWlQyVm0wMFVQREJ2Z214dFV0SWxQNC1NN2lpNHNIQWdXU2xTRGd3bVp4VlFkZVFwYTUtU3N3Uy04WkdEeEVOcDRBaGdkXzh0UXRNMDVvNldsYlNEcw?oc=5",
+          "published_iso": "2026-04-02T22:19:37Z"
+        },
+        {
+          "title": "Federal raid targets New York City Council member",
+          "source": "Politico",
+          "why_it_matters": "A federal investigation into an elected official could affect public trust and city governance.",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXpSV1hVQ2VGVzFWWHFXQkRZYTQ1Y3Zab1dNZk5OWnJxUGJWYktlc2U5NlVlcXFfS0xYQmtqdlhfaHdwZG5xZHRmU1NybmN3Vlh3dktaS2R6Wk14Q1BUUEFVRzU3c2x6VUhPdlAwRXZMTlNhclcxd2RiZVI1d3hpeWhBdXhQbFFQeTh3TF9qUGdYQklPWVpYcXhNMFFVOHRNdmtHTzBpd0VyM2cxM1diUTZsQzhadVc4YkxyMVB6M2lLYWR3QmJtVUFvSQ?oc=5",
+          "published_iso": "2026-04-02T10:00:00Z"
+        },
+        {
+          "title": "Outdoor dining returns, but far fewer roadway setups remain",
+          "source": "Gothamist",
+          "why_it_matters": "Restaurants, workers, and diners will feel the effects of stricter rules and reduced street seating.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRW9TT2w0ZGJPRzY0NGRjSG0tSm9WSGlEVGs3SG4zUExkYmwyWDJVMDdRcjlHLXB1VVVVZ1BPZktEX1pYNUp6d0hkUHRWVmNjVmNHenc3b1dlSDNWSUc3RGRqRXJaQXJ6Qi1QTHdSWTZlQ2RlWGFQRWcxRlBjR3ZtLVhSa3VnNnNKTmpRWFVSTEt1cnRGOVloakpwWlp2dXFhaGtfTlZ2MnBJX19Odk1rY09OUzE?oc=5",
+          "published_iso": "2026-04-02T14:00:00Z"
+        },
+        {
+          "title": "Volunteer fire companies on Staten Island seek city funding",
+          "source": "SILive.com",
+          "why_it_matters": "Funding gaps could affect emergency response capacity for residents relying on volunteer fire services.",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanA2ZHRweDFQQUUtYTQ4ZDlpM2xVeWJwR1hFQ3lhajFiT2NYUFl3ZFpiZGJoQjI2YVVZTEhRTnlGck1YQlBqLVA3cDh6V19NLTEwc200a09rdXdJTUhHUkNaazdpMlZtZE1UYkV0b2pFUTJNNElNU1NKVDFjLURrSmtPR2ZfWEJPSzVoMXRsR3E2YmtpVUlhdnp5eEpKS2VLVVFHR0RNUHhSTUpMSllTaHg0al85RjAxVl9KQnFheXpEM0Vlb014TmRZNWjSAeABQVVfeXFMTURtYmZ0VWtkYW42MFRVNGxRYmdVal9zdDhlQVZvTk41NlpVUXZzWW54Mm5lUDdfM3FKTXlXSjdibU5zbTBvTC0zTHp5NnFNUU1ZMlJZck5zekhmc0RNRTdVdHA4SGFKUjA4b0FIZFJTSk85ZTBjUVFpRVZSZHNvS21ja0YzMWludmUzS2hoNmpGRHdDaXpjeURtUWtfeWZwRVBlNW1oY1ZPekdpTUxYeG9JZlc2bnRRRTFob0h1NEp4bHJZclQteExVaHE5RlZLVUZUeUgybGFKNzJVdXNyNzA?oc=5",
+          "published_iso": "2026-04-03T09:50:00Z"
+        },
+        {
+          "title": "Private trash hauling reforms reach Manhattan’s Chinatown",
+          "source": "Gothamist",
+          "why_it_matters": "The changes could reduce noise, truck traffic, and safety risks for local businesses and residents.",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFo3UkNZMTNkbnVaOXZFakZXNzRvenpublJyZ1QzTFFkYXAwTTFuWWt0ZjlMSWNvdGR4LW1Oc1BoUEhRRnpYaUdMNmtLTG1nRHVOOXlTcUw2VW9UQnQ1SmViQXpMV1FrYXowTVBvd0dMYXZad3RVQzdPNjhNY0tyNDJ0c1ZtbVRJTVRwdEpNc2NianBucEg4U05ic0FBR0l2?oc=5",
+          "published_iso": "2026-04-03T10:01:00Z"
+        },
+        {
+          "title": "ICE arrests rose sharply in New York over three months",
+          "source": "Times Union",
+          "why_it_matters": "Increased immigration enforcement can affect families, workplaces, and community trust across the city.",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmxiaWhBdDZ3YVJrUV9GUG91SVk0MlZRSnFScjBvaWM2U3RhcWhMM2hzR0REczRQNzFxdlpwc2F3R0hGTkNIT19TVEZsc2VLV01mZ0pFVHZDdkZEUzIyV3o4SHhtYWNuU1JwS1pqaFgzM1IyMkxTekcweTVrVlFpYWpJMHZab25kY0diU3c2dENBWFZNOTQtVmtxQXFldw?oc=5",
+          "published_iso": "2026-04-03T10:14:18Z"
+        }
       ]
     },
     "opportunities_welfare": {
       "title": "Opportunities & Welfare",
-      "summary_md": "### Opportunities & Welfare\n\n- State officials are seeking ways to help 450,000 New Yorkers who could lose health insurance coverage. [↗](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPci02NWNrTlFWMVh4b0VRd2NDVTBTeTVDNU1aNWh0ZTNrNGxBQ0tFUThRbWlfUnh6elZhTlF0RzhpZGJsYTJnam52SkNfdXA5STlTdmNMTHVXSjU0eDRsaERFZnNnZXJoWGZYTUdnN0FuN1N5Z0g3YnBPbmc0ZVZ6UXFRRzhHdkFnNVRLRWdwRjRfS1dXMFg4NWJpQ3RmTTNCclg0bXRCMHVXNGtzOFhjUm9RUjNLb1dkZktSb0hpYlVlR0owVkdXOFVQUy1nUXM1NkhRYw?oc=5)\n- NYC parents can use a new city tool to search for child care options. [↗](https://news.google.com/rss/articles/CBMingFBVV95cUxNT0hWLV91Y3lmM0hNaTJVUEJ4RHFLZzJVZzRzRmlJYmRTM2hPMFo2bzVzSzM3eUYxZS1IcTEzWEVaN0JjanpMeUNiZkdMZmt5Y2RWUWw0d1l1SE9SbHZrUERNMFJQS05TMzljUWo3Uk9tVGlKOHFkRlBoQWx3M3VxVjRMQ2dMTHJYZWxlVDg0bkNiMFJ5eTkyRVF1UGdkZw?oc=5)\n- Congestion pricing revenue will fund major air-quality upgrades at Hunts Point Market in the Bronx. [↗](https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVBNVE51d0dRQVNEbEJZSGs4a0V3bFhMVmROR1U0NmI3b2t1MlIwbndNeG5hNTlGXy16b0h6Y3dodk9SWERVWk1fLWtGSDBUeGZ6UFVRazFCUDZWclhscXExOVBXZ2lHdTlMd0hNeFNCVUI0VnhVU1hKQTZKNGZfWldEejV2TE9tSDB4VDlmRVFRQUtOT0xITVJZWG5DTHhNZ0RrSEFB?oc=5)\n- A new deliverista hub is under construction on Broadway, potentially adding support space for delivery workers. [↗](https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkNlSFhRTmE5RXUwR280V0dnTWU2bGEwd1A0Qy1IYlJNMm1taERvNFNtNE9ndE9sck1sc0lEaDJZYTBmc2JXa3c3dHZPZ05LakFjV2NFdkd1LWxWQ3VpdUVLc2lzeEE4cnFmajVRdnc0OXVZWThVaXhGRjFpbFdFcHd2Vm9ndWFRYzE0RjNUUVBwQQ?oc=5)",
       "items": [
-        "- Lawmakers, state officials scramble to help 450,000 New Yorkers set to lose health insurance - City & State New York - City & State New York (Thu, 02 Apr 2026 18:04:47 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPci02NWNrTlFWMVh4b0VRd2NDVTBTeTVDNU1aNWh0ZTNrNGxBQ0tFUThRbWlfUnh6elZhTlF0RzhpZGJsYTJnam52SkNfdXA5STlTdmNMTHVXSjU0eDRsaERFZnNnZXJoWGZYTUdnN0FuN1N5Z0g3YnBPbmc0ZVZ6UXFRRzhHdkFnNVRLRWdwRjRfS1dXMFg4NWJpQ3RmTTNCclg0bXRCMHVXNGtzOFhjUm9RUjNLb1dkZktSb0hpYlVlR0owVkdXOFVQUy1nUXM1NkhRYw?oc=5",
-        "- Congestion pricing funds major air quality upgrades at Bronx’s Hunts Point Market - 6sqft - 6sqft (Thu, 02 Apr 2026 15:25:09 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVBNVE51d0dRQVNEbEJZSGs4a0V3bFhMVmROR1U0NmI3b2t1MlIwbndNeG5hNTlGXy16b0h6Y3dodk9SWERVWk1fLWtGSDBUeGZ6UFVRazFCUDZWclhscXExOVBXZ2lHdTlMd0hNeFNCVUI0VnhVU1hKQTZKNGZfWldEejV2TE9tSDB4VDlmRVFRQUtOT0xITVJZWG5DTHhNZ0RrSEFB?oc=5",
-        "- NYC parents looking for child care have a new tool at their fingertips - gothamist.com - gothamist.com (Fri, 03 Apr 2026 12:18:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNT0hWLV91Y3lmM0hNaTJVUEJ4RHFLZzJVZzRzRmlJYmRTM2hPMFo2bzVzSzM3eUYxZS1IcTEzWEVaN0JjanpMeUNiZkdMZmt5Y2RWUWw0d1l1SE9SbHZrUERNMFJQS05TMzljUWo3Uk9tVGlKOHFkRlBoQWx3M3VxVjRMQ2dMTHJYZWxlVDg0bkNiMFJ5eTkyRVF1UGdkZw?oc=5",
-        "- National Grid revamping key Staten Island natural gas site - amNewYork - amNewYork (Fri, 03 Apr 2026 19:58:05 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxNeV9TOVJyWTE2Yk9DRVN4ejQ3UUx0VXBSb2Qwb011T0FFeS1KZ3ZmQ0dRRmtlbXpWYWJjNFpITE9oSm5sLWdRTEQxTUtwRTl1MGFodXVnWmxiRGcxVGQzTWdZWm9oczRjd1lILVRrRmxLempqclNnUk10ai04dE52Yg?oc=5",
-        "- Two affordable NYC co-ops you can buy for $16K and $30K - Epicenter NYC - Epicenter NYC (Thu, 02 Apr 2026 16:50:12 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnJ3TU41RWFNS0d5Vmc0RXhhbGVZWkpmTGdBM09ZUWJkZElPeWpmazdKZ20wUkNkTDFqN0xKeExiMGV4TkVzX0JkV3NYU1pLQlo0NmxhNVNXZEhJZXBWMEtGN2dNV092Qk42bF8tSXd4TVVBRUxoQXRqOG5ZMWlKTllPNmI5enc?oc=5",
-        "- ‘I Would Rather My Child Be in School’ - nymag.com - nymag.com (Thu, 02 Apr 2026 10:00:55 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNZDFvVzhpRmZLVTlpWG1hY21DeFJDUkg5c2xuUm9rVVhnRXlrdHZxeTFkajdma3JINmkxdVpBSUdKMTkwUVAxWTF3QkRFZkd1YVYwdW1SRGtTVTRObjNXNjFFQ3BLUFE5ZGtSQU1QaUltUnBaMEpNRnBIRVE0bXowOTNnZ0gtYUl3N1JUV1JKV3JWVjVJclhpWkcybw?oc=5",
-        "- Deliverista hub on Broadway is under construction - tribecacitizen.com - tribecacitizen.com (Thu, 02 Apr 2026 14:15:04 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkNlSFhRTmE5RXUwR280V0dnTWU2bGEwd1A0Qy1IYlJNMm1taERvNFNtNE9ndE9sck1sc0lEaDJZYTBmc2JXa3c3dHZPZ05LakFjV2NFdkd1LWxWQ3VpdUVLc2lzeEE4cnFmajVRdnc0OXVZWThVaXhGRjFpbFdFcHd2Vm9ndWFRYzE0RjNUUVBwQQ?oc=5"
+        {
+          "title": "Officials rush to avert health coverage loss for 450,000 New Yorkers",
+          "source": "City & State New York",
+          "why_it_matters": "Hundreds of thousands could lose insurance, threatening access to care and raising costs citywide.",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPci02NWNrTlFWMVh4b0VRd2NDVTBTeTVDNU1aNWh0ZTNrNGxBQ0tFUThRbWlfUnh6elZhTlF0RzhpZGJsYTJnam52SkNfdXA5STlTdmNMTHVXSjU0eDRsaERFZnNnZXJoWGZYTUdnN0FuN1N5Z0g3YnBPbmc0ZVZ6UXFRRzhHdkFnNVRLRWdwRjRfS1dXMFg4NWJpQ3RmTTNCclg0bXRCMHVXNGtzOFhjUm9RUjNLb1dkZktSb0hpYlVlR0owVkdXOFVQUy1nUXM1NkhRYw?oc=5",
+          "published_iso": "2026-04-02T18:04:47Z"
+        },
+        {
+          "title": "New child care search tool launches for NYC parents",
+          "source": "Gothamist",
+          "why_it_matters": "Parents may find available care faster, easing a major barrier to work and family stability.",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT0hWLV91Y3lmM0hNaTJVUEJ4RHFLZzJVZzRzRmlJYmRTM2hPMFo2bzVzSzM3eUYxZS1IcTEzWEVaN0JjanpMeUNiZkdMZmt5Y2RWUWw0d1l1SE9SbHZrUERNMFJQS05TMzljUWo3Uk9tVGlKOHFkRlBoQWx3M3VxVjRMQ2dMTHJYZWxlVDg0bkNiMFJ5eTkyRVF1UGdkZw?oc=5",
+          "published_iso": "2026-04-03T12:18:00Z"
+        },
+        {
+          "title": "Affordable housing lottery opens for Astoria Cove phase one",
+          "source": "New York YIMBY",
+          "why_it_matters": "The lottery creates a new chance for eligible New Yorkers to secure below-market housing in Queens.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTBHVmFZX2wwX3hjVmIyLVJYOTEzZlI0eDBqV3JHbzNVQU9TN2NIeDJHMmo3bW9GMkxNc3RjUEFaSUI2eHJqX19XYk0zVEk0ZkswbjlCZjUydDg5T1JyTnFmbzVwRWhtYkhwcFE3cHZiRDFKMW9pOTBiV1BQSVlDWVRxbF94Umhydm5UOGl4VklHa1pCcTlVTHl4Z2c5LWtPRHdTN2s1U0ZCbUtlVGlBMGRpSFAwN2ph?oc=5",
+          "published_iso": "2026-04-03T11:00:52Z"
+        }
       ]
     },
     "community": {
       "title": "Community",
-      "summary_md": "### Community\n\n- Check store hours before shopping this Good Friday and Easter weekend, as some retailers will be closed or reduced. [↗](https://news.google.com/rss/articles/CBMingFBVV95cUxOLVY3MlJXNU5VVndXZ2FZQTJURjIxMVdaZkdvQ05OSE1CNFprSm51NkpLQ0hZeXF6QXJLTFZXWTQ3emYzTlZkZ2VSS0lfYzg4bFo5alZQNEJ6VlhNMVBhdHVNMDlPSnhVR2taeW1IR3I5a19XamJnX1IwQV82dDIxeGh0OU1UcEVGV01JNWtHSWJOT0RoRTQ3VjZpRldEQQ?oc=5)\n- Expect crowds and Fifth Avenue activity Sunday as the Easter Parade and Bonnet Festival returns. [↗](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3BTQ0lDUi1paGtOUFctU3Z2ZnRzTjUyaEFwcC1tQjhKY0lqbDZtRGNvdUJOUFotdnYxeGxhY0cxRjYtNGNPWjYyeXFBU1pFOWpUQmd2RFBQc040ZUJaRG1nOVRQMFZYT2puVElhV3ZBYmhlbkpWUUxaWVQ4VGNpTnkxYVpOZUhlNlhwc1B6cDItNV9WYjFCWWhwdw?oc=5)\n- Museum Mile Festival 2026 plans are announced by the Museum of the City of New York. [↗](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZMy10RDJTeW53Y01lc3BFb0JZTWhmYVNheG9WYW9VWjdvMkttSHBFV2hJWXBoSmJuaUFZRkFiMTMybFN2QXUtRGkxYmVNWWlabUl0RHAxN2Q4YmZtU0d0a2Rn?oc=5)\n- John Summit’s Experts Only Festival will return to Randall’s Island this September for local music fans. [↗](https://news.google.com/rss/articles/CBMinAFBVV95cUxPN293eWIta2J0TWpGeDI4VGpabElMXzB0aVJBaDA2VmZ6ZFl1NHpLdWx4ZWl1R2pCU3JhWkVuYzFmTk5IYXd0U25ud19nRThjV2JXQTI3VVdrV1ZPUjRqeFhUZGRta1ozX3NUaG5hODZYUTFHXzRxYUVxbjBPX0pOX0FSbGZxSlNrbkprbUJrOXRQWF9aNExTMml5U0w?oc=5)\n- The Meatball Shop has closed its last location, part of a broader wave of April restaurant closures. [↗](https://news.google.com/rss/articles/CBMidEFVX3lxTE1YbTM2ai1oRE1qbDMwN2QxUVRva3l6VnpYX09uWXVudlk0NmtaYklfYnBIRE1talFLOUNEWXVSQmVsTzB3S25ZYVU5ZzFxZzZhUXpSUnNhUGMyNGpWTFZxYXRZcVNsUTNVWVJudU4xdkZoMlFT?oc=5)",
       "items": [
-        "- Museum Mile Festival 2026 - Museum of the City of New York - Museum of the City of New York (Thu, 02 Apr 2026 18:28:35 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZMy10RDJTeW53Y01lc3BFb0JZTWhmYVNheG9WYW9VWjdvMkttSHBFV2hJWXBoSmJuaUFZRkFiMTMybFN2QXUtRGkxYmVNWWlabUl0RHAxN2Q4YmZtU0d0a2Rn?oc=5",
-        "- John Summit’s Experts Only Festival returns to Randall’s Island this September - amNewYork - amNewYork (Fri, 03 Apr 2026 14:40:13 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPN293eWIta2J0TWpGeDI4VGpabElMXzB0aVJBaDA2VmZ6ZFl1NHpLdWx4ZWl1R2pCU3JhWkVuYzFmTk5IYXd0U25ud19nRThjV2JXQTI3VVdrV1ZPUjRqeFhUZGRta1ozX3NUaG5hODZYUTFHXzRxYUVxbjBPX0pOX0FSbGZxSlNrbkprbUJrOXRQWF9aNExTMml5U0w?oc=5",
-        "- Once-Hot Meatball Shop Shutters Last Location — And More NYC Restaurant Closures in April - Eater New York - Eater New York (Fri, 03 Apr 2026 14:10:23 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE1YbTM2ai1oRE1qbDMwN2QxUVRva3l6VnpYX09uWXVudlk0NmtaYklfYnBIRE1talFLOUNEWXVSQmVsTzB3S25ZYVU5ZzFxZzZhUXpSUnNhUGMyNGpWTFZxYXRZcVNsUTNVWVJudU4xdkZoMlFT?oc=5",
-        "- Travel is hell. You should staycation in New York. - gothamist.com - gothamist.com (Fri, 03 Apr 2026 14:01:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxNODl0dEwzVWlycWpobDJVZ09CV1JjWUpEcUNfdDk0WWpfQ1R2VDVtZjEtTWlETXpaZmxkTmtxbHhVZWNxU253TFlfSDdlREhFN3RxM3QyTy1jUGJWUzZTNVdGVWF1R3pzT3NkMms0WFRKeXQ4ZjZWN1hkeWFkWXV4TndfcExGRUU1RTE2UV9qTXV3YWs?oc=5",
-        "- Can you have a full night out in New York City for under $20? We did it. - gothamist.com - gothamist.com (Thu, 02 Apr 2026 15:33:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVBEdlFQS1NUMjU3MU03U21Ha3RTLUtncGdTcUd3QzBEbEVNRmFRemliQ2RGTy1uQ1MxcUdoUW5BeEdhTDQ0cWFhSkNNR3J6dmVQd3dRRVYyaGRpVkt2WHFzcDU3VGlDRGh5OHFiTlVva0piTUNBWmduUTM0MTJsdDdkeV9jS1Nrb1NsRGJGOHpFamFZeWZxcWFLRjc?oc=5",
-        "- NYC Easter Parade and Bonnet Festival returns to Fifth Avenue Sunday - gothamist.com - gothamist.com (Fri, 03 Apr 2026 11:00:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3BTQ0lDUi1paGtOUFctU3Z2ZnRzTjUyaEFwcC1tQjhKY0lqbDZtRGNvdUJOUFotdnYxeGxhY0cxRjYtNGNPWjYyeXFBU1pFOWpUQmd2RFBQc040ZUJaRG1nOVRQMFZYT2puVElhV3ZBYmhlbkpWUUxaWVQ4VGNpTnkxYVpOZUhlNlhwc1B6cDItNV9WYjFCWWhwdw?oc=5",
-        "- A guide to Good Friday, Easter Sunday 2026 store closings this weekend - New York Post - New York Post (Fri, 03 Apr 2026 10:00:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOLVY3MlJXNU5VVndXZ2FZQTJURjIxMVdaZkdvQ05OSE1CNFprSm51NkpLQ0hZeXF6QXJLTFZXWTQ3emYzTlZkZ2VSS0lfYzg4bFo5alZQNEJ6VlhNMVBhdHVNMDlPSnhVR2taeW1IR3I5a19XamJnX1IwQV82dDIxeGh0OU1UcEVGV01JNWtHSWJOT0RoRTQ3VjZpRldEQQ?oc=5",
-        "- Dante, Katana Kitten and more rank as some of the best bars in North America - Time Out - Time Out (Wed, 01 Apr 2026 21:11:26 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPNTMtYmx6a3h2M0pLNFV6aVdIQWNyZFQ3X0ZMR3VtUXB5YzF0bG9YMzRTYVhTZ3M4YktQcGs5WTJyeEl2V0FrTzVWRE5kck1QbURac21GMzNYa3dwdnVjd2pDM0FCYk56R2pOWTBTaG5Ec0RCZEdMNFYzR2prX3pNOENiRV9YUXN0QzNheGpjak5Ub0NYellEb2VoUWdLR2FMTzdHWm1NTzRmWFp5WnNJ?oc=5",
-        "- Photos: CATS: THE JELLICLE BALL On Broadway- First Look - BroadwayWorld.com - BroadwayWorld.com (Fri, 03 Apr 2026 00:04:05 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQWE9yb3YyQkduYzBUN3ZtQTBMYzVIemNFYWdxNU54TkNfekMxR0diWDNHUk0tSjRtVFd2RWlIS1EtSXlrN2VwQVM1Qko4bEY5U09PcHBENDNpTnJIck4tcXVuT252RmxyWUlpMncxRWJkN2VKTEdQc28wSnFTSHlHYTRBLS1IUHhxRy1BTUhDdnk1eGQ2OXp0Z0F3VF9wcThaaXc?oc=5",
-        "- New Renderings Revealed For Rolex Headquarters At 665 Fifth Avenue In Midtown, Manhattan - New York YIMBY - New York YIMBY (Fri, 03 Apr 2026 12:00:27 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUXQ1NGl4S0k4Y054aUE3VlBueDdhLXlJeVFLSkxnd29KWkM5b2h4aGtlelM3ZlZTd3FlZm4xM3oxdDc4ZWo3NkxQc1hOWm1iTFp3YXdNZTY1aUl4bU5RMWNOYjlWOFc1alF0cTVrTlptMkFjdGZNd1VBdHE0X2dHSldUZEdUMmlQdkRXZEo3TXZFQzUwczlhbHpkSmswYlhKakM3d1ppb2s3UzJVUU5jWHBiQnA0cmdxY1dQRnJESDgxZTQ?oc=5",
-        "- UWS Weekend: Great Things to Do in (and Around) the Neighborhood - West Side Rag - West Side Rag (Fri, 03 Apr 2026 00:56:57 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUdmRi1LcjcxV3Y4bmc5dVZndmU2ZWdvUG9DTHd1MV9vY2JUOS1venMzYVJBQ3otUTRtQkxFeVIzMVFvQTlIdy03YlV4MTkzQ2VnQVNPeXNZQlpnZFN0Q216dm1UXzd2eno2b2pKbmdENUZFcW9NdGdJSnJyR1NES2NGb3hBR3FJWEVYNS0wdVFIWWVlbnN6NnN1UU5wcGh1STlQQ3NB?oc=5",
-        "- Where to Eat in April - Grub Street - Grub Street (Wed, 01 Apr 2026 11:00:00 GMT)",
-        "  Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxPN1ZRdW1ueW9mVnV6bDdSM1dxRE1PaVVXYkRlNEFaVWlpd0pKRldQTWxEcDA0TnFXNGJ0UDM1b1ZkWHpjaThVU2F3X2tzdDM3MzVsa1htVW92SlB3RUotZ2lRdFFvUE1fWENlOEszWUtCbk9Dd2FjcXJjV25XQlJxdg?oc=5"
+        {
+          "title": "Museum Mile Festival 2026 announced",
+          "source": "Museum of the City of New York",
+          "why_it_matters": "The annual free museum event draws large crowds and offers residents citywide cultural access.",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZMy10RDJTeW53Y01lc3BFb0JZTWhmYVNheG9WYW9VWjdvMkttSHBFV2hJWXBoSmJuaUFZRkFiMTMybFN2QXUtRGkxYmVNWWlabUl0RHAxN2Q4YmZtU0d0a2Rn?oc=5",
+          "published_iso": "2026-04-02T18:28:35Z"
+        },
+        {
+          "title": "Easter Parade returns to Fifth Avenue Sunday",
+          "source": "Gothamist",
+          "why_it_matters": "The popular holiday event affects Midtown foot traffic and gives families a major weekend activity.",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3BTQ0lDUi1paGtOUFctU3Z2ZnRzTjUyaEFwcC1tQjhKY0lqbDZtRGNvdUJOUFotdnYxeGxhY0cxRjYtNGNPWjYyeXFBU1pFOWpUQmd2RFBQc040ZUJaRG1nOVRQMFZYT2puVElhV3ZBYmhlbkpWUUxaWVQ4VGNpTnkxYVpOZUhlNlhwc1B6cDItNV9WYjFCWWhwdw?oc=5",
+          "published_iso": "2026-04-03T11:00:00Z"
+        },
+        {
+          "title": "Experts Only Festival returning to Randall’s Island",
+          "source": "amNewYork",
+          "why_it_matters": "A large music festival can affect transit, park access, and neighborhood activity this fall.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN293eWIta2J0TWpGeDI4VGpabElMXzB0aVJBaDA2VmZ6ZFl1NHpLdWx4ZWl1R2pCU3JhWkVuYzFmTk5IYXd0U25ud19nRThjV2JXQTI3VVdrV1ZPUjRqeFhUZGRta1ozX3NUaG5hODZYUTFHXzRxYUVxbjBPX0pOX0FSbGZxSlNrbkprbUJrOXRQWF9aNExTMml5U0w?oc=5",
+          "published_iso": "2026-04-03T14:40:13Z"
+        }
       ]
     }
   }

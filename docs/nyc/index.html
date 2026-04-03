@@ -3,11 +3,6 @@
   <head>
     <meta charset="utf-8" />
     <title>CivicPulse — New York NY</title>
-    <!-- 
-      CivicPulse NYC - Daily automated civic digest
-      Fetches data from civicpulse_digest_New_York_NY.json
-      Generated daily via GitHub Actions
-    -->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <style>
@@ -17,7 +12,7 @@
         --accent: #c37b33;
         --border: #000000;
         --muted: #555555;
-        --accent2: #1F3A5F;
+        --accent2: #1f3a5f;
       }
 
       *,
@@ -98,9 +93,15 @@
         font-weight: 600;
       }
 
+      .nav-row a:focus-visible,
+      .featured-list a:focus-visible {
+        outline: 2px solid var(--accent2);
+        outline-offset: 3px;
+      }
+
       /* Daily fact */
       .daily-fact {
-        margin: 26px 0 36px;
+        margin: 26px 0 18px;
         font-size: 18px;
         line-height: 1.5;
       }
@@ -113,7 +114,26 @@
         text-transform: uppercase;
       }
 
-      /* Featured grid */
+      .daily-fact a {
+        text-decoration: none;
+        color: var(--accent2);
+      }
+
+      .daily-fact a:hover {
+        text-decoration: underline;
+      }
+
+      /* Topline */
+      .topline {
+        margin: 20px 0 30px;
+        padding: 16px;
+        background: #f8f9fa;
+        border-left: 3px solid var(--accent);
+        font-size: 16px;
+        line-height: 1.5;
+      }
+
+      /* Section grid */
       .featured-grid {
         display: grid;
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -140,27 +160,50 @@
         font-size: 15px;
       }
 
-      .featured-body a {
-        text-decoration: none;
-        color: var(--accent2);
+      /* Story list */
+      .featured-list {
+        margin: 0;
+        padding-left: 20px;
       }
 
-      .featured-body a:hover {
+      .featured-list li + li {
+        margin-top: 14px;
+      }
+
+      .featured-list a {
+        color: var(--accent2);
+        text-decoration: none;
+        font-weight: 600;
+      }
+
+      .featured-list a:hover {
         text-decoration: underline;
       }
 
-      .daily-fact a {
-        text-decoration: none;
-        color: var(--accent2);
+      .story-why {
+        display: block;
+        margin-top: 4px;
+        color: var(--foreground);
       }
 
-      .daily-fact a:hover {
-        text-decoration: underline;
+      .story-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px 10px;
+        margin-top: 4px;
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      .story-date {
+        padding: 1px 6px;
+        border: 1px solid #d5d7da;
+        border-radius: 999px;
+        letter-spacing: 0.02em;
+        white-space: nowrap;
       }
 
       .muted {
-        margin-top: auto;
-        font-size: 12px;
         color: var(--muted);
       }
 
@@ -169,6 +212,7 @@
         margin-top: 40px;
         font-size: 14px;
         text-align: right;
+        color: var(--muted);
       }
 
       .footer-note a {
@@ -199,7 +243,7 @@
         }
 
         .daily-fact {
-          margin: 22px 0 28px;
+          margin: 22px 0 18px;
           font-size: 17px;
         }
       }
@@ -218,9 +262,6 @@
         </h1>
         <nav class="nav-row" aria-label="Primary">
           <a href="#">Daily Pulse</a>
-          <!-- <a href="#">Sentiments (soon!)</a> -->
-          <!-- <a href="#">Forum</a>
-          <a href="#">Games</a> -->
         </nav>
       </header>
 
@@ -230,7 +271,9 @@
           <span id="daily-fact-content">Loading…</span>
         </p>
 
-        <section class="featured-grid" id="featured" aria-label="Featured civic updates"></section>
+        <section class="topline" id="topline">Loading today's brief…</section>
+
+        <section class="featured-grid" id="sections-grid" aria-label="Today's civic updates"></section>
       </main>
 
       <footer class="footer-note">
@@ -243,108 +286,140 @@
 
       const DIGEST_PATH = "civicpulse_digest_New_York_NY.json";
 
-      const featuredGroups = [
-        { label: "Risks / Alerts", keys: ["risks_alerts"] },
-        { label: "Civics / Politics", keys: ["civics_politics"] },
-        { label: "Opportunities / Welfare", keys: ["opportunities_welfare"] },
-        { label: "Community", keys: ["community"] }
-      ];
-
       const elements = {
         place: document.getElementById("place"),
         updated: document.getElementById("updated"),
         dailyFact: document.getElementById("daily-fact-content"),
-        featured: document.getElementById("featured")
+        topline: document.getElementById("topline"),
+        sectionsGrid: document.getElementById("sections-grid"),
       };
 
-      function mdToHtml(markdown = "") {
-        return markdown
-          .replace(/\[([^\]]+)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
-          .replace(/\n/g, "<br/>");
-      }
-
-      function getSectionSummary(section) {
-        if (!section) {
-          return null;
-        }
-
-        if (section.summary_md) {
-          const clean = section.summary_md.replace(/^#+\s*[^\n]+\n*/, "");
-          return { html: mdToHtml(clean), title: section.title || "" };
-        }
-
-        if (Array.isArray(section.items) && section.items.length > 0) {
-          return { html: mdToHtml(section.items[0]), title: section.title || "" };
-        }
-
-        return null;
-      }
-
-      function findSummary(group, sections) {
-        for (const key of group.keys) {
-          const summary = getSectionSummary(sections[key]);
-          if (summary) {
-            return summary;
-          }
-        }
-
-        return { html: "No updates available right now.", title: "" };
-      }
-
-      function renderFeatured(sections) {
-        elements.featured.replaceChildren();
-
-        featuredGroups.forEach(group => {
-          const { html, title } = findSummary(group, sections);
-          const card = document.createElement("article");
-          card.className = "featured-card";
-          card.innerHTML = `
-            <h3>${group.label}</h3>
-            <div class="featured-body">${html}</div>
-          `;
-          elements.featured.append(card);
-        });
+      function parseDate(value) {
+        if (!value) return null;
+        const d = new Date(value);
+        return Number.isNaN(d.getTime()) ? null : d;
       }
 
       function formatGeneratedAt(generatedAt) {
-        if (!generatedAt) {
-          return "—";
+        const d = parseDate(generatedAt);
+        if (!d) return "—";
+        const datePart = d.toLocaleDateString(undefined, { month: "numeric", day: "numeric" });
+        const timePart = d.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit" });
+        return `${datePart} at ${timePart}`;
+      }
+
+      function formatStoryDate(publishedIso) {
+        const d = parseDate(publishedIso);
+        if (!d) return "";
+        return d.toLocaleDateString(undefined, { month: "short", day: "numeric" });
+      }
+
+      const PINNED_SECTIONS = {
+        risks_alerts: { label: "Risks & Alerts", empty: "No active alerts right now." },
+      };
+
+      function renderSectionCard(sectionKey, section, emptyMessage = null) {
+        if (!section) return null;
+
+        const hasItems = Array.isArray(section.items) && section.items.length > 0;
+        if (!hasItems && !emptyMessage) return null;
+
+        const card = document.createElement("article");
+        card.className = "featured-card";
+
+        const heading = document.createElement("h3");
+        heading.textContent = section.title || sectionKey;
+        card.append(heading);
+
+        const body = document.createElement("div");
+        body.className = "featured-body";
+
+        if (!hasItems) {
+          const p = document.createElement("p");
+          p.className = "muted";
+          p.style.margin = "0";
+          p.textContent = emptyMessage;
+          body.append(p);
+        } else {
+          const ol = document.createElement("ol");
+          ol.className = "featured-list";
+
+          section.items.forEach(story => {
+            const li = document.createElement("li");
+
+            const link = document.createElement("a");
+            link.href = story.link;
+            link.target = "_blank";
+            link.rel = "noopener";
+            link.textContent = story.title;
+
+            const why = document.createElement("span");
+            why.className = "story-why";
+            why.textContent = story.why_it_matters;
+
+            const meta = document.createElement("span");
+            meta.className = "story-meta";
+
+            const dateLabel = formatStoryDate(story.published_iso);
+            if (dateLabel) {
+              const dateSpan = document.createElement("span");
+              dateSpan.className = "story-date";
+              dateSpan.textContent = dateLabel;
+              meta.append(dateSpan);
+            }
+
+            const sourceSpan = document.createElement("span");
+            sourceSpan.className = "muted";
+            sourceSpan.textContent = story.source || "";
+            meta.append(sourceSpan);
+
+            li.append(link, why, meta);
+            ol.append(li);
+          });
+
+          body.append(ol);
         }
 
-        const generated = new Date(generatedAt);
-        const datePart = generated.toLocaleDateString(undefined, {
-          month: "numeric",
-          day: "numeric"
-        });
-        const timePart = generated.toLocaleTimeString(undefined, {
-          hour: "numeric",
-          minute: "2-digit"
+        card.append(body);
+        return card;
+      }
+
+      function renderSections(sections, order) {
+        elements.sectionsGrid.replaceChildren();
+
+        // Always render pinned sections first
+        Object.entries(PINNED_SECTIONS).forEach(([key, config]) => {
+          const section = sections[key] || { title: config.label, items: [] };
+          const card = renderSectionCard(key, section, config.empty);
+          if (card) elements.sectionsGrid.append(card);
         });
 
-        return `${datePart} at ${timePart}`;
+        // Then render the rest in order, skipping pinned ones
+        const pinned = Object.keys(PINNED_SECTIONS);
+        const keys = (order || Object.keys(sections)).filter(k => !pinned.includes(k));
+        keys.forEach(key => {
+          const card = renderSectionCard(key, sections[key]);
+          if (card) elements.sectionsGrid.append(card);
+        });
       }
 
       async function loadDigest() {
         const response = await fetch(DIGEST_PATH);
-        if (!response.ok) {
-          throw new Error(`Failed to fetch digest: ${response.status}`);
-        }
-
+        if (!response.ok) throw new Error(`Failed to fetch digest: ${response.status}`);
         return response.json();
       }
 
       async function initialisePage() {
         try {
           const data = await loadDigest();
-          elements.place.textContent = data.place || "Essentials District";
+          elements.place.textContent = data.place || "New York NY";
           elements.updated.textContent = formatGeneratedAt(data.generated_at_utc);
-          elements.dailyFact.innerHTML = mdToHtml(data.daily_fact || "No daily fact available today.");
-
-          const sections = data.sections || {};
-          renderFeatured(sections);
+          elements.dailyFact.textContent = data.daily_fact || "";
+          elements.topline.textContent = data.topline_md || "";
+          renderSections(data.sections || {}, data.order || null);
         } catch (error) {
           console.error("Failed to load data:", error);
-          elements.featured.innerHTML = "<p>Failed to load data. Please try again later.</p>";
+          elements.sectionsGrid.innerHTML = "<p>Failed to load data. Please try again later.</p>";
         }
       }
 
