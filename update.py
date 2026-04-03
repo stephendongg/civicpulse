@@ -3,7 +3,7 @@
 CivicPulse News Aggregator
 --------------------------
 Fetches local news from Google News RSS feed, classifies articles using 
-OpenAI GPT-4, generates summaries, and outputs a JSON digest for the website.
+OpenAI gpt-5.4, generates summaries, and outputs a JSON digest for the website.
 
 Runs daily via GitHub Actions.
 """
@@ -304,7 +304,7 @@ for cat in CIN_LABELS:
     
     lines = []
     for _, row in subset.iterrows():
-        line = f"- {row['title']} - {row['source']} (source: {row['source']}, {row['published']})"
+        line = f"- {row['title']} - {row['source']} ({row['published']})"
         lines.append(line)
         lines.append(f"  Link: {row['link']}")
     
@@ -395,7 +395,7 @@ for cat in CIN_ORDER:
         md_block = summarize_section(cat, ctx)
         section_markdowns.append(md_block)
 
-        # NEW: also save a structured version
+        # Save a structured version alongside the markdown block
         sections_map[cat] = {
             "title": CIN_PRETTY.get(cat, cat.title()),
             "summary_md": md_block,

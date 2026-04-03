@@ -113,23 +113,6 @@
         text-transform: uppercase;
       }
 
-      .topline {
-        margin: 20px 0;
-        padding: 16px;
-        background: #f8f9fa;
-        border-left: 3px solid var(--accent);
-        font-size: 16px;
-        line-height: 1.5;
-      }
-
-      #topline {
-        display: inline;
-      }
-
-      #topline a {
-        color: inherit;
-      }
-
       /* Featured grid */
       .featured-grid {
         display: grid;
@@ -361,7 +344,7 @@
           renderFeatured(sections);
         } catch (error) {
           console.error("Failed to load data:", error);
-          elements.topline.textContent = "Failed to load data. Please try again later.";
+          elements.featured.innerHTML = "<p>Failed to load data. Please try again later.</p>";
         }
       }
 

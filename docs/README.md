@@ -6,7 +6,7 @@
 
 ## How it works
 
-Fetches NYC news → Classifies with GPT-4 → Filters by importance → Generates daily digest
+Fetches NYC news → Classifies with gpt-5.4 → Filters by importance → Generates daily digest
 
 Uses a custom taxonomy adapted from the FCC's Critical Information Needs framework for civic categorization.
 
