@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-03T21:28:40Z",
-  "daily_fact": "Curbed reports that an electric-green stream in New York City is actually a positive sign, showing dye used to trace and improve the city’s water infrastructure.",
-  "topline_md": "New York’s week was led by major city and state policy fights over affordability, transit and streets: the Council backed fully subsidized Fair Fares for 1.3 million riders, while battles continued over highway expansion, subway staffing, sidewalk sheds and unfunded trash containerization. Separately, officials faced mounting pressure from a predawn federal raid on a Council member, rising ICE arrests, and warnings on job losses, Wall Street weakness and 450,000 residents at risk of losing health insurance.",
+  "generated_at_utc": "2026-04-04T11:23:14Z",
+  "daily_fact": "Comedian Pete Davidson is listing another New York property while selling his Staten Island condo, highlighting continued activity in the city’s real estate market.",
+  "topline_md": "New York’s week was led by major affordability and infrastructure fights: the Council backed fully subsidized transit for 1.3 million riders, while battles intensified over unfunded trash containerization, subway staffing, highway expansion, and a clouding economic outlook.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,74 +13,60 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Council backs full Fair Fares subsidy for 1.3 million New Yorkers",
+          "title": "Council backs full Fair Fares coverage for 1.3 million New Yorkers",
           "source": "New York Post",
-          "why_it_matters": "The expansion could sharply cut commuting costs for low-income riders across the city.",
+          "why_it_matters": "Free transit for more low-income riders would directly cut commuting costs across the city.",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1BSbGJseTF3bzcxZlo4VFpjcHVjTUlDWUNjVkRWUnc5X2dLY2J5SndoYURjbWNxSWROQXNmbjZqeVZSQXBpdDNmRUdwWmJpZ19vYi1qM0NTTWR1dDYySEhTSUZYZ2lBcGJIOVhvR0Vva1o1bl9Fbko0SHNZRnJRenVDQTctUjhJZnFxdDlyWU1iTXlKTEVIdHlBOW5vQjY5QnlFN0JZQ183Q180Z1gzeVVma0JtSGczU2oyS3hkTVFFLWxtZ0E?oc=5",
           "published_iso": "2026-04-02T21:33:00Z"
         },
         {
-          "title": "City unveils plan to reduce sidewalk sheds and falling debris",
+          "title": "New NYC plan targets sidewalk sheds and falling debris",
           "source": "ABC7 New York",
-          "why_it_matters": "The proposal could improve street safety, sunlight, and sidewalk access in many neighborhoods.",
+          "why_it_matters": "Changes could improve street safety and reduce long-blocked sidewalks in many neighborhoods.",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1k1Q3gxLU9EZjBmZHh0NDN1c2dCaXl5RXZVM1J0Nm81bm41VHRmNjV3c1F1SXFiR1drMFRmZmtRVTV2R0N0bkgxMXY4TUUzMTJGcVZqNng2TWhGV0FwUnZCOFludExlZlp2MUVnLURBUmdtcHJFN28yTGE1RnZuamgzUFZPbjZLQ3NPcGh30gGTAUFVX3lxTE14MndwalAtVXF4c3cxZmhJZ2ctUUE0eDRmRzNlS1dweHNxSmNYVEItdTZkaVJXSEJBWjF1WHRWWlQyVm0wMFVQREJ2Z214dFV0SWxQNC1NN2lpNHNIQWdXU2xTRGd3bVp4VlFkZVFwYTUtU3N3Uy04WkdEeEVOcDRBaGdkXzh0UXRNMDVvNldsYlNEcw?oc=5",
-          "published_iso": "2026-04-02T22:19:37Z"
+          "published_iso": "2026-04-02T22:19:41Z"
         },
         {
-          "title": "ICE arrests rose sharply in New York over three months",
-          "source": "Times Union",
-          "why_it_matters": "Increased immigration enforcement can affect families, workplaces, and trust in local institutions.",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmxiaWhBdDZ3YVJrUV9GUG91SVk0MlZRSnFScjBvaWM2U3RhcWhMM2hzR0REczRQNzFxdlpwc2F3R0hGTkNIT19TVEZsc2VLV01mZ0pFVHZDdkZEUzIyV3o4SHhtYWNuU1JwS1pqaFgzM1IyMkxTekcweTVrVlFpYWpJMHZab25kY0diU3c2dENBWFZNOTQtVmtxQXFldw?oc=5",
-          "published_iso": "2026-04-03T10:14:18Z"
-        },
-        {
-          "title": "Roadway outdoor dining returns, but at a much smaller scale",
-          "source": "Gothamist",
-          "why_it_matters": "The reduced program will reshape curb use, restaurant revenue, and neighborhood street life.",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRW9TT2w0ZGJPRzY0NGRjSG0tSm9WSGlEVGs3SG4zUExkYmwyWDJVMDdRcjlHLXB1VVVVZ1BPZktEX1pYNUp6d0hkUHRWVmNjVmNHenc3b1dlSDNWSUc3RGRqRXJaQXJ6Qi1QTHdSWTZlQ2RlWGFQRWcxRlBjR3ZtLVhSa3VnNnNKTmpRWFVSTEt1cnRGOVloakpwWlp2dXFhaGtfTlZ2MnBJX19Odk1rY09OUzE?oc=5",
-          "published_iso": "2026-04-02T14:00:00Z"
-        },
-        {
-          "title": "Volunteer fire companies on Staten Island still lack city funding",
-          "source": "SILive.com",
-          "why_it_matters": "Funding gaps could strain emergency response capacity for residents relying on thousands of 911 runs.",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanA2ZHRweDFQQUUtYTQ4ZDlpM2xVeWJwR1hFQ3lhajFiT2NYUFl3ZFpiZGJoQjI2YVVZTEhRTnlGck1YQlBqLVA3cDh6V19NLTEwc200a09rdXdJTUhHUkNaazdpMlZtZE1UYkV0b2pFUTJNNElNU1NKVDFjLURrSmtPR2ZfWEJPSzVoMXRsR3E2YmtpVUlhdnp5eEpKS2VLVVFHR0RNUHhSTUpMSllTaHg0al85RjAxVl9KQnFheXpEM0Vlb014TmRZNWjSAeABQVVfeXFMTURtYmZ0VWtkYW42MFRVNGxRYmdVal9zdDhlQVZvTk41NlpVUXZzWW54Mm5lUDdfM3FKTXlXSjdibU5zbTBvTC0zTHp5NnFNUU1ZMlJZck5zekhmc0RNRTdVdHA4SGFKUjA4b0FIZFJTSk85ZTBjUVFpRVZSZHNvS21ja0YzMWludmUzS2hoNmpGRHdDaXpjeURtUWtfeWZwRVBlNW1oY1ZPekdpTUxYeG9JZlc2bnRRRTFob0h1NEp4bHJZclQteExVaHE5RlZLVUZUeUgybGFKNzJVdXNyNzA?oc=5",
-          "published_iso": "2026-04-03T09:50:00Z"
-        },
-        {
-          "title": "Trash containerization remains unfunded in city budget",
+          "title": "State bill would curb highway expansions near vulnerable communities",
           "source": "Streetsblog New York City",
-          "why_it_matters": "Without funding, neighborhoods may keep facing rat-prone sidewalks and delayed sanitation improvements.",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzZPNkJvZUFMcXppV2EybUdEYURuTzRTY0hORGFPSHo5S0NROHoyM2RJa3pzRXNES2ZWT1ZHRVhscUJidUE4dnNsQkl3ZVg5ZUctY1lXV0VZTEg1R0NmZksxenYxUXllQnF2UVlNRFZOMHRjbTFyLVl4UElfdml6aFhkVzUwX1luM1U0SWpJdXJPc0hsNDdwb3Q5Vnh3N3RadWp3OTRsNHRncG1sSnlz?oc=5",
-          "published_iso": "2026-04-02T04:02:00Z"
-        },
-        {
-          "title": "Private trash reforms reach Manhattan’s Chinatown",
-          "source": "Gothamist",
-          "why_it_matters": "The changes could reduce truck traffic, noise, and safety risks on crowded local streets.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZFo3UkNZMTNkbnVaOXZFakZXNzRvenpublJyZ1QzTFFkYXAwTTFuWWt0ZjlMSWNvdGR4LW1Oc1BoUEhRRnpYaUdMNmtLTG1nRHVOOXlTcUw2VW9UQnQ1SmViQXpMV1FrYXowTVBvd0dMYXZad3RVQzdPNjhNY0tyNDJ0c1ZtbVRJTVRwdEpNc2NianBucEg4U05ic0FBR0l2?oc=5",
-          "published_iso": "2026-04-03T10:01:00Z"
-        },
-        {
-          "title": "State bill targets highway expansions near vulnerable communities",
-          "source": "Streetsblog New York City",
-          "why_it_matters": "The measure could influence future road projects and pollution burdens in affected city neighborhoods.",
+          "why_it_matters": "The proposal could shape future road projects affecting pollution, health, and displacement in city neighborhoods.",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVXlkQ3FYVy1jamY0c2lZanN5ZVozNFJvck5JRDNqNUpKdlJHcXkxMjdYRzlpaTdXaXJjSm1fRWZsSTA3U3pEZ0gwdFY3b0dqbUhXOGc2MFB5QVZnaHoxSlI4Nk01dHR0Q1U1WkczdEg3RDJiNGdmMjdmRF9XMDJkallaMGgwY2EzdnhleDJhallQNVcySGVfY0dRMTBpZzdMdS1tancwQ3V2TnM?oc=5",
           "published_iso": "2026-04-03T04:04:00Z"
         },
         {
+          "title": "AOC urges Hochul to drop Cross Bronx Expressway widening",
+          "source": "PoliticsNY",
+          "why_it_matters": "The fight could affect traffic, air quality, and redevelopment in Bronx communities along the corridor.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORl9IOUhkby1UVUQ3R3JDcUNuOEUzc0kwTGxMMm5UcnJ5N3VXamZITjdzMzJmRk9QX2JDZ0hsOUUxdXpMUzZSX2R2THRxOGVrYmRMZzJFVVZKR0ZDdWZHZGxBQzV5eFhZd1ZscmFzY1hGTTRONUttYjBLRC1mMkhSbGRKbE1LVEwzRUZTZEN3LW1ic1hpSFJYVXpnb2puXzhVbmUtdXZDLWc?oc=5",
+          "published_iso": "2026-04-03T20:15:08Z"
+        },
+        {
+          "title": "Trash containerization program remains unfunded in city budget",
+          "source": "Streetsblog New York City",
+          "why_it_matters": "Without funding, promised rat reduction and cleaner sidewalks may be delayed citywide.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTzZPNkJvZUFMcXppV2EybUdEYURuTzRTY0hORGFPSHo5S0NROHoyM2RJa3pzRXNES2ZWT1ZHRVhscUJidUE4dnNsQkl3ZVg5ZUctY1lXV0VZTEg1R0NmZksxenYxUXllQnF2UVlNRFZOMHRjbTFyLVl4UElfdml6aFhkVzUwX1luM1U0SWpJdXJPc0hsNDdwb3Q5Vnh3N3RadWp3OTRsNHRncG1sSnlz?oc=5",
+          "published_iso": "2026-04-02T04:02:00Z"
+        },
+        {
           "title": "Council bill would give members more control over community boards",
           "source": "amNewYork",
-          "why_it_matters": "It could change who shapes neighborhood land use, services, and local development decisions.",
+          "why_it_matters": "The measure could reshape who represents neighborhoods in local land use and service decisions.",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nY1Byek91MGlOejRYM1V6bkpPM0JRSzNsdmM5dF90aHJmaHV1SVhxbEo0WWlxb25KUFdOaUZzV0htMlFjNldpVkR2QWs5OS1kV3Vva1BCSXlRbklEcWpYcThQdVgzODFKUDBOT2l2dzlndw?oc=5",
           "published_iso": "2026-04-02T19:00:43Z"
         },
         {
-          "title": "Federal raid targets New York City Council member",
-          "source": "Politico",
-          "why_it_matters": "A raid on an elected official could disrupt representation and raise major public integrity concerns.",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXpSV1hVQ2VGVzFWWHFXQkRZYTQ1Y3Zab1dNZk5OWnJxUGJWYktlc2U5NlVlcXFfS0xYQmtqdlhfaHdwZG5xZHRmU1NybmN3Vlh3dktaS2R6Wk14Q1BUUEFVRzU3c2x6VUhPdlAwRXZMTlNhclcxd2RiZVI1d3hpeWhBdXhQbFFQeTh3TF9qUGdYQklPWVpYcXhNMFFVOHRNdmtHTzBpd0VyM2cxM1diUTZsQzhadVc4YkxyMVB6M2lLYWR3QmJtVUFvSQ?oc=5",
-          "published_iso": "2026-04-02T10:00:00Z"
+          "title": "Staten Island volunteer fire companies still lack city funding",
+          "source": "SILive.com",
+          "why_it_matters": "Funding gaps could strain emergency response for residents relying on thousands of volunteer 911 runs.",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanA2ZHRweDFQQUUtYTQ4ZDlpM2xVeWJwR1hFQ3lhajFiT2NYUFl3ZFpiZGJoQjI2YVVZTEhRTnlGck1YQlBqLVA3cDh6V19NLTEwc200a09rdXdJTUhHUkNaazdpMlZtZE1UYkV0b2pFUTJNNElNU1NKVDFjLURrSmtPR2ZfWEJPSzVoMXRsR3E2YmtpVUlhdnp5eEpKS2VLVVFHR0RNUHhSTUpMSllTaHg0al85RjAxVl9KQnFheXpEM0Vlb014TmRZNWjSAeABQVVfeXFMTURtYmZ0VWtkYW42MFRVNGxRYmdVal9zdDhlQVZvTk41NlpVUXZzWW54Mm5lUDdfM3FKTXlXSjdibU5zbTBvTC0zTHp5NnFNUU1ZMlJZck5zekhmc0RNRTdVdHA4SGFKUjA4b0FIZFJTSk85ZTBjUVFpRVZSZHNvS21ja0YzMWludmUzS2hoNmpGRHdDaXpjeURtUWtfeWZwRVBlNW1oY1ZPekdpTUxYeG9JZlc2bnRRRTFob0h1NEp4bHJZclQteExVaHE5RlZLVUZUeUgybGFKNzJVdXNyNzA?oc=5",
+          "published_iso": "2026-04-03T09:50:00Z"
+        },
+        {
+          "title": "Army Corps move to New Jersey may delay New York projects",
+          "source": "Newsday",
+          "why_it_matters": "Delays could slow major local infrastructure and resiliency work affecting neighborhoods and transit.",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1owY1hfQXNIXzJBUW56N0hBZ0hQb2RMZGwtMUhyRHpVcS1qekFIT3R1SUl5blNQYWhuUTBJMnV0VUlUOFo5T3hNcDNFemlJOTJNUjU0NFJQalNnM1hzb2EwUjlFYV9oV2J1ZkNOSk1HUzVDNG9JYXFoSVppUVlHLUlVbXh0bFMzWkkteA?oc=5",
+          "published_iso": "2026-04-03T18:39:07Z"
         }
       ]
     },
@@ -88,18 +74,32 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "450,000 New Yorkers could lose health insurance",
+          "title": "Officials rush aid for 450,000 New Yorkers losing health insurance",
           "source": "City & State New York",
-          "why_it_matters": "Potential coverage losses could disrupt care and raise costs for hundreds of thousands of residents statewide.",
+          "why_it_matters": "Hundreds of thousands could lose coverage soon, threatening access to care and raising costs citywide.",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPci02NWNrTlFWMVh4b0VRd2NDVTBTeTVDNU1aNWh0ZTNrNGxBQ0tFUThRbWlfUnh6elZhTlF0RzhpZGJsYTJnam52SkNfdXA5STlTdmNMTHVXSjU0eDRsaERFZnNnZXJoWGZYTUdnN0FuN1N5Z0g3YnBPbmc0ZVZ6UXFRRzhHdkFnNVRLRWdwRjRfS1dXMFg4NWJpQ3RmTTNCclg0bXRCMHVXNGtzOFhjUm9RUjNLb1dkZktSb0hpYlVlR0owVkdXOFVQUy1nUXM1NkhRYw?oc=5",
           "published_iso": "2026-04-02T18:04:47Z"
         },
         {
-          "title": "NYC launches new child care search tool",
-          "source": "Gothamist",
-          "why_it_matters": "A simpler search tool can help city parents find available child care faster.",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT0hWLV91Y3lmM0hNaTJVUEJ4RHFLZzJVZzRzRmlJYmRTM2hPMFo2bzVzSzM3eUYxZS1IcTEzWEVaN0JjanpMeUNiZkdMZmt5Y2RWUWw0d1l1SE9SbHZrUERNMFJQS05TMzljUWo3Uk9tVGlKOHFkRlBoQWx3M3VxVjRMQ2dMTHJYZWxlVDg0bkNiMFJ5eTkyRVF1UGdkZw?oc=5",
-          "published_iso": "2026-04-03T12:18:00Z"
+          "title": "City Hall pushes free child care applications with Cardi B",
+          "source": "gothamist.com",
+          "why_it_matters": "More families may access free child care, easing household costs and helping parents stay employed.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzZ3TzctT1czLVFxZ1R2bUtQc3JUS3BsWV8wWGJkR2RZUDdrdTJIbWZ4NXVBSC1XM24tZGJYQjVlRTdRejJQQjRySXlNdGYzTlZvczN4RHo2dDN2TUROd25oMlgwZjZfMHNmYkNSUVdVRjlXMERMR0Q2MXMtS3l5TlV1d0RZdjhXaDNqdnlVQnVMUEh0bFFsdTQ1RVAyanJwQnc?oc=5",
+          "published_iso": "2026-04-03T17:31:00Z"
+        },
+        {
+          "title": "State eases Hudson River fish-eating restrictions",
+          "source": "gothamist.com",
+          "why_it_matters": "Updated guidance affects anglers and families relying on local fish for food or recreation.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkxPcEdxTmJmZ01PUXBWUGU2TldtU0lxRzRpcTdrdEM0bl9MX3g4VV9iS1ZRMW1JdllIc1VwSGRvNjdNeEdhR3pjREZFQlNZVDgxNkdtc1BJNWJySUtZWUY3MlRYTzhyMGN5dFNjZEhMUURWT0JjSDJfT1h3Y2JZS1F4ZEZCN3hhT0dBRHNGNi1kRUlNWFAwQnFxaFNxMWxmT2tfaFlldU5YQzYy?oc=5",
+          "published_iso": "2026-04-03T18:42:00Z"
+        },
+        {
+          "title": "National Grid revamps key Staten Island gas site",
+          "source": "amNewYork",
+          "why_it_matters": "Infrastructure upgrades could affect energy reliability, safety, and nearby communities on Staten Island.",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeV9TOVJyWTE2Yk9DRVN4ejQ3UUx0VXBSb2Qwb011T0FFeS1KZ3ZmQ0dRRmtlbXpWYWJjNFpITE9oSm5sLWdRTEQxTUtwRTl1MGFodXVnWmxiRGcxVGQzTWdZWm9oczRjd1lILVRrRmxLempqclNnUk10ai04dE52Yg?oc=5",
+          "published_iso": "2026-04-03T14:25:32Z"
         }
       ]
     },
@@ -107,39 +107,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "Spring break travel disruptions expected across New York",
-          "source": "Gothamist",
-          "why_it_matters": "Residents heading out of town may face long airport lines, delays, and higher gas prices.",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYjhiQmhCQ183Vm16TVRZNDFDVkdEa3R5R3dIR0Z4bG01U292TzZGUlN1aVZoV2R3dWpHME0zNmo2elB2NGQ0OXhyMU9KVmxRMUVDT2c3NEdlWFRlSnRSd2xOUW1mMTZEc0ZkeW9mbldUUkxRb3k4UXc5dXBBTjFQTDZlS0xjdDlDdDVlRUQwVUUzN2VnY0dYbGItUmw?oc=5",
-          "published_iso": "2026-04-02T18:28:00Z"
-        },
-        {
-          "title": "Easter Parade returns to Fifth Avenue Sunday",
-          "source": "Gothamist",
-          "why_it_matters": "The annual Midtown event will draw crowds, affecting street activity and holiday plans nearby.",
+          "title": "NYC Easter Parade returns to Fifth Avenue Sunday",
+          "source": "gothamist.com",
+          "why_it_matters": "The annual Midtown event can draw crowds and affect Sunday street activity near St. Patrick’s Cathedral.",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3BTQ0lDUi1paGtOUFctU3Z2ZnRzTjUyaEFwcC1tQjhKY0lqbDZtRGNvdUJOUFotdnYxeGxhY0cxRjYtNGNPWjYyeXFBU1pFOWpUQmd2RFBQc040ZUJaRG1nOVRQMFZYT2puVElhV3ZBYmhlbkpWUUxaWVQ4VGNpTnkxYVpOZUhlNlhwc1B6cDItNV9WYjFCWWhwdw?oc=5",
           "published_iso": "2026-04-03T11:00:00Z"
         },
         {
-          "title": "Museum Mile Festival 2026 announced",
-          "source": "Museum of the City of New York",
-          "why_it_matters": "The free cultural event offers residents broad museum access and brings heavy foot traffic to Fifth Avenue.",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZMy10RDJTeW53Y01lc3BFb0JZTWhmYVNheG9WYW9VWjdvMkttSHBFV2hJWXBoSmJuaUFZRkFiMTMybFN2QXUtRGkxYmVNWWlabUl0RHAxN2Q4YmZtU0d0a2Rn?oc=5",
-          "published_iso": "2026-04-02T18:28:35Z"
+          "title": "New York International Auto Show opens at Javits Center",
+          "source": "ABC7 New York",
+          "why_it_matters": "A major city event brings visitors to the West Side and offers a prominent weekend attraction.",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjJ4R3pTVURNb0ZQZWowYzFsZDhuRGJocS00c3lOQU0ycEJEVS1QenRibUtPQXJQRDE1Z0ZXNW53U1NMREc5czJCYWpOcHVTWU1JOW9yZUl0TjA2LWlVeWItSEx0OHYwdmVWem9wN0tCUzA1N1JsNmRBRnJqV3JXZGcyUFktNVNCN05B0gGQAUFVX3lxTE4wQWJSdDhkMVF4VTluM1R3SXlRcllteEZXNVg0WkhsaXJHbmZFTzR3M2EzV0FsdVA3M2lHdEFMSXJxUDdtbzVONDdkSXo4WVpOQ1V4UTFJOXJNT1hfSnEyNWx3WnMwSGRVMmMzdGZUbFk0V0hxZkc4UWhpbV9PQS1ScWoyR19mZHRQNjUzM0RKcQ?oc=5",
+          "published_iso": "2026-04-02T10:05:31Z"
         },
         {
-          "title": "Experts Only Festival returning to Randall’s Island",
+          "title": "Experts Only Festival returns to Randall’s Island in September",
           "source": "amNewYork",
-          "why_it_matters": "The large September music festival will affect park use, transit, and neighborhood activity around the island.",
+          "why_it_matters": "The festival adds a large outdoor music event to the city calendar and may affect island access.",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN293eWIta2J0TWpGeDI4VGpabElMXzB0aVJBaDA2VmZ6ZFl1NHpLdWx4ZWl1R2pCU3JhWkVuYzFmTk5IYXd0U25ud19nRThjV2JXQTI3VVdrV1ZPUjRqeFhUZGRta1ozX3NUaG5hODZYUTFHXzRxYUVxbjBPX0pOX0FSbGZxSlNrbkprbUJrOXRQWF9aNExTMml5U0w?oc=5",
           "published_iso": "2026-04-03T14:40:13Z"
         },
         {
-          "title": "Housing permits filed for Fordham development",
-          "source": "New York YIMBY",
-          "why_it_matters": "New Bronx housing proposals can shape neighborhood growth, construction activity, and future residential supply.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUFWRVpDbkVuWkRIZ3hhNkd0NS1JN3lnQklZVG5OdU9pcTd4S2hkZlhlMzRPNmUwTjFIY3NuRjFuSzhxeTZyM3dyT0lYRGVEMkh3Zzk0bng1eFRFQ1JUR1JoalFMZ285bTBORmNLTUlIYWFXS2VMU2xvLUF5UjZYZ2xyaUZLLWdYUk5OUGZMUERkYXpDeWxzR2RUMA?oc=5",
-          "published_iso": "2026-04-03T10:30:12Z"
+          "title": "Tom Valenti, influential Upper West Side chef, dies at 67",
+          "source": "iLovetheUpperWestSide.com",
+          "why_it_matters": "His death marks the loss of a chef who helped shape the Upper West Side dining scene.",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTV8yaVY2THhXSzNUYlNTdjJ3aElVLTRucjhvVXE0Q0VDTS0xM014bjl5QkQtRnd1SmJtaUs1dDZiMTEwckxuSUJVQ2NEcV91aUY4UU1wWEluSFU0MnV1VUt4UG5Ec1hqM2VISUlpM1IyNlhtU0hDZDZGTHFUam9hTl80NkxGS0JNOElCekxHLUItM3BMbVduZ25ZV2FPMlprd1hkSXJKS0VGRWtPQ29YZ1EwR3lqQlJ2ZDQ2bWhn?oc=5",
+          "published_iso": "2026-04-03T21:12:53Z"
+        },
+        {
+          "title": "Goop Kitchen plans Upper East Side opening",
+          "source": "East Side Feed",
+          "why_it_matters": "The new restaurant concept adds another dining option and signals continued retail turnover on the Upper East Side.",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzdqQzBSU0U2OVFrMXNiemFocDNoQXo4RUhTM1ItZW4yQU93aG41QWhOeEZ0WWJhblNCc2Q4ZnhQLTgxSzRKaGVhSU1LWVlLazNhb2NLZEI3WkZaZlduWVVDOGowLXVTZEVidXItZzdpdUktMmtjY3pvdG1DSG5XRWxWX2V6aDZFVk5ORzE3SGthaTg2TnYwYUVMSTJhYWZ3N2Y0NXhPaDFwbGtBLVN4UGFfcUlJOEpwcDktLXpFcw?oc=5",
+          "published_iso": "2026-04-03T16:50:06Z"
         }
       ]
     }
