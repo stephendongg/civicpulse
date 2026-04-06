@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-05T11:23:08Z",
-  "daily_fact": "New York and New Jersey’s cherry blossoms are now in bloom, giving the region some of the nation’s most celebrated spring displays, according to Gothamist.",
-  "topline_md": "New York City faces a convergence of economic and governance strains, with warnings of job losses and Wall Street weakness, fights over transit staffing and highway expansion, and scrutiny of migrant-shelter corruption and public-service gaps. At the same time, officials are juggling affordability and quality-of-life moves on housing, child care, health insurance, sidewalk sheds, and community-board power.",
+  "generated_at_utc": "2026-04-06T11:41:53Z",
+  "daily_fact": "Comedian Pete Davidson is listing another New York property while selling his Staten Island condo, highlighting continued real estate activity tied to the borough.",
+  "topline_md": "NYC’s latest headlines center on public safety and quality-of-life concerns—from missing Brooklyn sisters, Bronx shootings and an East Harlem police shooting to housing, transit and infrastructure complaints—while officials also weigh major development, highway expansion and a cloudier economic outlook.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,60 +13,46 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Wall Street weakness and layoffs darken NYC economic outlook",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "A weaker city economy could affect jobs, tax revenue, services and the local budget.",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnhzM3Zod1hFRlJhQjZwR1pWV1A3YlVNZkVvSTB5Rkc0ZWg2UzBESnhYMWJTVjJQNV9rS1UwYXVuMmJIaEdocVNGSUZlRG5jbERWZjVncll1c3o2bHFFMVhhdDFLbkJMamd1aEpkVEhyM3lIdVpSc3doRjJldkdCdUp2SVhVOGdTeEE?oc=5",
-          "published_iso": "2026-04-03T09:00:00Z"
-        },
-        {
-          "title": "Hochul pressed to drop Cross Bronx Expressway widening",
-          "source": "PoliticsNY",
-          "why_it_matters": "The fight could shape Bronx air quality, traffic and long-term neighborhood health.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORl9IOUhkby1UVUQ3R3JDcUNuOEUzc0kwTGxMMm5UcnJ5N3VXamZITjdzMzJmRk9QX2JDZ0hsOUUxdXpMUzZSX2R2THRxOGVrYmRMZzJFVVZKR0ZDdWZHZGxBQzV5eFhZd1ZscmFzY1hGTTRONUttYjBLRC1mMkhSbGRKbE1LVEwzRUZTZEN3LW1ic1hpSFJYVXpnb2puXzhVbmUtdXZDLWc?oc=5",
-          "published_iso": "2026-04-03T20:15:08Z"
-        },
-        {
-          "title": "State bill targets highway expansions near vulnerable communities",
+          "title": "State bill targets highway expansions near vulnerable New Yorkers",
           "source": "Streetsblog New York City",
-          "why_it_matters": "It could limit pollution-heavy road projects affecting low-income New Yorkers and communities of color.",
+          "why_it_matters": "The proposal could reshape major road projects and reduce pollution burdens in affected city neighborhoods.",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVXlkQ3FYVy1jamY0c2lZanN5ZVozNFJvck5JRDNqNUpKdlJHcXkxMjdYRzlpaTdXaXJjSm1fRWZsSTA3U3pEZ0gwdFY3b0dqbUhXOGc2MFB5QVZnaHoxSlI4Nk01dHR0Q1U1WkczdEg3RDJiNGdmMjdmRF9XMDJkallaMGgwY2EzdnhleDJhallQNVcySGVfY0dRMTBpZzdMdS1tancwQ3V2TnM?oc=5",
           "published_iso": "2026-04-03T04:04:00Z"
         },
         {
-          "title": "New bill would give Council members more sway over community boards",
-          "source": "amNewYork",
-          "why_it_matters": "Community boards influence land use, liquor licenses and neighborhood planning decisions.",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nY1Byek91MGlOejRYM1V6bkpPM0JRSzNsdmM5dF90aHJmaHV1SVhxbEo0WWlxb25KUFdOaUZzV0htMlFjNldpVkR2QWs5OS1kV3Vva1BCSXlRbklEcWpYcThQdVgzODFKUDBOT2l2dzlndw?oc=5",
-          "published_iso": "2026-04-02T19:00:43Z"
+          "title": "AOC presses Hochul to drop Cross Bronx Expressway widening",
+          "source": "PoliticsNY",
+          "why_it_matters": "The fight could affect traffic, air quality, and health for Bronx residents living near the expressway.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORl9IOUhkby1UVUQ3R3JDcUNuOEUzc0kwTGxMMm5UcnJ5N3VXamZITjdzMzJmRk9QX2JDZ0hsOUUxdXpMUzZSX2R2THRxOGVrYmRMZzJFVVZKR0ZDdWZHZGxBQzV5eFhZd1ZscmFzY1hGTTRONUttYjBLRC1mMkhSbGRKbE1LVEwzRUZTZEN3LW1ic1hpSFJYVXpnb2puXzhVbmUtdXZDLWc?oc=5",
+          "published_iso": "2026-04-03T20:15:08Z"
         },
         {
-          "title": "City unveils plan to reduce sidewalk sheds and falling debris",
-          "source": "ABC7 New York",
-          "why_it_matters": "The changes could improve street safety, sidewalks and the look of many neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa1k1Q3gxLU9EZjBmZHh0NDN1c2dCaXl5RXZVM1J0Nm81bm41VHRmNjV3c1F1SXFiR1drMFRmZmtRVTV2R0N0bkgxMXY4TUUzMTJGcVZqNng2TWhGV0FwUnZCOFludExlZlp2MUVnLURBUmdtcHJFN28yTGE1RnZuamgzUFZPbjZLQ3NPcGh30gGTAUFVX3lxTE14MndwalAtVXF4c3cxZmhJZ2ctUUE0eDRmRzNlS1dweHNxSmNYVEItdTZkaVJXSEJBWjF1WHRWWlQyVm0wMFVQREJ2Z214dFV0SWxQNC1NN2lpNHNIQWdXU2xTRGd3bVp4VlFkZVFwYTUtU3N3Uy04WkdEeEVOcDRBaGdkXzh0UXRNMDVvNldsYlNEcw?oc=5",
-          "published_iso": "2026-04-02T22:19:41Z"
+          "title": "Job losses and Wall Street weakness darken NYC outlook",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "A weaker economy can hit city jobs, tax revenue, services, and household finances across the five boroughs.",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdnhzM3Zod1hFRlJhQjZwR1pWV1A3YlVNZkVvSTB5Rkc0ZWg2UzBESnhYMWJTVjJQNV9rS1UwYXVuMmJIaEdocVNGSUZlRG5jbERWZjVncll1c3o2bHFFMVhhdDFLbkJMamd1aEpkVEhyM3lIdVpSc3doRjJldkdCdUp2SVhVOGdTeEE?oc=5",
+          "published_iso": "2026-04-03T09:00:00Z"
         },
         {
-          "title": "Army Corps move to New Jersey may delay New York projects",
-          "source": "Newsday",
-          "why_it_matters": "Delays could slow flood protection, shoreline work and other infrastructure projects affecting city residents.",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1owY1hfQXNIXzJBUW56N0hBZ0hQb2RMZGwtMUhyRHpVcS1qekFIT3R1SUl5blNQYWhuUTBJMnV0VUlUOFo5T3hNcDNFemlJOTJNUjU0NFJQalNnM1hzb2EwUjlFYV9oV2J1ZkNOSk1HUzVDNG9JYXFoSVppUVlHLUlVbXh0bFMzWkkteA?oc=5",
-          "published_iso": "2026-04-03T18:39:07Z"
-        },
-        {
-          "title": "Staten Island volunteer fire companies say city funding falls short",
-          "source": "SILive.com",
-          "why_it_matters": "Funding gaps could affect emergency response capacity for thousands of Staten Island 911 calls.",
+          "title": "Staten Island volunteer fire companies still lack city funding",
+          "source": "silive.com",
+          "why_it_matters": "Funding gaps could strain emergency response capacity despite thousands of 911 calls on Staten Island.",
           "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanA2ZHRweDFQQUUtYTQ4ZDlpM2xVeWJwR1hFQ3lhajFiT2NYUFl3ZFpiZGJoQjI2YVVZTEhRTnlGck1YQlBqLVA3cDh6V19NLTEwc200a09rdXdJTUhHUkNaazdpMlZtZE1UYkV0b2pFUTJNNElNU1NKVDFjLURrSmtPR2ZfWEJPSzVoMXRsR3E2YmtpVUlhdnp5eEpKS2VLVVFHR0RNUHhSTUpMSllTaHg0al85RjAxVl9KQnFheXpEM0Vlb014TmRZNWjSAeABQVVfeXFMTURtYmZ0VWtkYW42MFRVNGxRYmdVal9zdDhlQVZvTk41NlpVUXZzWW54Mm5lUDdfM3FKTXlXSjdibU5zbTBvTC0zTHp5NnFNUU1ZMlJZck5zekhmc0RNRTdVdHA4SGFKUjA4b0FIZFJTSk85ZTBjUVFpRVZSZHNvS21ja0YzMWludmUzS2hoNmpGRHdDaXpjeURtUWtfeWZwRVBlNW1oY1ZPekdpTUxYeG9JZlc2bnRRRTFob0h1NEp4bHJZclQteExVaHE5RlZLVUZUeUgybGFKNzJVdXNyNzA?oc=5",
           "published_iso": "2026-04-03T09:50:00Z"
         },
         {
-          "title": "City plans Staten Island meeting after renewed homeless shelter opposition",
-          "source": "SILive.com",
-          "why_it_matters": "The dispute could affect shelter siting, neighborhood services and local community relations.",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMzhSNktpUEtIWV8zZHBFMVI5eVJMeEpscHBzRmVsWF9nUXdMYnpPX3A0ZnZUVUd3dkxIQkp0NXI0aC1zbVhtZ1VDdmJmRC1EdnhGWmtXSW5IVUNYNG1qYUEzcWljR0hEYTktcm5nUjlaRGJYS3o2VFRkM3Mza2gtcWFWQnh1MnBXZ0xtVElHNGM0NWRKZEs1US1VbnFteWRzQWN1U3dRcHJMLVZBdDg5OVpZbFVWWFkxbWZjOUx1czh4NHJnaHVOREVmVFpUMG5NeFQ3RdIB6AFBVV95cUxNT0JMYWtUS0NpWjJXbTZISnJOdVMya0lXY2RndENOYktmLUFYMzVjVFcxOEZJcGNQU1JFdmtyZ050T3h5bTZFMmFiUXl5emY3LUlzR0c0ZzdlbGlZUE1PRG0xWVZfbXVsTFVlVEQ2MURFSTdwVzhidkE0cURaakZsc3lVSTdTeWVENzdTU1dpMzhnN3l2bjZLMEIzNGNzSjJBNWx1LWVSOXVjVFRzUElKTlRsS0RRWWcxVXY5Wlg1OXF3WEpfSE5aWERLdzF2LWlERjJJWGZwM0ViRUtwa0FWSEV3LUtUcnMy?oc=5",
-          "published_iso": "2026-04-02T23:15:00Z"
+          "title": "Thousands of New Yorkers affected by tax return typo",
+          "source": "silive.com",
+          "why_it_matters": "Errors in tax processing can delay refunds and create financial headaches for affected residents.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1otcllqVzdpTkI3ZC1BMFo1bWF2RG52elp5eTV5bXVSenVYN0dOWHRMU0RwRXZITnJ4NjBmRnBzc3ppOTVJSzRTQThka0puSlprWkdHY3NEQkdnZVFVMWpLSDlQaHJVZnVIcWZ5eGR5ZHZDSm9BaDhYS0tlZ0k1ejdiODZXS2d0YUpnWGROTDNoNEtQakx2SXI2SkdfTVVDcnF4Um5xLUjSAbwBQVVfeXFMUDJwUTVMMUZXYVhyNmd3Vmg5UE9hMFZRYVF3ajVHdnlYV3NTSU5fUElYc3o1dlEzdFNtMUg2am1RY05uN2pmbGJUZjlteXZXTjlJN0p5cE4yajctai0zT29LRWZhS1Uwc1o3TzJHUm85QkFqOG1BX01UYUE5MDg4a29VYUtjejlFMUFIYWpyNWhaeFNwSF81dlAxbW5CNDdVdHFqZnBRbHVMZUFDejE1X0tLdFFKUXV4SnViWVA?oc=5",
+          "published_iso": "2026-04-04T20:00:00Z"
+        },
+        {
+          "title": "RXR seeks permits for 95-story tower by Grand Central",
+          "source": "Crain's New York Business",
+          "why_it_matters": "A major Midtown project could influence jobs, transit demand, skyline development, and nearby real estate.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS1RKUWRsY3F6YU9PUmEwUWExV0pLaVcxUWs3MHgzaWlGTXljTFZieXphTXJnSTNXWnhVTl9SWk4tYkJCSElUNTgtZkhVdFBnN1NWU0dodVBBcThPaUZYX0lwNl95ZFpMSFlLakJCQk5qR3NvaG5sNlFFamdfMWliNzZTZlVEVERKMkVVUEJqLWdhTjIzd3hkdkFlOEE?oc=5",
+          "published_iso": "2026-04-03T17:05:00Z"
         }
       ]
     },
@@ -74,32 +60,39 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "State races to prevent 450,000 New Yorkers losing health insurance",
-          "source": "City & State New York",
-          "why_it_matters": "Hundreds of thousands could lose coverage soon, threatening access to doctors, prescriptions, and hospital care citywide.",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPci02NWNrTlFWMVh4b0VRd2NDVTBTeTVDNU1aNWh0ZTNrNGxBQ0tFUThRbWlfUnh6elZhTlF0RzhpZGJsYTJnam52SkNfdXA5STlTdmNMTHVXSjU0eDRsaERFZnNnZXJoWGZYTUdnN0FuN1N5Z0g3YnBPbmc0ZVZ6UXFRRzhHdkFnNVRLRWdwRjRfS1dXMFg4NWJpQ3RmTTNCclg0bXRCMHVXNGtzOFhjUm9RUjNLb1dkZktSb0hpYlVlR0owVkdXOFVQUy1nUXM1NkhRYw?oc=5",
-          "published_iso": "2026-04-02T18:04:47Z"
+          "title": "Affordable housing lottery opens for East New York development",
+          "source": "newyorkyimby.com",
+          "why_it_matters": "New affordable apartments can expand housing options for eligible New Yorkers facing high rents.",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUGJrUURLR1A0RVNqOHRaQzB0Z0dqWTU3dnVLSHpBY2RFbUJXV1NXOHpudV9PMDZpRG5fa0RMbDRmbHl6UG5BR0x2ZmxwUkZaWTl4SlBFT0hCbkZwdXdqX212aXlxeEFKQzNKWmtYb1IzTlJ1SldhWnBlMmJXRGFEMlN4NnNIYldyN2V6X25PdW9SRXNHdW5rVXhMZ3ZHbFd4cTBIU1FFM3hsZUk4Z1dRaXdJcm50UThOYmpienZRYjRKLWlOZGJRVkFGeWRLSE90RHBYNTVyRQ?oc=5",
+          "published_iso": "2026-04-05T12:00:44Z"
         },
         {
-          "title": "City Hall pushes applications for free NYC child care",
+          "title": "City pushes applications for free NYC child care",
           "source": "Gothamist",
-          "why_it_matters": "More families may qualify for free care, reducing costs and helping parents work or study.",
+          "why_it_matters": "More families may access free child care, reducing costs and helping parents stay employed.",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOXzZ3TzctT1czLVFxZ1R2bUtQc3JUS3BsWV8wWGJkR2RZUDdrdTJIbWZ4NXVBSC1XM24tZGJYQjVlRTdRejJQQjRySXlNdGYzTlZvczN4RHo2dDN2TUROd25oMlgwZjZfMHNmYkNSUVdVRjlXMERMR0Q2MXMtS3l5TlV1d0RZdjhXaDNqdnlVQnVMUEh0bFFsdTQ1RVAyanJwQnc?oc=5",
-          "published_iso": "2026-04-04T18:41:00Z"
+          "published_iso": "2026-04-05T21:08:00Z"
         },
         {
-          "title": "Affordable housing lottery opens at 105 Hawthorne Street in Brooklyn",
-          "source": "New York YIMBY",
-          "why_it_matters": "The lottery offers below-market apartments in Prospect Lefferts Gardens for income-eligible New Yorkers.",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQi1DRk5SNnBWbWs2VnR2b3VaaTl0alc4V1duU2V2UHFKZmlpMVZUYldKZUNkeTNZcE9fOXFMa2R3ekNIdWx4SjlCbFdBakJwanBKdTF6eWZLSjBJTzg2SDkzcW01LS1UNHlSX19FRzhWdnVlQ3ZCbW0xOFVHa085alQteHg3dkNPTzduUHdoVVJoTU9GWTBQVkpyRWNCTmZmT0NtLXdJYzUzcVZSVmxyTXdxUTRVWWpCLVVpdkk5RjNhOWNESDNJ?oc=5",
-          "published_iso": "2026-04-04T10:30:08Z"
+          "title": "NYC expands Rikers workforce training programs",
+          "source": "BKReader",
+          "why_it_matters": "Job training for people in custody can improve reentry outcomes and reduce future unemployment.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSTRqWDBheGZVcDliLTNqc3FWanRxNUllR2lTajVrRVZVQ3FqbnREdVFRVDdMaXNfSk8xZzRaRE04c3MzeDF1YnJYSmNCNVFDQm5LcnN4S0kzMGlYdlJobUs1cXRHekQzZWtTeUx6YkJlQWhGQ2pGdzdfd2hvNTJ5ZWlNbEdTU3U5Z213TVRaejVrS0VXMVNpdko1ekItc3BWbk5HcDVEaDhmTDUyNTVla3N5NWs?oc=5",
+          "published_iso": "2026-04-05T14:00:00Z"
         },
         {
-          "title": "Two NYC co-ops highlighted for $16K and $30K",
-          "source": "Epicenter NYC",
-          "why_it_matters": "The listings show rare low-cost homeownership options for buyers priced out of most of the city.",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnJ3TU41RWFNS0d5Vmc0RXhhbGVZWkpmTGdBM09ZUWJkZElPeWpmazdKZ20wUkNkTDFqN0xKeExiMGV4TkVzX0JkV3NYU1pLQlo0NmxhNVNXZEhJZXBWMEtGN2dNV092Qk42bF8tSXd4TVVBRUxoQXRqOG5ZMWlKTllPNmI5enc?oc=5",
-          "published_iso": "2026-04-02T16:50:12Z"
+          "title": "Bronx tenant reports rat-infested apartment health fears",
+          "source": "ABC7 New York",
+          "why_it_matters": "Severe housing conditions can threaten tenant health and highlight enforcement gaps in unsafe buildings.",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVDVzMDA5eFVLR0kzeGxtb29UVTFBRXNEZEttWDlYVURUMzZqdERlRzE4R3pkVGcwTmxBeGdZa2ZybEJmYXhkdkJvb0ROQWNxMTBNZFlQT19MZ0pVdFRqanpkQVBnWUtFZ0Y5eTNKbW5qQ0lhSVJ2MFltd0M2Y3U1Ujl0c0NBNW5ZNEVv0gGQAUFVX3lxTE1HQ0tfcWRqZk1CVDBJUW9nM0Z2UlM2Sm5nd21LNHFWR1E1dnJ6aXdqdDBMcHp0bFBJRk1uVF9JbGVmSXlmeTRMZmNXMXdXUnNjVTZWRm9scUN5RkdJRnp1RGRzMGxRR2kwS1UycEFQV1JtQW1HTlZOOENUNFZuaU5TYVZtaVhSa3BiZzVDOTlLdw?oc=5",
+          "published_iso": "2026-04-05T03:45:12Z"
+        },
+        {
+          "title": "State eases restrictions on eating Hudson River fish",
+          "source": "Gothamist",
+          "why_it_matters": "Updated fish consumption guidance affects anglers and families relying on local catches for food.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkxPcEdxTmJmZ01PUXBWUGU2TldtU0lxRzRpcTdrdEM0bl9MX3g4VV9iS1ZRMW1JdllIc1VwSGRvNjdNeEdhR3pjREZFQlNZVDgxNkdtc1BJNWJySUtZWUY3MlRYTzhyMGN5dFNjZEhMUURWT0JjSDJfT1h3Y2JZS1F4ZEZCN3hhT0dBRHNGNi1kRUlNWFAwQnFxaFNxMWxmT2tfaFlldU5YQzYy?oc=5",
+          "published_iso": "2026-04-03T18:43:48Z"
         }
       ]
     },
@@ -107,11 +100,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "Staten Island residents press city over crumbling street repairs",
-          "source": "SILive.com",
-          "why_it_matters": "Unsafe road conditions can affect driving, walking, and emergency access for nearby Staten Island residents.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS2hqOHo5SmxRcWFaVEJaa2hFVE40c0VoQld1dGlOOFVSY2ppT0hQR2xEcFhzQ0pxZVo5Qzd6UkFHdjFKdE9ybGM4ZjRsQkpiZkVONElIdWFqS0ZXbklLcmxVX2M3VHMyX2FiY0lnbjg2VFNpYUJWc3NXLU0xMWc3TUhhTGpNREtDamJVQVEzeUhfUzI2RWJBNnFnVW5jR245SGQxci1R0gG6AUFVX3lxTFBOby1kbGo0LV92eVQ5akJQY0I2LVNIVHF0ek9lWkY1dUNlYWdBSENlUktPNmVuZ05NZmRrM0pLTnZuQmhKLXFSNWxzV2xjVmhMX21sZG00VUZpcWljS1d0c0pTZlB5LU11OEpUb3JiY3Q0SllwM2F5TjhvSFhKcnVUZlN3MV9IaE5RUmU5YXI1Yml6M0lRTTlJQjl0SGRPWVV4QjhpdVN0YWw3aHg2Nm1xTlg5RGZ6Tkl3dw?oc=5",
-          "published_iso": "2026-04-04T09:50:00Z"
+          "title": "Car-free Earth Day opens streets citywide April 25",
+          "source": "Gothamist",
+          "why_it_matters": "Street closures and open-streets programming will affect travel and offer free public space across all five boroughs.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMk9iT3BDdHNlYUpfUjA5RjZCSnFWTE1vQjVWdE5yYlJ5dmxKLUw5dHRUSC00WElMMUMwc0VaTmIxVkRUbzM3QzNqR2d0MkRFdWRNUlJ5NVVyNVhYTklSX0lZbHhyTWpwOGRWLXFXRlVETVlXbWRZWV94bHMzSHNVR3FNTnhibG5OSXliSnZCYWZoY1Z1XzFqYmV3dWtlVUh0azdfMkxn?oc=5",
+          "published_iso": "2026-04-05T21:08:00Z"
+        },
+        {
+          "title": "Piping plover nesting season begins on NYC beaches",
+          "source": "Gothamist",
+          "why_it_matters": "Beach access and pet rules may change as the city protects endangered birds during nesting season.",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb0xjOUdyRzNXMnRNMlVLSW9jZUxick5QYnVNNGlfVTEydDFiZ0NCVUNBeGRrLTQzMXhvQlRnVVlpd2RWZ2Vpcl9kcUxJNkMxQk1OR1hFVUYzNENqUGdjaGlFYzFhSnBwRFJzMTdUWXhwMlhKT2pkVGhPazVzSUdOVzZTc3d1cE1DdGppSGgxd05hRno1?oc=5",
+          "published_iso": "2026-04-05T12:01:00Z"
+        },
+        {
+          "title": "Upper West Side pothole season worsens street conditions",
+          "source": "West Side Rag",
+          "why_it_matters": "Road damage can disrupt driving, biking and bus trips while raising safety concerns for neighborhood residents.",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJaY1dfdDFzZkZZWE1sODdlZWp2bjZsZUI3cklRanQ2WFlNX3RXTENSeEs3NEFpTUwtZkE0Z0JKX1Y2LXFTNU1IbnNSYTRNdVh6RGl2N0NQZTlyUkdKYnMtQVJsU0V2NFRHNzdHR0JDY19KeHRiaU41Y3JSYTlRdmxhZ283czg?oc=5",
+          "published_iso": "2026-04-05T14:12:43Z"
+        },
+        {
+          "title": "Manhattan queer bookstore may be saved by Bushwick shop",
+          "source": "Gothamist",
+          "why_it_matters": "A rescue effort could preserve an important LGBTQ cultural space and community gathering spot in Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX29RRXVuelA2VG1pdk9fRUVIZXl3dWFMYzh5UEtxaklwV0Z3czNxTHVGVmJZcV9FekcyM1Q0ZUFGYnhKVDZGelMwVjVncVYxeHUtbWFvMndiejFYb0VRSFg2MGFubDNZOEtYeVF0Tk9hUFAtRWNwY0ZXd3d4SzFwRk1WM1Z5a19JVWNBNXRhbjN2bXB4R0RubUFsUkRidTRhYjlN?oc=5",
+          "published_iso": "2026-04-05T21:08:00Z"
+        },
+        {
+          "title": "MoMA PS1 marks 50 years with anniversary celebrations",
+          "source": "Gothamist",
+          "why_it_matters": "The milestone brings new cultural programming to Queens and highlights a major local arts institution.",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcmxRYi1fX2VMS3ZsNnBXUXo0a0NwbTBNQWNxbEFWZWlyZGpoNHNOdzFRMVZKMndCVm5kQ2ZROFhFaFNNa29VRmdVZk15cGt1am0wUHpRdWlTTVFfRlZRaVFGLWZGc3QxRkJoNDZzTUg1X2RlM090Tmo2TGdTTmhlZg?oc=5",
+          "published_iso": "2026-04-05T11:01:00Z"
         }
       ]
     }
