@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-11T11:23:31Z",
-  "daily_fact": "Staten Island’s Bishop Whalen reflected on his remarkable journey from local shepherd to new leadership role, highlighting an uplifting milestone for the borough’s Catholic community.",
-  "topline_md": "New York City saw major public-safety and policy moves, from an FDNY brush fire response, a massive Bronx fentanyl bust and a push for tighter tourist-helicopter rules to labor, transit and consumer initiatives including a possible building-workers strike, Flatbush Avenue bus redesign and proposed delivery and click-to-cancel protections.",
+  "generated_at_utc": "2026-04-12T11:27:53Z",
+  "daily_fact": "West 96th Street on Manhattan’s Upper West Side is highlighted by West Side Rag as a notably peaceful New York City block for people seeking some quiet.",
+  "topline_md": "New York saw major public-safety and policy moves this week, from large fires on Staten Island and in Queens and a $7 million fentanyl bust to looming building-worker strike threats and City Hall pushes on delivery protections, bus redesigns, and click-to-cancel rules.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -16,7 +16,7 @@
         {
           "title": "Brush fire burns along Staten Island Expressway",
           "source": "SILive.com",
-          "why_it_matters": "The fire could disrupt traffic and pose smoke and safety risks for nearby Staten Island residents.",
+          "why_it_matters": "Smoke, road disruptions, and fire risk could affect Staten Island drivers and nearby residents.",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRURYT21HX1ZwZzZvRGs0dE5fbmE3cDRMQXJzaFo2eUVVME94LWltbDF5SU1wcFJHaTVEUGhWZGRzU3lLOFJYVThGMTltdi1pR1U2MWZYMVZMenAyVWtjZ1J2ejZkMTk0SDVQNUtGZEVhek9PU3R2RWVnNFlaTHZWMVFvdGJkbThmWnE0elBOTjJaVXN4bW1kNHZsd9IBrwFBVV95cUxNR0tRLU9QdEJMSmM4aFdkUEJ3anFqX21tU3RCT3BWYTFIRkdhbWR0bzV5VURqRVFTZF9OZ0tXZHkwSUNfX3FlVngzN1BVUmNYUUFMc0MyNHM4STFSUV9nU05GRkxUWU96M3ptUGJiRnBGZWdISkRWM2w2SGdLV3pVSVRnanNkXzJ3ek9wZ0JHMEtleHZ0ZVFMV0NacnBtamlON2hBS1drZ2o4Yi1sakR3?oc=5",
           "published_iso": "2026-04-10T21:54:00Z"
         }
@@ -28,7 +28,7 @@
         {
           "title": "Building workers across NYC could strike over contract and healthcare",
           "source": "ABC7 New York",
-          "why_it_matters": "A strike could disrupt services in many residential and commercial buildings across the city.",
+          "why_it_matters": "A strike could disrupt services in many residential and commercial buildings citywide.",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXk5N2x4X25OczhUUTJTMWhxVDBaakNwZmQ5Y0w2aGpmUHRyZmdFclN3Ty1HTzhYV21HbUlhdWFyNGxsWkxJcUZGazhrdE56MV9rLU9JdkpWekVvVFRTRnRlVjg4dnpHNzYyTnQxaXRfLS11QjFQSXRveE9SUGFwRzFCWFNEMWpfd0FrOHFFY2lMQjdsd0NZSnpOMkY2OXR6ZEcxaWRUUdIBrAFBVV95cUxNcF8yWUI0bjRlT1plSFBWS2paU2ZYS1dXTGFXTmJ4TEVQSnA2SGlZSmlZZllHVTZCSHR0bkwtTWdKOTJPaEpfMkJQVlZCd3hLTFVlWHhYamVzMUphZ08yMjhFRVBtVS1pc3JzVUVDRU1uTGE1YnYwSjkzSUFsbFpEc3Y2NkFBa2ZPZUhudFZLdndqSGlFU0VMRW9SbmVnSm04eE1SZlJtcjFEdFA0?oc=5",
           "published_iso": "2026-04-10T03:49:38Z"
         },
@@ -40,39 +40,53 @@
           "published_iso": "2026-04-09T14:40:32Z"
         },
         {
-          "title": "City backs delivery worker protection law opposed by Amazon-linked coalition",
+          "title": "Study finds new affordable housing units sit empty for months",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "Delays in filling subsidized apartments worsen the housing shortage for New Yorkers needing lower-cost homes.",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZzY5NE56UGowLTYtRzBtY1lneXBtUE1EMUJnQ2FjM3kzYWk4eU55VXd0WkVMY243c0xhakQtX3VVM0VNd1FscWtWeklIMkZsZ0ZvN2cwQVVWR1BTRTY3SlFBNzdPWEV3TU1kZTNCbE50LTByTUY3OFlTX2JFcUp6bjdxRDRjZ0E?oc=5",
+          "published_iso": "2026-04-10T09:00:00Z"
+        },
+        {
+          "title": "Mayor backs delivery worker protection law opposed by Amazon coalition",
           "source": "Streetsblog New York City",
-          "why_it_matters": "The measure could change pay, safety, and job protections for thousands of delivery workers.",
+          "why_it_matters": "The measure could change pay, safety, and job conditions for thousands of delivery workers.",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONDRpUlA1djBSQzV2TXFDNER6MEhWYXpMUjctN1FCbmQ5MFNVTWs5M2ZQUzBSQ0pDbF9LQUJoS0ZCUko5YkZvTnM0djRqVlBGM0pQSTRwRXROOVRGS01LcThaeXEzLW9sTzlIR2l0c0duMFFhcWxHcktGVkliMmFUSmtxaXZ3QVBrSkE?oc=5",
           "published_iso": "2026-04-10T04:04:00Z"
         },
         {
-          "title": "Lawsuit accuses ICE of racially profiling New York immigrants",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "The case could affect immigration enforcement practices and civil rights protections in the city.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GMUtBM0JkVk1jbVNQcjFOVy1pMTIwMnhzZ3lNaVdNeHhWa25hUXJ3VXRSTmpDdzZqbEg1WVN3UjVma1kxLTV1dkVBU2pld3N2UTdQNkxiSDZqVjZsTDBLN0NBVmdQNGZFbHczZHc1LW9MUnhoSU1BZElnbEtyUQ?oc=5",
-          "published_iso": "2026-04-09T19:05:38Z"
+          "title": "Mayor proposes click-to-cancel rule for subscriptions in NYC",
+          "source": "Newsday",
+          "why_it_matters": "The rule could make it easier for residents to stop unwanted recurring charges.",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQW9UNjBCeTJWQjduVlJyTFNrNFZEME81VE1PTTMtbk0zQm52MXdKSGVFRmhpYzRtRWppQW9sOVR3OVNyTThaY3V5SnJncFBFZ1NrLVBKS3BTdWJzU211YkZUWXB5NHVNR0stZng2YjdDck53dTJxaHZNTHZpbHBCdlpqSVd5bFctT2QxU3NB?oc=5",
+          "published_iso": "2026-04-11T21:09:21Z"
         },
         {
           "title": "NYC wins court fight over magnet school funding and trans policies",
           "source": "Gothamist",
-          "why_it_matters": "The ruling preserves school funding and supports city policies protecting transgender students.",
+          "why_it_matters": "The ruling protects school funding and affirms city policies affecting transgender students.",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazJjSl8wYTVNdEVjZ1lYOFZFYzFkX01idm16SnhudnJNaExPU0lFaHlDVFZJTnQ5UEg1SnRMSmh4aXJiNUNRNERpbnFmNnN6Szh3LXp4LXFpY1J1VnlsM1dWMXU3cmNsQ0wzNkNGb2w0ekFRbmlJeExJY1dqM3VUX0s0REczcHJfcDZPWkVBVWtKVFhlNWtmWTR4eFR1V2diTEtSb1BzZ2Q?oc=5",
           "published_iso": "2026-04-10T20:48:00Z"
         },
         {
-          "title": "Helicopter crash spurs push for stricter NYC tourist flight rules",
-          "source": "Audacy",
-          "why_it_matters": "New rules could affect air safety, noise, and tourism operations over city neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeU9DMWJlQUFoTkdXQUdyUE9xRGFteWJWWTcyR2U5aTllQVl5VTN4VXBXSkthX1ZRTTE5WmNFek1iaWl5MmJMRXlqZ1pIbGZOOEJLRW5fOXdYeWhTR0RiM3BubndTNVp3YW9XdmplSUIwNWp0cjUyTXdqa3ZDczV4ck9KTjhiZDJFcUxQeC1OZmg3NG9XdW5vNTB2cG1qZUJwTWhHRG5KeU4?oc=5",
-          "published_iso": "2026-04-09T18:43:09Z"
+          "title": "Gas industry pushes comeback as New York weighs climate law delays",
+          "source": "New York Focus",
+          "why_it_matters": "Any rollback or delay could affect building rules, emissions goals, and future energy costs.",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yV3BsZHJSVXRHeXF1ajdoZTQ0bFZoUVlmcmxYSTh1OHNHNzBDN2tnY1pBU3UtYm4xOG5ZaXRNcmRTUDJkRlNHaDJtS0l2LWU4TlZiLU01eWdXb2JOZy1nNWE4TmpxTGEzYUl6N3JURmtPT3J1RG5Ya2pR?oc=5",
+          "published_iso": "2026-04-10T17:56:00Z"
         },
         {
-          "title": "Mamdani proposes New York click-to-cancel subscription rules",
+          "title": "Lawsuit says ICE racially profiled New York immigrants",
           "source": "THE CITY - NYC News",
-          "why_it_matters": "The proposal could make it easier for residents to end unwanted recurring charges.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWFiWWl0WVA2NzRVWGZQRmV1MGY1VG9hVGRidnJwZHprUEI5b2JESFM2WnNHZTlIUG16X3NEOUxrYXNVRTJOWHhGcV9fM29veEVkMXhLdXRmYVBKS2dLTG5WMlVBVFBUVjRmaHBnUEJnZmZvemRhWThobFhGZ1ZhczJYeHVQbk9melpocnNJX0M3WTNYSUFIdFluc3JkSVFV?oc=5",
-          "published_iso": "2026-04-09T16:48:51Z"
+          "why_it_matters": "The case could shape how immigration enforcement affects immigrant communities across the city.",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GMUtBM0JkVk1jbVNQcjFOVy1pMTIwMnhzZ3lNaVdNeHhWa25hUXJ3VXRSTmpDdzZqbEg1WVN3UjVma1kxLTV1dkVBU2pld3N2UTdQNkxiSDZqVjZsTDBLN0NBVmdQNGZFbHczZHc1LW9MUnhoSU1BZElnbEtyUQ?oc=5",
+          "published_iso": "2026-04-09T19:05:38Z"
+        },
+        {
+          "title": "Lawmakers seek stronger helicopter safety rules after Hudson River crash",
+          "source": "Gothamist",
+          "why_it_matters": "New rules could improve safety for sightseeing flights over New York waterways and neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFFVdk8wU28xRHEtY29QMy1SU29GNEVzQWNwTDhHU2tqQlFKand1Q2NISnQxQ2swbVRzLUZFVEZDSXZBMkFVWHplX2JvUG1rRHhCVUhVWkdxLVZJS1hRakt0S1RWN3hrb1EyQk53TmJqeEhuWExtUXZzckpySURsNXQ1QmFfRDUtcklmNWs1OW9oV1ZycHNBUzB3YUVPWDhXOHVGUFp3?oc=5",
+          "published_iso": "2026-04-11T15:01:00Z"
         }
       ]
     },
@@ -80,37 +94,37 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Bronx food pantries brace for SNAP cuts surge",
+          "title": "Bronx food pantries brace for demand surge as SNAP cuts loom",
           "source": "PoliticsNY",
-          "why_it_matters": "Expected SNAP reductions could sharply increase hunger and strain already stretched Bronx aid networks.",
+          "why_it_matters": "Potential SNAP reductions could sharply increase food insecurity and strain Bronx emergency aid networks.",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUlVfWkZGNzNVUDlqc1VqblFUd2dXbndlU0tYWHRmc09RSGE3Y3c5MEE0Z2RGVmhoVG9Xak0xYmY1MzN1ck54Tjl0WEthaDRPR0wyVFZ5U2x5SEMtdHAwSVlqNmdlUHIzekhtOXVkdnB5WElJTjYzUlRZdFZTT2xqenBYQ1BXTzJYcjI4amQ4MmZublRKazF5ZDlXSWZUMTdvQVdIWVR2cGh1czRjUXJSYjVwQ0FzWXJ6SmxnNHdCaUlweVdFdDkwVQ?oc=5",
           "published_iso": "2026-04-10T10:07:39Z"
         },
         {
           "title": "New SNAP work rules hit Bronx residents",
           "source": "Bronx Times",
-          "why_it_matters": "Stricter eligibility rules could cause vulnerable Bronx residents to lose food assistance.",
+          "why_it_matters": "Changed eligibility rules may cause vulnerable Bronx residents to lose food benefits or face new barriers.",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdWFYYjJfVHJWZTF0X1F6alZKd0hFQTB4V1VHbDhuVDEzd2tsdkFzTFNpNENUQ1dfZ1UySzc5ZWF0VHlHT0ZpTFRlNHBtMXlHOENMVnZfSTRLczVkS2dLaXl6ZVdHa21QNjN2NndIRlRnWV9ZS0JPbTJ4VVU1Z21ldw?oc=5",
           "published_iso": "2026-04-10T10:06:07Z"
         },
         {
-          "title": "NYC expands 2-K to full-day program",
-          "source": "ABC7 New York",
-          "why_it_matters": "Full-day 2-K could ease child care burdens for working families across the city.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR3hiZFlYei1WV0xJcU41WE0wSVJZUlM5N1g1V3dXYjFrRWZSREFVenNJNGVjMmFFRWN0Tk9pZFYxOUxIWlFpVEVUaDByaFNFTlhVc2h5NDRfNmRIb19MeDYzeEMyNFRjRWRoeW1JeGpMUEFqQ0lSaTRIS293eGtobnF0b1RUdmVXeF9qVnBaRU5EVTRvVmhyM0d4QTIwQjB6NzNR0gGoAUFVX3lxTE5FNDVFNWFiR2V6WERUTnpCc0lqdUpPLTVKQXhaU0JYbWZWMERPeEhFWnllSlMwWnZFVE84eXZzNU1VbGRzT3AzS1VuODMtcGlPSy1kd3ppYmdNMmNKLW1yOFItaTZUTHJNeEJ4cXJ4eG10alB0NW5oMkFraXZhRXlUWTAtUFpYQVJvNEpQM0xyU3AyaVk5OU8xelRGRWVVRnVEMHJIRVhyTw?oc=5",
-          "published_iso": "2026-04-09T17:17:26Z"
-        },
-        {
-          "title": "Affordable housing units sit empty for months",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "Long vacancies delay access to scarce affordable apartments for New Yorkers who need housing now.",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZzY5NE56UGowLTYtRzBtY1lneXBtUE1EMUJnQ2FjM3kzYWk4eU55VXd0WkVMY243c0xhakQtX3VVM0VNd1FscWtWeklIMkZsZ0ZvN2cwQVVWR1BTRTY3SlFBNzdPWEV3TU1kZTNCbE50LTByTUY3OFlTX2JFcUp6bjdxRDRjZ0E?oc=5",
-          "published_iso": "2026-04-10T09:00:00Z"
-        },
-        {
-          "title": "Staten Island maternal death rate among NYC’s highest",
+          "title": "Staten Island report finds many residents below true living-cost threshold",
           "source": "SILive.com",
-          "why_it_matters": "The disparity signals urgent gaps in maternal health care and outcomes for Staten Island families.",
+          "why_it_matters": "The findings highlight widespread financial precarity that can shape demand for local assistance and policy responses.",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQzhURTFNOGhMWGpnS3MtbVhfc051RnNmNmJNbnBtaWVwMm0xUWZvTGJHQUp1MHJRWXZzOGtoNU8xQU93UTJYMUFsUExneGtSeHNvQkxnelYxa0tHc0V4cS1hYUI1NnBGZjUwSkdOSXBhWVgxbFpHQWJJZkRrdVdRQW1VUUZHVjJKX3ByOGRIVk9TTHg1RExUNGlJeXVIR0piODBOY2xac2xxN3pWMFVDT3Y0RllwYnlMXzBpbElpT29xbUtRZXRv0gHbAUFVX3lxTE1Xd0tjSzF3aGNVWXhxT0RPZ0tDaGtVQWt4SUVCWS1Tc25MN0lveDVucTB4SVNhVjdTRk91aWRYdGN4LV9EYnY1WHpJWlRVUW5EYUFvZHNrVjlOSFZNRFoxanFQT19ZbnVzdzRNeHRZbmgzWFlYWEZpRkxkTE43eUZvcDNTU1BPY2JWeVFHbDRveWNYSzl4YU1kckpKYldaanE2TzNNNV9LRmljRVVKb2c4eWd5R3dKeWRkRHlaM0pDUDZfSFY2aUo2NXVUVWw2RUVxaGxpRFM0WHN0TQ?oc=5",
+          "published_iso": "2026-04-12T11:00:00Z"
+        },
+        {
+          "title": "Housing lottery opens at 7 Platt in Financial District",
+          "source": "New York YIMBY",
+          "why_it_matters": "The lottery offers a rare chance for eligible New Yorkers to secure below-market housing in Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWxseEk2SVdhbGRaQnRMc09SSk96WUM4cE9VUE5fbTNqbEdIdWpaeUhZZGxSUi1vVDc3U24tRm5XQ1RWckNWUEwwS1ZBX3oxM0lIV1Q1dEFYWENYMTlxd0QzMmpvWC1SbTliMWpiTlU1TC1MWkdBNWlTU3NwSFduSmZtZHVTbnVvRjJHWEtodGxfclJUYm1fUlBNdVVOMWVRZjdxendCZl8wTWxXaEZra3VTeHhDZVhqV2o5YkdiTjY3ZnFZR0t6MkdURnRadw?oc=5",
+          "published_iso": "2026-04-11T11:00:49Z"
+        },
+        {
+          "title": "Staten Island’s maternal death rate ranks among NYC’s highest",
+          "source": "SILive.com",
+          "why_it_matters": "The disparity signals urgent gaps in maternal healthcare access and outcomes for Staten Island families.",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHZ4aG5tTEQ2aTZBZnJJU3dzT1A2TmVSSEVqRXg4elBZZ3VjTThTTUZNb3BKbmd6REFIbWowekxvbmFuY3lXQ1N5U09vQlM2cVQ4bW15b0FGcmtEeHNEN3NuRFhlbmhKblNKNUlFZ3p1a1NzeXZ1VDgyYVJXREt3OWU3LS1SWjE3Q0F4WEZJVzNqQzZhUndiQUF1TkJrSS1JSEUw0gG3AUFVX3lxTFAxelpHRDhfT1poRWpYbDhiOG9MSUxBZnI5MmRCU0ktRFdZVFgxRlNjdjMtWkdMUm1jVld3OUsweXUwdm1DUU56T0VobFFCVWpRRHBlSEZ3TzFGNlEyR3lZc2t3QWpjQTRjanVCTkhJUWZaaXRQM0owc2xvZENYelppUzdMWHJXRmN6YzU3ZU12dGJveTdnMG9yS2NfcF9FOEp4bzhMdWJKenBmeXBSNDhBb055bWVYZw?oc=5",
           "published_iso": "2026-04-10T09:50:00Z"
         }
@@ -120,46 +134,32 @@
       "title": "Community",
       "items": [
         {
-          "title": "Row Hotel to reopen after three years as migrant shelter",
-          "source": "W42ST",
-          "why_it_matters": "The shift affects Midtown housing policy, tourism activity, and neighborhood street conditions around Times Square.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNl9aMVJYbVpKZXJoRXJBSW1INlpOaVM2REtiWExLTVZZR3BhT3lBRWhJNTh5eTRvOWpfN1RXZ0huQnlpY0x1U1lHQVJtcHpZUGhOQjNuMkhyQmIxbXZIUmhtVnJOUWJCdU5RM1Z6VldVaFctUEpoaGVKNnpFNmlpRnE5bUNhVVI4WUZXaDFkQW1zY1RaRDBGUk9law?oc=5",
-          "published_iso": "2026-04-10T12:08:26Z"
+          "title": "20th anniversary dance party returns to NYC next month",
+          "source": "Time Out",
+          "why_it_matters": "A major city event can affect nightlife plans, crowds, and local business activity.",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNnJPNXpFX0hUbzN1aW5SSnZELVJMN24tQ1NXNDd1RjBJbXdZTWh5TU5pb1lyQk5wU1AyOW53bXV5MDlVOXctMDBJYThaVmZfRUloWHVmYzlKYk93T3UzZVFCcU9pekZJTmVLajhzeGJWLUJtWDNjQmhYTjRjbF81UUxoNEJPd0Y1NWZRdXJhSmFoekxaNVZNT0lvXzNvNHQyblFTRzZhd1pKeGZFN0lGMXpHTUFwdHo2cnV6QVBoX1VidHR5S1RXTFZoSjRIUHc3ZklMUA?oc=5",
+          "published_iso": "2026-04-09T23:01:00Z"
         },
         {
-          "title": "Park Slope Puppetworks theater will close after decades",
-          "source": "Gothamist",
-          "why_it_matters": "The closure removes a longtime family arts institution and cultural fixture from Brooklyn.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2JHckpPN1ZLTjluRFRHWkRDanB4ZUlhVHZKbUtPRHBHYmhKaVl3ZTFMbjZ4M3dsN21fVlo0U2dBZjJiTmJOS3JRa3luUGJMWks2VWVjT20yUU5xQk5EN3pSLXNYWWZJQVBFMW9rYzZHNHk0YmNjdXZBTnJiZ3N2ZlBuTHB3eVlVNG1LbEE4Tm9DeXE1QV8wRHFrQXEyR2tkRXdkZWFn?oc=5",
-          "published_iso": "2026-04-10T17:11:00Z"
+          "title": "Petal Protectors help guard NYC cherry blossoms",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "The effort supports preservation of a beloved seasonal attraction in city parks.",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMGpuYVpIdDcwUHhuNmR0VGxqNWdUTGxnUWNvcWNlSDlTR0xCM0otV25IVmpEbUhPdjI4MWFEdEpVVmotNnprQWx5X2UxTW5FZjA3Vk5udE9BTFRsNnpHS0F0aVJiV2d4YS04VXNhaTF6N1hsVDNTRExTT0NPNFpmUnNoZw?oc=5",
+          "published_iso": "2026-04-11T10:00:00Z"
         },
         {
-          "title": "Staten Island community center delayed by electrical issues",
-          "source": "SILive.com",
-          "why_it_matters": "Residents must wait longer for promised recreation, programs, and services at the $92 million facility.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMERTWklTdlFCM2NoT09jUVNLWU5pVUFfb0RQLTNPZ1BTMDJiUjlBSGFBSHNJTDl4cm05Z3hIalhjbEtoTFdPd0ZkUUlXdjZlQXZfTTdQdzBzdVdEOUh3Wkd5UXpCWFJqcVRPZDV5Z2IxaTlXeFhibEg3eDdWNjJkbjlZQTAtR3VYeHNSME1KZDQzZ1RFZHVXT0RUMDlxU2Z1bzhLNmNxZmV0V2x60gHAAUFVX3lxTE1ibzZKTVlyRFkySF9ZalBFRXdORDBhakU0Yk15REZ0bHNjYUxRcEpjVFljcXpSQzdfMDBrTUJwbkVFbWg5LV9uajlmNkJpMWllWk9zTFlNZFpRZHFZRUItZi1fano1Q0VyeHRkYzJyV05qbVFBbVcyai1aLXM0ZVRfemNXNERLM1pJZ3dJaFRpWlVxZTB4bUJkSklPcXlfVzF5RWlRVTZkMW1NMGxNV0dtWWlSdmFxQUt5ajZzMUlJOA?oc=5",
-          "published_iso": "2026-04-09T09:50:00Z"
+          "title": "Cherry blossom festival guide released for NYC area",
+          "source": "Newsday",
+          "why_it_matters": "Residents can plan spring outings around peak blooms and nearby festivals.",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamFiY1RNelJCWVFjb0Z2enpoNXk2LV9IOEFjZTZHLUlDSTJ1NDVWdWNGaUQwZEFWN3NrTTRNMWhMamZTQjdSSE9pVnI0aFlvcWRZQWNsSkhVUnktVzFVLUM4QW1mUVlSM0U3VXNNNVdaWnF6Y0Y1UGxMeGd5RWdQTjNR?oc=5",
+          "published_iso": "2026-04-12T05:36:23Z"
         },
         {
-          "title": "Tribeca residents push plaza plan at Barnett Newman Triangle",
-          "source": "Streetsblog New York City",
-          "why_it_matters": "The proposal could replace parking with public space and reshape daily street use in Tribeca.",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTQlNKbXlsUkw0OVVCWXc2X3hFRlFONlc4OFVqZnhoOTYyQ1lOdlJnVzk0ZmdReV9jd2xadUUwWDlWd0kybTRKdjB3YWRNNVl1SjRiUGM1N3J3LUpkY1ZHQ0FoUFM3YmFuczhjc0xGd3BTRndLSkpCaU5n?oc=5",
-          "published_iso": "2026-04-10T04:03:00Z"
-        },
-        {
-          "title": "Jimmy’s Corner patrons rally against Times Square eviction",
-          "source": "New York Post",
-          "why_it_matters": "Losing the bar would erase a longstanding neighborhood institution and small-business presence in Times Square.",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmF0UVctR2xWcVFNTGhuQ3RSSUxadlNyY01faG5vbkQ4Q01GUHhpT0RDSVJXMWdUVDMwTEhWanQwSTdhQUY3cnFMR2haQXNRWU9MSHVXckJVVW9GbzBRb0lGZFpzLXk1RllsRVNHWXh0dkphM1hLVlhHY1JrMGV1NlEyOEJybHZOanI3UWhEVkhGSHFlOG0taVV5d2NnRWJfM3ZQMHM5Zw?oc=5",
-          "published_iso": "2026-04-10T21:02:00Z"
-        },
-        {
-          "title": "Permits filed for 175 Park Avenue supertall tower",
-          "source": "New York YIMBY",
-          "why_it_matters": "A major Midtown East project could affect jobs, transit demand, and the neighborhood skyline.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2VoSUhCQVhoOW5uZGpOZDV5TnNEblhYeE1QUjdITVdBcnVTcGs1dTVLN1pIQlR0UzBTVkN4WS1LdjBvQXJmVGxSNGRndk5QektFQm9LVjAwOUxYWjhvR2UyYVhSYXV0b0g0cGJOZy1FXzRrQkx1OWVLY3JnM18yaGpFc210TzBLRW9fRjAwR0NLajRDT3VfOThKbG1NQ1JkdGsyN05HVGJSMm1WTE5fczBqNGhHcXNCcGpjWF9OMA?oc=5",
-          "published_iso": "2026-04-10T12:00:02Z"
+          "title": "Brooklyn kosher staple Chap-A-Nosh closes after four decades",
+          "source": "YeahThatsKosher",
+          "why_it_matters": "The closure marks the loss of a longtime neighborhood business and community gathering spot.",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNektMYW84M3VWRTBGVDYzRG1DdkRkOHpnZWRzSFR0MjBEaGgtSGxjbE5mcE93aW1uWjF0MVI5Z2hUdW5rQjhSNTdsWjhUdjlRUEg0X2JWVHpNSWhoYU9CLUMzeUpkSFVlTHlRV0hZSXFUWW5XVHhnbEtpMHRwSlNlSlEyd2g0XzFiNU1BYkVHcmhrYUhaMldXdHdsbDlFQQ?oc=5",
+          "published_iso": "2026-04-12T01:44:13Z"
         }
       ]
     }
