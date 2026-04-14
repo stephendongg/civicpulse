@@ -1,83 +1,56 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-13T12:00:21Z",
-  "daily_fact": "Staten Island’s St. George Theatre will host its Best Dressed Red Carpet Gala in 2026, featuring country star Wynonna Judd, highlighting a major celebratory event for the borough.",
-  "topline_md": "New York’s week was led by Mayor Mamdani’s sweeping policy push—highlighted by plans for a city-run grocery store, fully funded trash containerization, and a click-to-cancel rule—amid major public-safety developments including a 90-pound fentanyl seizure and multiple significant fires.",
+  "generated_at_utc": "2026-04-14T11:52:50Z",
+  "daily_fact": "A new Orchard Street spot in Manhattan now serves Vietnamese coffee by day and eclectic cocktails by night, adding fresh energy to the Lower East Side dining scene.",
+  "topline_md": "New York’s biggest updates span city policy, infrastructure, and legal scrutiny: Mayor Mamdani rolled out a major Grand Army Plaza redesign as debate intensified over taxes, Rikers, child-welfare bias, sanitation rules, and federal probes, while the Trump administration targeted New York in budget cuts and the new NY–NJ commuter tunnel advanced.",
   "order": [
-    "risks_alerts",
     "civics_politics",
     "opportunities_welfare",
     "community"
   ],
   "sections": {
-    "risks_alerts": {
-      "title": "Risks & Alerts",
-      "items": [
-        {
-          "title": "Brush fire burns along Staten Island Expressway",
-          "source": "SILive.com",
-          "why_it_matters": "The fire could disrupt traffic and pose smoke and safety risks for nearby Staten Island residents.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRURYT21HX1ZwZzZvRGs0dE5fbmE3cDRMQXJzaFo2eUVVME94LWltbDF5SU1wcFJHaTVEUGhWZGRzU3lLOFJYVThGMTltdi1pR1U2MWZYMVZMenAyVWtjZ1J2ejZkMTk0SDVQNUtGZEVhek9PU3R2RWVnNFlaTHZWMVFvdGJkbThmWnE0elBOTjJaVXN4bW1kNHZsd9IBrwFBVV95cUxNR0tRLU9QdEJMSmM4aFdkUEJ3anFqX21tU3RCT3BWYTFIRkdhbWR0bzV5VURqRVFTZF9OZ0tXZHkwSUNfX3FlVngzN1BVUmNYUUFMc0MyNHM4STFSUV9nU05GRkxUWU96M3ptUGJiRnBGZWdISkRWM2w2SGdLV3pVSVRnanNkXzJ3ek9wZ0JHMEtleHZ0ZVFMV0NacnBtamlON2hBS1drZ2o4Yi1sakR3?oc=5",
-          "published_iso": "2026-04-10T21:54:00Z"
-        }
-      ]
-    },
     "civics_politics": {
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Mamdani unveils 100-day agenda, including city-run grocery store",
-          "source": "ABC7 New York",
-          "why_it_matters": "The mayor’s early policy plans could affect food prices, city services, and neighborhood access to essentials.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOUl6VHltOF9yX3lEN3N6ZGNxQ0dfbFh1c1VmaW9ucmFfYTk0Y0duRXcwY1J0QTZLRDlUNkFpVFVZZWgzWUJBTmNNNFFld2xQOE4zZ2s3dDQ2eEd0WmM2RG9wY0hFSnVyekxJUWVUYU5JWW1YVE94a09DRXdHQVNKTDVOclVQRmY4eC1zVUZuNjZOU2o2U05KSE1jX2tEdFNuOFpCeTc3ZHplekFkRl9jbzBkM3FPazZ5b3ZHQk1fONIBxAFBVV95cUxNWmxhRndQdEJQQkR4dGppZUlWQWZHRVNTNlFGSmZnYzVCaW9idF9JUDRhUkNBRDdScTRFYlFWRUhYN3ZveThFRFZ4WWhwa3NqbjlMMG1kbDlTOERWcVFsSDFxb3JSRGhOQmhtcEJpY05ySURMLUUwci1VWkp0WlMtekloM2F3eG9Sd0lMODBVR290blY0NVNxSDZmcHBkaEhid0hIU3pMQXdfR21pSGk0UmdpbWhnVmQzQ2dWYVFMVDJOQ0My?oc=5",
-          "published_iso": "2026-04-12T18:53:05Z"
-        },
-        {
-          "title": "Mamdani backs full funding for citywide trash containerization",
-          "source": "Streetsblog New York City",
-          "why_it_matters": "Expanded containerization could reduce rats, street mess, and sanitation problems on residential blocks.",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3lLLUd5eVdteDNBMTcwcXhGMlk5aW9BdEFfc3RXbFlmdnNrckNFS2hZX2s2LXNCTHRZZlZJcko3YlNtYXo1R3VCbWM5cGlBamxreXVmQzVMelQwUmdYRnotcm5DVlVadVhfQkhBQVNOR0ZEQmg4VGJ3ZWhmU2lQZjFlMTNHSWZRSFVMdlYwNWhLODd3UlkyMWx3aGM?oc=5",
-          "published_iso": "2026-04-12T20:00:00Z"
-        },
-        {
-          "title": "Push grows to shift parking enforcement from NYPD to DOT",
-          "source": "Streetsblog New York City",
-          "why_it_matters": "A transfer could change ticketing priorities, street safety enforcement, and how curb space is managed.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV2NseGZRMXJ0WjBlTUdoZGp1cUoyTW1XRm1wdjN1R0dNNzhHTzVjQURRSnJ3Z0l4VlNkV0xsN1FkNC00d1pKcVZhVk9VakVka2RHWmp1WmFldlFUOG00N0M1M0tVLVZmUi05bmlVSW5vcWZjYllVTmRuXzdLM3JIWXZZSTYzTVgwM2RBa1VXY3h2TW5r?oc=5",
-          "published_iso": "2026-04-13T04:03:00Z"
-        },
-        {
-          "title": "Mayor proposes click-to-cancel rule for subscriptions",
+          "title": "Trump budget cuts target New York programs",
           "source": "Newsday",
-          "why_it_matters": "The rule could make it easier for New Yorkers to stop recurring charges and avoid unwanted fees.",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQW9UNjBCeTJWQjduVlJyTFNrNFZEME81VE1PTTMtbk0zQm52MXdKSGVFRmhpYzRtRWppQW9sOVR3OVNyTThaY3V5SnJncFBFZ1NrLVBKS3BTdWJzU211YkZUWXB5NHVNR0stZng2YjdDck53dTJxaHZNTHZpbHBCdlpqSVd5bFctT2QxU3NB?oc=5",
-          "published_iso": "2026-04-11T17:29:25Z"
+          "why_it_matters": "Federal cuts could reduce funding for services New Yorkers rely on and strain the city and state budgets.",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGJvN1Y2a3BnVFhONGpOSlM5RHNRblEzZlF2YVJoN1NzdW11QzZBNTY3a1o2RHJPSWxsOFBfRWtQT3dISnpvWExXbDMxUGhGYUdYMlV2d1hBUjExb3Y2ZlVoaEw0dFlIekZpd0FJQWdJODN1b2RQemplMWl1VG02d3B2TEZoY2d4Wkk1ZUduNGIwNUtu?oc=5",
+          "published_iso": "2026-04-13T20:33:47Z"
         },
         {
-          "title": "Participatory Budgeting vote week begins across parts of NYC",
-          "source": "iLovetheUpperWestSide.com",
-          "why_it_matters": "Residents can directly decide how local capital funds are spent in their neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWpSTTJlblRyVVhtM0Rlek1sZHNXaWRDVkUzNlBnaXpyVTRjeVNudHM2OUtPLUFLVG1nMWMyNGxmSEdQRUdOaFhaZ01XMjAzeWUwSVFnSHhmZ0k4QURJYVRaVWtnN2t5YmhSLXhpSFFIUlBzelpjSzFBSW4tNmJRc1pTdFo3RTZMTTRKdEVaV1E0RXZBMkRuUG9CdW9XaC04SE9ycDhqbWtEZw?oc=5",
-          "published_iso": "2026-04-10T14:51:41Z"
+          "title": "NYC mandates new trash bins for homeowners by June 1",
+          "source": "SILive.com",
+          "why_it_matters": "Homeowners must comply soon, affecting sanitation costs, storage, and how trash is set out citywide.",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmNFbGhRVnFQLVNPcTQ4V001c3paQ0swS0tpcGo3ZzNLZldaMl9MQkdPM2NRQ2VoeVhUZnphNnVkaUlZLXExeHZRR1NUbExteEJRbTJadnlJTVBkUzZrWWdob2wyQTlnWTdIOU1qV25GUExWOEVwSHN1Yl9yMlBuRk5lQ2laUFZJbGR5ZEdKMW9yRlN0bTZVdlN3c2VWOUZwYndfRXhMcENZd9IBvgFBVV95cUxOUGNGRWdJb3R5OHdFeXp1NVlJYkZ0M1dPZlhMZDQ2a09QTDEzVGUyNkt2ZWYydDd4N1RsNW9OQlJaclZhUzl4dFhMMnd6S3drZi0wQ0R0aEpXdl9FY0EwZ05JLXhGdkMwczdIdlVDd0FvWnhMUnNXeEVUZTNkNmtLaUItbS1STTFLdDdsZWs5LXNnRXNGTGR1eUlMMFM2U3BxY0pYTFB4bDdPc2Z3MndrOFNLRURFQ1dpVDFzMjNn?oc=5",
+          "published_iso": "2026-04-13T19:19:00Z"
         },
         {
-          "title": "State lawmakers seek stronger helicopter safety rules",
-          "source": "Gothamist",
-          "why_it_matters": "New restrictions could improve safety over city waterways and reduce risks from sightseeing flights.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUFFVdk8wU28xRHEtY29QMy1SU29GNEVzQWNwTDhHU2tqQlFKand1Q2NISnQxQ2swbVRzLUZFVEZDSXZBMkFVWHplX2JvUG1rRHhCVUhVWkdxLVZJS1hRakt0S1RWN3hrb1EyQk53TmJqeEhuWExtUXZzckpySURsNXQ1QmFfRDUtcklmNWs1OW9oV1ZycHNBUzB3YUVPWDhXOHVGUFp3?oc=5",
-          "published_iso": "2026-04-11T15:01:00Z"
+          "title": "Grand Army Plaza redesign proposed by Mayor Mamdani",
+          "source": "NYC.gov",
+          "why_it_matters": "A major plaza overhaul could reshape traffic, public space, and safety around a key Brooklyn hub.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3FnRFRYOXNrdnp6ZWI1c2N5RmNqU013YWhYeEdQUmsyOGtzTWZDV1NJSl9Pd0FjaUFjTDkwdVM4U1VDTC1vY1hYMFZEeXF2MXdMWGF4VGNIdS10UEp5cWczVk9BYmVpenFBVVl6SjBfa0pwQTFncmU3OWU0akt0QTNfTUtLS0tFU3ZlM2I0Sm9UZXJrdjdaeEVzQUJmMzc4c2VDV0RWQlRxbmZXaVNKRw?oc=5",
+          "published_iso": "2026-04-13T19:40:13Z"
         },
         {
-          "title": "State weighs delays to New York climate law mandates",
-          "source": "New York Focus",
-          "why_it_matters": "Any delay could affect building upgrades, energy costs, and the city’s timeline for cutting emissions.",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yV3BsZHJSVXRHeXF1ajdoZTQ0bFZoUVlmcmxYSTh1OHNHNzBDN2tnY1pBU3UtYm4xOG5ZaXRNcmRTUDJkRlNHaDJtS0l2LWU4TlZiLU01eWdXb2JOZy1nNWE4TmpxTGEzYUl6N3JURmtPT3J1RG5Ya2pR?oc=5",
-          "published_iso": "2026-04-10T17:56:00Z"
+          "title": "Report links NYC official to federally investigated group",
+          "source": "SILive.com",
+          "why_it_matters": "The allegations raise accountability concerns over public money and could trigger political or legal fallout.",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVZVU0oteHVmVlpfSzdnNzhWcUVYaldIVDBwVF84c1pvQ2U5eVI4MS0yTEtzZEh2M0Iwd18tVGd6WUpEeXNUUEpFY0hTeUZTTi1Ec1R4VXRiLU9ROUIzS1YtLVNWdE04dXh5bUJRZEZJQjI1c1NDVF85eWpyNTVuS2JDR3h6ckR1TE1aSndVdDRIQ3dHMFE3WjQ5VF9rM1IzVnhsaDVNWnZ5SnFESUxtdERVb0JPWkd6akkzUTVkUUtZTElzaHo5ek930gHeAUFVX3lxTE1GXzhmdkxTT3FmMHFVS1VpTDZiUEl5anJEM1ZscXlfOERpS1NiZVhwWFo1ZXRDLVphVHVVV1pqOTBrOTdoTEQ1OU5VRDZZdktGR3kyVWY2V1FMZERYUHVoMkF0N0NmVzdOVW5tUWdYMVhiVXM3ZDhaRDh3MDZfamdIZ045SS14UkhwRnU3OENrTV9HR3k5dmZybkdOMGN5cnVuTng3Zk1ZanRDeXFIcHB3MWtZVlQ3cXFJZzg2ZUNrWVVJbnBtazV6Njd2SC16Ujd1ZTRaQ3Q3RnlSSmxJUQ?oc=5",
+          "published_iso": "2026-04-13T19:30:00Z"
         },
         {
-          "title": "Advocates press city to address bias against Black families in child welfare",
+          "title": "Nonprofits urge Albany to keep tax hikes on wealthy",
           "source": "New York Daily News",
-          "why_it_matters": "Changes at ACS could affect investigations, family separations, and support services for vulnerable households.",
+          "why_it_matters": "State tax decisions could affect funding for transit, schools, housing, and other services used by city residents.",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjVsUDJJelQ0TVQ1T1U3OGZEQl9JcGt1aUZSOTdSUTlZZDRha1o4cWo1LWZrRDUyUERRR011S096VnVZUWxZZ1kwNUV2TmxGRTVFYXVwVVVqTUpkc0d4MnlVWjQzRlNzR29Eb3pfWnJwLVVjWHVCZ0tMZnNPVWpINDZlNlQ0bktNNnRUREZkZWwzNkNCMDlOVHNuYkZiblFmbHJlTlVZbWVILV9DOHFlUTk5M3NjQQ?oc=5",
+          "published_iso": "2026-04-13T10:00:43Z"
+        },
+        {
+          "title": "Advocates press city to address bias in child welfare",
+          "source": "New York Daily News",
+          "why_it_matters": "Changes to child welfare policy could affect how Black families are investigated and treated by city agencies.",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPREFLYVpWd1U3Sk16YngzZmwzZGRhMWdxbVdJUl8xZEI3V1BaR1hwMTNjTmxkMDdGal8wVnYwazgzbG5xS2xHLVRacXJQRkdla0UyZER5REZLSTBwU2hFalpCZFczbTY4MnZUT1Vnenp3aGFfdE5mZUlhWnpaSUdVSmQzczlMX0N0YWh5TmU3U3Y3bHV1bDRBYThJMS13T0JtODBIV2ZXSU91al94ZUtUNjFxLXRIcmV4cWhqT3NCcUN0X3NUNVE?oc=5",
           "published_iso": "2026-04-12T10:15:19Z"
         }
@@ -87,39 +60,11 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Staten Island maternal death rate ranks among NYC’s highest",
+          "title": "Report: Nearly Half of Staten Islanders Can’t Meet NYC Living Costs",
           "source": "SILive.com",
-          "why_it_matters": "The finding points to urgent gaps in maternal healthcare and risks for Staten Island families.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHZ4aG5tTEQ2aTZBZnJJU3dzT1A2TmVSSEVqRXg4elBZZ3VjTThTTUZNb3BKbmd6REFIbWowekxvbmFuY3lXQ1N5U09vQlM2cVQ4bW15b0FGcmtEeHNEN3NuRFhlbmhKblNKNUlFZ3p1a1NzeXZ1VDgyYVJXREt3OWU3LS1SWjE3Q0F4WEZJVzNqQzZhUndiQUF1TkJrSS1JSEUw0gG3AUFVX3lxTFAxelpHRDhfT1poRWpYbDhiOG9MSUxBZnI5MmRCU0ktRFdZVFgxRlNjdjMtWkdMUm1jVld3OUsweXUwdm1DUU56T0VobFFCVWpRRHBlSEZ3TzFGNlEyR3lZc2t3QWpjQTRjanVCTkhJUWZaaXRQM0owc2xvZENYelppUzdMWHJXRmN6YzU3ZU12dGJveTdnMG9yS2NfcF9FOEp4bzhMdWJKenBmeXBSNDhBb055bWVYZw?oc=5",
-          "published_iso": "2026-04-10T09:50:00Z"
-        },
-        {
-          "title": "Study finds new affordable housing units sit empty for months",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "Vacant subsidized apartments can worsen the housing shortage and delay homes for eligible New Yorkers.",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZzY5NE56UGowLTYtRzBtY1lneXBtUE1EMUJnQ2FjM3kzYWk4eU55VXd0WkVMY243c0xhakQtX3VVM0VNd1FscWtWeklIMkZsZ0ZvN2cwQVVWR1BTRTY3SlFBNzdPWEV3TU1kZTNCbE50LTByTUY3OFlTX2JFcUp6bjdxRDRjZ0E?oc=5",
-          "published_iso": "2026-04-10T09:00:00Z"
-        },
-        {
-          "title": "Report says nearly half of Staten Islanders miss true living-cost benchmark",
-          "source": "SILive.com",
-          "why_it_matters": "The data highlights widespread financial strain that can shape demand for aid, wages, and housing support.",
+          "why_it_matters": "The findings highlight widespread financial strain that could shape local aid, wages, and affordability debates.",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQzhURTFNOGhMWGpnS3MtbVhfc051RnNmNmJNbnBtaWVwMm0xUWZvTGJHQUp1MHJRWXZzOGtoNU8xQU93UTJYMUFsUExneGtSeHNvQkxnelYxa0tHc0V4cS1hYUI1NnBGZjUwSkdOSXBhWVgxbFpHQWJJZkRrdVdRQW1VUUZHVjJKX3ByOGRIVk9TTHg1RExUNGlJeXVIR0piODBOY2xac2xxN3pWMFVDT3Y0RllwYnlMXzBpbElpT29xbUtRZXRv0gHbAUFVX3lxTE1Xd0tjSzF3aGNVWXhxT0RPZ0tDaGtVQWt4SUVCWS1Tc25MN0lveDVucTB4SVNhVjdTRk91aWRYdGN4LV9EYnY1WHpJWlRVUW5EYUFvZHNrVjlOSFZNRFoxanFQT19ZbnVzdzRNeHRZbmgzWFlYWEZpRkxkTE43eUZvcDNTU1BPY2JWeVFHbDRveWNYSzl4YU1kckpKYldaanE2TzNNNV9LRmljRVVKb2c4eWd5R3dKeWRkRHlaM0pDUDZfSFY2aUo2NXVUVWw2RUVxaGxpRFM0WHN0TQ?oc=5",
           "published_iso": "2026-04-12T11:00:00Z"
-        },
-        {
-          "title": "Housing lottery opens at 7 Platt Street in Lower Manhattan",
-          "source": "New York YIMBY",
-          "why_it_matters": "The lottery offers a concrete new chance for income-qualified residents to secure below-market housing.",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWxseEk2SVdhbGRaQnRMc09SSk96WUM4cE9VUE5fbTNqbEdIdWpaeUhZZGxSUi1vVDc3U24tRm5XQ1RWckNWUEwwS1ZBX3oxM0lIV1Q1dEFYWENYMTlxd0QzMmpvWC1SbTliMWpiTlU1TC1MWkdBNWlTU3NwSFduSmZtZHVTbnVvRjJHWEtodGxfclJUYm1fUlBNdVVOMWVRZjdxendCZl8wTWxXaEZra3VTeHhDZVhqV2o5YkdiTjY3ZnFZR0t6MkdURnRadw?oc=5",
-          "published_iso": "2026-04-11T11:00:49Z"
-        },
-        {
-          "title": "Northwell opens $6 million spine institute on Upper East Side",
-          "source": "Crain's New York",
-          "why_it_matters": "The new clinic could expand access to specialized spine care for Manhattan patients.",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNczRwd01SbFNaM3VuS1BJdHdDZHViSDAzTHRIS3pxcTU1NG9PcVJVc2JmZFFtakxqZmNsd3pxOVlXMWE3MFN6ZVh1cWZ2aUxJYXlySnlzVnlUbV9Xc3puanJKVlFsbmNha2JlZGk4S3p0emFob0tiVDRIVE4tVi1oQjBNdzc3YmVZZTF4V0VVWlB3cVZzcWZF?oc=5",
-          "published_iso": "2026-04-13T09:30:00Z"
         }
       ]
     },
@@ -127,25 +72,11 @@
       "title": "Community",
       "items": [
         {
-          "title": "Cherry blossom festivals bloom across NYC and Long Island",
-          "source": "Newsday",
-          "why_it_matters": "Residents can plan seasonal outings and expect crowds, events, and park activity across the region.",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamFiY1RNelJCWVFjb0Z2enpoNXk2LV9IOEFjZTZHLUlDSTJ1NDVWdWNGaUQwZEFWN3NrTTRNMWhMamZTQjdSSE9pVnI0aFlvcWRZQWNsSkhVUnktVzFVLUM4QW1mUVlSM0U3VXNNNVdaWnF6Y0Y1UGxMeGd5RWdQTjNR?oc=5",
-          "published_iso": "2026-04-13T01:09:44Z"
-        },
-        {
-          "title": "Volunteers protect NYC cherry blossoms from damage",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "Tree stewardship helps preserve popular neighborhood parks and keeps spring bloom sites accessible and healthy.",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMGpuYVpIdDcwUHhuNmR0VGxqNWdUTGxnUWNvcWNlSDlTR0xCM0otV25IVmpEbUhPdjI4MWFEdEpVVmotNnprQWx5X2UxTW5FZjA3Vk5udE9BTFRsNnpHS0F0aVJiV2d4YS04VXNhaTF6N1hsVDNTRExTT0NPNFpmUnNoZw?oc=5",
-          "published_iso": "2026-04-11T10:00:00Z"
-        },
-        {
-          "title": "Health-focused restaurants expand on Staten Island",
-          "source": "SILive.com",
-          "why_it_matters": "The shift changes local dining options as residents gain more healthy choices while familiar chains close.",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQejBVemM4S1RRWEx1STJJRXhjT0Z4eXMtcXFvVllZM0JsMmZaMkd1WVJKbFd6R3ppTGJRdFN2VWtGZEhBUW44dnphVTFwaXRQZm9WRGFwZjV5LUtJY3BCcmlyc3lQZmxOTGRKbHlkWm1GS25fbEtNanoxSDlIVmlpWm9EMDhrNEFPSDFUZy0ycm5LNUFoa09JYW9ScUw0eVh4akdoMENrQ2hhNm0yUFZiVVU3Q2wzWHk2TU02T21OTVg4ZGFDbmd3?oc=5",
-          "published_iso": "2026-04-12T13:01:00Z"
+          "title": "Tunnel boring machine arrives for new NY-NJ commuter tunnel",
+          "source": "NJ.com",
+          "why_it_matters": "The project will shape future rail reliability and regional commuting between New York and New Jersey.",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGVNR0JNXzVLSWJIY0JpQm5zZlpmQzhrTW9McGNTaThDcjNOTng2ZmxiQ0ZjeEQ2eEN3SUp0cUw3SmowejFWejRlcmh3OHhpejRyLVJNOFgwM0xkTndnQVRHWm1TTUxZejk4VkxfcVZJT2ZzbVQ1Z2pJajhMaDZXdGRpQkI3V1I4U01RY3BST29DZklUWkVvcWZGWV9EMnRPVkVrYjlES1hIaGhKUkNSeW5PYXpCMHNmR3hvWEFpWXQ0dUREbnZadTJXVGJLY2hkQTFLXy1Bcm_SAewBQVVfeXFMUGZFaHE3aG5rZU5Jb0pGRUpkQzNXSlF6LTBHM2cxTFY4VnhNSzFDVm45RHpFeGJtYTE1MHJmV1VkaXAtY0xCRXJsUHhjMVBraXpOMGNoSFp3X1ZFNS12emtubXRYb00yN1dQR3dlWG9NQWJobGNQdnVKY1Y5aHNkbjVfM2RQcFlCTDFiMnM2Zk56WGRUVzlBLVRSOHA5RFQ3WksyTzJ0MEFMdG9NazZ1WmZOYjlCVVROOXJJY2tacnBTeWY2dzBRM0tET0xCT282aHlZWWlmVlBNcUdOQ1RrdUM0LV9FZlI3Tnl2YnM?oc=5",
+          "published_iso": "2026-04-13T20:56:00Z"
         }
       ]
     }
