@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-14T11:52:50Z",
-  "daily_fact": "A new Orchard Street spot in Manhattan now serves Vietnamese coffee by day and eclectic cocktails by night, adding fresh energy to the Lower East Side dining scene.",
-  "topline_md": "New York’s biggest updates span city policy, infrastructure, and legal scrutiny: Mayor Mamdani rolled out a major Grand Army Plaza redesign as debate intensified over taxes, Rikers, child-welfare bias, sanitation rules, and federal probes, while the Trump administration targeted New York in budget cuts and the new NY–NJ commuter tunnel advanced.",
+  "generated_at_utc": "2026-04-15T11:49:26Z",
+  "daily_fact": "Bronx baker Preston Lopez is bringing Dominican-inspired flavors to New York City through his Crackl Cookies business, highlighting the borough’s vibrant culinary creativity.",
+  "topline_md": "New York’s latest headlines center on city governance and quality-of-life pressures: a councilmember’s $450K nonprofit allocation is under federal scrutiny as officials roll out new public-health, sanitation, housing, and infrastructure measures. Meanwhile, political tensions and criminal-justice developments share the spotlight with major arts, food, and cultural events across the city.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,46 +13,46 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Trump budget cuts target New York programs",
-          "source": "Newsday",
-          "why_it_matters": "Federal cuts could reduce funding for services New Yorkers rely on and strain the city and state budgets.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbGJvN1Y2a3BnVFhONGpOSlM5RHNRblEzZlF2YVJoN1NzdW11QzZBNTY3a1o2RHJPSWxsOFBfRWtQT3dISnpvWExXbDMxUGhGYUdYMlV2d1hBUjExb3Y2ZlVoaEw0dFlIekZpd0FJQWdJODN1b2RQemplMWl1VG02d3B2TEZoY2d4Wkk1ZUduNGIwNUtu?oc=5",
-          "published_iso": "2026-04-13T20:33:47Z"
+          "title": "Councilmember steered $450K to nonprofit under federal investigation",
+          "source": "Gothamist",
+          "why_it_matters": "The probe raises oversight concerns about how city funds are awarded and monitored.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXlpZWFkZ1ZfVEhSREtSR2JPM1plODhEUElQTVVjaXVFMWQ4RjNPMVp1bjlMQlpPYU5SSzRTUTViei1Zc0R5Y3BqcUpPanlZNEVreWw0Nlc0RWxEV1dleWtxMWFVeFQxVmExdHZkTEtEYTZPU1p0WDFQNEdIRkZhdmtSdE13akhQdnFGeTl6SklzM25SWGhfU0JTbElaUFBBMXhSdEJn?oc=5",
+          "published_iso": "2026-04-15T01:22:00Z"
         },
         {
-          "title": "NYC mandates new trash bins for homeowners by June 1",
+          "title": "City tightens cooling tower testing to prevent Legionnaires’ outbreaks",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "Stricter rules could reduce deadly disease outbreaks tied to building maintenance failures.",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUtsZXNOcnE1M2pVaUlMclNIZmVwZlE5N2RhWV9PTDkxbGdzMW4tLXRxY0JYYldlYTBVWkQ0bm1JcU02NDdSY2JxcWZiVUgwNlNjUm9BUTg3RzE3V2RZd3lWM0VBZDdBazlEdGlmUTJZVEIzTUFzRFlqWTBHNXFpcFA5T2R5QjdiREc5R0hQM3pNbGo2cGtF?oc=5",
+          "published_iso": "2026-04-13T20:17:20Z"
+        },
+        {
+          "title": "NYC to mandate new trash bins; recycling rules still in question",
           "source": "SILive.com",
-          "why_it_matters": "Homeowners must comply soon, affecting sanitation costs, storage, and how trash is set out citywide.",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmNFbGhRVnFQLVNPcTQ4V001c3paQ0swS0tpcGo3ZzNLZldaMl9MQkdPM2NRQ2VoeVhUZnphNnVkaUlZLXExeHZRR1NUbExteEJRbTJadnlJTVBkUzZrWWdob2wyQTlnWTdIOU1qV25GUExWOEVwSHN1Yl9yMlBuRk5lQ2laUFZJbGR5ZEdKMW9yRlN0bTZVdlN3c2VWOUZwYndfRXhMcENZd9IBvgFBVV95cUxOUGNGRWdJb3R5OHdFeXp1NVlJYkZ0M1dPZlhMZDQ2a09QTDEzVGUyNkt2ZWYydDd4N1RsNW9OQlJaclZhUzl4dFhMMnd6S3drZi0wQ0R0aEpXdl9FY0EwZ05JLXhGdkMwczdIdlVDd0FvWnhMUnNXeEVUZTNkNmtLaUItbS1STTFLdDdsZWs5LXNnRXNGTGR1eUlMMFM2U3BxY0pYTFB4bDdPc2Z3MndrOFNLRURFQ1dpVDFzMjNn?oc=5",
-          "published_iso": "2026-04-13T19:19:00Z"
+          "why_it_matters": "New container requirements could change how residents and buildings handle curbside waste.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTkZaTzVrb3ZBLUdzcmg5V0I3RmYxa1h4VzVPUW41THNHQ2JhNjRRNF9VeUNva2toSWNBR0xqMTZkRXFuWjh2Q0NNZENYdWd2cTVFaGVaQXFCNklmMEhRVUtKTlRUMWdyZmlYT1JtVmtsRW9NcC02YXRSTzNmLUN6VmNvLWx1OWhsMHNUWjZpZmp3WEpuNk41QW1lS1R3QlNDbzFXSDVoM1AtR05VNlHSAcIBQVVfeXFMUHlaWFY1Sy1Kbm0tOVVSUW9iUDUyVDhvSk1mMnhKcnFvT1RoUUtmWmlQclJyMlZUSHVLcFptbXhVekpJZk55c3pKcW5kWE1sQUMyc01yTnJxeVdqLWFXSTZXcFJJSGlRWDFvdVJsby1LYmI4NFN1aTBIakpvUF9MMjZhOXl5c2JmS2p0dmN2QnVmYUp6UzdFQW1WM3o2S2xpY2JKOURxdGtTdXNkMGxpZjh0eGs2RTBqVjB5RVkxYzA2VXc?oc=5",
+          "published_iso": "2026-04-14T16:42:00Z"
         },
         {
-          "title": "Grand Army Plaza redesign proposed by Mayor Mamdani",
-          "source": "NYC.gov",
-          "why_it_matters": "A major plaza overhaul could reshape traffic, public space, and safety around a key Brooklyn hub.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3FnRFRYOXNrdnp6ZWI1c2N5RmNqU013YWhYeEdQUmsyOGtzTWZDV1NJSl9Pd0FjaUFjTDkwdVM4U1VDTC1vY1hYMFZEeXF2MXdMWGF4VGNIdS10UEp5cWczVk9BYmVpenFBVVl6SjBfa0pwQTFncmU3OWU0akt0QTNfTUtLS0tFU3ZlM2I0Sm9UZXJrdjdaeEVzQUJmMzc4c2VDV0RWQlRxbmZXaVNKRw?oc=5",
-          "published_iso": "2026-04-13T19:40:13Z"
+          "title": "Over 1 million tenants may face new garbage and door duties",
+          "source": "Brooklyn Eagle",
+          "why_it_matters": "Potential staffing and sanitation changes could affect daily living conditions in many apartment buildings.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeGh6Wk1MbmROSXY1bmZsVS12TkhGWk5wdEgyZTNmaENENnRpaVRRQW80RUdJNmt4S2pUNVlhZVAyWnprdGViOHF0T1JkLURiYnNlREt4WVhJdWVNQ3hBcjNiX0NaZkFnLV8walpwRWRwcHQyZVhYRS1oX1J0c3RQOENIY3IwcHhxRnc0VEZ6Yk9aRFJ1YVJqMjlZaXhMbkQ0WlJ0Q1Y1aDc0VmZXWlV2ZF94QzZYbXFp?oc=5",
+          "published_iso": "2026-04-13T19:25:18Z"
         },
         {
-          "title": "Report links NYC official to federally investigated group",
-          "source": "SILive.com",
-          "why_it_matters": "The allegations raise accountability concerns over public money and could trigger political or legal fallout.",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVZVU0oteHVmVlpfSzdnNzhWcUVYaldIVDBwVF84c1pvQ2U5eVI4MS0yTEtzZEh2M0Iwd18tVGd6WUpEeXNUUEpFY0hTeUZTTi1Ec1R4VXRiLU9ROUIzS1YtLVNWdE04dXh5bUJRZEZJQjI1c1NDVF85eWpyNTVuS2JDR3h6ckR1TE1aSndVdDRIQ3dHMFE3WjQ5VF9rM1IzVnhsaDVNWnZ5SnFESUxtdERVb0JPWkd6akkzUTVkUUtZTElzaHo5ek930gHeAUFVX3lxTE1GXzhmdkxTT3FmMHFVS1VpTDZiUEl5anJEM1ZscXlfOERpS1NiZVhwWFo1ZXRDLVphVHVVV1pqOTBrOTdoTEQ1OU5VRDZZdktGR3kyVWY2V1FMZERYUHVoMkF0N0NmVzdOVW5tUWdYMVhiVXM3ZDhaRDh3MDZfamdIZ045SS14UkhwRnU3OENrTV9HR3k5dmZybkdOMGN5cnVuTng3Zk1ZanRDeXFIcHB3MWtZVlQ3cXFJZzg2ZUNrWVVJbnBtazV6Njd2SC16Ujd1ZTRaQ3Q3RnlSSmxJUQ?oc=5",
-          "published_iso": "2026-04-13T19:30:00Z"
+          "title": "NYCHA offers new incentive to seniors blocking $1.2 billion project",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "The standoff could shape housing redevelopment, tenant rights, and public land use in Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXFOWWRaVXNHVUFWVDFkQ1VUd2FfNFZqVGgzLTBjbHZtTVppa0RYQWZ2dVdqc2VrX3ZVMTZzb1hjZS1XMXY4QzlfRVEtQmFSaU9GSGNlMVF1Y1hnUG5PRDlMcDdWYlBjS0FHNjQ4bzVheGx6emx2c0VNaW9RZXR2em01b1JhcTUyY2NWNFoyZzdDNlpYS0FNTlFHQzdhbGhiUGhiTjZVVjk0S1FzcGFCOXZn?oc=5",
+          "published_iso": "2026-04-13T20:27:25Z"
         },
         {
-          "title": "Nonprofits urge Albany to keep tax hikes on wealthy",
-          "source": "New York Daily News",
-          "why_it_matters": "State tax decisions could affect funding for transit, schools, housing, and other services used by city residents.",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdjVsUDJJelQ0TVQ1T1U3OGZEQl9JcGt1aUZSOTdSUTlZZDRha1o4cWo1LWZrRDUyUERRR011S096VnVZUWxZZ1kwNUV2TmxGRTVFYXVwVVVqTUpkc0d4MnlVWjQzRlNzR29Eb3pfWnJwLVVjWHVCZ0tMZnNPVWpINDZlNlQ0bktNNnRUREZkZWwzNkNCMDlOVHNuYkZiblFmbHJlTlVZbWVILV9DOHFlUTk5M3NjQQ?oc=5",
-          "published_iso": "2026-04-13T10:00:43Z"
-        },
-        {
-          "title": "Advocates press city to address bias in child welfare",
-          "source": "New York Daily News",
-          "why_it_matters": "Changes to child welfare policy could affect how Black families are investigated and treated by city agencies.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPREFLYVpWd1U3Sk16YngzZmwzZGRhMWdxbVdJUl8xZEI3V1BaR1hwMTNjTmxkMDdGal8wVnYwazgzbG5xS2xHLVRacXJQRkdla0UyZER5REZLSTBwU2hFalpCZFczbTY4MnZUT1Vnenp3aGFfdE5mZUlhWnpaSUdVSmQzczlMX0N0YWh5TmU3U3Y3bHV1bDRBYThJMS13T0JtODBIV2ZXSU91al94ZUtUNjFxLXRIcmV4cWhqT3NCcUN0X3NUNVE?oc=5",
-          "published_iso": "2026-04-12T10:15:19Z"
+          "title": "Bill would allow window-mounted solar panels in New York",
+          "source": "Gothamist",
+          "why_it_matters": "The proposal could expand apartment residents’ access to cheaper clean energy.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSmNRUTBuYjdEOEYxcXF5d1hOemxUbWJJakJLTmlTeUowMVptX1lUTDN6OUkyTFhXQ1hWYUFwd0c3UU5LalY2RGpQanJkMzJrRHRaM0VfaU4zdmd6OFlfVkl3anNJTndIRk4wQVY1NC05WFBPZ2JyVFdrQW9BMFBJd1pNU3dxMEtNV01UZFA4TUtUWEcwVC1XMldDTDVmZklPQ19lRkExS3JOdHM?oc=5",
+          "published_iso": "2026-04-15T01:22:00Z"
         }
       ]
     },
@@ -60,11 +60,18 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Report: Nearly Half of Staten Islanders Can’t Meet NYC Living Costs",
-          "source": "SILive.com",
-          "why_it_matters": "The findings highlight widespread financial strain that could shape local aid, wages, and affordability debates.",
-          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQzhURTFNOGhMWGpnS3MtbVhfc051RnNmNmJNbnBtaWVwMm0xUWZvTGJHQUp1MHJRWXZzOGtoNU8xQU93UTJYMUFsUExneGtSeHNvQkxnelYxa0tHc0V4cS1hYUI1NnBGZjUwSkdOSXBhWVgxbFpHQWJJZkRrdVdRQW1VUUZHVjJKX3ByOGRIVk9TTHg1RExUNGlJeXVIR0piODBOY2xac2xxN3pWMFVDT3Y0RllwYnlMXzBpbElpT29xbUtRZXRv0gHbAUFVX3lxTE1Xd0tjSzF3aGNVWXhxT0RPZ0tDaGtVQWt4SUVCWS1Tc25MN0lveDVucTB4SVNhVjdTRk91aWRYdGN4LV9EYnY1WHpJWlRVUW5EYUFvZHNrVjlOSFZNRFoxanFQT19ZbnVzdzRNeHRZbmgzWFlYWEZpRkxkTE43eUZvcDNTU1BPY2JWeVFHbDRveWNYSzl4YU1kckpKYldaanE2TzNNNV9LRmljRVVKb2c4eWd5R3dKeWRkRHlaM0pDUDZfSFY2aUo2NXVUVWw2RUVxaGxpRFM0WHN0TQ?oc=5",
-          "published_iso": "2026-04-12T11:00:00Z"
+          "title": "Thousands of NYC tenants face May voucher cutoff",
+          "source": "Gothamist",
+          "why_it_matters": "Losing emergency housing vouchers could put many New Yorkers at immediate risk of eviction and homelessness.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2FpZGF3TDJwdV9hUmpuVlFTUlJHQWJEaHo0RUFLMTZ3MFhlcHRtRXNEcnUwZHdzVE1hSnhNckVVUXZ0cWFPNjNOWFUtaE91cGQyenVjT1d2Yk56dlk3cTZhR18zWkNiOUhWWDc0T0NzajJOZVJrSnBGemU3WVUwNG5rVURfU3JEaTM3Z240aHhkREk4RGxkSFVaeGdXNWhWWFBuS2l6SnJrbXhHOEE?oc=5",
+          "published_iso": "2026-04-14T16:15:00Z"
+        },
+        {
+          "title": "State grants $25M to expand disability dental care",
+          "source": "Crain's New York Business",
+          "why_it_matters": "The funding could improve access to specialized dental services for disabled New Yorkers who struggle to find care.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWtienhFRVhjMTBNRDN6R1dGb2VPUFFJeEN5aTA4dUhJVVA5eVlHS0c2aHpNMUpMRjRJaHBJMFFmT2JMbUo2QXFwQkdnZDdqbkVBS2ExWHJfd2I5ZWtvTFNZaWZPOVRMWjZrWF9WRWdHNFZXMVZrS01wR3UyQmp3QnVGNGVuaEFYbm00T3dyWHpDZ1NEYmtNRGJaYnE?oc=5",
+          "published_iso": "2026-04-15T09:30:00Z"
         }
       ]
     },
@@ -72,11 +79,32 @@
       "title": "Community",
       "items": [
         {
-          "title": "Tunnel boring machine arrives for new NY-NJ commuter tunnel",
+          "title": "New commuter tunnel drilling machine arrives for Hudson River project",
           "source": "NJ.com",
-          "why_it_matters": "The project will shape future rail reliability and regional commuting between New York and New Jersey.",
+          "why_it_matters": "The long-delayed tunnel project could improve future rail reliability for New York commuters and regional travelers.",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGVNR0JNXzVLSWJIY0JpQm5zZlpmQzhrTW9McGNTaThDcjNOTng2ZmxiQ0ZjeEQ2eEN3SUp0cUw3SmowejFWejRlcmh3OHhpejRyLVJNOFgwM0xkTndnQVRHWm1TTUxZejk4VkxfcVZJT2ZzbVQ1Z2pJajhMaDZXdGRpQkI3V1I4U01RY3BST29DZklUWkVvcWZGWV9EMnRPVkVrYjlES1hIaGhKUkNSeW5PYXpCMHNmR3hvWEFpWXQ0dUREbnZadTJXVGJLY2hkQTFLXy1Bcm_SAewBQVVfeXFMUGZFaHE3aG5rZU5Jb0pGRUpkQzNXSlF6LTBHM2cxTFY4VnhNSzFDVm45RHpFeGJtYTE1MHJmV1VkaXAtY0xCRXJsUHhjMVBraXpOMGNoSFp3X1ZFNS12emtubXRYb00yN1dQR3dlWG9NQWJobGNQdnVKY1Y5aHNkbjVfM2RQcFlCTDFiMnM2Zk56WGRUVzlBLVRSOHA5RFQ3WksyTzJ0MEFMdG9NazZ1WmZOYjlCVVROOXJJY2tacnBTeWY2dzBRM0tET0xCT282aHlZWWlmVlBNcUdOQ1RrdUM0LV9FZlI3Tnl2YnM?oc=5",
           "published_iso": "2026-04-13T20:56:00Z"
+        },
+        {
+          "title": "NYC free outdoor theater series returns with 2026 lineup",
+          "source": "Time Out",
+          "why_it_matters": "Residents get more no-cost arts programming and outdoor events across the city this season.",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZDVWZXpQUnVzZ1VNXy1LQnEtRk90VEUzRkJfaVlTem9UanBCakE0RHd6eElQOGNXQ1VlZnhIQlFhTG84UnRsb0xLandHRklmazJra1J0UzFUMGNfMGtBemdWaWtrVHJJYWtudjQ5eHIteHM1NVBtNzIzM1FxQXFHNzR6dEdjUEtlR3M1Z3NXQ0hqNWI5VTI2eWZ4UDk3NkFCMTZmVTBLNHRuQ3RkdlFpQ1l0Vk9QdkRhXzRuVEh3?oc=5",
+          "published_iso": "2026-04-14T23:25:22Z"
+        },
+        {
+          "title": "Major NYC food festival returns this weekend",
+          "source": "Time Out",
+          "why_it_matters": "The event brings crowds, local business activity, and a high-profile weekend attraction for residents.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2laTnU4X1VJV01mU3ZUUFVRcGNEdU9WRjJEVTNuOHBtbG1BeV9xUVRLQ29vV3MxT2FxNTliREtKMjhQNVJhQkd5TWFnV28zQUprZEpxTmUzQklWWm5YQTl5OGhpcHNIMG93UUZGemp6SlR2ZGdreko0WUVFU1BMTnNMQjNneThLNmtpZ19RVUtUZDRtNjVmYVJRTXBZUzhmWHVhang1V3hoUEhEUWc?oc=5",
+          "published_iso": "2026-04-14T17:58:30Z"
+        },
+        {
+          "title": "Where to celebrate Sri Lankan New Year in NYC",
+          "source": "Gothamist",
+          "why_it_matters": "The guide highlights cultural events and restaurants helping New Yorkers mark an important community holiday.",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHo5SnlNVkNCOGFsbWJTNGhLc1FEVW9SakxqY1RvT3hBeUNoYlhtUU4xR2VaY2J4d3RIbXlNa1BtS3VsQmZlTkE0X2Jla1JXalBCaXlhaktTZEdhZTlWb3ZJUnB0NlVndTdLUFBTc1U2d09SOUN1ZmRMRnNRX3ZnUC1XcjlzR0c5QW1wMDAzNjZjaWNq?oc=5",
+          "published_iso": "2026-04-14T14:01:00Z"
         }
       ]
     }
