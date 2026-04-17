@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-17T11:43:17Z",
-  "daily_fact": "The New York City Department of Sanitation cleared an illegal dumping pile that had blocked a lane on a Staten Island road, improving safety and traffic flow for local residents.",
-  "topline_md": "New York saw major public-safety and governance moves as 36 Brooklyn gang members were charged, federal funding for the Second Ave. Subway was restored, and Mayor Mamdani faced intensifying fiscal and housing pressure while seeking outside support for childcare and aid.",
+  "generated_at_utc": "2026-04-17T16:43:54Z",
+  "daily_fact": "Viral bakery I’m donut? will offer $1 donuts next week in New York City, giving locals a fun, affordable treat at one of the city’s buzziest sweet spots.",
+  "topline_md": "NYC’s week was led by major infrastructure and governance moves: Adams announced citywide “Empire Bins” by 2027, federal funding was restored for the Second Ave. Subway, and Hochul pressed Mayor Mamdani to curb spending as he seeks outside support for childcare and faces housing and shelter policy fights.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,53 +13,39 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Feds restore Second Avenue Subway funding before court hearing",
+          "title": "Second Ave. Subway funding restored before court hearing",
           "source": "New York Daily News",
-          "why_it_matters": "Restored federal money keeps a major transit expansion moving for East Harlem and Manhattan commuters.",
+          "why_it_matters": "Restored federal money keeps a major transit expansion moving for East Harlem and Upper East Side riders.",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ1J0b1NqblFUY0hCQjVDczZUcHJyZGstVGpsdTdXWFZqdk9oR2hNalZET1NTRThtd3hqNVBJcHNzUThfVE9Cb2k3QXR0Mi1RVGpES25KVFJNZ09ySWZwRWJWdUlmckphMEdEWmJhX2hsVHdzNHJ4ZmpTT04xTko2UXJyOTJLOW94?oc=5",
           "published_iso": "2026-04-16T18:45:22Z"
         },
         {
-          "title": "Hochul pressures Mamdani to curb spending in aid talks",
-          "source": "New York Focus",
-          "why_it_matters": "State-city budget negotiations could shape funding for services, taxes, and the city’s fiscal stability.",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ac2hZMFVTd2N5eHpQSUswX3pTbnVxcGo3SkNhR21OUHRIYk5KNXd3V0RaQ3NQYU9sVkgxRVJDMmY2OTBMcUcwYndxMGFoaWNieEZxdGpGUTluM0ZRVkgzb3UwU0I1dGdzVHFlclFoNDFaVU5HeVdmTEpnQQ?oc=5",
-          "published_iso": "2026-04-16T19:14:00Z"
+          "title": "NYC to roll out trash containerization citywide by 2027",
+          "source": "SILive.com",
+          "why_it_matters": "The plan could reduce rats, sidewalk clutter, and sanitation problems on residential blocks citywide.",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd0NmbU1hdzdOaEtreU5FYjViU01RUHVXM0x5RFc4d1ZpTk9Xc3lhdkZmM3ZGWjZ1NURwVEZFeGlPMmVfT193VktFVjQwZzJidDBrdW9YUFFKSi1KNFphTWtRRVIwQkdWa2hnN3NFWW1QWkN0UnhReWlXRFBLSzIxdnZkWTdwckhyNmpzTlkyVlhWdWdTbTRvMXJQc3VPYXR6WlhNQUFqZV9XRlM1ZUcxZUljeEVvbklxV0JfcW5BR3kxM3VtWjJr0gHbAUFVX3lxTE4wUzJjdjZEa2FDcks5bU9wTUtRUXQyX0FtV0hWRkdTTFhqaVgzS1RlLUNzcnY3YmJZVVh4aHBLc2xiT1BJWHlLRDU2dkdCb1NmcENFZXFzZnpXOGprRjd5Zzh3Z0RPNzNJQlk4X0tMb1UyTHAydzZZWllsblowOVBKeW5MVjU4QXFwWm1SdDhfSGZYaElsamdkM3ROamhXaHJkd3hDakw5UGxEWEhhUUpqTy1sX1RmOENFbTI3M2J2UldfUi1DbXZsUm84cjN1WXdzNzBBSFJuVzRMTQ?oc=5",
+          "published_iso": "2026-04-17T10:00:00Z"
+        },
+        {
+          "title": "Bill would ease proof requirements for homeless families seeking shelter",
+          "source": "citylimits.org",
+          "why_it_matters": "Changing intake rules could speed shelter access for families in crisis and reduce bureaucratic delays.",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXloRWR4Y19icWRGQ3J0ZDEwcHUzcDBxRDlITEtpM2RFbFctLW9vZ1lrRkhvRHkyWWhQYUlVZXo2ZFN3UHF6a19FYnExTFR6LWt1UjZLRUNNNFZfeERRVFQxdHp0OW9MM3JwQjdFdzQzZS1zVFYwV1Yyd0haenVIVnJXaDQxSTZnYWFGZlUweFFJN01zU0JJSTdxVVVyMjVpcFJoa1dlSUp4YjFXQ2o5QVZlclNUTHJWdFVvY3VB?oc=5",
+          "published_iso": "2026-04-16T18:55:40Z"
         },
         {
           "title": "Mayor seeks philanthropists to fund childcare initiative",
           "source": "ABC7 New York",
-          "why_it_matters": "Private backing could determine whether families see expanded childcare access without immediate new public funding.",
+          "why_it_matters": "Expanded childcare funding could affect family budgets, preschool access, and parents’ ability to work.",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmdvUndlUWNkdy1TT1o1bE9IVDRpRVVDcFkxbDZTMUVLVVJuSFJXcUJUV0tpV2RnaFdOTEprUmdmaEY3SkhKeXh3elBfX09vQmY0R2pmSDhOUFdnRDBNUFFjMThHYTNUQnl6ekRUbDRKM2VQaDhVNllPQzFEZUo3aXpaRFhremdTM3F4V3VrNXVCQkIxcXJ0d0h3blNhRmtNcXZXQmlucFJSMU8ya0t2NkIxc9IBuAFBVV95cUxNSUpEWGEya01qek5GVXhGc1RHd2xsTGxiZm9Qb01PS0tjMHUxcWJqSDNkMUJRUk9uM0tXQUJORFQxR21GSjN4VGVrSElNOTlPb3ZTMmN3TG9wN0YwRURPWmxIQmxYc2xfaE8yVUctLU1OcXoyRUNGR0E2S3FRVEdFbnZJV1B6LXRwNXBwNUJybWQ0azAxcDh6QnRYNGhxa2luQ19ULXFSYktfYTl1LXV2ZWxnWnZFcFdf?oc=5",
           "published_iso": "2026-04-16T22:33:27Z"
         },
         {
-          "title": "NYC lawmakers push voting access for Rikers detainees",
+          "title": "Lawmakers push voting access for Rikers detainees",
           "source": "Patch",
-          "why_it_matters": "The proposal could expand ballot access for eligible New Yorkers held pretrial or on short sentences.",
+          "why_it_matters": "The proposal could expand ballot access for eligible New Yorkers held pretrial on Rikers Island.",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXlRdnUzUDVaQ3p4c1JFX2M5TXFfTEgwX1R0OXFOLTN4TTEycjZnbGJEZlRGaGliUDBCa1FFVjNNUnE1MFF0X0R0YVpPZzJqLXRPcmJHU1hoWUFMZ2h4VDFFdm9zcDNneVNvOFVLajQ1bWtNeWpCQ0RJX2ZCM29jUXZzUk80X1ZaOHVuQzFmSmE0cFVGNjBDWUtOMU1kQTh50gG7AUFVX3lxTE43U09sTXZvVjgxSFNpZDBybzV6SS1CUlRMVGYtdE5WU3E3VFdJYzJkZS1Pc2EyZXJFZ09UcHk5Z0tkb090aUJ6ZksyTE5fYktQVWM0dmJLeE1tVkFKWTVYZmVZazN0bjJSQUhiWV9WSUZ0dWp4WUFPUlpxbjhiRU1XV3FrYXBmOGlaRnc5eFVSVmQtT1JnWUxhQ3Bja29lTzRVNzFuTUJPQU5iTjhDM3F6T0ZBWHNUYk5UVEk?oc=5",
           "published_iso": "2026-04-15T16:43:51Z"
-        },
-        {
-          "title": "New homeless shelter planned at Staten Island hotel",
-          "source": "SILive.com",
-          "why_it_matters": "A new shelter can affect nearby neighborhoods, local services, and the city’s response to homelessness.",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkJzUkQ4T0xxci15SExUS21Cc1JPQ1YxMVRlTUR2aHlRTG9nd19NMWNFRk5vRW1DcTAxWTZIZ2Fyc3VHak1CRkZwUDBiaTFkMUdIajdaeHRTT2hnYXIyYXp6UjJTZ1c4cTg2YzRkRGJSLXRYVUd0QmNRSkthYXp6LVdFZkhkU3FJdk1wMExwWGtyXzdlUmRGLWhrTFlfQdIBsgFBVV95cUxNZmpfTGhTOFQxVVc0U3AxWTQ4SU5FVjQ4eVpSeTNJbGpTMlhKbDY5OF9BS2gyUDBaUWZhX01NajRJWjRrVVY2NENCeHVpVm9WNkV5aTlCWTNGQW9kaXpOQzVXQkZLZXQ5c0gtajdMbEFJRkM4VWhmbjJlYzdZVkszZUM0d0VBWE52ZWRCcVNiV0lLNG5KUHdwV1l6NEN2WUpXb0dRWVlJakxSeDE0c1ctMEFn?oc=5",
-          "published_iso": "2026-04-16T19:59:00Z"
-        },
-        {
-          "title": "DOT unveils revised 31st Street bike lane plan in Queens",
-          "source": "Patch",
-          "why_it_matters": "Street redesign decisions affect safety, traffic flow, parking, and daily travel for Astoria residents.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNU1IMHlyWFg0U2Vla1ludm5HUlRxaE0wVnEwZ3JNWVJiU3VDakQyT2xTTVJGUFVscnVHMUdNMWFRbTFFN0NualpxY2F1Y21xX29lOThGYTBkTzB4b3U4SnNKUVliTVRzZVBBTk94cHJvMFp1YU1YRVdza01rQ21PMjUzUU8zZEdUSHpSTXlpeGl5c1FkcEo0RlZhel95ZU5POGV1UXg2STFWMkhlUmfSAcgBQVVfeXFMUG5GVnoyZEs0WmpOclVBY1c3SjRDeU1DSzBvdGVkbG91OW44b3g3WDNHd0JFS0tCcmpNSm1yRC1UeldLS1RyX3VicnRGWVFOQU9OeFRkU2QyNGVxMG16Y3lWaGFkbGlDa3hIVi1TV0RPel9ub0o3TUZGOExWeHZicWFpcm5XcFM2eE1MQlU3RmExNU1TZnREaC1fc21XMGliMW9Ybl9OeHZfLWhtTDhNUVJIVUVaeW14OG5xZ0lXNDVNRHcyOXVnNXY?oc=5",
-          "published_iso": "2026-04-16T18:54:11Z"
-        },
-        {
-          "title": "36 Brooklyn gang members charged in shootings crackdown",
-          "source": "New York Daily News",
-          "why_it_matters": "The sweeping case targets violent crews tied to shootings that have endangered Brooklyn neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEJwanRBS1JqTlJXdGhhcnRNQzZQaGtSS0FzM3Z0V2tQb1pDZXRjZUxyV1pyUk5SYXNRUHVDR1FWTXFNQWI5aVBoNS1EQkdzQks5dHFBSms5ZjVNWHZWc2h3VC05dHRhZTBEYnZMbXZ2Q21NWGFJWFJycndPVVFvYktYUnJNVWdyOFNUR2ZmbTBqa2lyQXhhVXJOb0NEeE9JUFNReTNtem1WbFFs?oc=5",
-          "published_iso": "2026-04-15T20:04:02Z"
         }
       ]
     },
@@ -67,9 +53,9 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Overbilling allegations return $71 million to New Yorkers",
+          "title": "ESCO overbilling allegations return $71 million to New Yorkers",
           "source": "WRGB",
-          "why_it_matters": "Refunds could ease utility costs for households affected by alleged energy supplier overcharges.",
+          "why_it_matters": "Refunds and penalties could lower energy costs for affected New York households and businesses.",
           "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQUk95ZmY0Ym5DcTZBdlhNRFpZelgxcVY1TEdRbnVxWHREdGRJcnBmMXFtNl9MaThmZU9yNEJwSXRjdkc1OW1KUF8weVpKUTFuRmp4azhJY1BKMVBMdWtmSGM5QkFXSTRwQ1U3TkVWSXhjcHA2ZjdtSG5FYVZZX09DcmlDSWNHaU9Ja1VTNE1FLXowWlpCaGFVa19iWkR1MF9ZSTlNcTdmWGw5QzRVeUVqWF93TXlZSEplelNHNEdxbE53aHBBMmxySWxKbEdtOE5OMjRSQjdvM0dqY2owWk9Wa01XNkdybElJX1lwRXhTaklCWHpqeElUVWZISlZBczV4UHdhS29vcVRtd08tYnV6Z1BvMkpSMUFCS3p2QUVqZHUtNnNxc2pDNXRkdHJGZmhXdldRQm8wdE9ndXRKazJzUktNakNfYklTb3R4b1NfbmJHbVBQVEpPZTJzYndLSUdEZXFVN04ybjQwWVF0V3VFUmtsUldWbDJVanRQYmdrSkNNeFcwbllhNkJlOW1PRkZJMk5uZDhkVC1MVlU?oc=5",
           "published_iso": "2026-04-16T16:23:12Z"
         }
@@ -79,32 +65,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "Lincoln Center unveils free 2026 Summer for the City lineup",
-          "source": "BrooklynVegan",
-          "why_it_matters": "Residents can plan around a major season of free performances and cultural events in Manhattan.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGtITEROU1BvX3RaQWxZNGFlaWF1SmxjUlZ3Z29wMEh0M21CNGFJNjVMMlJ0dmU3OHFmTzMxSVJOVUIwRHZGNl9oWGlwR0g2dF93MHhLc0FnRUlIaFBuZF9PMnJKbnY0b1VzdWdnY2lvUmJFaDNjQW0weW9tRzRlSnIxX0c5ZTVzWUc5TDZ0MWRKU2taUDI1anlfSkFpRmE2N1h4TndfbldMLXV2?oc=5",
-          "published_iso": "2026-04-16T16:02:13Z"
+          "title": "Lincoln Center’s Summer for the City returns with new dance-focused programming",
+          "source": "iLovetheUpperWestSide.com",
+          "why_it_matters": "The free festival brings major arts events and crowds to the Upper West Side this summer.",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUE53TnVVYUFhQ1NFalM4TU0tZ3RLUkdTX25zUlMyOWdONFc4VUM0UVpGUW94anFsejdpZTkyQnZ0eE9qcjZaT1hxbm9iZEgwWHVQU3E2clY2YjhKaTNCdnhyRUxka1lsVWdMYW5KQld4aW5DWTFtWmYwRVIyMTg4LVZyLXl1VmM2UDZDSklITFp2d2xpV2FpWllfa3JRQkVKUUlSRGQ4MVZteU0yN01oYkxBNGhUcmhJSDB5U21tZ3Z4aHI2WVVkRUZjWmRWS1NiQk9ZdVlaNk96bUtp?oc=5",
+          "published_iso": "2026-04-16T16:38:12Z"
         },
         {
-          "title": "Major NYC street festival set to return",
+          "title": "Staten Island dumping cleanup reopens blocked road lane",
+          "source": "SILive.com",
+          "why_it_matters": "Removing the debris improves traffic flow and safety for Staten Island drivers and nearby residents.",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2VQall3eEJHdF9VNVk1S3ZVQ0ZGSmF6cmVqSUU0VDlKekhURktwSHhkb0w5cmM5VkRXZHJpZ0hiMEMxbG9ENk1IUTBKd0haVjBUQ1BfZm5yMmY5U1NpYXphd0Vwc1B3Q2V3WkFMMDVMTEQ5MWlqRHBSR243bnhheDRHLU5NdWowUkp1ZXowN002Z2NESVFCQ2pRM3pRS29uSkZ3dXVaUkFnMVFtQTA3clI0TkQxdzcxMmdzbm9rMnZjQ3NERWVFVUdXVzVRd9IB4gFBVV95cUxOM1FlSUFDdUVIUi1WVGNlMHd4ci1iUnhXWm5zZ1laOUMzdnE0MkNsYTBKeUhka2lqRl83Q0JHc1hIa1NNVkNTOFkzR2RaYmlPVjNfTkliT2g3ZHd4MHMtSkVtcDU2TzgxX0lST1VMSGpVTFZaN3FvTlJhYW9uT0x0dkR2OXRCVXltMDF4dU9tWlB3TzZReXQ0eEF5SDI2ckhjYkozdU9FbWZ4cXdjQXZPaVp5QW5WYjEwY3pxMmdyaGYtNkZtcVdYT2EyV0NJTmlLcWIxY25vbGtVcFBzVjY4NUx3?oc=5",
+          "published_iso": "2026-04-16T13:56:00Z"
+        },
+        {
+          "title": "Questions emerge over durability of city’s new trash cans",
+          "source": "Curbed",
+          "why_it_matters": "If the bins are failing early, sanitation service and cleaner sidewalks could be affected citywide.",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYjBFSW0tazNtLTlWS3RKOUJtaUhtMEZzNy1uclktOWl5YkZJR2ZVekVJRWhYWE9Pa2pjZUFlSzc0Sk04SVVFTHN1OEM0dnM4UEc0TE5GcEwtaU9hRUFBX3F5aXNmUmZteTZiVHRpekN2dWxLQkVRaktmcDVvcmprTHJJeW0tY1NDV2c?oc=5",
+          "published_iso": "2026-04-16T16:58:03Z"
+        },
+        {
+          "title": "Midtown WeWork building slated for apartment conversion",
+          "source": "W42ST",
+          "why_it_matters": "The project could add housing and reshape a commercial stretch of West 43rd Street.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHRsQndLTnlEdkVIY3poLWJoa3QxVXB2VDR6VHg3SE5aQnowRXkxMmVsN1FwRnYwdWpQQlRacFNuckdLOEgxNC1QOXFnM0F1b2ZsaXZxLTFMTEo4Vmo4WDdSSGtVbDlmQmJoX3hPMUVqandQcE9fLXV0NVpQMUxqdTF6enlMV2tJVWJwNGtxOE5ydWk3NmtWVzloQlJBa1lPMlphU2dSSHdrM0ZSZGZNeQ?oc=5",
+          "published_iso": "2026-04-17T11:57:02Z"
+        },
+        {
+          "title": "Major NYC street festival is returning",
           "source": "Time Out",
-          "why_it_matters": "The festival will affect neighborhood crowds, street activity, and free entertainment options for locals.",
+          "why_it_matters": "The event will affect neighborhood crowds, street activity, and local business traffic.",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHk4cWxYVE55T1lvcGlaRWtlcjQwc0ZQRUw2MlUzR2hyTkd4UkNUcnVNNFNGd0VJYW8wZDFNT3BSczhtZTFTZnhqZW1RTy1KRkszZnpUVVkxM0V3TC1wcldQYm9qeklHamlQM0Vvbk9McFprMFlXTWdwbUlpbzVTRUNycnBEZFpGTk9nQzdxLUhiU1QxSUpNVk91SHMybUEyUFp0Qg?oc=5",
           "published_iso": "2026-04-15T23:15:44Z"
-        },
-        {
-          "title": "Free MoMA PS1 art show opens in Queens",
-          "source": "Time Out",
-          "why_it_matters": "New free museum programming gives residents another accessible cultural outing without ticket costs.",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2pGdzdWdkdRbW1XRWt6MkJQeGphbThYU21uWjd2MnJMUXR6SnFtMUwxa2RhN1Fhbm9RRmRUMVFSV1RrMUtGSWFRUW56eUZJc3BaeHdtZTRjRldXOWh6VTRRMG11YUpXT1p1SWNSd25XNXhCMV9CSVlTbWljV3YxU1RQSFVXRzZQWFhqSUpmbDY2RDNEQkxSbzF6bFJXRjlQeDJ6ZmVyM3JoQjM5cFJOZFFtWVprcUN1MlBVQmVNTWxnSHZD?oc=5",
-          "published_iso": "2026-04-16T17:40:27Z"
-        },
-        {
-          "title": "BATWorks temporary facility opens at Brooklyn Army Terminal",
-          "source": "New York YIMBY",
-          "why_it_matters": "The Sunset Park opening could expand local workspace, programming, and economic activity on the waterfront.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEN2T0NZYmRKOXlhUl8zTThzQVRfcVFNNWNJQVRfQzhDaDd2aGoxR21qdW5ySlEyTkZuRDh6MWxfeDBGZUw3UUljVUdUOXBlSjRNaktVdldRWWJ4UnBsRXdBQkVhbzNZYnFieWJqRVplX0RnLTloVFhUVXEzSVV6VDZ2UjhRdnR0WExTb25KWDBSZUx3MGR1SDNuNzBGbG9Kcm5taVlrTGJtVVNCMFlobFZOQmxjMVowbWFxVVZn?oc=5",
-          "published_iso": "2026-04-16T11:30:56Z"
         }
       ]
     }
