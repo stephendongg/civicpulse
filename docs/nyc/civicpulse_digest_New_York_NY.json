@@ -1,72 +1,71 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-18T11:39:20Z",
-  "daily_fact": "Time Out reports that viral New York City shop I’m donut? will offer $1 donuts next week, giving locals a cheap, cheerful treat.",
-  "topline_md": "New York’s biggest updates span housing, labor, transit and immigration: lawmakers moved to ease shelter access and strengthen ICE protections, 32BJ workers reached a deal averting a strike, and federal funding for the Second Ave. Subway was restored.",
+  "generated_at_utc": "2026-04-19T11:39:53Z",
+  "daily_fact": "The MTA has introduced a new bus simulator in New York City to help train drivers more safely and effectively before they begin operating buses on real streets.",
+  "topline_md": "Brooklyn’s building collapse and evacuations led urgent local developments, while broader New York tensions centered on city and state policy fights over spending, immigration enforcement, shelters, labor conditions, and school protest-security rules.",
   "order": [
+    "risks_alerts",
     "civics_politics",
     "opportunities_welfare",
     "community"
   ],
   "sections": {
+    "risks_alerts": {
+      "title": "Risks & Alerts",
+      "items": [
+        {
+          "title": "Brooklyn building collapse forces evacuations on Myrtle Avenue",
+          "source": "ABC7 New York",
+          "why_it_matters": "A partial building collapse can disrupt nearby homes, streets, and safety for local residents and businesses.",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ29qMDlWc3lBZjhmSThaWmV1MXdsbWlGekRqbjFRN2hUc25JVG1iX0V0NUpXem1nblB0OFlEUVJRSFJYMmQtdmJ3M3NSekNXclF1OFVzYnBRcHZ0Smo5TWVtOERWTl9tbFBtSlpTaDVtbjhuNzBlTnViY0s2NW5NZzViaHVjRFB4UnJWNnFEb1A3QnFyTW80NG84bWZ5NGVkdFhPS245RdIBrAFBVV95cUxNNzdmTWw5RVBKZmNXNndDbEppTjJLc0JodXB4SGdlWU91bzA0aHY0UnREUEFaV2NjWGYxeWlLclVtcjFocTU3a0tLMUt3WllydzVyeU85dDI1Wms4QXdRR3VKM1l4eWd2a05wVllWbi1hclM1SnNDM0pEeHk5VzFvdmV6dVdKUFdBdzR0ajBpekxfTFY3X3I0ejdUT2FxY3NYeXNpcTRodl9pMnNf?oc=5",
+          "published_iso": "2026-04-19T01:34:13Z"
+        }
+      ]
+    },
     "civics_politics": {
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Second Ave. Subway funding restored before court hearing",
-          "source": "New York Daily News",
-          "why_it_matters": "Restored federal money keeps a major transit expansion moving for East Harlem and the wider subway system.",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ1J0b1NqblFUY0hCQjVDczZUcHJyZGstVGpsdTdXWFZqdk9oR2hNalZET1NTRThtd3hqNVBJcHNzUThfVE9Cb2k3QXR0Mi1RVGpES25KVFJNZ09ySWZwRWJWdUlmckphMEdEWmJhX2hsVHdzNHJ4ZmpTT04xTko2UXJyOTJLOW94?oc=5",
-          "published_iso": "2026-04-16T18:45:22Z"
+          "title": "Hochul Presses Mamdani to Curb Spending for State Aid",
+          "source": "New York Focus",
+          "why_it_matters": "State aid negotiations could shape city services, taxes, and budget decisions affecting residents citywide.",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ac2hZMFVTd2N5eHpQSUswX3pTbnVxcGo3SkNhR21OUHRIYk5KNXd3V0RaQ3NQYU9sVkgxRVJDMmY2OTBMcUcwYndxMGFoaWNieEZxdGpGUTluM0ZRVkgzb3UwU0I1dGdzVHFlclFoNDFaVU5HeVdmTEpnQQ?oc=5",
+          "published_iso": "2026-04-16T19:14:00Z"
         },
         {
-          "title": "32BJ building workers reach deal, averting NYC strike",
-          "source": "ABC7 New York",
-          "why_it_matters": "Avoiding a strike prevents disruptions in apartment and office building services across the city.",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0N1dTFLQlM5VUFfc3JtcGJJaVVDY0R3cmF4MXVQZTZKRGJldkJmOGUwdEJQWVRKSUNyNWhOem5zU25EMGdIT3R5azdObGk5ZU9SQlpCN3dXU2xpVE1OZ3pQLUI0U0pGSktPeDJuQjF5UDJwZmtiMTBGbFlpUFZNb0sxb2JWQ2ZyZnZRSDNWd0Rvak9LbG51bmtaUk1GX0Vla0trMUoyUFdDTW1xMzRn0gG0AUFVX3lxTE1iZHQ2TGprbV9BRzZUdzNDZzVBNFUybkpnVkpxR1JEcjhGTmIwM0VWekdLclQ0TW1uN19BaWdoTFFnMU1BV2diV3hnSXh4ejVtcDRpMFo0enVBWF85MkE1UmJjdWVEZHIwVkdEU3VpUE50dTY3QWpGclFJWnFUQjF2eTgxV1JqemVMQndKZVhJdmlpQUlOaUZtZndMX213eV9lMVZrc1F1UmJhTEZaRGJwbUhQUg?oc=5",
-          "published_iso": "2026-04-17T19:56:01Z"
-        },
-        {
-          "title": "Bill would ease proof requirements for homeless NYC families seeking shelter",
-          "source": "citylimits.org",
-          "why_it_matters": "The change could speed shelter access for families in crisis and reduce barriers at intake.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSXloRWR4Y19icWRGQ3J0ZDEwcHUzcDBxRDlITEtpM2RFbFctLW9vZ1lrRkhvRHkyWWhQYUlVZXo2ZFN3UHF6a19FYnExTFR6LWt1UjZLRUNNNFZfeERRVFQxdHp0OW9MM3JwQjdFdzQzZS1zVFYwV1Yyd0haenVIVnJXaDQxSTZnYWFGZlUweFFJN01zU0JJSTdxVVVyMjVpcFJoa1dlSUp4YjFXQ2o5QVZlclNUTHJWdFVvY3VB?oc=5",
-          "published_iso": "2026-04-16T19:19:59Z"
-        },
-        {
-          "title": "Mamdani plans 6,500 curbside trash bins citywide",
-          "source": "Gothamist",
-          "why_it_matters": "Replacing parking with containerized trash storage could reshape streets and reduce rats and sidewalk garbage.",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb3FpZF85M25lS2VjWTFqVlhNdlotd1NxOHRtZldraU1nMzN0RzN1eEJ5VE1TYjdBNE9yNERHNXpBVi1WQnZmMjQ4c2dkTzRNSk1wS2VmQVVFZlI3RDZmaWFzMzZzOGR5YW1jYTYta05RazQ3c2F6Zy1HemJ1ZkV5NFZwUGZia01JdFJGUXVJVTZuRGQtanNPR2hkOTh3dWVOTmhwVlpUdy1YUlU?oc=5",
-          "published_iso": "2026-04-17T12:41:00Z"
-        },
-        {
-          "title": "Hochul proposes stronger protections for New Yorkers from ICE",
-          "source": "WRGB",
-          "why_it_matters": "New state limits on immigration enforcement could affect policing, public services, and immigrant families citywide.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPci1FaUREUHhueTJPOHRxZFhBdjdodTI5VjcwdFNUWk8teVFPZHp4WnpZVkxfRFJxZVZFVnc3MVlKQU9ScUZTSGYwb0VLVm54RzNZNXdJbTRQRDRfTDMyNC1sWkhOdVJmY19YUjdFMFI5X2V5S3o0cnlMRTBVM3JkUVZObUczeHAtdnA2MU1rbmozeGVkZGgzaENCN21jWWhCcjBSSWxmUENQbTJn?oc=5",
-          "published_iso": "2026-04-17T06:16:58Z"
-        },
-        {
-          "title": "City used troubled contractors for winter snow removal",
-          "source": "Gothamist",
-          "why_it_matters": "Questions about contractor oversight could influence street safety and emergency response during future storms.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2VvTGkyZVZjTHRkc1VHYU9abUNKMXp1bFdmVVE2LTlsbkxLWFEwZG9EN2VaMi0zOVVCWVByOHluMVJSMDRsZ2NKc05MRmZ1OXZjbnU3Sm5uLWo5Q2dFVVRVTXV5eDdkT1IybzM3d255bmdEdEVhMmpOSUhFWGtzMlBVZWRYS05qbk01ZFBwMG5ndGtSMWI5VVB1YVUyNWNPMlg0a3RuMzZocU51cVU0ZXJ0dDh0dGs?oc=5",
-          "published_iso": "2026-04-17T20:31:00Z"
-        },
-        {
-          "title": "Allies urge veto of protest buffer zone bill",
+          "title": "Police Outside NYC Sanctuary Limits Routinely Cooperate With ICE",
           "source": "THE CITY - NYC News",
-          "why_it_matters": "The fight could change rules for demonstrations and public access around contentious city sites.",
+          "why_it_matters": "Immigration enforcement practices in nearby jurisdictions can directly affect New Yorkers who commute or have family there.",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWF3bVVBVGx3OFd0aFhLZm1ocHUtU2ZPYThISTFpYlZsdUhkb3hMWXR5S0U1bDYyOERNTV9Lc3NhMHU0ZFhrV0R2aTRLRFVtc2FDaUgwczNqR1VBanZfdW5pdjRzOEszazBCOWV0UFFNSkJtbGJtZHI0Szc2b2dMaw?oc=5",
+          "published_iso": "2026-04-16T19:48:18Z"
+        },
+        {
+          "title": "Staten Island Leaders Challenge Homeless Shelter Notification Process",
+          "source": "SILive.com",
+          "why_it_matters": "The dispute could affect how communities are informed about new shelters and local planning decisions.",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQW9sTzFLX25UVHQxTC1VZmh1d19PYWRyZXNTd1pkeEgwcU90alpSTkFtS1JSVElnNzc1RlFDeUZIdks1WlVzMVdsS01SQ0lPNk9YNUgzeGd2Yk5XUGRBZElFal9WdXZyRXRlbUgwenV1cnMxb3lUYjNTc0FndlRFaHhZOWNOa19ob21SSGJtaGRmLU9jS3VzSWtncnE2UlVlZTVCaVhZYmhWc0ozZktKdnhWLUZ4bk5MUmVJZ1V0aWl4Mi1JdXhV0gHbAUFVX3lxTFB5a3pSWGFXMW1qSGtCZWZhOElJMUJabjZhRDZ3ZW1laFN3OHZaSzU3RzhsMDVRZkdBaGFoUms4ZVFMdy01LWE5a01qeTdxR1djVXB2YTFxdmVxSGdWMUpfY2ZTcE1zY3d1b0p2VHdXV3U5dm1rckFneWRmU3laTlVnRmNHNWhPRXlaa1dNTW5GVnVVR0RrTTBrUGh6a2w0amhhUWQweHlkb2wwQWwzTUVUTEswX1pkUEJPZUZUMl9NdFFtZFNpMXF1Ti1wczhqdEhTTWc1dXI5ZTlndw?oc=5",
+          "published_iso": "2026-04-18T13:07:00Z"
+        },
+        {
+          "title": "Mamdani Plans 6,500 Curbside Trash Bins Across NYC",
+          "source": "Gothamist",
+          "why_it_matters": "The curbside bin rollout would change parking, sanitation operations, and street conditions in many neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb3FpZF85M25lS2VjWTFqVlhNdlotd1NxOHRtZldraU1nMzN0RzN1eEJ5VE1TYjdBNE9yNERHNXpBVi1WQnZmMjQ4c2dkTzRNSk1wS2VmQVVFZlI3RDZmaWFzMzZzOGR5YW1jYTYta05RazQ3c2F6Zy1HemJ1ZkV5NFZwUGZia01JdFJGUXVJVTZuRGQtanNPR2hkOTh3dWVOTmhwVlpUdy1YUlU?oc=5",
+          "published_iso": "2026-04-18T23:25:00Z"
+        },
+        {
+          "title": "Allies Urge Veto of School Security Perimeter Bill",
+          "source": "New York Daily News",
+          "why_it_matters": "The bill could change protest rules and police presence around schools across the city.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkhoenE1LWNDTHdIRVVmbmFaRjhrN2xWMHI2LXJJYUhrSGpUTElrUnpnbjN2SkdSdkJyU05oX1g4Z3JmVDcwRHhlRXkzS2d4X3BucHpva3FWbFRkd3N4c2k3dmxxOHdzTmVCYmhyQ2lHc3ltU0pNN2FWZEJyTTFsUjc4UnlYV085YnVMblA4Z3JXVG1sUUR2a3JOQW1jUW53REIxUmRNbHlFVWcxS2Fyd0ZMRHBYd1Rk?oc=5",
+          "published_iso": "2026-04-17T20:44:14Z"
+        },
+        {
+          "title": "Allies Push Veto of Protest Buffer Zone Bill",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "A veto fight over protest restrictions could affect free speech and policing near demonstrations.",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNkxrV3cxaWNFMVEyRXQ0Ujh1Z2pPTWdwTG9fM0NzR05USndKX0xSaXZtTDVhdlRCRmllNExMNDJNblBoUjlEV2VRV2NENW1XMmUzVk4wVmRyNlFwb1JFMEl6WXpJbHcxNG56RVVzOTVGdXlPaTZOY0QwRGdscmlJNWR5Q3BMT2ZKa0JQRDVobEo?oc=5",
           "published_iso": "2026-04-17T22:04:33Z"
-        },
-        {
-          "title": "DOT unveils new 31st Street bike lane redesign",
-          "source": "Patch",
-          "why_it_matters": "The Queens redesign could affect traffic safety, parking, and commuting for nearby residents and businesses.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNU1IMHlyWFg0U2Vla1ludm5HUlRxaE0wVnEwZ3JNWVJiU3VDakQyT2xTTVJGUFVscnVHMUdNMWFRbTFFN0NualpxY2F1Y21xX29lOThGYTBkTzB4b3U4SnNKUVliTVRzZVBBTk94cHJvMFp1YU1YRVdza01rQ21PMjUzUU8zZEdUSHpSTXlpeGl5c1FkcEo0RlZhel95ZU5POGV1UXg2STFWMkhlUmfSAcgBQVVfeXFMUG5GVnoyZEs0WmpOclVBY1c3SjRDeU1DSzBvdGVkbG91OW44b3g3WDNHd0JFS0tCcmpNSm1yRC1UeldLS1RyX3VicnRGWVFOQU9OeFRkU2QyNGVxMG16Y3lWaGFkbGlDa3hIVi1TV0RPel9ub0o3TUZGOExWeHZicWFpcm5XcFM2eE1MQlU3RmExNU1TZnREaC1fc21XMGliMW9Ybl9OeHZfLWhtTDhNUVJIVUVaeW14OG5xZ0lXNDVNRHcyOXVnNXY?oc=5",
-          "published_iso": "2026-04-16T18:54:11Z"
         }
       ]
     },
@@ -74,11 +73,11 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "MTA debuts new bus simulator for driver training",
-          "source": "ABC7 New York",
-          "why_it_matters": "Better driver training could improve bus safety and service reliability for New York riders.",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORUlvSmtRaXMzOXJXOS1KYm9kOFpQbWUzM0dFUEFMc1pQWFlfcUZlWXpQZTBZZ3Y3dVVzMWFNS19MUHp6M3JybDZ1TFlIM3NiTEJBUXZaMFZoTlY2TGhoZ3J0TWpqZUJSYmxQQW5wTU9sWFRlM242RUlzZXdub3FHeTdQSlVDbEtZRFU5Zncza9IBlAFBVV95cUxQazVjQXY3YzhKWm5SYVRPOTJqWUwybUE2MGI1RWFGNm1CQlV2UXR5SndHdlFMd2NMMUppcWtuaHAtZTliRFpqejRnM2MwYl96VWxVNjN4M19rUHJyQ2V2NjF5TzNzMFBHNkhES0FabWNHdUUzM1VNOGw5V1pic3hIWTdkRGI3MXhQRzNPaU1wNTFiWVlY?oc=5",
-          "published_iso": "2026-04-17T21:02:02Z"
+          "title": "East Harlem Housing Lottery Opens at Las Raices Apartments",
+          "source": "New York YIMBY",
+          "why_it_matters": "The lottery offers New Yorkers a new chance at below-market housing in East Harlem.",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUpxYUNFRW54UmpZc2UxQ3lVS2xzWFdPOGo2c3lfdGN4X1JqR2FJa0REcmlSR1JnQm5ORUt2WGJRcFU1dmp4dkhxZXp5U3U0aU0yUU5ZZ1oyWElYb3VzNTZ5S3FEX2VzMWxPZ1plYTgzZHNyYldoMDlyVFhjNEhyZnpqOXNQZVNGYnd5enI1ODhZd1gwU3hvTXZTai10c1htN2MteHVYYUQwT2cycGRKU1o4TQ?oc=5",
+          "published_iso": "2026-04-18T11:00:52Z"
         }
       ]
     },
@@ -86,46 +85,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "Bronx Week 2026 schedule announced through July 11",
+          "title": "Bronx Week 2026 events run April 27 to July 11",
           "source": "Bronx Times",
-          "why_it_matters": "Residents can plan for major borough-wide cultural events, parades, and community gatherings over several months.",
+          "why_it_matters": "Residents can plan for major borough celebrations, parades, and community events over nearly three months.",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMC0zRkJlRDhwN3R3VXBIb2xmbC1xVDZsdU1ISmdZQnlzWW9mVU5kTHUycGk4SmNNSVFJUGRyMWJfSXVjU3UwaXFEZWozVjVIWEY1NXdlcndQTUJnUnlyb1hCeko2X2RDeXZHWWtWMWZTQlJwOWkwZVZZUl80RDNJV0plcE91bHd0MEdWQi1oUnUycElzeUdGd3RfX2NnOTA?oc=5",
           "published_iso": "2026-04-17T19:35:32Z"
         },
         {
+          "title": "Parade and fair will close NYC roads this weekend",
+          "source": "SILive.com",
+          "why_it_matters": "Street closures can disrupt driving, buses, and local travel plans across affected neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUXhLcDgzbWRhaTh0Sk92enpJUTZCRHNpaFh1VlJNMWlwbDdFdExYd2N4bVBJT0xKWDJVdzRDeEhzdFB5QXR2ZlNERGNPYmlsd0NpSXk2ekFuOUktY2cxXzd0QVNqQkZ1R3Axd2NhcWhfTmEtNGRRcDNiVHFTRjdjT1ppTnJ0Skpla0NUSW9kdDhrOHZYLV9VQWsxVVYyRVNyLW8xekVjcWMzQS1XYWhN0gHDAUFVX3lxTE42M3hnWndlTjhldm9hdmo3TmE1N1ZtMVl6aWViZFNtNndBa216UDdXYVVfOU82MFBBaU5WTFdqYkhfVHZhbWNGYkJJMEN5d1VVZUZsUThlVkdJd3k4NnJ0ZkhHcU56V2ZDVkJDX0o0Qm1OT0huREM2SmxURzJKWlpTbFNPVV9pOUkxaVMtMzJMYXJsNmN6Yk80WjdZQTAyNHktampKV0Zoa2Z0cThzX0Rna0RPRVVKVW1VMEZpVTRBdXpwOA?oc=5",
+          "published_iso": "2026-04-18T00:15:00Z"
+        },
+        {
           "title": "Free Earth Day events planned across New York City",
           "source": "Gothamist",
-          "why_it_matters": "Families can access free local activities tied to parks, sustainability, and neighborhood engagement this week.",
+          "why_it_matters": "Families can access no-cost neighborhood activities tied to parks, sustainability, and community engagement.",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGRNQTdQQjRtc0dYNFRTX044LUl0RlpfeTVnTllSSVFXOEd3LVlRWl8wQjZRWDVKbjJDanFrR2FfWV8zMTNaVl96SFUyQVdUNFAwZHRodWRZUEhDVDRzMUNpZ01TOWpvaXUycm1TdFVSMHc0bURHNWs1QS0tNGpBV0NmMXlMUQ?oc=5",
-          "published_iso": "2026-04-17T14:01:00Z"
+          "published_iso": "2026-04-17T14:02:05Z"
         },
         {
-          "title": "Lincoln Center revives free summer festival",
-          "source": "Time Out",
-          "why_it_matters": "The festival offers accessible outdoor arts programming for New Yorkers seeking free summer entertainment.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVpaUHVlcVA3cnBrNHhXRHl5ZkxHQ192ckljNWRTNWxCVGFrTW42bk42NG1LNnJqdXdha050Ql84cHJQOGx6elR1MU9Rdjg5TmoxTEpKTnZPRmhmZjFCR1BnNkNvTmwyWFpWMDBFYnNTOWRvWVU0Wm9HdnV6WjNENGVaYUJQcUdrTVpYQThJbzMtMmJRM2Y1RVJ1ZWg5VWtpb2VpdE1Oc09Fa3ZMSjR3c0doSmFRTFgxZHJF?oc=5",
-          "published_iso": "2026-04-17T21:51:32Z"
-        },
-        {
-          "title": "Midtown WeWork building may become apartments",
+          "title": "Midtown WeWork building may become apartments after sale",
           "source": "W42ST",
-          "why_it_matters": "A major office-to-housing conversion could add residences and reshape Midtown’s housing and street activity.",
+          "why_it_matters": "A housing conversion could add residences in Midtown and reshape a prominent commercial corridor.",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHRsQndLTnlEdkVIY3poLWJoa3QxVXB2VDR6VHg3SE5aQnowRXkxMmVsN1FwRnYwdWpQQlRacFNuckdLOEgxNC1QOXFnM0F1b2ZsaXZxLTFMTEo4Vmo4WDdSSGtVbDlmQmJoX3hPMUVqandQcE9fLXV0NVpQMUxqdTF6enlMV2tJVWJwNGtxOE5ydWk3NmtWVzloQlJBa1lPMlphU2dSSHdrM0ZSZGZNeQ?oc=5",
           "published_iso": "2026-04-17T11:57:02Z"
         },
         {
-          "title": "Hell's Kitchen rooftop farm expands fresh food access",
-          "source": "ABC7 New York",
-          "why_it_matters": "The project supports local food distribution and community agriculture in a dense Manhattan neighborhood.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdHFqVWFrUVU0VWtsZWV6aWZnbmwxX01FWXpxUHNoTjhmZmh2Ykx5Vm5uZkJrOUF6aC1GOGtuM3lvU0VpSFJlMW9iczcxWFJXSEVPS3pUdVUzV1BrY1RUVUJBdTJYZVN1R3N3RHNUZGpJWnVkNHFHRmZ3c2FQTU5EZ0lwYjFWeWZPbDdYN3FNM0lRNE9nNE5sTlk3MXMtM3lGbzlOWndsQkh1MGg3YkI2b3ZONkJFV1ViYW40d9IBwgFBVV95cUxNa0FxVkh1ZXhFVDlzTkhsOUhNQ2VHZGpadnZvMHBUUFpKalc3X09tXzNpVzRVSlQxak5tOTltOW9kQ1NJM1ZBaTZCOGxxeG41bUx5WGFPUHItTjJFUlFPeDRYNjVNYThvVDkyWU0yTlN4YkUyZWh6cFh6dHc0dzIwNjJycFF3VWdPQmFnRGZUV3UySFVvaDdNSXNKTHdyQlQxbjlCN0VQLVBGN3RqMmd2WExxOFNWNkd1NGNuNFdoMEdoQQ?oc=5",
-          "published_iso": "2026-04-17T20:58:00Z"
-        },
-        {
-          "title": "Brooklyn's Mister Sunday releases 2026 outdoor party lineup",
-          "source": "Resident Advisor",
-          "why_it_matters": "The popular outdoor music series draws crowds and shapes summer nightlife plans for many residents.",
-          "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1hdXo2dk5MV2lQSUszSzJBT0hfaEJIb1lmajhSLXpSejJpc0VNSjNLN0VhN3M2Y3gzS3dQZA?oc=5",
-          "published_iso": "2026-04-17T18:21:12Z"
+          "title": "Chinese American leaders expand community opportunities on Staten Island",
+          "source": "SILive.com",
+          "why_it_matters": "The story highlights growing civic support networks and resources for a fast-changing local community.",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGZBdFVEODdva3dDZF90VWtfYklTdGxfWURMdUtnSnVWM01HQlhtLW5zZVo0QWhXTFlZdVFpck9oUmZ4SFRWRXZXcnBhbkpNNUg5ZHo2UjEtSkdtMHA3NUp1bFRRazJaTXFDLUZJZG1odG9Jd0RqT0I5TXlZWXJ2Mkprb3pBa1VBUXpoVEpQTE5HblZSdXdHQ0JfZzUwVWY4U2JaQVNicG9laW9UdTl4Sl84U1ByWlJrdGpKVGFTbmtmSFhEMVBHYkx3?oc=5",
+          "published_iso": "2026-04-18T09:50:00Z"
         }
       ]
     }
