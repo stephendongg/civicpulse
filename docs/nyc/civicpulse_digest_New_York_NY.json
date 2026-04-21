@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-20T12:08:53Z",
-  "daily_fact": "Broadway’s revival of “Fallen Angels” earned positive critical attention in New York City, highlighting the city’s thriving theater scene, according to Playbill reviews.",
-  "topline_md": "New York saw a mix of urgent safety and policy developments: a Brooklyn building collapse prompted evacuations, violent crime incidents continued, and city-state leaders grappled with housing, labor, taxes, transit, and public-safety measures.",
+  "generated_at_utc": "2026-04-21T12:02:56Z",
+  "daily_fact": "New York City was named the second-best U.S. city for coffee lovers by Time Out, highlighting the city’s thriving café culture and wide variety of coffee spots.",
+  "topline_md": "New York City’s top updates span major transit disruptions, public-safety turmoil and violence, while officials also grapple with infrastructure, housing and social-service pressures—from stalled Lower Manhattan flood protection and illegal Airbnb enforcement to a looming shelter closure and SNAP nutrition-program cuts.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,11 +14,11 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "Brooklyn building collapse prompts evacuations on Myrtle Avenue",
-          "source": "ABC7 New York",
-          "why_it_matters": "A partial collapse and nearby evacuations can disrupt safety, housing, and street access for local residents.",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ29qMDlWc3lBZjhmSThaWmV1MXdsbWlGekRqbjFRN2hUc25JVG1iX0V0NUpXem1nblB0OFlEUVJRSFJYMmQtdmJ3M3NSekNXclF1OFVzYnBRcHZ0Smo5TWVtOERWTl9tbFBtSlpTaDVtbjhuNzBlTnViY0s2NW5NZzViaHVjRFB4UnJWNnFEb1A3QnFyTW80NG84bWZ5NGVkdFhPS245RdIBrAFBVV95cUxNNzdmTWw5RVBKZmNXNndDbEppTjJLc0JodXB4SGdlWU91bzA0aHY0UnREUEFaV2NjWGYxeWlLclVtcjFocTU3a0tLMUt3WllydzVyeU85dDI1Wms4QXdRR3VKM1l4eWd2a05wVllWbi1hclM1SnNDM0pEeHk5VzFvdmV6dVdKUFdBdzR0ajBpekxfTFY3X3I0ejdUT2FxY3NYeXNpcTRodl9pMnNf?oc=5",
-          "published_iso": "2026-04-19T01:34:13Z"
+          "title": "Major delays hit multiple NYC subway lines during morning rush",
+          "source": "Gothamist",
+          "why_it_matters": "Subway disruptions can significantly delay commutes and morning travel across the city.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYVEyazAxcm5RZmZIVnhSSjRVVk1SZEw4SGZxMk5ZNUQ3MlZwVmlZbEE3SUQ5VHJhR20tYnZYQUR4TlZEVnk2UTIxc3pKb3VJcVVrSmNLZmRmalZLQmU0YmQyaVQ1bnlMZmF6U1FfaVF1T3h2aFo0UjhhLXpCbkRxVDVyZTJqS1Q4TWZXcjdPUkRCX2h1UURrbnFxbDc4WEtIYXMxVjJ0eWdfNXpweUMzZUpR?oc=5",
+          "published_iso": "2026-04-20T12:22:00Z"
         }
       ]
     },
@@ -26,53 +26,39 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Building workers reach deal, averting major NYC strike",
+          "title": "FDNY to raise EMS treatment and ambulance charges",
           "source": "ABC7 New York",
-          "why_it_matters": "The agreement avoids disruptions to services and operations in thousands of city residential buildings.",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0N1dTFLQlM5VUFfc3JtcGJJaVVDY0R3cmF4MXVQZTZKRGJldkJmOGUwdEJQWVRKSUNyNWhOem5zU25EMGdIT3R5azdObGk5ZU9SQlpCN3dXU2xpVE1OZ3pQLUI0U0pGSktPeDJuQjF5UDJwZmtiMTBGbFlpUFZNb0sxb2JWQ2ZyZnZRSDNWd0Rvak9LbG51bmtaUk1GX0Vla0trMUoyUFdDTW1xMzRn0gG0AUFVX3lxTE1iZHQ2TGprbV9BRzZUdzNDZzVBNFUybkpnVkpxR1JEcjhGTmIwM0VWekdLclQ0TW1uN19BaWdoTFFnMU1BV2diV3hnSXh4ejVtcDRpMFo0enVBWF85MkE1UmJjdWVEZHIwVkdEU3VpUE50dTY3QWpGclFJWnFUQjF2eTgxV1JqemVMQndKZVhJdmlpQUlOaUZtZndMX213eV9lMVZrc1F1UmJhTEZaRGJwbUhQUg?oc=5",
-          "published_iso": "2026-04-17T19:56:01Z"
+          "why_it_matters": "Higher EMS fees could directly increase medical transport costs for New Yorkers needing emergency care.",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmUzOHV6akU3YjJNOFhvQzVXWXRidGNVdUF5X2xDOTVwYmtjb1o3UzVXSGdNdDlKRzZnNnJ5bDdpTmxTbXg5ZE0yRFlsWGpVcjZ4QjZMLU5VUkNYanJNYmdGUlJUc3M0RV95aTlHRFRkWXZHcEhaYlprR0NaTEJ5NUt4VEN4Tzgz0gGOAUFVX3lxTE1pcjV1OWJ6cUl5N0xkVzFabmhHS0o4YTVTMFJiYzdVMzVidkxoSWpKei1vUFB0NWZZTGR5OW5MekV4MlI4UVVWanI1aktlYkg3bWQ1US1YTlNyWWIyc0EtamFGRktqR3UteExublRSVEF1aklkYmgxUkJGVmpDVWdNajI5b256Mms1dl8xVHc?oc=5",
+          "published_iso": "2026-04-20T22:34:36Z"
         },
         {
-          "title": "Hochul tax proposal sparks late budget fight",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "State tax changes could affect housing costs, development, and the final budget New Yorkers live under.",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSUxoX1o2RmFST3BoQ1FVcXpFS1A2MHJOemRZRzk3SzdTSWdHSDkwSktGR3NPTnVEWnUyOHVvN21QZnBRYkpvM3pqaDUxZkY0c3F5RVh2TEtVNVNoTE5vS3pKMUpiRVRpYTRYbHBEdGhkVFpuNS1nclhvZkJNZ0piNDdTTGFEU0NjejQwMktmUV9aWEl2aERLRnQzaTkyUHVjb3ZqbGxZc2dEbTdSZkljTUk4YVNmYWdhc2hhZkFBdXBVR2VVRHd0d283M1pSajRsSVpXeDd2c0hmX0k?oc=5",
-          "published_iso": "2026-04-17T23:12:00Z"
+          "title": "NYC sues alleged Brooklyn Airbnb hosts over fake identities",
+          "source": "amNewYork",
+          "why_it_matters": "The case could deter illegal short-term rentals and affect housing availability and neighborhood stability.",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Lb0thQWRaVHpJZGFVbFZlNTM4RG05aEU4MWZRNUlVbWZjdHFNLUl2TmtvYUVGX1FmWEpnR1J4X1d3M3RJbE9MV1BVVFJPOGRVa2FaRk8xMmtfNUlQa2dibVB5S1Y3bEdsaGdjN2ozcHhFNU5xN0N2UDNWdlk?oc=5",
+          "published_iso": "2026-04-20T18:26:47Z"
         },
         {
-          "title": "State lost $74 million over questionable trucker licenses",
-          "source": "News12 | Long Island",
-          "why_it_matters": "The lapse raises safety and oversight concerns on roads used daily by city drivers and pedestrians.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbHVhdXlFcEZhWGdUcUt1bGRLOVBPWjdWdXhlOHF5bF9kdEZDOHlKaVF3WTBJdzZfMmtrSk9XMHFJa3paZTZvc2k0eWRIcUE1THZuTUhUVV94ckNUall0bnNrb003d1RLYlZOc3U4S3pNWnlJUThUVHNydm5TNEljNFRTdFBkLWh5VmFoOGVzRF9KN1J3UnBLN0RMek9ISGp4aFN0aUk4cnB4b25TTGw5d3BuRlZwZ1Nxd2JRZA?oc=5",
-          "published_iso": "2026-04-17T23:20:27Z"
+          "title": "Battery Park flood project stalled over condo access dispute",
+          "source": "amNewYork",
+          "why_it_matters": "Delays to Lower Manhattan flood protection leave residents and businesses more exposed to storm damage.",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SeHd4NHpGeGJDbVJ6WmJwdmdhRTFNSTNUc2JYUmhTZU5mYTltQVFhNGZiWGtqVXdHbm1nNFFRVUJzWkp1anBWTEZBZmdPSW0tNWFUYW9jMDl4M3dTNElrMmFCR0lyQUpKZ3l6em1mdnR2NndHeHhkbUxB?oc=5",
+          "published_iso": "2026-04-20T19:20:36Z"
         },
         {
-          "title": "NYC plans 6,500 curbside Empire Bins citywide",
-          "source": "Gothamist",
-          "why_it_matters": "The sanitation rollout would reshape parking, trash storage, and street conditions across many neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb3FpZF85M25lS2VjWTFqVlhNdlotd1NxOHRtZldraU1nMzN0RzN1eEJ5VE1TYjdBNE9yNERHNXpBVi1WQnZmMjQ4c2dkTzRNSk1wS2VmQVVFZlI3RDZmaWFzMzZzOGR5YW1jYTYta05RazQ3c2F6Zy1HemJ1ZkV5NFZwUGZia01JdFJGUXVJVTZuRGQtanNPR2hkOTh3dWVOTmhwVlpUdy1YUlU?oc=5",
-          "published_iso": "2026-04-19T21:39:00Z"
+          "title": "Staten Island trucking terminal wins city approval",
+          "source": "SILive.com",
+          "why_it_matters": "The project could reshape local traffic, air quality, and industrial activity near Staten Island neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVmRiNDhZRFJOV0FXc2c1dlBmYzhObW9ROExWejI4UUZxSlRXQ2NjQ0lHczN1VG55LXV5VXp3MkVXMVVRNlIwN3AwUkcxdDdwMDVzSlJqLXhxamlaZTVPNk1SMzNrZGZmS2hRUmZlVTlLSU1hTmQwQUU4end2NE9SamJYOVZpR1hOczJCVHVmSU1RbDc2aC14UG9KZk9ndWxWWURibHRvS09zRTlKZndMZk5sREhRLTZINTVsMDBXa2Q0TjRFSF9WYTVQVlM2S1RVS2fSAeYBQVVfeXFMTkppMWw4cXJ0SFZ4VGR2MEhXNzlwWkVGcjBOblU2aHFvaEFtc0ZkR1B2eUo4NThMTllXR3RraDZLWEVwczktamx5bXo4Z1plRmtKRTlSbTVlNWxoYm9tRFVVVDJXeVRJSTFSU20zVkIzWTJidEVQVGl2R3N1QUVPYlZEOHJWOG9nbXJ0YUcwNEkzTmhGRDhTZ2h6X1ZfTHdIODlkQm12dURhaVJXc1JLTTgxa0taY1dwOWhNNXZKSW0zeUZKc1h1WnZuVjlyVGZjVE51RGQtQnd2RlZJM2FodGdBVFNJVHc?oc=5",
+          "published_iso": "2026-04-20T09:50:00Z"
         },
         {
-          "title": "Council pushes easier voting access for Rikers inmates",
-          "source": "nypost.com",
-          "why_it_matters": "The proposal could expand ballot access for jailed New Yorkers awaiting trial or serving eligible sentences.",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb2o5V25QMk1MT1YxMEgxUHpFa3ZteW11dTRpdTVTTFB3SjltbmhSVWVPZ3hkV2JIQWtVd0htdHlUR1hLT19QSV8zQzRKU1JvcXk4cGc5T0o1aEpLWFEzVHFBSURjel9pN0NJeXdtR3F1TmdqdWltdU0tRGJ0ekhGWmhqRVlPanNXOXYxemRkaXVCWU1Yd3c?oc=5",
-          "published_iso": "2026-04-19T14:37:00Z"
-        },
-        {
-          "title": "Pressure mounts over school security perimeter bill",
-          "source": "New York Daily News",
-          "why_it_matters": "A veto fight could change how schools manage safety and public access around campuses.",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkhoenE1LWNDTHdIRVVmbmFaRjhrN2xWMHI2LXJJYUhrSGpUTElrUnpnbjN2SkdSdkJyU05oX1g4Z3JmVDcwRHhlRXkzS2d4X3BucHpva3FWbFRkd3N4c2k3dmxxOHdzTmVCYmhyQ2lHc3ltU0pNN2FWZEJyTTFsUjc4UnlYV085YnVMblA4Z3JXVG1sUUR2a3JOQW1jUW53REIxUmRNbHlFVWcxS2Fyd0ZMRHBYd1Rk?oc=5",
-          "published_iso": "2026-04-17T20:44:14Z"
-        },
-        {
-          "title": "City used troubled contractors for winter snow removal",
-          "source": "Gothamist",
-          "why_it_matters": "Questions about contractor oversight affect street safety, sanitation reliability, and accountability for city spending.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2VvTGkyZVZjTHRkc1VHYU9abUNKMXp1bFdmVVE2LTlsbkxLWFEwZG9EN2VaMi0zOVVCWVByOHluMVJSMDRsZ2NKc05MRmZ1OXZjbnU3Sm5uLWo5Q2dFVVRVTXV5eDdkT1IybzM3d255bmdEdEVhMmpOSUhFWGtzMlBVZWRYS05qbk01ZFBwMG5ndGtSMWI5VVB1YVUyNWNPMlg0a3RuMzZocU51cVU0ZXJ0dDh0dGs?oc=5",
-          "published_iso": "2026-04-17T20:31:00Z"
+          "title": "NYPD reassigns six detectives after Cobble Hill arrest video",
+          "source": "ABC7 New York",
+          "why_it_matters": "The move raises accountability questions around police conduct and public trust in Brooklyn policing.",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSEV1bGFRQXBGdjQ1REFQNU5UYVlxdzd4dnJZVVRaZS1mRW11RUtkOHdUMEhBdGtUWnYteW96blRxWDhYdmE1N2ppZFc5RFVsVjZGOTFZaDEzU2tPU3B3bFRrQmJLemlRTnlWZWQ3dEtTNFBsRi1VUTBhWDZUbHVKdW0zQ1FSZ3BpZk5XTFRZR0JfdW5MbHEwNVhWdEZsVlpDLTlZekNZVW1MeEZDQ3VyZVN6dXJ0QlVmXzJWeXVB0gHDAUFVX3lxTFBLNmdkSEZUbDUtZzlZQklqVTNHeFhRSWtjN2FrRno0b056cllOVWFmbGJDb3ZraTI1VmVVeUtKdVpsdXlSd0toRDBtZHN1SW15MjZoV205OGVkVTJXbXhKUElfaUwwczEtVVM5M3VEUmQ0WHpLclo2VHgtZEdhbk12ZVA3VnYxSXZ6b2Q1bkxQbnJHZUxPM2pVOWd3NFJZdG1BWXYxcHhmTUQ0YkZLYnlXaWp2SnNhbkFMdXVfbUVSaGcxSQ?oc=5",
+          "published_iso": "2026-04-20T18:36:35Z"
         }
       ]
     },
@@ -80,18 +66,32 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Midtown homeless shelter closure will shift bed demand citywide",
+          "title": "Midtown shelter closure will shift homeless bed demand citywide",
           "source": "Gothamist",
-          "why_it_matters": "People relying on the shelter may face disruptions as demand for beds rises at other sites.",
+          "why_it_matters": "Closing a major shelter could disrupt placements and increase pressure on other intake sites and neighborhoods.",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZE5uVFkwOC0zMzFqNGJRQWlYWDFCLTZVeThxUWFUeFhPUk9xZl9fbE9WRWxhMWd6WjJXRzRIeGVBa0M4Nk5mSUMydGp2QndLT3FHR2dEZjVNb3dMOXNaMVJ6ZVNmT0lVRHBkN0FHNzVyc28wdWJtR1cyTmVKTUYyV1FQWGswNDUwbUVhVndpV1NSNUhxYUlwcHhfamhKaFFKTFBJQkpyOW9vTmtId3plWmJDMVc?oc=5",
-          "published_iso": "2026-04-19T14:01:00Z"
+          "published_iso": "2026-04-21T01:20:00Z"
         },
         {
-          "title": "Animal sedative spreading through New York opioid supply",
-          "source": "Times Union",
-          "why_it_matters": "A more dangerous drug mix can worsen overdoses and strain harm-reduction and emergency services.",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2drV2N2dlFnNTZqRGNkVk1YVmxvdS0zMGtySUx5cGpzX0VFelUtU3FVTDI3UHdjZDJRVm90bzh4Nm9HT0NNUVNTeFp1SFJ6Nm9CVHB3R3lUNlpyYWl5dmpnZkprN3JoRk5kQkJOT3l5VzRsTnljRjRNYUdFUFNEeTFpc1VtSHZNV1pFdGExaGU0aEhvTUJucQ?oc=5",
-          "published_iso": "2026-04-18T10:13:06Z"
+          "title": "Federal cuts will end SNAP nutrition education in New York",
+          "source": "citylimits.org",
+          "why_it_matters": "Low-income New Yorkers may lose food budgeting and healthy eating support tied to SNAP benefits.",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVdSQXdwNXpxUWk3NWJNaWhaUml4M3FFQWtwUzRVSVdTQVdUVGF5NExYNTQzaFBoWG55WDFJUmFGRW9rT0hrcmtYUVM5RFpGM0dTMHJZZG9YMjAtSlR6Ml9SYTZBUklHZUUtWlYzWmJwbzIwa2h0MWpIVXQ5ZVZjUnFTNW52QlY4OXctTGNiSkpyTnRVV1BMS3laYlkzUQ?oc=5",
+          "published_iso": "2026-04-21T10:53:01Z"
+        },
+        {
+          "title": "Landlords increasingly threaten tenants with ICE calls",
+          "source": "Gothamist",
+          "why_it_matters": "Immigrant renters may face intimidation that discourages complaints about unsafe housing or illegal treatment.",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPem12S1dTdF94Zm9YZnNwLXhfb0dRd0Z0VUxHSmdOUUlaOG5RV2tLU1Jicm1qODhMS1ZzTWdwUnRvVDBETFB6SF9QUVN4b3dCVEU4aVdRLWNkYUNDank3YzBTYnBvMlczMGNOZ2VGUW44bU9HZkNuR2FINmdKOGtQUE9pdm1TSDJoMDJFbWFiS1c5SWI5eXEtTGhzOA?oc=5",
+          "published_iso": "2026-04-20T21:52:00Z"
+        },
+        {
+          "title": "City promotes NYC jobs through social media outreach",
+          "source": "City & State New York",
+          "why_it_matters": "Residents seeking work may find city hiring opportunities more easily through expanded online outreach.",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVFOcHZNSWw0ajlmTXp4c3pxWWVRaWgzUTN6V29fdkVqZlNQMmZ0OURaRi15Z25vcWREV2FsUnp5TkhVSTJUUzkyZkhnN1NQY1dTUkVOWWNnZmVHckFFbE50LWdEa0FoX0FEWXloUXdtaUtrMWdRczBtRDBUNkQycy1mczFQQm5hMjBWMEZHZTFnMU14T0xybGJaSGVPcjYzTExEclN3UFBPVzZqRjlxb1ZWa2k3dGFnU2w2MVlLRQ?oc=5",
+          "published_iso": "2026-04-21T09:00:00Z"
         }
       ]
     },
@@ -99,53 +99,25 @@
       "title": "Community",
       "items": [
         {
-          "title": "Free Earth Day events across NYC this week",
+          "title": "E-bike injuries rising sharply at Bellevue, study finds",
           "source": "Gothamist",
-          "why_it_matters": "Residents can join no-cost neighborhood activities citywide tied to parks, sustainability, and family outings.",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOGRNQTdQQjRtc0dYNFRTX044LUl0RlpfeTVnTllSSVFXOEd3LVlRWl8wQjZRWDVKbjJDanFrR2FfWV8zMTNaVl96SFUyQVdUNFAwZHRodWRZUEhDVDRzMUNpZ01TOWpvaXUycm1TdFVSMHc0bURHNWs1QS0tNGpBV0NmMXlMUQ?oc=5",
-          "published_iso": "2026-04-17T14:02:05Z"
+          "why_it_matters": "Growing crash injuries affect street safety and emergency care for New Yorkers citywide.",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbG5JS1ljc1B0ZzBIbUdzYlFPVjNqeUZGTk5qNXRFeXVwd3R4NFNuZzJJN3cxa2JnWXdyd1lfQlFvdVdlVkRzeFNHYzBPTVNnN1NhcGkxaUhHWmFibmRiU0s2bWlZWVdSem5sMEwyV3FZZTFCU1V6Q3VJakVWZ1gxSHZkTlpReGlDdWtpaVJFRDlSV1Y3M25LVHB3RUY2ZGs?oc=5",
+          "published_iso": "2026-04-21T01:20:00Z"
         },
         {
-          "title": "Rainy Sunday and cold Monday to follow NYC heat",
-          "source": "NBC New York",
-          "why_it_matters": "The sharp weather shift could affect commuting, outdoor plans, and how residents prepare for the week.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0pBeU04UTFXcWFlSVFaMzlHNlNmU2dsdEtTVW9pdXlGYVM4ZE5POVUwU0Q5SjZ4bXRyMzZZVzV1TFctdnI5ZGI3TFEzNXlIRjhNbmt5cEkxWnNNVlhFR2ItM3ZYSUpxWDNtQV9neTdXWlJ5cTlKekNGZDBROGhLdG53Y1V2R2ppcUlFem1qRndlZ29QNWs5Y182ZDdJY05JWG85V0txZGFxdkFSOE0xZzNTOHlpLUIzWlNr0gHDAUFVX3lxTE4zY1Z5bS14bFcwNV9pZ1V3MHdFWDRZZGprblhINkJoX2UyRWFYRXA0TFliU3hzcjA2b0NjVVFuVXVxR2ZGTHJRNUdCMGI1cjc2RFhsWlpvRzVYVzNIQlRGRWlUTFVROHQ2THJSSEFjT2tqZU5vT3lZb1R5b1MtTG1uQV92MFJfR3ItYnpvMWhWVUU5b1dFdDhCWGdoN0RMSzRweExfZUtkT2VWc3J5YVhIQWdIQ2ZPUUhtMHJTaTFCOWdjcw?oc=5",
-          "published_iso": "2026-04-18T01:57:34Z"
-        },
-        {
-          "title": "Pier 17 concert series returns May 2",
-          "source": "amNewYork",
-          "why_it_matters": "A major waterfront venue is reopening with a large lineup, boosting entertainment options and Seaport foot traffic.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3h1WjJ4S09ndV9xa2lsWUdwdXdBUGd3eUsxV05nMEJGdTlnNXJTYnZONDZpZ3BZWXVJUHNHcXJRRGw1TFJiTmJQV0VXckg5dHBEdER3MzM1amF5WWlrX1F6LUY1Tm4tdDI5RnBDMzNlNzFmQ09iZmVuWjZBMGE1Y3VQWXZGbWFJdk1tejFjdTQ?oc=5",
-          "published_iso": "2026-04-18T12:00:46Z"
-        },
-        {
-          "title": "W43rd Street WeWork building slated for apartments",
-          "source": "W42ST",
-          "why_it_matters": "The conversion could add housing in Midtown and reshape a struggling office corridor.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeHRsQndLTnlEdkVIY3poLWJoa3QxVXB2VDR6VHg3SE5aQnowRXkxMmVsN1FwRnYwdWpQQlRacFNuckdLOEgxNC1QOXFnM0F1b2ZsaXZxLTFMTEo4Vmo4WDdSSGtVbDlmQmJoX3hPMUVqandQcE9fLXV0NVpQMUxqdTF6enlMV2tJVWJwNGtxOE5ydWk3NmtWVzloQlJBa1lPMlphU2dSSHdrM0ZSZGZNeQ?oc=5",
-          "published_iso": "2026-04-17T11:57:02Z"
-        },
-        {
-          "title": "Office-to-residential conversion underway at 175 Pearl Street",
+          "title": "Office-to-residential conversion underway at 175 Pearl Street in DUMBO",
           "source": "New York YIMBY",
-          "why_it_matters": "The DUMBO project signals more housing creation through office reuse in a high-demand neighborhood.",
+          "why_it_matters": "The project could add housing and reshape a major Brooklyn commercial building.",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGxISndHakNtT0oyWEpkYkVRTi00YzVwRGl3aFNTTm9wOXZaSlYtU21DeXJOa1ZHR09rZ0ZOS25xUkZ6ZzVONEpqQ0JTU3dyNEc0eHhwc245dFc3OTljN1A5cFY2b21UYzJ1Qzh6aTZlZVRsckRKS0hfNVRCS2Z0bzlaZ3ExcmpJMDJRZXlSd1hSNjg2U0UyYlFfTUFxbTVmUjB3QTNsQldMenVpeTJlMVdmd19VMGZQ?oc=5",
           "published_iso": "2026-04-20T12:00:40Z"
         },
         {
-          "title": "FDNY rescues 11 from Staten Island jetty",
-          "source": "SILive.com",
-          "why_it_matters": "The rescue highlights shoreline safety risks for residents and visitors during changing tide conditions.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTk1vc0FoTW95WDRKNnFiU3RwR3JtaDZRVHpOX2FkRWIzdnIzUVdsb1U2RzNWWEJCTXhmcWo2NmRDLXRBcVFha1pRT1djYVhMLW0xeE9tazdpaWdyY1dSYU1oMDdhWHl0OUdPRE9haFo3UElvOE5IY1lSY0U4Nl9VM3JBY1BIcFlvN1cwWnJJMzV4WlRSby15d202UENJT1pVNUww0gG3AUFVX3lxTE1jSjctbC1lTTFXZDAxS0pJMlRpV191XzJqcDVSXzYxbHozX1QwZngtX24tOTZYZ20tQkczc19QU1ZCUWtwLWFLOXpncmc3SlViS0dFanNUWFR5SldRQ3ZOTG5DTU5jUVpaOElDWmJVUU5HY1JRZVdvcHRpdDNwT2hadlRJZHMyVG1hWVhCU3ZwbjJtSW5XdjFtQWI4M0hUalN1NDdoQUluVmlyUUJZY3hvVjE0U1hvUQ?oc=5",
-          "published_iso": "2026-04-18T19:50:00Z"
-        },
-        {
-          "title": "NYC Persian Parade mixes celebration with Iran solidarity",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "The event reflects how local communities are publicly responding to international events while gathering in the city.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOXRSa0gyN21ldk9BUXJmRU1lNzM5M256OVhlQkRnVjBXcGNtR1d2VUctaktwRTVHSTV1QXl3Ym9yVzMyTGxYdFo2MzdZeXlsT2gwRWlURDA2SGJuRmg3eE9ETDJ1aUxMd3dHaFN1dmF4OXJVaDlxekdrNGczQ3E4bV9PQ0NzMzBZeHN3MHJfVUtWbjJiemlrUW1qcHRWMDFqWGZuaXYteUpVbHZaVDVveDYxaw?oc=5",
-          "published_iso": "2026-04-20T11:45:00Z"
+          "title": "Columbia College senior Joshua Garay has died",
+          "source": "Columbia Daily Spectator",
+          "why_it_matters": "The death deeply affects the Columbia community and students across Upper Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVU1fVWd4LXJCUUpzUVh4NFVra3Zma0UxQzhhdVlTaU9JMVFaSHRUWk9FUTlHb0tWTlZPYS1ORGNEMHNRY1FRcnhoemliYUNWZjhNUl9xOWxHbzQwOTE0MENVM2RsTko5allnbzBkNWIzRlRkNFdUYllTOXVhblBLVEhFa1k1bmVUMWhHMEpWWUhDMVJ1NmRqZld6c3U?oc=5",
+          "published_iso": "2026-04-20T17:13:16Z"
         }
       ]
     }
