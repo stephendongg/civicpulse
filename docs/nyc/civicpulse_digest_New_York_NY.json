@@ -1,79 +1,85 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-22T12:02:03Z",
-  "daily_fact": "Affordable retailer Primark is opening its first-ever Manhattan flagship at 150 West 34th Street, bringing more budget-friendly shopping options to Herald Square in New York City.",
-  "topline_md": "New York City is grappling with deadly public-safety incidents in the Bronx while broader pressure builds over city finances, housing, and governance, including calls for budget cuts, thousands of municipal vacancies, rising NYCHA apartment vacancies, and multiple legal crackdowns on crypto gambling, Airbnb hosts, and police oversight.",
+  "generated_at_utc": "2026-04-23T12:02:19Z",
+  "daily_fact": "Morgenstern’s has reopened in New York City, bringing back one of the city’s favorite ice cream shops for locals and visitors to enjoy.",
+  "topline_md": "New York’s biggest updates center on mounting public-health and housing strains—a stomach virus surge, Bronx tenants climbing nine flights during an elevator outage, and rising vacant NYCHA units—while City Hall faces budget pressure that could hinder Mayor Mamdani’s affordability agenda.",
   "order": [
+    "risks_alerts",
     "civics_politics",
     "opportunities_welfare",
     "community"
   ],
   "sections": {
+    "risks_alerts": {
+      "title": "Risks & Alerts",
+      "items": [
+        {
+          "title": "Stomach virus surge reported across New York",
+          "source": "Patch",
+          "why_it_matters": "A highly contagious outbreak can quickly spread in schools, homes, and workplaces across the city.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlZ4b0NQWEYzbFk4MWVzZ3Z1UW9feU52X0ZzeEhYZU1NbjhtdGtrVHg0WE1GbXBRdHctQUJ2N0xzNS1sNWNGOENYX1NtNFJmLUpkWGRzYjNFRXlxbUpvTWFST0FaWGoxb05ZSm9EWlNhVmItdmpDcnhKM1h3RW9aU2cweXQ5S0J4ZDU4cEZ3dXE1SlItU2hibng4SG9Ddy13SVZJQlRFZW7SAcIBQVVfeXFMTWNua3A0V0xqQ3RTMlB5Y0VqdkVJV3hMa1Q1bXp0R1FXbGM0WGFxMHpUWlFHNF9jNW9Fc0hrVEd3MHhvNjFGd3I4YWpoZ3hfYUQ3R20xQ1dzN3ZWRUkxeGFuMF9zY3BuNFhOVklvdnd4WlpGZGZpQmQtUW9XanFzb1ZxeGJ5WVY1WGRQZkROdkxtbkx1RU9YaTg5WWdvTk9jbXd3U0RZcEp4UDZWQVh1ZkZZcUxwcnFJTGxsaTdwd0M0Snc?oc=5",
+          "published_iso": "2026-04-21T15:45:23Z"
+        },
+        {
+          "title": "Bronx tenants stranded by prolonged elevator outage",
+          "source": "ABC7 New York",
+          "why_it_matters": "Residents, especially seniors and disabled tenants, face daily safety and access problems climbing nine flights.",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLU8wQ2dkakctdGdnQlRZblQzdk94bXN3S19hc3BSdjNXOWtCeFRJMGVwNnBIRWwyckFxVjZfaTFMSDcxWE1id2hNaG1kNlNvTjlpQzJYSkUyZl9fRUVzRS1FTUFfZXNCekxKVDVrR1k1NUVmUndQSEJRakItUUk1eVRleHI3QUZVQkNHeGUtZWw5dU5yMDh2NS1VVDRoZXZWVDlVUUhhRzI1RWFSN3VOdmEteW5pSnVGdENwS2NKbUcwNTk1dmw2RVBB0gHPAUFVX3lxTE5XMGJzX2JNcXZTdjV3c01HWXBWa0dHaEFOYkh4eXFKYjg5c0syOV9hb1dkX0hMbFpXMnltRThaWk8ySlRid09Rbnlpd2NXb292VWc4UVZsaVhiSVlLWkdGd2c3SFB5TGt5N1BhX2tCMV9pQTFmOUVQcnBXRVI1aWcxaUpNc0lTX0FhZkNvWkVob2kxWHZqZmszMVdTTjhmeFo3ZGdGUWZxb3RqRE9weG8wR05HZ2FoTlR4Q0NoRkc5aXhJVWZlUDR6T2hESkRVZw?oc=5",
+          "published_iso": "2026-04-23T03:22:37Z"
+        }
+      ]
+    },
     "civics_politics": {
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Budget watchdog urges NYC spending cuts over tax hikes",
-          "source": "Gothamist",
-          "why_it_matters": "The recommendation could shape city services, taxes, and efforts to slow resident and business departures.",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUJMQWlDM01TbmZIYjExc1VIT1hmS3A0V1Q2VVZRLW96bEhaWkU2cFcxRElSTTRvanpQMEZ3d21lS19MMXRsRnNGMUVUN2VMcGx6NTJnVFFfSFVORGZoeC12SjhYMExfMGNLTlY3VkZrYUVVbVZ5N3JnWU13bVl1eEQ2ZWtVRlV3cy14MWpybW02eXFsMVVrVU43NXZIU3NZSzBXeU15NWZZQQ?oc=5",
-          "published_iso": "2026-04-21T14:01:00Z"
+          "title": "Budget troubles threaten Mamdani affordability plans",
+          "source": "Politico",
+          "why_it_matters": "Potential budget shortfalls could delay housing and cost-of-living policies affecting many New Yorkers.",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdC1JLWl0R05ETFBzUDRyYlE2RkhWbno5Qk9uU1laY1BVMlphVHBpelhnMDBaTGJXTVlpQ09DRkpQSlp3UG9WVTZDRU9WcXJKVXZxaml3ejM2Tk5DMVNORkpKMmdYX19JZUVFbnlkUDU1cnlqNU5IN2RhZlZaNHFIa1Q0Wnc1d2dNc2Mzc1lfLWFZNlhEdEhnX01hQmxpT2p2M3VzZDdmM29EaU9CcjlBMHFXTldFbVJkakk4VE11OGF2Zw?oc=5",
+          "published_iso": "2026-04-23T10:00:00Z"
         },
         {
-          "title": "NYC has nearly 14,000 job vacancies amid budget crisis",
-          "source": "amNewYork",
-          "why_it_matters": "Unfilled city jobs can delay permits, inspections, benefits, and other everyday services residents rely on.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lQjRwRkNPaXV3TjFQbEtiQWVyd09TcUdJVDJPbWJXRTFyRmlwUGJMeWNkSTNvdWdWQWZEN3kzSVpiYkpBY0dkTHlDdGQyREJ5SUdHNW1sQ0dTZHplbnZlMTRTWlgzdjNzSHJkMGZDSGphSmFZS0Znb1JvOEo5QQ?oc=5",
-          "published_iso": "2026-04-21T13:30:03Z"
-        },
-        {
-          "title": "NYCHA vacant apartments are increasing, report says",
-          "source": "ABC7 New York",
-          "why_it_matters": "More empty public housing units worsen the city’s housing shortage and leave eligible families waiting longer.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmNhVG1lUVp5QlcxemVUS2dQNGY1N2ljaHFPdWxSODlMckgtd2xxQjItcE5NeUh5RmtMOFhFWDNueDQyeEJNZjlPOWV1bExqSFVoblZzMmxIYmxRUklMUTJ3UHhDeEp6eEtKa3AwZmJCbU9nNEJvd3dOeUItZUdJZmZnRjlaRVZ4ZjNnRl91UUfSAZYBQVVfeXFMT1F6ckFQd1dDRXNQMEJxSDBCa3cxOHh0U0pybFJES0xFaW1SSGt3U1NESUlCV00zWTNwQ0tIQjN4Tnk5bG1fSEhLeWpwQkUzeGpTa09oeFI1Z0NTUzZ2WFlGTnJZZUlFNWZ3Z0Y1aUl1MjNwRGtrMHBQR1FkSDJrNXczaC1ta3dESU03V19xNlZEQWZxMEln?oc=5",
-          "published_iso": "2026-04-21T23:01:16Z"
-        },
-        {
-          "title": "NYC seeks millions from alleged illegal Airbnb hosts",
-          "source": "amNewYork",
-          "why_it_matters": "The case could deter illegal short-term rentals and return more housing units to long-term residents.",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Lb0thQWRaVHpJZGFVbFZlNTM4RG05aEU4MWZRNUlVbWZjdHFNLUl2TmtvYUVGX1FmWEpnR1J4X1d3M3RJbE9MV1BVVFJPOGRVa2FaRk8xMmtfNUlQa2dibVB5S1Y3bEdsaGdjN2ozcHhFNU5xN0N2UDNWdlk?oc=5",
-          "published_iso": "2026-04-20T18:26:47Z"
-        },
-        {
-          "title": "Staten Island trucking terminal gets NYC approval",
-          "source": "SILive.com",
-          "why_it_matters": "The project could increase truck traffic, pollution, and land-use impacts for nearby Staten Island neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVmRiNDhZRFJOV0FXc2c1dlBmYzhObW9ROExWejI4UUZxSlRXQ2NjQ0lHczN1VG55LXV5VXp3MkVXMVVRNlIwN3AwUkcxdDdwMDVzSlJqLXhxamlaZTVPNk1SMzNrZGZmS2hRUmZlVTlLSU1hTmQwQUU4end2NE9SamJYOVZpR1hOczJCVHVmSU1RbDc2aC14UG9KZk9ndWxWWURibHRvS09zRTlKZndMZk5sREhRLTZINTVsMDBXa2Q0TjRFSF9WYTVQVlM2S1RVS2fSAeYBQVVfeXFMTkppMWw4cXJ0SFZ4VGR2MEhXNzlwWkVGcjBOblU2aHFvaEFtc0ZkR1B2eUo4NThMTllXR3RraDZLWEVwczktamx5bXo4Z1plRmtKRTlSbTVlNWxoYm9tRFVVVDJXeVRJSTFSU20zVkIzWTJidEVQVGl2R3N1QUVPYlZEOHJWOG9nbXJ0YUcwNEkzTmhGRDhTZ2h6X1ZfTHdIODlkQm12dURhaVJXc1JLTTgxa0taY1dwOWhNNXZKSW0zeUZKc1h1WnZuVjlyVGZjVE51RGQtQnd2RlZJM2FodGdBVFNJVHc?oc=5",
-          "published_iso": "2026-04-20T09:50:00Z"
-        },
-        {
-          "title": "Mamdani plans Linden Boulevard redesign after deadly crashes",
-          "source": "Gothamist",
-          "why_it_matters": "Street changes could improve safety on a dangerous Brooklyn corridor used by drivers, bus riders, and pedestrians.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX0FXUGJQMlpJdk5rVFJjUklXSXVmM2dRMmZCOVlkZkZPaDZleGtna2hoMlJGM1F1WmdWX2o2THlFUWVldlZSQk1XdV9yeUZfNzFBd2ZqRUxQdW1XdTNTNnhBbXhNNkhxZUkwSlp6U1FSVm5vRkJ0cl9mY0pobEV0dDUwTGgzVzlkUHVqUEc5MXhpb0E2UTk1anFqT2Q0aklMNVE?oc=5",
-          "published_iso": "2026-04-21T23:41:00Z"
-        },
-        {
-          "title": "Landlords increasingly threaten tenants with ICE calls",
-          "source": "Gothamist",
-          "why_it_matters": "The reported tactic could intimidate immigrant renters and worsen housing insecurity across the city.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPem12S1dTdF94Zm9YZnNwLXhfb0dRd0Z0VUxHSmdOUUlaOG5RV2tLU1Jicm1qODhMS1ZzTWdwUnRvVDBETFB6SF9QUVN4b3dCVEU4aVdRLWNkYUNDank3YzBTYnBvMlczMGNOZ2VGUW44bU9HZkNuR2FINmdKOGtQUE9pdm1TSDJoMDJFbWFiS1c5SWI5eXEtTGhzOA?oc=5",
-          "published_iso": "2026-04-20T21:52:00Z"
-        },
-        {
-          "title": "Police union sues watchdog agency over officer complaints",
-          "source": "Newsday",
-          "why_it_matters": "The lawsuit could affect police accountability rules and how civilian complaints are handled citywide.",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdGtnUGNXYjljY3JsWGhKMmRIMUdzd2tDQWROTWVOLUs5dDZJdjc1RUJKcnRrZjQ1SlBkRThINmRMTnljdEFPX0ZxUWw0SUl6Q2xtT2RZWDBwWDBpcFNqa2EzbWk1bWtvMUJzUHBMUzRFczRmWHNLU21OWlZMZjJrZUNLV0RzUmZJMmg2QQ?oc=5",
-          "published_iso": "2026-04-21T21:47:36Z"
-        },
-        {
-          "title": "Pied-à-terre tax proposal may miss priciest homes",
+          "title": "Mamdani names new Rikers closure chief",
           "source": "THE CITY - NYC News",
-          "why_it_matters": "Any loophole could reduce expected revenue from luxury properties and weaken a high-profile housing tax plan.",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGR1d2Z5VjJ5S2p2MWtHa0NpWmN4YkRWbUFhM3BnVVRSdEZqSUMwRFNSZm9mbjJXX0hYN1JxSGlVbkQ2M2hjWUNIU2NCMWJyWTM3Y3NXQmRpcVJHUDRtSjRmNjNOTEU5UllsdnlHLXAxcWtuUElpd1RZTUJNaTdoOEFrNTRsTTI5NU5sbUdYT01EOHhsZDVSWA?oc=5",
-          "published_iso": "2026-04-22T09:00:00Z"
+          "why_it_matters": "Leadership of the jail shutdown effort affects public safety, detention conditions, and city spending.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcS1DSzFBLWF6TUhwTEZqSXhuVXhQeTNCYjd2UUwyak1PQXhGQ1lXRFE2V3VlWU5FNVlGNEVtTGVId0U3c01oVDd1NHktOFVGUU13TFdodEtXUG1Qd3haYlEyaHA2cC0wTFU4bHVxVlAwRGRoNmtYdG5yb1J0QnJfRi0xNTVYWEhGVjN1Z2JSOHRwN0VEdlEtaUFTM0FHTW9tQmpz?oc=5",
+          "published_iso": "2026-04-22T20:43:13Z"
+        },
+        {
+          "title": "Mamdani taps construction chief to speed street redesigns",
+          "source": "Streetsblog New York City",
+          "why_it_matters": "Faster street projects could quickly change traffic safety, bus reliability, and neighborhood streetscapes.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEtPV0E0VlBJNEY1NFBvc2szODZHQUhvNy1kYTRvcjRiVnhBMXBFZEZqTGlmRXk1ZnhySkVxQTN0U2JfY2FRR0NmV2lxdGNwaUY3X3NwWUc4b2xBRWc1bUY2UGg5cEN3T1N6eUhhb3VRNmxScV9FYkVqSE9QRjcwUEhLZFZPVG1vRXBEdl9hekc2SHo3NE9NeFMtYXEzOVJvT3YycnFnS2RrWDJSbUFEeGdfbjlHbGhBOV9WYQ?oc=5",
+          "published_iso": "2026-04-22T11:00:00Z"
+        },
+        {
+          "title": "ICE seeks 150 parking spaces in Downtown Manhattan",
+          "source": "Gothamist",
+          "why_it_matters": "A larger ICE footprint could affect immigrant communities, protests, and federal activity in Lower Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWpvT3hiOFJldXhiTDFON3pxTjlPb0NnM3hVakdyRzRWV2NlbzFncUxkNU1Uc0pxMk04endCcEhzeHFkdGpOZXhtcVdqU1ZoUF9IaEVYZkxzZVJUMlI3Ym9SYnZSZThLTWgyME5KUDNfcERTcnVzeHNpQ0ExWjUwd2RBVkt2bzEwUDZiYlRILVgxeXYwWGtxTEFJdw?oc=5",
+          "published_iso": "2026-04-22T20:49:00Z"
+        },
+        {
+          "title": "Farah Louis removed from NYC Council budget negotiating team",
+          "source": "City & State New York",
+          "why_it_matters": "Changes to the Council's budget team can shift priorities for funding city services and district needs.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGRMLUlrNk8wVnNPbDVKNTBCN0ZncWllZmlLbmNfMEgtNWo5YXZocEVJUWhCUUpISmgwLTVETTNZVnREV0ZDQU5lcmpCVmxDWmwxWkJHNzd5bUFnWHBrd1d1dFhrUzUwMTk5ZFpVMF8wSWNuQUlJY2NQdldLcnpDak9raDVuSVh3NHM5V2hIOWs0SVRXTE1LelFnM1hNYjJmY3g1Z0sweDIySVNObWQtT29kbFZUbTY2RWhGNg?oc=5",
+          "published_iso": "2026-04-21T22:36:00Z"
+        },
+        {
+          "title": "City to enforce ban on solid roll-down security gates",
+          "source": "SILive.com",
+          "why_it_matters": "Businesses may face costly storefront changes as the city pushes for safer, more open streets.",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVvVkZtdEVUZ3VPa0laVkRSTTBJMDBUcnRNQmZua2REWnU1MGNIN2NmN0FFOHVWaTUzX3gxTDdYalNVbFBzNTdpTnhEUHctWjRjTmFmb1d0SWxWdHI5NmRWRzRlY1NaQkp0Ujd3UUNYNS1JWlpqWmFxUjh5UHhQT3RNcHExZ2JVWF81Z0NYV3oyVnRtUE1NMjRlbkh3ZEpKVWgxVzRvMGRoVDhOdDhEWUlKYWV1bklHdlV30gHPAUFVX3lxTE9JUVJoa1dfVWtvRTJGMFFwX1JMYmpYLVJ1Q2tJQkwwNjZoQkxCSHBLc3RCSzgwMDZEOVlDNkhXT1NpRmQzaFROeGllcEtnb1AtaDJaSm1qSGtsQ19CQm1wbHlGX08tOVRKVEV5ZWcyM1ozNTBhWFl1MWkxNUlHaW9QT0JySzFPR1MwelB2M1BMMEg4YmUtV3V6Q19GWDIxQm16R3BQSkd4enR0dmpJbzRYWHRYZmFZNzRNVjVMbzJvOU8xYkwyYUR1RlRmMzl6MA?oc=5",
+          "published_iso": "2026-04-22T15:35:00Z"
+        },
+        {
+          "title": "Council member arrested at Brooklyn eviction protest",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "The arrest spotlights tensions over housing rights, evictions, and elected officials' role in tenant disputes.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd083VWJ2Uk01bWViYjhEVUtJaUVVT0xmTHZZOWNZUEpBckxSRm9EZ0lDQS0waElqZkVLcUs4eGZ0OFdmWVRvMWlNemhzdnB5MnAtT2ZJZ19kek94YzBqNmM1LWJhbmZaQ2hNNGpoSkxvWFlXRHFlUnNYbjZmakZxUFZKRWJJTVJUMGZ0SUNyYWk?oc=5",
+          "published_iso": "2026-04-22T17:10:43Z"
         }
       ]
     },
@@ -81,32 +87,18 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Thousands risk losing housing aid as voucher program ends early",
-          "source": "WRGB",
-          "why_it_matters": "Early termination could leave many New Yorkers unable to afford rent and at greater risk of homelessness.",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeE5zUW10d25aTHU5X3BOVWx6cTc5QXExS0k2NEJXY1dzTzZydE1fcVFjMVJhX0RNMDRvWWdoWTlYaEcwMlk3eHRtWWpycHNrdWJ1Q2s3UE5WVGY3d3pDVVBVaXZGbl8tTEFxTHIwMHlfZVBZZWtvNGVsQ2pWNFFka2h3OHM3cnkxaHpLd3F4ajZJZUJVOWlDS0pQaEpxOWF5NzhYbUg4aGQzRUU4a1lDZHRGZzVaQQ?oc=5",
-          "published_iso": "2026-04-20T15:43:27Z"
+          "title": "Vacant NYCHA apartments rise despite housing need",
+          "source": "ABC7 New York",
+          "why_it_matters": "More empty public housing units can worsen delays for New Yorkers waiting for affordable homes.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmNhVG1lUVp5QlcxemVUS2dQNGY1N2ljaHFPdWxSODlMckgtd2xxQjItcE5NeUh5RmtMOFhFWDNueDQyeEJNZjlPOWV1bExqSFVoblZzMmxIYmxRUklMUTJ3UHhDeEp6eEtKa3AwZmJCbU9nNEJvd3dOeUItZUdJZmZnRjlaRVZ4ZjNnRl91UUfSAZYBQVVfeXFMT1F6ckFQd1dDRXNQMEJxSDBCa3cxOHh0U0pybFJES0xFaW1SSGt3U1NESUlCV00zWTNwQ0tIQjN4Tnk5bG1fSEhLeWpwQkUzeGpTa09oeFI1Z0NTUzZ2WFlGTnJZZUlFNWZ3Z0Y1aUl1MjNwRGtrMHBQR1FkSDJrNXczaC1ta3dESU03V19xNlZEQWZxMEln?oc=5",
+          "published_iso": "2026-04-21T23:01:16Z"
         },
         {
-          "title": "New Yorkers can get 50% off public transit fares",
-          "source": "SILive.com",
-          "why_it_matters": "Discounted fares can significantly lower commuting costs for eligible residents across the city.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWXMyMVVwR3NzNXRwVWNrdTJPdUZpbldUNU41cWMzWHZXNWs4RXI2SklGcHpyV3kwWTYzTURVaXdNQ24zTDZuNGRXQzgxNy1oU214OGVFVngxQVZKR3J6NnRZV211UjhoWTIwTkVlTF80bXpHb0lqdDdpNmdIWUxPazFpWTBLTWd3bnY1ano1VHU0dGxkUmx2eU1yMTB2QlFnY1RrVnh4TlItZW03blBVVllOTWNnYjZSVFpFM9IB0AFBVV95cUxOejNha1U1S2N0UFhDb2VIYm5KbWlLbklCdVUwekRsZm9kVWpLQ1pReUdUNlNjYUNTS1BNbW5WTjJQd184NGluZl9MaFRhOFVDdzFUSUk5eWNGNWNLLWJ2WkxQcmhacUZwemowSnI4WTE1QlJfYTJqek9Zd3hORXBnWmpNX29DNVRSVWhMZnNnVUdTTW03dkFjSmJrdWFwN1daelF4dmxvLVNrNkk4Z1lBbHktcEkyQzBwcWNneUpsT3JjYm83RzJOWFpfN2hhYUJZ?oc=5",
-          "published_iso": "2026-04-20T19:56:00Z"
-        },
-        {
-          "title": "Eligible residents can get reimbursed for mandated NYC trash bins",
-          "source": "SILive.com",
-          "why_it_matters": "Reimbursements can offset a new required household expense for qualifying New York City residents.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2RxZmRibWI1LUdWQVA5S2hOTTNWallkNHVCU01OYmNldFZxa0tpQTJfdnRCRVJxbGw1ZkFmSUtaUW5QSmg5SkVac2MzblJqd3R2dmw2VnJ2LURiY0ZOQ2pra2VaQ0praUpsb0FTYm0xbzQ4NlhkTHpJcVZ0OEdVX3VvZWh4dEdIQXVveUJiVUE1VHN4UnhjaWdWaTVqaDh2NTdSTUs2SmpsX0ZPZEhxUlNHZVB1OFV4TlpUNtIB0AFBVV95cUxPQW9GREFsaVZvdkNldHZPdjdjc2hxWWZqVWpsc0hmSXdsSGRKUWhsZ191akRNMEhvWEo3MGROUUVCVDRKN3BsWjBMNnNja2ZLNjZTY2V0Y3pSbzA1cTZMTm5vVnAzelEyMkNEZ2xhVUlUWGpGWHpVUXlyVnlMc2hrLW5LcHhOTzNCdVFwalVFOG84ekxoeWJ4UE0zV2lxQ0luVExhaFFzM0tDamFjMEtzcHMyVFMyOUVqSHBOLUo3RUI3bUFPcVQxeUcyc3Foa0Zl?oc=5",
-          "published_iso": "2026-04-21T15:29:00Z"
-        },
-        {
-          "title": "State deploys robots to reduce isolation among older adults",
-          "source": "Times Union",
-          "why_it_matters": "The program could improve social support and well-being for isolated seniors in New York.",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUlOencyekFDc3pNZ1Bsa3dLeGhnVWdHU0VCUG52dnpQSHJ3OHVLVFV0ZzBfZVpjXzBkeXY3S1FxcklWQWFmUGRLYzdrbmxFYTl0WXg0ZExRYzNpdXJHcUp3bXVoVG5ucS1PTmdTNGZqUzBQY2lKelRuT19ZUUdieGZxUndXVEtnX3dFbGg2Um1RN0xhckJSMA?oc=5",
-          "published_iso": "2026-04-21T10:06:11Z"
+          "title": "State to offer rebates for electric landscaping equipment",
+          "source": "Newsday",
+          "why_it_matters": "Rebates could lower costs for businesses and reduce neighborhood noise and air pollution.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMnplc29iZWtUWXUwejV1XzVXOGdmaUFQUEhDS2lLWnBrbXREY0RwSlZzZnJ4RlRocTEydXNiMmxESUtMcEUtUW02YXYxMUFtV3NPdklTYmVlbzRyXzVEWDlmTHFma3NyeGxKSDRaTGZMNTU2S3gyemVqZHZHZEE5ekVMckhpb0pUWUI1WFlsbFE5aldCUFR0TXVYcW5jTzV6ZkJGc2lnQWs?oc=5",
+          "published_iso": "2026-04-22T12:44:25Z"
         }
       ]
     },
@@ -114,25 +106,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "Stomach virus surge raises health concerns across New York",
-          "source": "Patch",
-          "why_it_matters": "A contagious illness spike could affect schools, workplaces, and families citywide.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlZ4b0NQWEYzbFk4MWVzZ3Z1UW9feU52X0ZzeEhYZU1NbjhtdGtrVHg0WE1GbXBRdHctQUJ2N0xzNS1sNWNGOENYX1NtNFJmLUpkWGRzYjNFRXlxbUpvTWFST0FaWGoxb05ZSm9EWlNhVmItdmpDcnhKM1h3RW9aU2cweXQ5S0J4ZDU4cEZ3dXE1SlItU2hibng4SG9Ddy13SVZJQlRFZW7SAcIBQVVfeXFMTWNua3A0V0xqQ3RTMlB5Y0VqdkVJV3hMa1Q1bXp0R1FXbGM0WGFxMHpUWlFHNF9jNW9Fc0hrVEd3MHhvNjFGd3I4YWpoZ3hfYUQ3R20xQ1dzN3ZWRUkxeGFuMF9zY3BuNFhOVklvdnd4WlpGZGZpQmQtUW9XanFzb1ZxeGJ5WVY1WGRQZkROdkxtbkx1RU9YaTg5WWdvTk9jbXd3U0RZcEp4UDZWQVh1ZkZZcUxwcnFJTGxsaTdwd0M0Snc?oc=5",
-          "published_iso": "2026-04-21T15:45:23Z"
+          "title": "Fatal Bronx fire forces residents to jump from fire escapes",
+          "source": "New York Daily News",
+          "why_it_matters": "A deadly residential fire raises urgent safety concerns for Bronx families and nearby buildings.",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHJBY25FSWYzbE9tczJsMU9WQ3g2NDRHSXZ3elVSM1lPY3JtOGxwV1RVMDEwTV93SXVyZXVSRTJVOHBRUEl3RmJRSUJhLVlTdFpqUnUyZ1ZqQ1dBNms2NURkREJTRmM1cFBjenNNMjNSd0JLdHdrUG4xcGE4UTIzLTJqZUlJcXJpNVBsRFBBVzhxd09vZWRUeHZnREFkbmdSWE1Fck1zUDJHNnNWTlN4Q2JCdndrSUZKNHlpb1ZQdw?oc=5",
+          "published_iso": "2026-04-22T18:11:24Z"
         },
         {
-          "title": "Five Boro Bike Tour will disrupt streets on May 3",
-          "source": "amNewYork",
-          "why_it_matters": "Major road closures and transit impacts will affect weekend travel across multiple boroughs.",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85MDZfdjJKdFdGbGZnRXF3VWV5SUIxV0JKdFJRZmhqMlU4VHBlYy1xUEJEcW1oUm5FUmhYN0R0cWdGSkFrNm5QQ0ItT2xpa21MRUhhTHZfaUlkVUhDMk80ZklmUzVZQQ?oc=5",
-          "published_iso": "2026-04-20T19:30:30Z"
+          "title": "Battery Park City residents fight mature tree removals",
+          "source": "ABC7 New York",
+          "why_it_matters": "Loss of hundreds of trees would reshape neighborhood green space, shade, and quality of life.",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnBkemFiMGxPcmpVcnlwOEhSUmxPRUtKNmJwTjRLNXdKcm44WklyZl9BU3hhYXBpYjdSWTQ2d1dwM0x4R21UeWlUTURKNmo1b3pVV1ZFcEU5U2JqM2xocjY4MWRRZ3V4TnJwQU9QMVd5MjN5NU1oU2FkdUFsZnY1UlpJbFZJVXJMVlVrdVJmbjk3ek1tRVFGcmplQWROd2wzQWowczJpV2MwUdIBrwFBVV95cUxPTEUwOVpoZk1VdnhQTEdtRTF2RzJRTG1ULU0yUkhycm1MeUFYZGJoR05HczNtTHhJU0VwX1pFQTc5TTBUaWtuYk9zbGFTLVFmaG82ZjRZN3hDTlZDWlZ2X1gxQ2JFa3BXT0dMV1liUzlBZXNSTWZFTE0tXzJNMkhoSVVuQ3h1aWIwOUJVZ0xfSDVMWFBUbUctV2ViZzIyc0FDbUVxQWRFcF9oTXhjU3lN?oc=5",
+          "published_iso": "2026-04-22T22:59:44Z"
         },
         {
-          "title": "Women expand presence in NYC for-hire driving",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "The shift highlights workforce barriers and safety issues in a major city transportation sector.",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX184THlzLU5NYUQyRHZPQW1oUnpmSzM4Q0lld0I2Y3hCTmVYMzNtVTB0NUNNV0szLS1OZzBNNXVzeTB5ckhUNF9JYWU3Yk5MYlVkVXVRWklSU0pMNVRvQWlqSTJlSE8zemp5WDBSdmVUZnBvSkd3U0t3QTJhRG9yenFB?oc=5",
-          "published_iso": "2026-04-21T09:00:00Z"
+          "title": "Queens casino opens next week",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "The city's first full-scale casino could affect jobs, traffic, tourism, and nearby businesses in Queens.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaUZDb1NDLTRjS3p4YmRyMWZZTzFvcUVCa1VXVS05XzhBM1o3cW5NNmVkMW1kTW9SMENmVkpfSHpoLTRPM1pKOXBlV0RrS1pGZ3d1WkxQOU5TZWFiaDB2TXBKT3VQdDJFRmpxMmd6NHJPUWpQYnV6NkFGeHRERFVCUTR5am91am5rUGhaWVU0eHV0WnZKQzhvWllaSklwZWxaX3JEaTlVNVJoRFpSSFFmX1A0XzBHVHJf?oc=5",
+          "published_iso": "2026-04-22T21:13:03Z"
+        },
+        {
+          "title": "NYC trash bins are selling out at Home Depot",
+          "source": "SILive.com",
+          "why_it_matters": "Bin shortages could complicate compliance with city trash rules for households across the five boroughs.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckZacE4yNlBTRE5aaTZ0bjZpb0U3UExMTnE3WmRQc010N1hZN0tKc0pySVF4SFRVT2NyZzF5d0hDSFM1dFpMQm9qcHRiNUNBbG5HRHFuVWlxdlFKYU9Bck9vTEtJbDZhSzdTbkNuY3pjSUgySDJGWWVndE5ITml3ZkdPLXRiRTdkbFpJNzFYdS1peHk5MnZQV3hWTTQ1amh2UzE3M0RfaGx5YmVqdlHSAcIBQVVfeXFMTWRva3Y3eHMxbzNhSGxtWTJTODlLaUJKakFkcGctYXJEQnFBSEI1a0ZFMUpUbU5SODJxRnUzczVHZi04aFk2a3VOUnFweFBnMkVRa1hFSEwwS2d5MEM0UjdmY2lSYTdLbWFtc0ZkbE1GOThSVnktN19SS0tKZHMzdmJHSUdGNDIyaWNncDN0TTNRbWhRRy1mNVQ3Tk9wNkRTRzloT0p2a1U0Sm5wUEpMaWJjYUdCSVFnZTk2RmVqLWNtY1E?oc=5",
+          "published_iso": "2026-04-22T18:42:00Z"
+        },
+        {
+          "title": "Shakespeare in the Park tickets will get easier to obtain",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "A simpler ticket process improves access to one of the city's most popular free cultural events.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjVOZm1FMHAwd1J5dE1aMVdzVmE1MWd4aFBqWFJuN1p1NEdCZkdBMHZpMlFMa09tc1NaaWU1cDExeFFQSmkwUTVKZUl1cmcxcjNtSlV1QTQ1NXdMLVNjRC1rd1NwajlzNzVOQ194Z1JVdHFPSEQ0YnJKQXFYNl9PM3lTSlR2dzBFM3FIZmdBSkV2OE53UmpWTDBqWUNuYm0ybzViTjdrOTJEMmJLYVJ1ZWR3?oc=5",
+          "published_iso": "2026-04-22T21:15:52Z"
         }
       ]
     }
