@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-23T12:02:19Z",
-  "daily_fact": "Morgenstern’s has reopened in New York City, bringing back one of the city’s favorite ice cream shops for locals and visitors to enjoy.",
-  "topline_md": "New York’s biggest updates center on mounting public-health and housing strains—a stomach virus surge, Bronx tenants climbing nine flights during an elevator outage, and rising vacant NYCHA units—while City Hall faces budget pressure that could hinder Mayor Mamdani’s affordability agenda.",
+  "generated_at_utc": "2026-04-24T12:01:52Z",
+  "daily_fact": "Jeff Rosenstock will celebrate his album Worry with an “ultra-long” hometown show in New York City, giving fans a special extended performance in the city where he built his following.",
+  "topline_md": "New York City saw a sharp mix of crisis and policy change: deadly and injurious incidents in the Bronx and Queens, worsening housing strain from drying voucher funds and elevator outages, and major city actions on shelters, transit, street security gates, and City Hall staffing under Mayor Mamdani.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,16 +14,9 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "Stomach virus surge reported across New York",
-          "source": "Patch",
-          "why_it_matters": "A highly contagious outbreak can quickly spread in schools, homes, and workplaces across the city.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlZ4b0NQWEYzbFk4MWVzZ3Z1UW9feU52X0ZzeEhYZU1NbjhtdGtrVHg0WE1GbXBRdHctQUJ2N0xzNS1sNWNGOENYX1NtNFJmLUpkWGRzYjNFRXlxbUpvTWFST0FaWGoxb05ZSm9EWlNhVmItdmpDcnhKM1h3RW9aU2cweXQ5S0J4ZDU4cEZ3dXE1SlItU2hibng4SG9Ddy13SVZJQlRFZW7SAcIBQVVfeXFMTWNua3A0V0xqQ3RTMlB5Y0VqdkVJV3hMa1Q1bXp0R1FXbGM0WGFxMHpUWlFHNF9jNW9Fc0hrVEd3MHhvNjFGd3I4YWpoZ3hfYUQ3R20xQ1dzN3ZWRUkxeGFuMF9zY3BuNFhOVklvdnd4WlpGZGZpQmQtUW9XanFzb1ZxeGJ5WVY1WGRQZkROdkxtbkx1RU9YaTg5WWdvTk9jbXd3U0RZcEp4UDZWQVh1ZkZZcUxwcnFJTGxsaTdwd0M0Snc?oc=5",
-          "published_iso": "2026-04-21T15:45:23Z"
-        },
-        {
-          "title": "Bronx tenants stranded by prolonged elevator outage",
+          "title": "Bronx apartment elevator outage traps tenants on upper floors",
           "source": "ABC7 New York",
-          "why_it_matters": "Residents, especially seniors and disabled tenants, face daily safety and access problems climbing nine flights.",
+          "why_it_matters": "Residents, especially seniors and disabled tenants, face dangerous access issues climbing nine flights daily.",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLU8wQ2dkakctdGdnQlRZblQzdk94bXN3S19hc3BSdjNXOWtCeFRJMGVwNnBIRWwyckFxVjZfaTFMSDcxWE1id2hNaG1kNlNvTjlpQzJYSkUyZl9fRUVzRS1FTUFfZXNCekxKVDVrR1k1NUVmUndQSEJRakItUUk1eVRleHI3QUZVQkNHeGUtZWw5dU5yMDh2NS1VVDRoZXZWVDlVUUhhRzI1RWFSN3VOdmEteW5pSnVGdENwS2NKbUcwNTk1dmw2RVBB0gHPAUFVX3lxTE5XMGJzX2JNcXZTdjV3c01HWXBWa0dHaEFOYkh4eXFKYjg5c0syOV9hb1dkX0hMbFpXMnltRThaWk8ySlRid09Rbnlpd2NXb292VWc4UVZsaVhiSVlLWkdGd2c3SFB5TGt5N1BhX2tCMV9pQTFmOUVQcnBXRVI1aWcxaUpNc0lTX0FhZkNvWkVob2kxWHZqZmszMVdTTjhmeFo3ZGdGUWZxb3RqRE9weG8wR05HZ2FoTlR4Q0NoRkc5aXhJVWZlUDR6T2hESkRVZw?oc=5",
           "published_iso": "2026-04-23T03:22:37Z"
         }
@@ -33,53 +26,46 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Budget troubles threaten Mamdani affordability plans",
-          "source": "Politico",
-          "why_it_matters": "Potential budget shortfalls could delay housing and cost-of-living policies affecting many New Yorkers.",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdC1JLWl0R05ETFBzUDRyYlE2RkhWbno5Qk9uU1laY1BVMlphVHBpelhnMDBaTGJXTVlpQ09DRkpQSlp3UG9WVTZDRU9WcXJKVXZxaml3ejM2Tk5DMVNORkpKMmdYX19JZUVFbnlkUDU1cnlqNU5IN2RhZlZaNHFIa1Q0Wnc1d2dNc2Mzc1lfLWFZNlhEdEhnX01hQmxpT2p2M3VzZDdmM29EaU9CcjlBMHFXTldFbVJkakk4VE11OGF2Zw?oc=5",
-          "published_iso": "2026-04-23T10:00:00Z"
-        },
-        {
-          "title": "Mamdani names new Rikers closure chief",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "Leadership of the jail shutdown effort affects public safety, detention conditions, and city spending.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcS1DSzFBLWF6TUhwTEZqSXhuVXhQeTNCYjd2UUwyak1PQXhGQ1lXRFE2V3VlWU5FNVlGNEVtTGVId0U3c01oVDd1NHktOFVGUU13TFdodEtXUG1Qd3haYlEyaHA2cC0wTFU4bHVxVlAwRGRoNmtYdG5yb1J0QnJfRi0xNTVYWEhGVjN1Z2JSOHRwN0VEdlEtaUFTM0FHTW9tQmpz?oc=5",
-          "published_iso": "2026-04-22T20:43:13Z"
-        },
-        {
-          "title": "Mamdani taps construction chief to speed street redesigns",
-          "source": "Streetsblog New York City",
-          "why_it_matters": "Faster street projects could quickly change traffic safety, bus reliability, and neighborhood streetscapes.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEtPV0E0VlBJNEY1NFBvc2szODZHQUhvNy1kYTRvcjRiVnhBMXBFZEZqTGlmRXk1ZnhySkVxQTN0U2JfY2FRR0NmV2lxdGNwaUY3X3NwWUc4b2xBRWc1bUY2UGg5cEN3T1N6eUhhb3VRNmxScV9FYkVqSE9QRjcwUEhLZFZPVG1vRXBEdl9hekc2SHo3NE9NeFMtYXEzOVJvT3YycnFnS2RrWDJSbUFEeGdfbjlHbGhBOV9WYQ?oc=5",
-          "published_iso": "2026-04-22T11:00:00Z"
-        },
-        {
-          "title": "ICE seeks 150 parking spaces in Downtown Manhattan",
+          "title": "Mamdani to close long-troubled men’s homeless shelter",
           "source": "Gothamist",
-          "why_it_matters": "A larger ICE footprint could affect immigrant communities, protests, and federal activity in Lower Manhattan.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWpvT3hiOFJldXhiTDFON3pxTjlPb0NnM3hVakdyRzRWV2NlbzFncUxkNU1Uc0pxMk04endCcEhzeHFkdGpOZXhtcVdqU1ZoUF9IaEVYZkxzZVJUMlI3Ym9SYnZSZThLTWgyME5KUDNfcERTcnVzeHNpQ0ExWjUwd2RBVkt2bzEwUDZiYlRILVgxeXYwWGtxTEFJdw?oc=5",
-          "published_iso": "2026-04-22T20:49:00Z"
+          "why_it_matters": "Closing a major shelter could reshape homeless services, neighborhood conditions, and where vulnerable New Yorkers are housed.",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWt2ZXNZLTVCZ3B1U0FzcG9MV1FVZFd2YWVfY29tUHc3N3Rnc0NUZG9YaHdOdE5NU2JzWWhsTTlWQk1qaWd0WkVqTkd3RFh5UWVnckxELUtzOXZzRnpHZmVYWldxaUg4Sm1jUVpmSGhFdTJwVndrbVJvelRXQzExdVJTRnVEOFgxRWk2TncxNHpNdVpnd2pUTkVtTzNLdHlZc0Zhbk1oUnhqXzF1RGFuYmFrZw?oc=5",
+          "published_iso": "2026-04-24T00:40:00Z"
         },
         {
-          "title": "Farah Louis removed from NYC Council budget negotiating team",
-          "source": "City & State New York",
-          "why_it_matters": "Changes to the Council's budget team can shift priorities for funding city services and district needs.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGRMLUlrNk8wVnNPbDVKNTBCN0ZncWllZmlLbmNfMEgtNWo5YXZocEVJUWhCUUpISmgwLTVETTNZVnREV0ZDQU5lcmpCVmxDWmwxWkJHNzd5bUFnWHBrd1d1dFhrUzUwMTk5ZFpVMF8wSWNuQUlJY2NQdldLcnpDak9raDVuSVh3NHM5V2hIOWs0SVRXTE1LelFnM1hNYjJmY3g1Z0sweDIySVNObWQtT29kbFZUbTY2RWhGNg?oc=5",
-          "published_iso": "2026-04-21T22:36:00Z"
-        },
-        {
-          "title": "City to enforce ban on solid roll-down security gates",
+          "title": "NYC cracks down on solid roll-down security gates",
           "source": "SILive.com",
-          "why_it_matters": "Businesses may face costly storefront changes as the city pushes for safer, more open streets.",
+          "why_it_matters": "Businesses may face enforcement and required storefront changes aimed at improving street safety and neighborhood vitality.",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjVvVkZtdEVUZ3VPa0laVkRSTTBJMDBUcnRNQmZua2REWnU1MGNIN2NmN0FFOHVWaTUzX3gxTDdYalNVbFBzNTdpTnhEUHctWjRjTmFmb1d0SWxWdHI5NmRWRzRlY1NaQkp0Ujd3UUNYNS1JWlpqWmFxUjh5UHhQT3RNcHExZ2JVWF81Z0NYV3oyVnRtUE1NMjRlbkh3ZEpKVWgxVzRvMGRoVDhOdDhEWUlKYWV1bklHdlV30gHPAUFVX3lxTE9JUVJoa1dfVWtvRTJGMFFwX1JMYmpYLVJ1Q2tJQkwwNjZoQkxCSHBLc3RCSzgwMDZEOVlDNkhXT1NpRmQzaFROeGllcEtnb1AtaDJaSm1qSGtsQ19CQm1wbHlGX08tOVRKVEV5ZWcyM1ozNTBhWFl1MWkxNUlHaW9QT0JySzFPR1MwelB2M1BMMEg4YmUtV3V6Q19GWDIxQm16R3BQSkd4enR0dmpJbzRYWHRYZmFZNzRNVjVMbzJvOU8xYkwyYUR1RlRmMzl6MA?oc=5",
           "published_iso": "2026-04-22T15:35:00Z"
         },
         {
-          "title": "Council member arrested at Brooklyn eviction protest",
+          "title": "City begins extending Madison Avenue bus lane",
+          "source": "New York Daily News",
+          "why_it_matters": "The project could speed commutes and bus reliability for thousands of daily riders in Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb200S2xHa3dDSjI5YVlCTEktM1NDR2cwY0lXU2ZseGx2RHlsWlNGNjhMTVRBVmQzenRGandXRW1vWFFDS2dZRHFDRm91cXdNODRZbGd6RU1pbHhZOEJqd2dEU3hTbWRlSlVVWEpSblhaUzhnR3hvbVVIRWtYYmQyQmlvMEZvcjJBZmIxRjhYU0xuWlBP?oc=5",
+          "published_iso": "2026-04-24T09:00:34Z"
+        },
+        {
+          "title": "Unions meet Mamdani team over protest buffer-zone bill",
           "source": "THE CITY - NYC News",
-          "why_it_matters": "The arrest spotlights tensions over housing rights, evictions, and elected officials' role in tenant disputes.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd083VWJ2Uk01bWViYjhEVUtJaUVVT0xmTHZZOWNZUEpBckxSRm9EZ0lDQS0waElqZkVLcUs4eGZ0OFdmWVRvMWlNemhzdnB5MnAtT2ZJZ19kek94YzBqNmM1LWJhbmZaQ2hNNGpoSkxvWFlXRHFlUnNYbjZmakZxUFZKRWJJTVJUMGZ0SUNyYWk?oc=5",
-          "published_iso": "2026-04-22T17:10:43Z"
+          "why_it_matters": "The talks could affect protest rules, labor actions, and how public demonstrations are policed citywide.",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0s1Qk5LZU00cGV2SFFsazRUc0FqYVNvTWRlQlplZE9mVWlXSVNGSmFIaDdOU0l1d1RneUFNNzhveFpKX01EV3NyS2wtcEdTM1h5MXhuMmEzbEZtaVhmSEJVR01CbWhmVk05QUxDeTF5SWhZdWRzMGVWeUxDbm4zZmlTNTR0c241MHR4Yl9KTQ?oc=5",
+          "published_iso": "2026-04-23T18:22:13Z"
+        },
+        {
+          "title": "ICE seeks 150 parking spaces in Downtown Manhattan",
+          "source": "Gothamist",
+          "why_it_matters": "A larger ICE footprint could affect federal enforcement activity and spark local political and community response.",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWpvT3hiOFJldXhiTDFON3pxTjlPb0NnM3hVakdyRzRWV2NlbzFncUxkNU1Uc0pxMk04endCcEhzeHFkdGpOZXhtcVdqU1ZoUF9IaEVYZkxzZVJUMlI3Ym9SYnZSZThLTWgyME5KUDNfcERTcnVzeHNpQ0ExWjUwd2RBVkt2bzEwUDZiYlRILVgxeXYwWGtxTEFJdw?oc=5",
+          "published_iso": "2026-04-22T19:30:00Z"
+        },
+        {
+          "title": "Ex-Mayor Adams seeks taxpayer-funded legal fees in assault case",
+          "source": "Gothamist",
+          "why_it_matters": "If approved, city taxpayers could bear costs tied to a former mayor’s personal legal defense.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc2hwS1gwODhuQjctY3padEwtMTUwZlJBUEtBUTE1SFQwVkNKVDRrTEhzWTJMV2QtaHZFdXlHM011c1BkR2c2cV9wNkNla3FyUU9PUl9wdTRsejA5bUhDbjEwVmJFd3FnRVpXMDdoaDRKUjVXVnRxQ1JPSjYxREtNQ2Y2SC13bDJEZm1CRlg2TGZDcS1YN0pfSGo3TGFKLVdYUVhXUjNiZEtjak0?oc=5",
+          "published_iso": "2026-04-22T18:32:00Z"
         }
       ]
     },
@@ -87,18 +73,32 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Vacant NYCHA apartments rise despite housing need",
+          "title": "NYC housing voucher funding collapse threatens thousands of households",
           "source": "ABC7 New York",
-          "why_it_matters": "More empty public housing units can worsen delays for New Yorkers waiting for affordable homes.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRmNhVG1lUVp5QlcxemVUS2dQNGY1N2ljaHFPdWxSODlMckgtd2xxQjItcE5NeUh5RmtMOFhFWDNueDQyeEJNZjlPOWV1bExqSFVoblZzMmxIYmxRUklMUTJ3UHhDeEp6eEtKa3AwZmJCbU9nNEJvd3dOeUItZUdJZmZnRjlaRVZ4ZjNnRl91UUfSAZYBQVVfeXFMT1F6ckFQd1dDRXNQMEJxSDBCa3cxOHh0U0pybFJES0xFaW1SSGt3U1NESUlCV00zWTNwQ0tIQjN4Tnk5bG1fSEhLeWpwQkUzeGpTa09oeFI1Z0NTUzZ2WFlGTnJZZUlFNWZ3Z0Y1aUl1MjNwRGtrMHBQR1FkSDJrNXczaC1ta3dESU03V19xNlZEQWZxMEln?oc=5",
-          "published_iso": "2026-04-21T23:01:16Z"
+          "why_it_matters": "Thousands of city residents could lose rental aid years early, risking eviction and homelessness.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmVvTExZczJMdjJDSVZGbGhKTTlBeEtzNzZLVHV4dXVNcWp5MFJyYlJvY1duLTJzekswV1g2UmE4bmlDQWxFRWxYNXFGNTJtblRJR0V2eWdyZDZRTVVRa1lfNDZUdmJhekIxU2tOZEVwMXIwRFdSNk10UWdpU2Vabk9WU01DSHVFNTNZX0NxVkd0RE9zV05BN2x3OUNyR2JYVVRzV05wY0ZyNHhvMGxzbTBoTm9mTk9rODNyei1xdWLSAcYBQVVfeXFMT1dRU1NnYWw5cGMwalRVeWVFMTFDQm1felJoU1E0TXB3bTZncUdyc3pEb2ZNeEd6U01KblJrdWl5WU95NkJoRW9XbFFxNVFDVDdWMVhxb1pWOHJQV0tGSFo5cEFBTUNpb2szV3NXQTZEaEt5dFU1c1ROZEV4aWdOZVhYWmFxcUxRT1JaOXZoMkprNDJfM3VFZGZuMU5GZVVQaDliX2c1b2lYMkhJa1RyUy1aSlk1ekxmdThsanBMLTI2MU9DcUdR?oc=5",
+          "published_iso": "2026-04-24T09:49:42Z"
         },
         {
-          "title": "State to offer rebates for electric landscaping equipment",
-          "source": "Newsday",
-          "why_it_matters": "Rebates could lower costs for businesses and reduce neighborhood noise and air pollution.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMnplc29iZWtUWXUwejV1XzVXOGdmaUFQUEhDS2lLWnBrbXREY0RwSlZzZnJ4RlRocTEydXNiMmxESUtMcEUtUW02YXYxMUFtV3NPdklTYmVlbzRyXzVEWDlmTHFma3NyeGxKSDRaTGZMNTU2S3gyemVqZHZHZEE5ekVMckhpb0pUWUI1WFlsbFE5aldCUFR0TXVYcW5jTzV6ZkJGc2lnQWs?oc=5",
-          "published_iso": "2026-04-22T12:44:25Z"
+          "title": "NYC apprenticeship program offers paid training pathway",
+          "source": "PIX11",
+          "why_it_matters": "Residents can earn income while gaining skills that may lead to stable jobs.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb3gtdmhtbXdHb01GSFF5ZXIyZjdjTlVaQ0o0SHQtVVNoaVBuaC04MVhlRlJBQW1EOF93X1ZlVlRraWU3SkI3aHB4c2VuSmN5UDlxYVEtdHhJbUVKY0lsVWxTYkplRl9Kb2xnSzkyZ2xFUFhaUFBpN2Y3UUtUYXVqRS03U2JSd2dyd0ItOHBiOHnSAZYBQVVfeXFMT3Q2S0hvQmZYSzZfT3RjMG9SMTZJWW9XWUpYbU1pTnE3aXVnT2pONzFnMldaLVUwemNsSFBTSFJacS1rQl9ncy1RRFVIVE9JelVXeUNyaERabzVTMVZoRGZKM0dXMkp1cWlpRmJyaFgxRm9WRFh0TC1XVjJOenFtTk9oTUx1Tkt6c2JBRlg1UXZuU2pXX0RB?oc=5",
+          "published_iso": "2026-04-23T00:02:04Z"
+        },
+        {
+          "title": "Bronx housing lottery opens at 1435 East Gun Hill Road",
+          "source": "New York YIMBY",
+          "why_it_matters": "The new lottery could expand access to below-market apartments for eligible Bronx households.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRtb183b19DeFlVdl9UYi1Za29TZGZhMEE1cC13WUNpWFhwUkFrTzNwekhyeGo4aHhxdFRscVpSNGtFQ3Izdkh6Si1yOUd5OHFYMUxrQW1GcU1TMmpFVV8zUERmZVFRNkRKN3B5WTgwVjhwY1o3N1dwYjJCNktZZG5sbkp5NW9PcWlBVUNaMjZkUnhoWFhGb0tVNDJ6SjdnZ0t4OTdkUmRZRzhES09DN2VuVGE?oc=5",
+          "published_iso": "2026-04-23T10:30:29Z"
+        },
+        {
+          "title": "Workers’ compensation decline raises concerns for injured New Yorkers",
+          "source": "New York Focus",
+          "why_it_matters": "Reduced protections or access could leave injured workers with less financial and medical support.",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SS3dCODZ5cHpzbFRVcDV0Y1dYN0djZEJBLXVRM0JRTEtjcHFLa2tDZ1o0VHRVVEtGU3J3YTh6Q250eVlrSXVSTVJYdEM5Tm90RGdzVVRSd293WC1mMmMtQ3hfSWI3Z0JsalZ3?oc=5",
+          "published_iso": "2026-04-23T17:59:00Z"
         }
       ]
     },
@@ -106,39 +106,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "Fatal Bronx fire forces residents to jump from fire escapes",
-          "source": "New York Daily News",
-          "why_it_matters": "A deadly residential fire raises urgent safety concerns for Bronx families and nearby buildings.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcHJBY25FSWYzbE9tczJsMU9WQ3g2NDRHSXZ3elVSM1lPY3JtOGxwV1RVMDEwTV93SXVyZXVSRTJVOHBRUEl3RmJRSUJhLVlTdFpqUnUyZ1ZqQ1dBNms2NURkREJTRmM1cFBjenNNMjNSd0JLdHdrUG4xcGE4UTIzLTJqZUlJcXJpNVBsRFBBVzhxd09vZWRUeHZnREFkbmdSWE1Fck1zUDJHNnNWTlN4Q2JCdndrSUZKNHlpb1ZQdw?oc=5",
-          "published_iso": "2026-04-22T18:11:24Z"
-        },
-        {
-          "title": "Battery Park City residents fight mature tree removals",
-          "source": "ABC7 New York",
-          "why_it_matters": "Loss of hundreds of trees would reshape neighborhood green space, shade, and quality of life.",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnBkemFiMGxPcmpVcnlwOEhSUmxPRUtKNmJwTjRLNXdKcm44WklyZl9BU3hhYXBpYjdSWTQ2d1dwM0x4R21UeWlUTURKNmo1b3pVV1ZFcEU5U2JqM2xocjY4MWRRZ3V4TnJwQU9QMVd5MjN5NU1oU2FkdUFsZnY1UlpJbFZJVXJMVlVrdVJmbjk3ek1tRVFGcmplQWROd2wzQWowczJpV2MwUdIBrwFBVV95cUxPTEUwOVpoZk1VdnhQTEdtRTF2RzJRTG1ULU0yUkhycm1MeUFYZGJoR05HczNtTHhJU0VwX1pFQTc5TTBUaWtuYk9zbGFTLVFmaG82ZjRZN3hDTlZDWlZ2X1gxQ2JFa3BXT0dMV1liUzlBZXNSTWZFTE0tXzJNMkhoSVVuQ3h1aWIwOUJVZ0xfSDVMWFBUbUctV2ViZzIyc0FDbUVxQWRFcF9oTXhjU3lN?oc=5",
-          "published_iso": "2026-04-22T22:59:44Z"
-        },
-        {
           "title": "Queens casino opens next week",
           "source": "Time Out Worldwide",
-          "why_it_matters": "The city's first full-scale casino could affect jobs, traffic, tourism, and nearby businesses in Queens.",
+          "why_it_matters": "The city’s first full-scale casino could affect jobs, traffic, tourism, and nearby businesses in Queens.",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaUZDb1NDLTRjS3p4YmRyMWZZTzFvcUVCa1VXVS05XzhBM1o3cW5NNmVkMW1kTW9SMENmVkpfSHpoLTRPM1pKOXBlV0RrS1pGZ3d1WkxQOU5TZWFiaDB2TXBKT3VQdDJFRmpxMmd6NHJPUWpQYnV6NkFGeHRERFVCUTR5am91am5rUGhaWVU0eHV0WnZKQzhvWllaSklwZWxaX3JEaTlVNVJoRFpSSFFmX1A0XzBHVHJf?oc=5",
           "published_iso": "2026-04-22T21:13:03Z"
         },
         {
-          "title": "NYC trash bins are selling out at Home Depot",
-          "source": "SILive.com",
-          "why_it_matters": "Bin shortages could complicate compliance with city trash rules for households across the five boroughs.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckZacE4yNlBTRE5aaTZ0bjZpb0U3UExMTnE3WmRQc010N1hZN0tKc0pySVF4SFRVT2NyZzF5d0hDSFM1dFpMQm9qcHRiNUNBbG5HRHFuVWlxdlFKYU9Bck9vTEtJbDZhSzdTbkNuY3pjSUgySDJGWWVndE5ITml3ZkdPLXRiRTdkbFpJNzFYdS1peHk5MnZQV3hWTTQ1amh2UzE3M0RfaGx5YmVqdlHSAcIBQVVfeXFMTWRva3Y3eHMxbzNhSGxtWTJTODlLaUJKakFkcGctYXJEQnFBSEI1a0ZFMUpUbU5SODJxRnUzczVHZi04aFk2a3VOUnFweFBnMkVRa1hFSEwwS2d5MEM0UjdmY2lSYTdLbWFtc0ZkbE1GOThSVnktN19SS0tKZHMzdmJHSUdGNDIyaWNncDN0TTNRbWhRRy1mNVQ3Tk9wNkRTRzloT0p2a1U0Sm5wUEpMaWJjYUdCSVFnZTk2RmVqLWNtY1E?oc=5",
-          "published_iso": "2026-04-22T18:42:00Z"
-        },
-        {
-          "title": "Shakespeare in the Park tickets will get easier to obtain",
+          "title": "Shakespeare in the Park tickets get easier to obtain",
           "source": "Time Out Worldwide",
-          "why_it_matters": "A simpler ticket process improves access to one of the city's most popular free cultural events.",
+          "why_it_matters": "Simpler ticket access expands affordable summer theater options for New Yorkers across the city.",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYjVOZm1FMHAwd1J5dE1aMVdzVmE1MWd4aFBqWFJuN1p1NEdCZkdBMHZpMlFMa09tc1NaaWU1cDExeFFQSmkwUTVKZUl1cmcxcjNtSlV1QTQ1NXdMLVNjRC1rd1NwajlzNzVOQ194Z1JVdHFPSEQ0YnJKQXFYNl9PM3lTSlR2dzBFM3FIZmdBSkV2OE53UmpWTDBqWUNuYm0ybzViTjdrOTJEMmJLYVJ1ZWR3?oc=5",
           "published_iso": "2026-04-22T21:15:52Z"
+        },
+        {
+          "title": "Lower Manhattan opens new Central and Eastern Europe arts center",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "The new venue adds cultural programming and community space in Lower Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjNsWTRtX2VnTnJ5YWJ0R1NSbWk1bEFLS3cyX0dSSWZRRG9FN0o3eWJ5WU5lMTYzWW5Eb0JDcjhOSVA2SzNFbl9BYnZhY1E5dW1zYkJRcjhUcUU2TmFiaXFfQzd3MmVUS1NHY1h2LUpHZTlKbXhvYUwwWUFkUUdYdjJpT1dUZHo5dVJYbFVMeW9PeEMzWWdIbWg3QktlRXJzUV9IcUJ3UUhnRjhRRWFvSHUtbnRNQmRDejA4Yw?oc=5",
+          "published_iso": "2026-04-24T01:45:19Z"
+        },
+        {
+          "title": "Bronx groups honored at mayoral service recognition ceremony",
+          "source": "Bronx Times",
+          "why_it_matters": "Recognition can boost visibility and support for Bronx nonprofits serving local residents.",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONE1WLXdFaFYwZ3hmaVhBLVRoZzNnQzFnT3lmMXlDaTlnN0R4c3BBLUJzTlF4RmNyM2o4S2JmOUtHdU1oNEpKMldKUHRMNHQzczhzV1NGVksxZHVGNG9PZkw4MHpQUDFsNGhtODFjcWw1WDdRWjRJSTk2eldRcllSMlZHd19IM2ZE?oc=5",
+          "published_iso": "2026-04-23T19:32:06Z"
+        },
+        {
+          "title": "Van Cortlandt Village faces renewed gentrification debate",
+          "source": "New York Amsterdam News",
+          "why_it_matters": "Neighborhood change in the Bronx could influence housing costs, development, and longtime residents’ stability.",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSXBSczU5RnJIc2F2QzBUYTBQQTg4amRNTEJ2R3RDcl9qeUJudGFLc090cVZVMkpnLVRRalRva1FBdzQ1WUpDZHhJX1U0enhDVXc4YWtlTnV2VXJKUG5Qd2lpRlNsTUktZUJWWHh1ZVRkbW05SHlWcHRHZDJrRHZpYWMxSmptQzA5c2o0cjd0ZER2Zw?oc=5",
+          "published_iso": "2026-04-23T04:00:00Z"
         }
       ]
     }
