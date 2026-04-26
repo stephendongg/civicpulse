@@ -1,56 +1,76 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-25T11:42:43Z",
-  "daily_fact": "New York City’s film industry is showing resilience in 2026, according to Crain’s New York Business, offering an encouraging sign for the city’s creative economy.",
-  "topline_md": "New York City’s biggest cross-cutting developments center on housing and governance: Speaker Menin proposed small-lot reforms that could unlock up to 35,000 homes, while voucher funding shortfalls and CityFHEPS protests underscored mounting affordability strain amid broader fights over immigration enforcement and state-federal funding.",
+  "generated_at_utc": "2026-04-26T11:43:45Z",
+  "daily_fact": "A New York City bar was named the best in North America, giving the city another standout cultural accolade in 2026.",
+  "topline_md": "New York faces compounding transit and housing strains as Amtrak cuts NYC-Boston service, federal officials withhold state transportation funds amid a lawsuit, and housing pressures intensify with voucher money running out and new proposals to spur development. Meanwhile, Penn Station’s sweeping redesign and ICE’s push for a New Jersey detention site for NYC cases signal major regional policy fights.",
   "order": [
+    "risks_alerts",
     "civics_politics",
     "opportunities_welfare",
     "community"
   ],
   "sections": {
+    "risks_alerts": {
+      "title": "Risks & Alerts",
+      "items": [
+        {
+          "title": "Amtrak service limited between New York and Boston",
+          "source": "FOX 5 New York",
+          "why_it_matters": "Rail disruptions can delay weekend travel and commuting between New York City and major Northeast destinations.",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEpmN0VYU1k2RWJ0Zi1KUGZuclpBY2VGUmN5VHE3X2RfdUJ5Nkk3TThNRWhiTm5meFlqa0V6aE5EQTZJdHlmQzZoZDA5dUwtNnFKcGplVURhZUpRZ0dFMTU4Qzh1TGdOVWFsZFpVYlpvNXF6bEdBSVhKbFBoS3pBcHdLVFA0UXBQNnRCWVJ5S3ZqWm9SNXZqWWF1ZE9ScnVFNXFvNNIBqgFBVV95cUxQdl9UeVJCZ3pLbUZtczhaT2k5eThPelI2dG5rN2JjQVd3TDc0WW5aNFR4UXJfMjdmbkxYX2poU29IQnhxSDJTcVBUWVBNWDJScUg4dFpNTTZ4MXllU3U3T0Z2a1ExQ3Q5Z2djLWZmVDJEU1IwbGxrd3cxT1VtNW82YmJPNWJwbEExTGl0SFB3alNKaWMyMi1yX3V6SXJNQV9WQXhSLXVuVEtkQQ?oc=5",
+          "published_iso": "2026-04-25T13:43:34Z"
+        }
+      ]
+    },
     "civics_politics": {
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "NY sues Trump administration over blocked immigrant CDL funds",
-          "source": "New York Daily News",
-          "why_it_matters": "The lawsuit could affect state transportation funding and immigrant access to commercial driving jobs.",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUXp1Q0dUUDY3a1VlQVR3enczZkYybnJnSzd5NGpoeVA0REd0WE9KRXY2ZXdnSkkxcmZ1dy1JcFdaa0F3ZVozeXpYbXZnUHppODNYWmtybDFCT1FqbWE3X084bk5XalAydFBDSEgyblZYaWdsY0EyY29JWlJFNHZjRTk2SjRVOHlWV3FJZnk3ZXptY2I5Sm5BVTRLdzZLWlBPaDR0cmVGMExzN0xKNXlNR0NBMVR2UEhJN2NISDdsWktfWDNTSUVRU1kwUG8?oc=5",
-          "published_iso": "2026-04-24T20:51:23Z"
-        },
-        {
-          "title": "Council speaker proposes small-lot housing reforms citywide",
-          "source": "New York City Council (.gov)",
-          "why_it_matters": "The plan could expand housing supply by up to 35,000 units across New York City.",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGMU9tYTZxaVJuaE40N2ZZdmJ4VzRqS0docTZRUTJvX2QtWjlzX3htSXhEU0JtTnVRWHVicHBZa21fSUdPUnJNSEVvazZoUDJQV3RvQTN6UkROUQ?oc=5",
-          "published_iso": "2026-04-24T17:37:35Z"
-        },
-        {
-          "title": "Federal attorneys push NJ ICE site for NYC cases",
+          "title": "New York sues over withheld federal transportation funds",
           "source": "Gothamist",
-          "why_it_matters": "A new detention site nearby could reshape how immigrants from New York are held and processed.",
+          "why_it_matters": "Blocked transit money could delay repairs and projects riders depend on across the city.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMDNTTEF4dnZ4eTlkT1ZvbWdiVm5xVXB0dU9QNDlLalJnRzY4d3VHMnB2V1VPV0tYTE5tVjloTDEteDRocVZabVdfUDdNODVlR1JTR2xIS0Y5N084UGNvNnI5aGZCVXVpZGNRU0lZMElOazNQbkRaUlZWVGliS2N1a3BEcmY4OEV1RElqVkFVRFpLQzc2WlNjcVdqcjk0cVpObUFsMEs1SUFZVnVwN3RMbVBR?oc=5",
+          "published_iso": "2026-04-25T17:20:00Z"
+        },
+        {
+          "title": "Penn Station redesign could reshape Midtown and MSG",
+          "source": "New York Daily News",
+          "why_it_matters": "The plan could affect commuting, neighborhood development, and Madison Square Garden’s future.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVNIbUdqemlxa2U0djRIM1MtNkRtVUVQdGJ3WXh0Ql9TX0duMTRlbnJ5dHFjQWJJcWZ6RzFsV210N3JhMWhhS182TmZBQk96Z2ZaenFXeGxJblUwYy1mdjhLRHBSMTZ5WXFHalRkc2R6OUtrSWhaLUlBcV9mbllxN2JkRWtlZXh6THlmTTdRWHVjc1JsaTJ4Y1FmRnRJbGZLbGZrazdUTjFYcDQ?oc=5",
+          "published_iso": "2026-04-25T21:35:54Z"
+        },
+        {
+          "title": "Council proposal would ease housing rules on small lots",
+          "source": "New York Daily News",
+          "why_it_matters": "Looser zoning could add homes in low-rise neighborhoods and modestly expand housing supply.",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmdEYmxqczhDcnd0MnlwSWNybTVYM21Wd0otY0Utd1paSENhYk1OVlRrdHYxVWgtZGhRTXp1ejNWc0pJVGZ2S1JhNHN3VDQ2ak93X05UdTZ6WDNjbkRtcFdwQUlVZkRJSzBueGdnVWswbDlydVYtSTF6XzRHU2wxZ3duYnZUZkVaTWM0Y1NpX2FJU0JfTzVuOVpOekRPR0R4Q0xTYU5Kd2N3bVpjQS1LU2ttNnpUT21KZ1FjVUdEbmpqeVRFdmE1aDRB?oc=5",
+          "published_iso": "2026-04-24T17:30:33Z"
+        },
+        {
+          "title": "City launches Office of Deed Theft Prevention",
+          "source": "New York Daily News",
+          "why_it_matters": "The new office aims to protect homeowners, especially seniors, from losing property to fraud.",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV3N3UXBnWUZGX2lNVFotcWxTLVo0bUYzVWJmeXUxNVRsb3ZkRWVTbVdzS1ZFUTFaU0YxdUhTdkJXaVFPQTAxWDc4c0t6cHo4dlgwSnQwd2lpZXd0RDEwbUlNNXc1Sjd0MklRNmE0c29FaFlXWDBFSG96SWsxeUZfd3Z5TVNyYXNGdkN2UUdFOA?oc=5",
+          "published_iso": "2026-04-24T21:18:53Z"
+        },
+        {
+          "title": "City eases health checks to expand child care",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "Reducing regulatory hurdles could open more child care slots for working families.",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWHJyTTFtMFZVQ2F0Y1BwYUNjdTE0MU85aDZoNmE0RHhVTXhzSmJ2VDhhSF9RbTNYNWJ5cWRYemhGSzNKTFVTc1A0VlpQZlpRa29TOGZIZVdBQmVfbm1TTXdRa3J1ZWo3NURyaGVtLUxNYU9Vd3RodGhwUVRfNXN4SHM1enNLM2dGUDJmY0FaVQ?oc=5",
+          "published_iso": "2026-04-24T21:08:57Z"
+        },
+        {
+          "title": "ICE says New Jersey detention site needed for NYC cases",
+          "source": "Gothamist",
+          "why_it_matters": "Expanded detention capacity could affect immigrants facing proceedings tied to New York City.",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXzEtYV82QmRDa09aNTlTMDYxTzVOZTlfZXdfenpJSzE5Nmc2OVBySkEwV21OQVRydnFCOE55amtaMDVqbzlsVlBjRVpGdzRlbzZhdGlhcDJDcU5yUW5fZXdHcmZ0a3BJV20ydXhZNU1hMHU4SXZhanRkUGFMNVlpNy1oVUFXRTgwM0tYS1VESThWcGtmYzA4azhEWkx3Wk1kQm81eFAxeXF0ZkU?oc=5",
           "published_iso": "2026-04-24T20:36:00Z"
         },
         {
-          "title": "Mamdani announces deed theft prevention office",
-          "source": "Gothamist",
-          "why_it_matters": "The office could help protect homeowners from fraudulent property transfers and housing loss.",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX0x5M1dkNWx5RmlqSGttZ2tGMDFQSkZLX2FFaFZPd2hiQTJfTmFBOHdpQUNPVXUtN2N3NkJ3QXdEcW15ck9BTFRwUGViOXNzdUJCejJVcF9xSHlQZUdZbU44WEkySTh1Qm1nZEdHLUtTOGE0c001c0N6THZrcm5CcTNvR3NuNEZpX0F6SzJtXzhhUHZWVWJjb3hXeTQwRUw5Z1dHQld3YVhkTzAwWks0?oc=5",
-          "published_iso": "2026-04-25T02:54:00Z"
-        },
-        {
-          "title": "MTA advances IBX outreach for Brooklyn-Queens light rail",
-          "source": "amNewYork",
-          "why_it_matters": "The project could significantly change transit access, commutes, and development in outer-borough neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBkMkY1R3g1bEtpNTdXNXpOVTltZ3BOMXZDRl9UX3dzVFdFc2stTm41bTRBbmQwVGZiYnBoVndoc1VBLVMtVTNYVXFGQmJCaWg5aVY2S2txZjJBaE1HSllSV0VYcGdvakxFZU5LYlBCaV9qdy1rcERxellHbDdMdw?oc=5",
-          "published_iso": "2026-04-23T16:30:48Z"
-        },
-        {
-          "title": "Businesses resist NYC security gate replacement law",
+          "title": "Businesses resist new ban on roll-down security gates",
           "source": "SILive.com",
-          "why_it_matters": "Pushback could delay a city safety and streetscape law affecting storefronts across neighborhoods.",
+          "why_it_matters": "Compliance costs and storefront changes could affect small businesses and street safety debates.",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQnV3Z3F6dzlaeV9DQ0I1bjMyUVBaUm53ckNmY05aWndEZUFxRW5XNFJpMWJlY3hTWndSREpET3hCVlZZb1dYY0tubWxzNUMxVk9ZaGptMTZRc1Bsd1h0U01kNEFSb0dUSUlFSnpXX0tDdVVDd0tfLTFyZWEybVNjTEVFYWN2VklMLTk4b2Jqa3hYYWIzLUJVMkRVTllhUmhGQVdTaHZvYU5mSFlmeWc3ZnMza3VsTkx3OFRfUU5EbGI3VFgzMHNmWUo1bjdyUkcyZUxJX3JaYjFSWEtuTWfSAfIBQVVfeXFMTUlKWjVOOEFkdTdKVGk2UkRZcUtTVWM2Nm1LeUd1VzlOSU1iXzgtY29fNTJaM3NXM3p4NTI2NHpGeFhpaXMyTzljSDZlMlh6NFh2TFVHVEdWaGJqZmFkZC1ZblpwR3ByV3VFRV9wUU9mdjJmRDVSeEpNYmo0RXc3RXl0NzZ0WlBBSWwzQmlXMXNJWWRFNm11dTVUUGpvaTBhVXQ3c2FxdTRvQ0ZEM0lZQ0pScVA1bVNRNjVQUEo0MzZ0QmRidVNBWlVWZ1dZRGlJQk1zVTNSUkFYTC1NMDJkckt5MnlYamRGSmFOX2I3RDdtMVE?oc=5",
           "published_iso": "2026-04-24T18:26:00Z"
         }
@@ -60,25 +80,11 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Voucher funding shortfall threatens housing aid for thousands",
+          "title": "NYC housing voucher funds running out years early",
           "source": "ABC7 New York",
-          "why_it_matters": "Thousands of New Yorkers could lose rental assistance years early, risking eviction and homelessness.",
+          "why_it_matters": "Thousands of New Yorkers could lose rental assistance, putting more households at risk of eviction and homelessness.",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVmVvTExZczJMdjJDSVZGbGhKTTlBeEtzNzZLVHV4dXVNcWp5MFJyYlJvY1duLTJzekswV1g2UmE4bmlDQWxFRWxYNXFGNTJtblRJR0V2eWdyZDZRTVVRa1lfNDZUdmJhekIxU2tOZEVwMXIwRFdSNk10UWdpU2Vabk9WU01DSHVFNTNZX0NxVkd0RE9zV05BN2x3OUNyR2JYVVRzV05wY0ZyNHhvMGxzbTBoTm9mTk9rODNyei1xdWLSAcYBQVVfeXFMT1dRU1NnYWw5cGMwalRVeWVFMTFDQm1felJoU1E0TXB3bTZncUdyc3pEb2ZNeEd6U01KblJrdWl5WU95NkJoRW9XbFFxNVFDVDdWMVhxb1pWOHJQV0tGSFo5cEFBTUNpb2szV3NXQTZEaEt5dFU1c1ROZEV4aWdOZVhYWmFxcUxRT1JaOXZoMkprNDJfM3VFZGZuMU5GZVVQaDliX2c1b2lYMkhJa1RyUy1aSlk1ekxmdThsanBMLTI2MU9DcUdR?oc=5",
           "published_iso": "2026-04-24T09:49:42Z"
-        },
-        {
-          "title": "State says it recovered $237.7 million for New Yorkers",
-          "source": "Governor Kathy Hochul (.gov)",
-          "why_it_matters": "Recovered funds can return money to residents harmed by scams, wage theft, and other violations.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUJNSVdpWnpZbmtTb3RzTHFodGdRY09mT3lYWVRRWWlPcGw3clRMVVBISFlBQ2dITlRNdWVZc2Yyd3ZxOGNHSlpPMEM3YllHbWhCMTl3b2dmZGoweTRpT1NCbW5hYk10aHBQcllpcmZpeWNMeTlVbnprRXQ3eGI5MEpOV3Z4LV9QQ2ZyTnhmdmFWV3YyYTYtZGdldThELVI2aU5SUk9sQzNZc2xVME03dFJnRXQxVF9HRjRJ?oc=5",
-          "published_iso": "2026-04-23T20:56:40Z"
-        },
-        {
-          "title": "Bronx housing lottery opens at 1435 East Gun Hill Road",
-          "source": "New York YIMBY",
-          "why_it_matters": "The lottery offers a new chance for eligible Bronx residents to secure below-market housing.",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRtb183b19DeFlVdl9UYi1Za29TZGZhMEE1cC13WUNpWFhwUkFrTzNwekhyeGo4aHhxdFRscVpSNGtFQ3Izdkh6Si1yOUd5OHFYMUxrQW1GcU1TMmpFVV8zUERmZVFRNkRKN3B5WTgwVjhwY1o3N1dwYjJCNktZZG5sbkp5NW9PcWlBVUNaMjZkUnhoWFhGb0tVNDJ6SjdnZ0t4OTdkUmRZRzhES09DN2VuVGE?oc=5",
-          "published_iso": "2026-04-23T10:30:29Z"
         }
       ]
     },
@@ -86,37 +92,44 @@
       "title": "Community",
       "items": [
         {
-          "title": "Street closures set for Car Free Earth Day weekend",
+          "title": "Bronx fire displaces 20 after two East Tremont homes burn",
           "source": "ABC7 New York",
-          "why_it_matters": "Drivers, bus riders, cyclists and pedestrians should plan around temporary street closures across the city.",
+          "why_it_matters": "The fire forced dozens from their homes and highlights urgent housing and safety needs in the Bronx.",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQm9jTUFjYnltM3dSME5sQVJmYmxhbEdKSHRCYTZMdU04WTRRTVFKNjlYSVpBaWN5VVBGbTZHRDVqX3VBU1pRTV93ZTdfb3pza216amJzMDlNMWZFa21rTXRXYTlLcm1DNDFSalBGMnJvdnRHX3N5d2taX3Q4eXhvbVh6SEl0Zjc4OXdwcFZyQ3lHQm_SAZgBQVVfeXFMT1I3UmxQemNxYy1qMVhFS2FQbjhiU0JvakczVzhIY1B0TnJpSm1TVVFQSXVRXzM4VklZemxUMGszSUg1dExaU2xORkU5TjEwQ1cwQXEycGIyaC1BcUY1SGZQaWhrQ0ttT3ZheEdUU3ZNc01fYnl2Z2ZPb19UQU9laUladXpMQUZlLXJBOXBzQmVrRnV6bW1UWVM?oc=5",
+          "published_iso": "2026-04-24T08:48:02Z"
+        },
+        {
+          "title": "Car Free Earth Day brings weekend street closures across NYC",
+          "source": "ABC7 New York",
+          "why_it_matters": "Drivers, bus riders, cyclists and pedestrians should expect route changes and crowded open streets this weekend.",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaVYwWFFadDVyQTIzQS1BbEowY2E5bkJVYjR5MHZkNC1QQWhWdlpkWlQzaTY3WC1ySFFSYlBSdk5QcUc4STluTnRReE1Rb1VWTzJEcW1aZGlvcHVDMG5vUDJYeVVkb3pWZWdRRUZDbEZ4UXd4Sm9Mc2cyaEJXOWVHM0RfQWZoZFM1Y184aWd30gGTAUFVX3lxTE1jVVVwVTh4Q2E1UTQybG1FYmZwRncwd2ZxQXk2YlpvUzFGX3FQTVRQcXM1S2ZyMS1tTHNXWTdtRnN0WUNJdmtrWGtTTEFjbVlFOXYteVNDbjZSZTF2S3FFaEd1dGZjRzZfanhLUFVDUTZhLUM0UEdZRkQ3VmVmcHg2anNNWDhTMDJuSXhXcFVpZzVhSQ?oc=5",
           "published_iso": "2026-04-23T20:16:13Z"
         },
         {
-          "title": "FDNY urges residents to close doors after Bronx fire",
+          "title": "NYC unveils tree plan to expand shade citywide",
+          "source": "Gothamist",
+          "why_it_matters": "More tree cover could reduce heat risks, improve air quality and reshape neighborhood streets and parks.",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckVXTFBxbTB4RGtqbHJmVGlxRHFWb1ZEYzN3b1FycEFsSEpBdEplM1hGVmI4ZzJ1QkQ1OXZjamdHWG1tOWVvWEtNV3ZMdDctVTY4OFVGNEJOY1VtZ1VLVnlXc1FDd05JSG5kdWVDak1DZ0d0OGxsdTlqdFhZSEJ5UVBjUnlUSUE?oc=5",
+          "published_iso": "2026-04-25T12:01:00Z"
+        },
+        {
+          "title": "FDNY urges residents to close doors after Bronx fire deaths",
           "source": "NYC.gov",
-          "why_it_matters": "The safety reminder could help prevent smoke spread and save lives in future apartment fires.",
+          "why_it_matters": "The safety reminder could help prevent smoke spread and save lives in apartment fires citywide.",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbWFMYzJoTENJV1NwcklWUldic0JqZE55NGVJS19TbzIzYmJpelV5enVaSlpKeHRoREdnQ0hRM3hTTjZKNDBkTlBfNWhIY2VLdTdSMzJndlNZNENqY3hxV0Y2YnRWTDlnWWVZTVNxelN0ZHB5VDFSdzNxOFFaZUE1VjZTd2JxVW8wcnFvajdFNG1MM1ZYVUNVUDZPcVdoM3NXYVFTX3hXTDMwZEFhWFVvYTJGZnFxRzlCMmZ1NjRaQXV6dw?oc=5",
           "published_iso": "2026-04-24T17:05:17Z"
         },
         {
           "title": "Bronx teachers open free bodega libraries to boost literacy",
           "source": "New York Post",
-          "why_it_matters": "The effort expands neighborhood access to books for children and families in the Bronx.",
+          "why_it_matters": "The effort expands book access for children and families in neighborhoods with fewer educational resources.",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNejNhVFU5dWFPdDRkdXVhMHlvcF9zSDMwNko3QUdjb2EtMlJOWEM3MEhtc015aFNPUllKRWt0QnFUcDdOSHpNcnJKbHdRZllDNDh1dUxUbXdsVGNGSWJ4U3hJVkphQVNQREJZbGtIZ0g3TGVzZmlqcTZjZkNrandCR21zUUdrZk5nMW8tSy1EUU94aktFYXpzdTVQWXJKNmcyZUdDNVhHZnFheHFVRHk0VnNfUU0?oc=5",
           "published_iso": "2026-04-23T21:42:00Z"
         },
         {
-          "title": "Bronx Earth Day cleanups launch across District 79",
-          "source": "Bronx Times",
-          "why_it_matters": "Residents can expect cleaner streets and opportunities to join neighborhood beautification efforts.",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2ckZFYnRvV21hU3RfZy15NUNraFRXbkw5QmhPbXJHb0c3S01fem4tY3l2QWR1WE9EOVNRcnBiM2tKZU1vc2xfb0dfNW5QUnlPaGQ0NzVGQURwbEZYejE1T1VwWkN4V21jT2xpelRyakFNb3lWNG93?oc=5",
-          "published_iso": "2026-04-24T20:28:10Z"
-        },
-        {
           "title": "Bronx tenants get elevator restored after prolonged outage",
           "source": "ABC7 New York",
-          "why_it_matters": "The repair restores essential building access for residents, especially seniors and people with disabilities.",
+          "why_it_matters": "Reliable elevator service is essential for seniors, disabled residents and daily access in high-rise housing.",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNODIzY0NkTEZkZHE2WXZXRnRyeWFoSGx5WVNpS1VuV3ltbW8yZDVfTk8yMHhhbWV4T1BDd3hZYjNiTEE3UWFlalo5SUc4NS0tUjJkbXQ3ZGRNYVdFdkpzZHEwcDF1c3YwZS1CbGh5VXBuSGVwYkpycEw0aGF4NnNvVjluQWpzWUhGSnRIbWRSaXU5SnJOdUJFU3RpeVZRdGFWTnfSAacBQVVfeXFMT0U4YjVjWGRReDhUT0hFQ1R0ZFNYcnVacXczbVloZ1Y1eG8xYV81Qy13QUMybllxTzBjeTZoUEVHV0FLSGE4Z2Uza1cwVkpocVg1cGxFalZsOE0tb0lOOXlQSno4MlV5MURNb0w1aEtDYXFKemo3U3FzeWc1QkVOWlpINm9ZSXJibHFZcUVneDNVakI5Sjc0eWhKQlN5QXBDNkNweldGcjQ?oc=5",
           "published_iso": "2026-04-24T11:24:46Z"
         }
