@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-04-27T12:22:30Z",
-  "daily_fact": "Staten Island pizzeria Campania Coal Fired Pizza introduced a new spring sweet-salty slice while keeping its popular vodka pie on the menu, giving customers more seasonal options.",
-  "topline_md": "New York faces compounding transit and policy strain as Amtrak cuts NYC-Boston service, the Trump administration again withholds state transportation funds, and city leaders push competing agendas on housing, transit, and key 2026 congressional races.",
+  "generated_at_utc": "2026-04-28T12:26:51Z",
+  "daily_fact": "Permits were filed for a new development at 3142 Park Avenue in Melrose, the Bronx, signaling continued investment and growth in this New York City neighborhood.",
+  "topline_md": "New York City’s top updates span public safety and infrastructure strains—rubble fell from a building near DOB headquarters, a teen was critically shot on an A train, and multiple slashings and a fatal stabbing were reported—while Mamdani advanced a “drive less” transit agenda with a new bus czar amid scrutiny of his pension proposal.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,11 +14,18 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "Amtrak service limited between New York and Boston",
-          "source": "fox5ny.com",
-          "why_it_matters": "Rail disruptions can delay weekend travel and commuting on a major Northeast Corridor route.",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVEpmN0VYU1k2RWJ0Zi1KUGZuclpBY2VGUmN5VHE3X2RfdUJ5Nkk3TThNRWhiTm5meFlqa0V6aE5EQTZJdHlmQzZoZDA5dUwtNnFKcGplVURhZUpRZ0dFMTU4Qzh1TGdOVWFsZFpVYlpvNXF6bEdBSVhKbFBoS3pBcHdLVFA0UXBQNnRCWVJ5S3ZqWm9SNXZqWWF1ZE9ScnVFNXFvNNIBqgFBVV95cUxQdl9UeVJCZ3pLbUZtczhaT2k5eThPelI2dG5rN2JjQVd3TDc0WW5aNFR4UXJfMjdmbkxYX2poU29IQnhxSDJTcVBUWVBNWDJScUg4dFpNTTZ4MXllU3U3T0Z2a1ExQ3Q5Z2djLWZmVDJEU1IwbGxrd3cxT1VtNW82YmJPNWJwbEExTGl0SFB3alNKaWMyMi1yX3V6SXJNQV9WQXhSLXVuVEtkQQ?oc=5",
-          "published_iso": "2026-04-25T13:43:34Z"
+          "title": "Rubble falls from building near DOB headquarters",
+          "source": "Gothamist",
+          "why_it_matters": "Falling debris poses immediate pedestrian safety risks and may disrupt nearby streets in Lower Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRlQ3SDFmYl9mNE9Ba21oUk1td0xaN09odW9md2xiNjYxSi1URXlubHZSdnVKaWRFLVdYZVNXcGs1UTFWU1dUT2ZzazdCLXhOMk1ic1lRdEN1eGZoa3RzS1g2aktsUEFuOG5ZaXZuRllXOW4yMng3TmZ2ekJVTUdkNTNPV3ZQcW95UTEybDFLR0pTd3Q3LTRpcHRzTWw4eFdYVk5Ra2V3?oc=5",
+          "published_iso": "2026-04-27T23:56:00Z"
+        },
+        {
+          "title": "West Side YMCA temporarily closed after emergency",
+          "source": "West Side Rag",
+          "why_it_matters": "The closure affects neighborhood access to fitness, childcare, and community services on the Upper West Side.",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEhELVRQdTRBVlZ2anQzcWxjZ19PSXBUa1RPaU9YMXVUTmZlSjUtODBRRUMtVE5ydmF3QVJhTFhUUUx4QUhCLXhEdjJPZjlQc1h0ZC1IRXZzRU1WRGxuNnRJdkdZS2E3NllkNzZFdHd5SUtteTNIdjEwUHF2R091QWd6ZjJxVHVRanEwdEhpX3dtQ0dZSk9N?oc=5",
+          "published_iso": "2026-04-27T19:02:00Z"
         }
       ]
     },
@@ -26,39 +33,67 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "New York sues over withheld federal transportation funds",
-          "source": "Gothamist",
-          "why_it_matters": "Blocked transit money could delay repairs and projects affecting commutes, streets, and regional infrastructure.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMDNTTEF4dnZ4eTlkT1ZvbWdiVm5xVXB0dU9QNDlLalJnRzY4d3VHMnB2V1VPV0tYTE5tVjloTDEteDRocVZabVdfUDdNODVlR1JTR2xIS0Y5N084UGNvNnI5aGZCVXVpZGNRU0lZMElOazNQbkRaUlZWVGliS2N1a3BEcmY4OEV1RElqVkFVRFpLQzc2WlNjcVdqcjk0cVpObUFsMEs1SUFZVnVwN3RMbVBR?oc=5",
-          "published_iso": "2026-04-25T17:20:00Z"
+          "title": "Mamdani names ‘Fast and Free’ bus czar",
+          "source": "Streetsblog New York City",
+          "why_it_matters": "Bus speed and fare policy changes could affect commutes for millions of daily riders.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQek5feUQyazVhNzhiT2QyakF2R09hbTl0ZXdyeHhWZWRYSFpWNGlmT3ZCcnQ4QXJYeU04ZHVZNF9Jb0pRb3FDRHhwbGhQTXU2MHVHdF9yTWhhZTctWVBYUkRJSFVWVVo0dEJlN0xjYkRsOXNFNFgwSU85RjhlVm93Yk9IOGt0RGg2ekd4dzZnemo?oc=5",
+          "published_iso": "2026-04-27T20:23:00Z"
         },
         {
-          "title": "Council proposal targets 35,000 homes on small lots",
-          "source": "New York City Council (.gov)",
-          "why_it_matters": "Housing rule changes could expand supply citywide and affect affordability, development, and neighborhood growth.",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGMU9tYTZxaVJuaE40N2ZZdmJ4VzRqS0docTZRUTJvX2QtWjlzX3htSXhEU0JtTnVRWHVicHBZa21fSUdPUnJNSEVvazZoUDJQV3RvQTN6UkROUQ?oc=5",
-          "published_iso": "2026-04-24T17:37:35Z"
-        },
-        {
-          "title": "Mayor Mamdani outlines plan to reduce driving",
+          "title": "Mayor outlines plan to reduce driving in NYC",
           "source": "Newsday",
-          "why_it_matters": "Transit and street policy changes could reshape commuting costs, traffic, and neighborhood air quality.",
+          "why_it_matters": "Transportation policy shifts could change street use, transit access, and commuting costs citywide.",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53V1JWaEFkaE9JeVR0ZUxFRFJYS3VrYzV5ZV9uUW4zZGxyb3Z2OW1uV2E0X3hQd3JtZ1FSQ0UzVHRhdVRBY0h3LVRhcFFyR2h6Y205X09uMl9zODdqUkdKZnFHWG5fYmZWR0Z3MmdLSmNDd08tS0ZtUm1MOENqQQ?oc=5",
           "published_iso": "2026-04-26T09:01:42Z"
         },
         {
-          "title": "State chief judge highlights Family Court inequities",
-          "source": "The Imprint",
-          "why_it_matters": "Calls for reform could influence how city families experience custody, child welfare, and court access.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbzVJWVRRNXkyVTVOYVB1S1dVQjJncnppblBjQmhMakJmOV9JNDNJMFpQQ0xmdXVZYUZSNEVKRXVTTGQ2aXA1Q1psQzVOZ3QtZ1ZLdk8xaV81Z2dweWFvdmttdE9rM0t3Uks3OTgtZ3dJSEt0dXJGUVVKcm4wUEJSVDhqaHQ4a2ZjZEg2SVhSZDI1bm9Tc1VLM0JKYmFDdVB3VWc?oc=5",
-          "published_iso": "2026-04-27T09:04:17Z"
+          "title": "NYPD accused of stalling gang database reforms",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "Police database rules can affect surveillance, civil rights, and how communities are policed.",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaklWV1E3RW52RzBZVGpMa2dEZUdIMVJNNm14NWtBU083SjdzQU1kTzJGREQ1ZXRPWklSbmRKMVhkUHdwVkJ6cHVJbEhZdjFsajE2MjIwLUhWRVppZWljc0tCRTVrUTdOblIzbkY2UlJyVDU4allFZlpQSnpyV0ZzS3hLc0pKbkZONXVPUw?oc=5",
+          "published_iso": "2026-04-28T09:02:00Z"
         },
         {
-          "title": "Officer charged in Bronx subway station assault case",
+          "title": "New York joins fight to regulate prediction markets",
           "source": "Gothamist",
-          "why_it_matters": "The case raises accountability questions for policing in the transit system many New Yorkers use daily.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDE4Rm9ZWFpQd0Y2ai1uZjBBdXVQQ1BReVc2THhTUk1TTUhYeU9DU3JYRDRmaHRHVVZXMDJhazBQeWdIZko1TDcwa1FsMDdsdGJZMUIyY21WeUpSQ2RMclFYZG9JRnVtQXAxUkEyVGJ1T3RkTGZGOUNmYnBaanNDSHdEMEt1YXV0OVI0SGVTWjFSTEl6VW5RcVJORW1vVmM0SXc?oc=5",
-          "published_iso": "2026-04-25T17:20:00Z"
+          "why_it_matters": "State regulation could shape consumer protections and legal boundaries for online betting-like platforms.",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLTJ5UDlBR0gzdnlyUGxBZ2xPdHZ3eFB2bVFjSXdIYnFPZV9IajRFQmV6bkU5aXZiYnJmVFNyaUI3QlFqdjRiV09jNGQ2aDZZVjRKZ3FhVFQ4ZzQxSnNiWFJ6MWZwLWo0MkNWOW00dVlEbXA1eGVVS3cxOGFsSkhSS3JjOGtLMzJWaE0tTXJPUmJMcnYx?oc=5",
+          "published_iso": "2026-04-27T15:34:00Z"
+        },
+        {
+          "title": "Composting tickets hit record highs as participation lags",
+          "source": "Gothamist",
+          "why_it_matters": "More enforcement means households and buildings face growing fines for sanitation noncompliance.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ3YzM3FYVVNNQnNKclNsMndEVnFLamZlY1dwRFhORjROYnF6ZlA5UHRIekVjbTU5RTJ2c3BEX29rT0Jib3Q1V19Uc242VU1PX05qeWlpRVJiOFNXU19Eb3lSS3NadGk4X1hQSFdyTmRKZXpIQWpIeGtCaDBtc0pLUTY3M0tfWVFVb1lSdmMyV1Y3bW1KTS1wOG5JOEJVR1lyYm9NTlVfanlTRnM?oc=5",
+          "published_iso": "2026-04-27T12:01:00Z"
+        },
+        {
+          "title": "NYC sets penalties for missing trash bin deadline",
+          "source": "SILive.com",
+          "why_it_matters": "Residents and property owners may soon face fines for failing to meet new sanitation rules.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmhpb3ZKRlAzd2JrU2UtMUV1S1hSZmZEVm5qYjFpb3k1RmQ1VjE3d1FnUUlGRmdsWHJZSnVheVZJTmFhOXVmNkowUTVjWlZHQWExQ0Z1UVhDMmwtcy1SQkJ0M3BwMnZidnJXdm1EYVVKWTlTUnFIb1ZEZVg0STF2cXAwWWthdERycXc0dndYZUpOekh4MWFfbW5TVUlJNHVFbnV3U09aUkJla1pUdzFTMUEyR3DSAcgBQVVfeXFMUEZ1TWhmWXV1OGtLdWcxNGtDY1RfejhWdy1BblQtYXFmQUVxSWZxa2RzMzhoY281ZkZ5NWc5ckxiU1EtWjFNVFpzQkRMVFJ6NF84Nldkb1E5SkJ5azBNV0JFdmZSd2R2OXRYeWdXcUV2WFFKVUszN1QtMC1QWVhoNDNCVkxCcWNOeFU0YndiX050YXplRklXZnQ5Y0h2UVpKRi1TOXFkaTBpM3ljUExlYWlPaXBhRTl3ajI0OFlHTWNNcFRyRFBHV1g?oc=5",
+          "published_iso": "2026-04-27T19:23:00Z"
+        },
+        {
+          "title": "NYC plans massive urban forest initiative",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "Tree expansion could reduce heat risk, improve air quality, and reshape neighborhood public spaces.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekFFQi1XcHFVaW56ZVRRdzFScG43NEVBU3Y3YTlZWGxFME16eVBWTk5QMkNncDNnUldiZEw4enM1Y3c4OGZwU0JSRTJMbTAzd1FIU3N0ZDJ2WTZnNmpCdTE2SV9iN1pObC03d2Fpdmo3enRvb1RFTDVpOWUxMC1KeVJ5c3pHOHExeUlnbVNQNlJka2ZRWkpraTZVOXVUSkNzOFlMR2U3T1VhVHl6YkV1S0JtTnU?oc=5",
+          "published_iso": "2026-04-27T19:28:52Z"
+        },
+        {
+          "title": "Mamdani to make World Cup fan events free",
+          "source": "Brooklyn Eagle",
+          "why_it_matters": "Free city-sponsored events would expand access and reduce costs for residents during the 2026 tournament.",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOVlROWEtOVNJbVhRbmltUWdtMkQ5ZWRaVl9aUG5lTUVWbHpneGd4MUQtSEhlYkJ5T2xLcDJRWVVkaWJaU29jOUFFeTQtTXBvWVNfUUVHMklNTmpYTHZuR2JweDdHUUIwekFUWkxaM0ZlQV9CNGZLN3NxX3RfeGlLRzhyWkEtS1c2ZzVUNmpxeFdyeGZsWWpsY3JCbDBGWERPX0ZKcDRFRC1MX21VYjJmZjU5cEVmcDZfS3M5UE43emduSWxu?oc=5",
+          "published_iso": "2026-04-27T10:52:05Z"
+        },
+        {
+          "title": "Transit rolls out ‘European model’ bus fare enforcement",
+          "source": "amNewYork",
+          "why_it_matters": "New enforcement methods could change rider interactions, fare compliance, and bus boarding times.",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzclNKM1ZRZWFySEtpbTF6eFZpRi1fb1FjLXBGQjZHb1ZXT0kzZjJHNGtlb1N6b3dkYUVIc0RLcEotLVF4UzJmb1drZGNmWVppRDNXVkcxSnc0OGJaTkxBSGlwVDUwYy1pV0M3ZjVBLXFjUWQtTldxZnJR?oc=5",
+          "published_iso": "2026-04-27T19:35:47Z"
         }
       ]
     },
@@ -66,11 +101,25 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Counties Face SNAP Rule Rollout Chaos, Advocates Warn",
+          "title": "New SNAP rules cause confusion across New York counties",
           "source": "New York Focus",
-          "why_it_matters": "SNAP disruptions could delay or reduce food assistance for New Yorkers who rely on benefits.",
+          "why_it_matters": "Benefit disruptions or delays could directly affect food access for low-income New Yorkers.",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ER0ZEaW5jQ0owaGN4SVpQT05paFhjbk1OZjV2c3JBdEgzZTdRWmQ3SFIxZThBYUhlMkZGRVBmTEVSZF9OZER1cTdWQkNZaVlES29PVU5OZklqVVR6LTBXVzBmTWplWXl0TWgteDhwNA?oc=5",
           "published_iso": "2026-04-27T09:00:00Z"
+        },
+        {
+          "title": "Partnership helps NYC graduates navigate a brutal job market",
+          "source": "New York Daily News",
+          "why_it_matters": "New graduates facing scarce openings may gain practical support connecting education to employment.",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNmUybG9DWnU2cExINkhUWnYzNV9OMXQ1NHMzMGZUNXJJTmVTMWdoZTYwX043bXJnajJaNTltSU5sTHczTmpsRXpBdEJCczN0R2xmeXg1dzk3V2lzcmVnUnpKNms4R1lQRDctcUV2VHVVQVN0TVNqaGtBZGlNTi1SWEdacktRcmJxRGZ3aE0zSjlfYk1feDZ2aFMyem1UYjc2T2I5ZFJyUDZGZXNkdi15MTUyX1lUdTUwSXZDQWhkY0FhTjQ1NVhfRA?oc=5",
+          "published_iso": "2026-04-26T10:00:54Z"
+        },
+        {
+          "title": "West African New Yorkers get deportation help from asylum winner",
+          "source": "New York Focus",
+          "why_it_matters": "Immigrants facing removal may find culturally informed legal guidance and community support.",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcG1QOGNxcE9VVVdSUFUxZUxGSmdKbXloVHFZV3Brc2RaM0FEMlBPalg2RkhvaTJ4bENHNnMxREROWlFYUGVZQUNmNkpibEpnNkZhNXFqQlk4ZkxhT1phc2ZMSmV2Q0QxLWg3MHVRaVNERHFqbnRLQzNMQlNxV2NoWk9VM096S2c?oc=5",
+          "published_iso": "2026-04-28T09:00:00Z"
         }
       ]
     },
@@ -78,25 +127,32 @@
       "title": "Community",
       "items": [
         {
-          "title": "Hot Sauce Expo returns to Brooklyn this weekend",
-          "source": "Gothamist",
-          "why_it_matters": "The popular festival brings crowds, local business activity, and weekend event options to Brooklyn residents.",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmxHakRndURybHAzZjh4dEhTb01HNFNGdFJ1aEU2eVRiN0JBSUZaTGZmMV9fUG5CclUtZGRkTkk4N21TWVU4aEpJaE1ZcW1MZ0VmcmJieGVNOGpuam01UGxIUmhWZVFxamI0YmtHaEpGVHZrOEM0c2ZBeGZ3cU9ZRmpLdUZobVlUcVBOdHYxRQ?oc=5",
-          "published_iso": "2026-04-24T19:09:03Z"
+          "title": "Bike Tour Sunday will close streets across all five boroughs",
+          "source": "SILive.com",
+          "why_it_matters": "Major route closures and transit changes will affect weekend travel citywide.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHEzWUlPUWMzWnpOV052eTBHZ0RZUTdhRkgtUWQ3VC1zZ0twUzFiSU5aeVExamw3VTNvMXhiN0p5TXYzN25QMWd5WHFKMXJ1U1lvYVdfdjJRZmVkMEZxU1BuR1o0aU82a2pnV1dpMjhmQnd1blZfUEFPM29sQTVwbEFheE9CeWhRekhTTVJ6LWxWeFV1YkFhZnk0S2JyRUN0MEJkUGgweG5CSUtSYXdIMkFHZHlXYW_SAcsBQVVfeXFMTTEyT2NFaTIxUkpuTzd6ekFMcmppYmxvWHJ0d3RQQXpOTV94LVBtVlZIYU1NVmFaTjBTeUFYSnJuay1MVVJ0VlRiWWJiV2I2RWlzaGNVMDJtakZxQVd2dXlYaDlRVzdBcjNtUGpjYlVQa1BVT1pMbmRwYnRFMnlVMEN5VnE1aExFRGVnOElKa2w3SGVYVkhiR0JvUWd1bWpIY2FBREFqbEdhTnVDSFZuZXZ0eHIyT2xoQWhGZThqR2N5MmQwSVJPakZqU0U?oc=5",
+          "published_iso": "2026-04-27T15:16:00Z"
         },
         {
-          "title": "Pop-up exhibit shows NYC as it looked 400 years ago",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "The exhibit offers residents a unique, educational community event centered on the city's early history.",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWWpIb21JdzNCaTF6ZlhmUXJlQ1hwS2k5MjJqcUU5MVFiQ0FHWnk1NnNTU09zdnJvZmpJTlBVYmdRY25hdTg0MWhqc0thejQyUVlwbm9XWHpUQ2pvYkVITURfNzYxOFVrbGNhSWNBUjQ3X2FCZEhmNnJWV0Y2ZVNpQU5lN1Q3bXhXSFdiSGpOcWhLT001eXFwVC1xNng1RXQxZXFiWWNfS2tuU2lMMk5wZ2tsTDg?oc=5",
-          "published_iso": "2026-04-25T00:28:17Z"
+          "title": "Staten Island Expressway crash causes Tuesday morning delays",
+          "source": "SILive.com",
+          "why_it_matters": "Commuters on Staten Island faced immediate traffic disruptions during the morning rush.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWdXU0FONjlGaHJ4UktEZi1DVk15eWItc2NiOGdXQUd3dUpXempCWWw3QjNqVHNJZHJvNnk2UjFWbTUtZ3c3dGc4UWFxalFSVFJCQkNEakd0UWk0VHM2RFNFQ0JQNTRtRFRwdHlUTWplMkJ3MFg3ZXpGMmROYm84N09MdjBrUDBRdlZTSUR2MkVLRXVhRXd3RlByclM5dnFPajRvSlBWX1F2N2NMczhxQjBn0gHGAUFVX3lxTE9PYTFvM3BpNkxHR0tYTTBUZU5GaFB5a3Z2ZVJKSGVRQ0hiTW5IN2x5NW51cjZ5SGdCbnMwRUxab2hFREJuODBkU0VudnJTUGdmTWR5cC1kTG4zVzZPM09yNnF2b2xlMlM0OGtaMWN0WEd3WXh2NFJDSkp0dDkwbWU2NmpKVE1VWFEzbFZSRXkwUU1tNmIwdk81UVJrdU8xSEdsUWVaTGl1bC1qY0ZxUUVvLWNZN0tXa0lFYVJUWGVJdHp4OTZMZw?oc=5",
+          "published_iso": "2026-04-28T10:21:00Z"
         },
         {
-          "title": "MTA hosts autism-friendly hands-on event at Grand Central",
+          "title": "G train riders brace for another difficult summer",
+          "source": "New York Post",
+          "why_it_matters": "Potential recurring service problems could disrupt commutes for Brooklyn and Queens subway riders.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMVFGQmN4V3NFVjE2WXgxa1FxZVJzT29JTGJ3UFBoekUtcnZNUDRRMmpYdERsNGR0STlQZzFzckJOY21hNXhoeDBfM0xoaWhtMU4xWnZaY0t2b3hLc0hMZENMWGJPRGg5WVdkb3lhbXRNQ0tha3VyUEUtZDMxZDNkOHFCb29odzVZVEt1ak9ja19sSXhWbUJOU2UwY0xqY1VUTkQ2bE9wOUVMdjFpdFE?oc=5",
+          "published_iso": "2026-04-28T10:30:00Z"
+        },
+        {
+          "title": "NYC businesses are opening and closing across neighborhoods",
           "source": "Gothamist",
-          "why_it_matters": "The event expands inclusive public programming and helps autistic children feel more comfortable using transit.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzY3cFI4MVlOYktYTTN5WGJza0ZUOXZQZ3JtTGt1QTVEamVDOEhDWVdkOEhJckVUc2lCQlREd0duRzdNNGJsUnFJdG9LM2VHLXJSNmVFdU5hNlpZZjc2WFI4akoyM0piWUtWUERfWDJwU2oxRnFIbFRJZ0ZGZkFaMlNNZ2xuNlE4bjN6WFFKYzJQcUFqcUltYTBfTjU4VUoxdkF6YmZ0T3RnaExv?oc=5",
-          "published_iso": "2026-04-26T12:01:00Z"
+          "why_it_matters": "Storefront turnover changes local shopping, dining, and street activity for residents.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcG1acVdmX1Y1RlBUMFhqV09waGRyNktYazdvMFByRklhSndjSTNuTXptU3lqVkRoQlNxeE85cmd0SWxoSzc1Yy02MmtZV0xhY1BlUTNTeHlOM283eUQ4OHFWWVNrcTdNM2ZfN3lvMDNWVUZveTFvbHA1ZkVja2xOVU9LcmxEVmpuMXVxaDZNWVJmMDBudThORDBJVmxxRkxvRUlfWGc0T0Y1cXlBQTBVa2JB?oc=5",
+          "published_iso": "2026-04-27T14:00:00Z"
         }
       ]
     }
