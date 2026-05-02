@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-01T12:03:07Z",
-  "daily_fact": "Streetsblog reported that a long-awaited park project finally moved forward Thursday, marking positive progress for New Yorkers seeking more public green space.",
-  "topline_md": "New York’s biggest cross-cutting developments center on housing and social policy: Albany and City Hall are advancing faster housing approvals, renter organizing, eviction relief, and shelter/childcare supports as federal rental aid ends and school enrollment declines. Meanwhile, immigration and public safety pressures are rising, with a reported 600% jump in ICE arrests of Asian immigrants, a looming ban on renting jail space to ICE, and continued concern over violence, trafficking, and infrastructure risks like possible summer blackouts.",
+  "generated_at_utc": "2026-05-02T11:50:51Z",
+  "daily_fact": "The Statue of Liberty ranked among the world’s top five tourist attractions, giving New York City another global honor for one of its most iconic landmarks.",
+  "topline_md": "New York’s latest headlines center on city governance and quality-of-life fights: Trump is again targeting congestion pricing as officials launch a “close Rikers czar,” while debates intensify over street safety, housing affordability, and support for vulnerable residents.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,74 +13,39 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "State leaders near deal to speed New York housing projects",
-          "source": "Gothamist",
-          "why_it_matters": "Faster approvals could increase housing supply and affect rents, development, and neighborhood growth citywide.",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXI4bllMdTFaWkhBc0ZLeW5sRG5UcDBvM25GcXpyaVpuS0dRVjRDWWcxeWRtZ2ZxeDVyRWRnbFBpb2VVaTJlek1lX0NGb3c0VmlPUThGMkxBWlFaSndUT1RSQ0FBcC1CQUZ4WGhpLVFGYTQ3UnctMjZDV3Y1cWpCdV9VR0lPZTRTN0ZrVlp3?oc=5",
-          "published_iso": "2026-04-30T13:01:00Z"
+          "title": "Trump renews push to halt NYC congestion pricing",
+          "source": "New York Daily News",
+          "why_it_matters": "A renewed federal challenge could affect commuting costs, traffic, and transit funding across the city.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMnJVR01ZZ1dWVUFxNFNmeVVaVDlTWE03ZkNNdDRpcXZGVmduWGkxdnlTNGV4Q3p5QnNGM2NlUWNWZm1BX3RsMTRBUkNTZmhER3pJOWNlOERET19ueXl2Z2ZvQ1A5a1ZIZWJHQ0Z0RkY5YWNoc2tSUWJTeUtkVUdIUXd0Uk9rV2NoRF9hRndjTEZyX28ybGtZcVc3aDE0V1RPTFRldFc2eDhKNUk3aWYtZQ?oc=5",
+          "published_iso": "2026-05-01T18:00:52Z"
         },
         {
-          "title": "New York nears ban on renting jail space to ICE",
-          "source": "Gothamist",
-          "why_it_matters": "The change would reshape local immigration detention practices and limit city and county cooperation with ICE.",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb3I4RkZOOGE2dUZBWXZ1V0dycW1ETlBHMm9MZ2VaaWFZOUo2OGZvUFV1RUE5dWdUdTBnRTJLWU5DdjJka09VcVAzbVhlZS0tZEJERktmdHNLa2VhM21BTzVGb3dmNkRkUWJ1RDFIZFEwZmZOdTRlYXBwQlhRTkhrVnZqWnN1dm9GeUE?oc=5",
-          "published_iso": "2026-04-30T12:57:00Z"
+          "title": "City names first official focused on closing Rikers",
+          "source": "City & State New York",
+          "why_it_matters": "The new role could shape jail closure timelines, detention conditions, and neighborhood impacts citywide.",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFlMbktiTFVCaFFHMHdlMHBRdDd6V041RWhCR2VmSGJ3RHJBczZ3WG5fd2Q1S1BjalFpY2JXSlVRZi15SmhKSFo4bW93OXdNb1J6eVlNVF9JdTMzYnJlOGhIQ1hIU0FoY3dOV3hUc0xjd1gyaHNHZU4xRDZBeUp3NWdKQXo1dWxVT2RqYWZWbGxFRVJDSXFxZmlxM21ZUWM3aUI0Wm5sajNVOG5OSlRKb3Q5MVlYeHlaaE45anF4WWVUc1VP?oc=5",
+          "published_iso": "2026-05-01T19:09:26Z"
         },
         {
-          "title": "School enrollment decline could trigger more NYC closure battles",
-          "source": "Gothamist",
-          "why_it_matters": "Potential school closures can disrupt families, staffing, and neighborhood access to public education.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV0pVT1hTYm1RSzh3a2czOWpDUzNIN1FFQm94TEJOWlJwRWdlYU9rQ1BJOGVQRGNJVl9KaUZmcFBTTUxmOUhsMllRek41dFliWXotc1BfZXdFeUwxSGp2LWVMal92bVZXdWVtcFVNeGJDclZDcWNraFllNE0xRGREM19ZQnhBSzZYekFEeVdfM0NhcV9BNUQySTc0WUphemR4?oc=5",
-          "published_iso": "2026-04-30T21:57:00Z"
+          "title": "Council bill would make 15-mph e-bike limit law",
+          "source": "amNewYork",
+          "why_it_matters": "The proposal could change street enforcement and safety rules for riders, pedestrians, and delivery workers.",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5USXFWRDlXNTJZWXUyOEpiY3VnWXh0c0RuQ1pFX0FRN2JrYkxmelUxXzE3dkduR3k0bEhhVnVuZWZMYTlvVmt0Sm1DRVZCdkJ6bWNvaEFBLXRBTUFVbi1qVGlPOTh5cW8zWmJGTmNB?oc=5",
+          "published_iso": "2026-04-30T21:40:03Z"
         },
         {
-          "title": "NYC Council approves vaccine education plan",
+          "title": "City leaders seek release of unused anti-gun violence funds",
           "source": "THE CITY - NYC News",
-          "why_it_matters": "The measure could influence vaccination rates, public health outreach, and school-community health protections.",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd1BEUHpTNWszQU5WMVJ0Qm93U2tKVlhqSzZDelFqNzJNLWZFVWVhQ3J2Mng4N1lmSVRYVE5IQ1FkNDZ4aWd4WkxoSGVocnZzalJXLXhBV1Y1YkpKdE1JTXBXX0xiU094bnZHYkN5and0ZXV6Ym5PZFNROXRDOVdoU0RfYVB0UVhYRUgw?oc=5",
-          "published_iso": "2026-05-01T01:37:08Z"
+          "why_it_matters": "Unlocking state money could expand youth programs aimed at preventing shootings in affected neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlM1cEY2VGstZVZSWHJVeUVra2M4Y1ZESzlBTlQ2cUN1NVdtTmtHV2l3dU9KWlpMRHVtQ19pSElUZWNvdHdtdS1pT3pQZ2hIZ1hPaWF3Q0xEMk5NZ2pac2htYWpIM3piRXMyVEhkNzYyVzkwbC1QSWktX2pTd2RZWWZUaERFUFdTdjZxZ1VMSzQ?oc=5",
+          "published_iso": "2026-04-30T22:23:22Z"
         },
         {
-          "title": "ICE arrests of Asian immigrants in New York reportedly surge",
-          "source": "Documented",
-          "why_it_matters": "A sharp increase could heighten fear, legal needs, and family instability in immigrant communities.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeklsSG5ydXZsSU9BS0JiaDFyVDhtMV9wcU1vZ0Ezazd6NnpFSGdNc1BqejRjTU1wOV94SnVFMnBaaUwwX3lRS1h3V0gyUzVMVDB5aTJlTzg3MlE4d3dZanJ4U1NjbUplbWxzV3NyLUJ5Q0lydmwzeS11OXlkbTNBSi1OWmFVcGhTdXpicF8zTzk?oc=5",
-          "published_iso": "2026-04-30T15:22:07Z"
-        },
-        {
-          "title": "NYC seeks fewer evictions for formerly homeless tenants",
+          "title": "Councilmember pushes to close illegal tow-truck loophole",
           "source": "Gothamist",
-          "why_it_matters": "Reducing evictions could help vulnerable residents stay housed and lower returns to shelters.",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHlUSWkxWlJweml0djA1V1dLZUppbjlCZlQ3U3Jyc01UX2ZPaG9YMkxkWUxVcUxhRGdiYWVmSGlrWHptRTZiRlQ5NnBLVEJCbkdnMXh2UDVVWi1VbGVrLWxPRWxGSWtJTzl3U1ZULS1LMnVja2NLTjFQZ2psRmhyTmJKTzBpTkVsU0pMY1BKc2FuSG0xTmRNaFRQNGE?oc=5",
-          "published_iso": "2026-04-30T21:57:00Z"
-        },
-        {
-          "title": "Lawmaker calls for shelter reassessment after violence probe",
-          "source": "Gothamist",
-          "why_it_matters": "Possible policy changes could affect safety standards and oversight in the city shelter system.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkN1NUNveXhQcVUzcGxQcjUxeU42NU5iU2I5S0FKck5hdVQ0akFtYlFrdHFldnUyd0VkVC1OWnQtZkVEMmFsd0pDV25lUzdjcjVvWllQVGpUMDF2dzhMT3FCV3ZqcVZfZHpnbF81SUVEREVJNXFnRy1tcmxIcjRCODV1dWptY0oxbWdWeTQ3ZDFBQkctYVN3RXM2Uk1yMVlabWwyeHFSR0w4U2ViTk0weg?oc=5",
-          "published_iso": "2026-04-30T21:57:00Z"
-        },
-        {
-          "title": "Mayor launches Organize NYC renter mobilization program",
-          "source": "ABC7 New York",
-          "why_it_matters": "The effort could shape tenant advocacy, rent policy debates, and political organizing across the city.",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbzZMcDVCYUtHZFp3TzB1Q2ZhQnNVR1ByX0tldGxlbUhuYzRDRm5fcURTUnR6aEl5Tmd3R2hNMjVOVEdnbTV2RmtET0hFTWRXRDJrVUdSTUlYdUJtZWxzUi1XbkFQVWxJQnNHZ3U4SEx2bFFwVGxFU083b1NVOGNQOGJUNjc5WDNsS2hOYUcxQVJFVVZyd3A4dXFsR1U2clE4VWJsblJ0c2RESkdYYThMS2VtaDF5ZG50MnBkcl9mQ0RSWkJWdzFkUmNn0gHPAUFVX3lxTE55ZGhsSzE1clBWSUZFT3NVSVVuRnRMb2dwVl9ldm1QbDFsMDRkbDNFeURnVi1CZWRjWlliWFhYZ0tXTnItU3FiWmJPMW1QaXpSN2J6N1lOQzkxMVBKOERXUFExUVZ4aFRnZmliZE5fT1dpYTBvM0JrR08zdURlb3hnYzR2VW9TT2lWblMxX2Zfa0VmdDFRbmM2LXNWMlVqOWItSzYwZHJPNmtzOU1CY096QkNrUzRicmtLdGRuVzk0VDI2ZmdvNU9qc0lXS1NoTQ?oc=5",
-          "published_iso": "2026-04-29T16:26:29Z"
-        },
-        {
-          "title": "May Day protests planned across all five boroughs",
-          "source": "FOX 5 New York",
-          "why_it_matters": "Large demonstrations can affect commuting, policing, and public attention to labor and immigration issues.",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MdVpoNEc5NkhEckxVa19xMUZtcGhEc09IdS1MQ2psaGtiSy1lVVNkYzZBYmtvUUpzbDR1NHhJV0pHYmw0WExMSEZoN2ZPZ3hLVnhkTDd6bnFiemNveXpsUGIwN0lGSDBOTFhvV3ZWbw?oc=5",
-          "published_iso": "2026-05-01T11:20:06Z"
-        },
-        {
-          "title": "Queens judge dismisses election fraud challenge to Rajkumar",
-          "source": "Gothamist",
-          "why_it_matters": "The ruling affects a local election contest and clarifies who remains on the ballot.",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZG1PVnZiVlUteE9KdGpPZlBKZHdDM2pYb2pxQ3dPajBoMk5MdE1sZE5rU1VIcTFjUlN2VFJjQS03VzVNckRVRU1hTFpYdUNxNVo4RnlfVURCcGlnZGVNR2lWVXcyYTk1bE54TTh5cDFJY1lKTE5pdGNOY0xkWmMzMWg4bUJGQWI5bVZ5TFFQV2I2cUpydEQ3Mndad3pKWkRVMjVxa1JPS09oTEl2MTB1Sm1ob3A?oc=5",
-          "published_iso": "2026-04-30T21:57:00Z"
+          "why_it_matters": "Stricter rules could reduce predatory towing and improve street safety for drivers after crashes.",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSU9MT0FYZG1HN1ROWlNMamdtdVM5V2xaZ0praWc2N3dCNFh4V1VsbmRmME03S0hmZzUtM05iTVF2TFg4blBlRm9VR2ZpLUV3TllDUnpxQ1hSTGkyVUl2LTFXZWdiaHpob1NBdDFrckcxekpsSnVmWkNteUhnck9qdVJxd2NLZzVmNHlyUzV3OGFRR1dPTmhVZEJHZlppNjQ?oc=5",
+          "published_iso": "2026-05-01T20:46:00Z"
         }
       ]
     },
@@ -88,39 +53,25 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Federal rental aid ending will hit some NYC neighborhoods hardest",
-          "source": "Gothamist",
-          "why_it_matters": "Renters in vulnerable neighborhoods could face higher eviction and homelessness risks as a key subsidy expires.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEd5R3JYSWxEMkpQamw1MUhoNVo1N25RZlRETkU0a2JvWHdJWlZqa2VxbEI1Vm52Wk15ejJCUjdMUk1LWDliREY1SEY3aUpCVVNianhlQW5IRHFWYWJnSi1NYkpyTEsxaldCWWRpREV0Yy1ra09SOTVkTDRLMmt0X2lYZEc2akVBcmlnZ1hZQTZDWWUtVmViXy1SYzVvc2tIYk1ZMEF5TmdydFVoLWJnTw?oc=5",
-          "published_iso": "2026-04-30T21:57:00Z"
-        },
-        {
-          "title": "NYC opens first free childcare program for city workers",
+          "title": "Thousands of NYC families face losing COVID-era rental aid",
           "source": "amNewYork",
-          "why_it_matters": "Eligible municipal employees may get free childcare, easing costs and helping parents stay in the workforce.",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUGxwSk9yLUVzLXFWR2Qtc1lhakZLaVhMV1JPUkxWUDVKZTEzX2gzVnBkbVpnd3k4alJGaEc0Um9qRWFTd29OcDF6SWllMUlCM2VNMUdfeEUydHo4dFNlOXlPTWZsOTdrdTVVVC01dnZPVnNUTHpRT2VSQnBFekdZTTNtdHFkUQ?oc=5",
-          "published_iso": "2026-04-30T12:19:52Z"
+          "why_it_matters": "The data highlights neighborhoods where renters may face eviction risk and rising housing instability.",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jYm9Ed1hDN2NZbjJOdXBFU1BhdExsT0lDWldIdVpwMWxDR1RrZnVjLXVYYmF4cjktc1ZLaV96emRFMjJVOUdxdWR0WVlobTAwa2FqX0UyamFNMGh0SVRtd05uTWlleXFrZDFtWll5bjZGSU9idW5Tc1h5bw?oc=5",
+          "published_iso": "2026-04-30T21:50:13Z"
         },
         {
-          "title": "Cash aid kept young New Yorkers out of shelter",
+          "title": "Cash aid for young New Yorkers helped prevent shelter entry",
           "source": "Gothamist",
-          "why_it_matters": "The results could shape city support programs that prevent youth homelessness and housing instability.",
+          "why_it_matters": "The results could shape city support programs that reduce youth homelessness and financial hardship.",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3ZZVjlrMUxyNDlwSHBtRDMyc2Z1Wlc4TjhMMVRyejJnNXdQeW5HX3NBeVdTNUJpbTBiQ3Q5ekVxOTRwU0lWVlBlYTZTcDAxRDh6TXBuZWJSSFExTVZpNGZOSVk3VW4yRUpVdFRyVGY0aXdZdWxxSXVxZlpuS0xURlUyM0JVTVRNR2pZclVzY2R2ZXJzb1dfalhUZWpXR1hqZlBRS1lZUDZpRHluWTgw?oc=5",
-          "published_iso": "2026-04-30T21:57:00Z"
+          "published_iso": "2026-05-01T20:46:00Z"
         },
         {
-          "title": "State unclaimed funds program seeks to return billions",
-          "source": "Newsday",
-          "why_it_matters": "New Yorkers may be able to recover lost money through a state program with direct household financial benefits.",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdDRsT1k1YXRvS0E3Wk9uV3JWay1pSTFOd29jZDBRU19YWkVrN2dqb280a0FqS3lBS3A3bDhQSUMwVWVyaUxpNmsxMnU2dzN6TklMVno2X051QUNmYzBjNmlZSEN6UFg4Mjg5UzM2SWt5T1R3YmtBSEh4bWNfNEx6bnQ0enZFMDhtVFFuV09CbjZSLXZmOGkzbw?oc=5",
-          "published_iso": "2026-04-30T22:24:31Z"
-        },
-        {
-          "title": "State warns New Yorkers about tick-borne illnesses",
-          "source": "New York State Department of Health (.gov)",
-          "why_it_matters": "Residents heading outdoors should take precautions as tick season raises health risks across the region.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenA5OGJnc1d5TnM1am5PQlVWQTZCbk5YR2FYOHlMRzVqaFZxYlJLLWs4N2RLMmZlcWdrU25qNzA3Y1JuRHZodVp6bGg0WGxZNVR2MU0teFBUaWE2czJJdUEyYndpMzExVEdtSnJfZ1VuWmdmQ3RrSjVaajRjRVdSQk1kZlhhUWI1bUxwYVZ4Nm1XallaYmt2dTdyOGtfWHE1STlr?oc=5",
-          "published_iso": "2026-04-30T22:55:48Z"
+          "title": "State expands expedited unclaimed funds payments to $5,000",
+          "source": "amNewYork",
+          "why_it_matters": "More New Yorkers may be able to quickly recover money owed to them without lengthy claims.",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLRUVLUDR6cDE0T1pBVDc5VGV0LTRBZWo4WENkMmttX3lOZ1NzRWlCa3N4aTZKLXJtNUdDbnNodG1nVk5HOWFrbXNwbDlvZGU2cTdhdFdRSlRVYlgzMWtQRXVVTHgzRDJZYjNSZ3N4SXZHcmxHU2NpYmZKN0Y?oc=5",
+          "published_iso": "2026-04-30T16:45:07Z"
         }
       ]
     },
@@ -128,23 +79,37 @@
       "title": "Community",
       "items": [
         {
-          "title": "Heat and strained grid could trigger NYC summer blackouts",
-          "source": "Gothamist",
-          "why_it_matters": "Potential outages could disrupt homes, transit, cooling, and public safety during extreme heat.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMVFqQ19nQ0oyeVFaZTFHRUFtVVFHTFFob2RXNnpNWVVNTkJEbEdoV0p6alIzZ19tRkZUUEJxSDFQWWJGTHI5bEFCZG82SXBvUEhqMUJRdXdLODRQWndDbXpjSU85aUxiTzBlMEJqN3BpaU0tQlBDNEh4enVyc0E0eFcyUFJWVDdMelVlOXBRTUU5OEV2dlBKeTZaWQ?oc=5",
-          "published_iso": "2026-04-30T18:29:00Z"
+          "title": "Five Boro Bike Tour brings major Brooklyn road closures Saturday",
+          "source": "Brooklyn Paper",
+          "why_it_matters": "Street closures and crowds will affect weekend travel across Brooklyn and parts of the city.",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByM1NlM1NrSU9fSkFqOWQxdmRxVWtlOFdPbUVtRlF1Zi1sVjhxT2NrTzZLanQya3VORVVxWDZxTV9YNm1wTkVGZTNKMGxhY2haX2xWeVJrY1BwTWRsUWJlSXh1d2ViQzVnbjBPNkJGZE1mZw?oc=5",
+          "published_iso": "2026-05-01T18:29:39Z"
         },
         {
-          "title": "5 Boro Bike Tour will affect Verrazzano Bridge traffic Sunday",
-          "source": "SILive.com",
-          "why_it_matters": "Bridge closures and route restrictions can significantly alter weekend travel across Staten Island and Brooklyn.",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSndoaXBZWG9WcVhId0NCSmpCNDNtT0xaYVNCeWdzNzFaREpJVFlZYnhiT3R0NlNkQV8tWTJ5WFVoRWQ2ODVVczJwX1VMNXVzTWFUZGNveFMwWm5tQVhudU9mOUhDSVh3azhnNjRHQmlQcEduTXJlSEU3b1RDMFBXSkFGUmRoVjhvTXZ0blhjaGF3OG5VTEViU1dvSml6RG5NcmFTYkZFWnlaN1dtcENnOVBOTGd3ckFsT1JMQ2N0NjTSAdQBQVVfeXFMTjF0ZzJxUlFlWjlaczU2WkxsMVZnS0d0cjU3MkVlRWhJWGQ1NHFINnBjQ1J0VVRRYUJGWEI0U0l4SWF6VDh2NXlvbjFQMGxScy1YSXlRU0ppVnl0bmp1ZDZLaW96UURJeUJzUHNuMkJnRTY2U0xxRUdaSm1CTjRfU2w3UUl2dE44dUJDb1g5elZMcFFmSlVoazFYZUJfWEUzQnhLenJ4RTlzTmlwb2VNN0lleTBJVzA0aWtSMGFZZ2hQX1VFN1JqYm81TXByZVNaZjQ2Z2Y?oc=5",
-          "published_iso": "2026-04-30T15:48:00Z"
-        },
-        {
-          "title": "Largest U.S. maritime gathering arrives in NYC this summer",
+          "title": "Park Avenue redesign plans could reshape Midtown streetscape",
           "source": "Time Out Worldwide",
-          "why_it_matters": "The event could draw huge crowds, boosting tourism while affecting waterfront access and neighborhood activity.",
+          "why_it_matters": "The project could change traffic flow, public space, and daily commuting in a key Manhattan corridor.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckM4ZzYxM0xaeFlvajJaakdPNkl6QWpicDNHbWlTQkRTNk1tRFBtcjF4THViMzk0dGZDRHRzblVmSUZSMkwxdHRMbG1yVENxTzRKZTZTSXd1b2c2X0JuMHRSMUJHX2Zaa2hUR0dRZmN6NmV5MTJ4dDNhenpLT3RmaTNvaUF1OWVxaW1Mdlg4YzFaX2c3QmI0LTJPUjdNRTBFcjhVQXZERkxWeEQ3WE9hbjg0Ry03ZFByZ2tEeg?oc=5",
+          "published_iso": "2026-04-30T23:33:00Z"
+        },
+        {
+          "title": "Home flipping report links rising prices to Black resident displacement",
+          "source": "Gothamist",
+          "why_it_matters": "The findings spotlight housing pressures worsening affordability and neighborhood stability for longtime New Yorkers.",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOERHdjNOVzB5VkktMXpWTlIyVEFtSjZjc1JBSzVlT0l6eWlPUlA0Z3lRaXFqYjNaU1ZPWXRnZXB4aFNFUmJWWWhUSHJsQW5WanpsVlkwUDlMTm1ILWZhbDBTbDhHM21OUVdWM1FkckkwSWxZQjJCazg0OTJXR3NBRm5aYmRxSmJfSnNzR0VZNkNkRVlTREFZZWZVUk1vUzJkRkQzWWlROA?oc=5",
+          "published_iso": "2026-05-01T20:46:00Z"
+        },
+        {
+          "title": "More older New Yorkers seek roommates to afford housing",
+          "source": "ABC7 New York",
+          "why_it_matters": "The trend reflects mounting housing costs and changing living arrangements for seniors across the city.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN2NYVmlYaW1QR2lpeXp6VG5LeXd6NFcyNzJHM2NmMTZvbF81a1RKdTctUmdrbDR5RG42b1BRZTEwRUVZR2ZvdXg0Q1FDUnZ0Z0hsZUstR1VTNDgzWGh3bXdOalNRY3JQWDA1MFlQTTJfTm5XTV95dXYzVFpWSnRFcWdWNlJpOGFpMV9CamtIMUdiNXlzSXUtVmtySXN6S1ljcU1UTGpRd3pVYUpVdWNUTEdUSHY5TmPSAbwBQVVfeXFMT1psMGgtN1pJWmZMaUdNYi1kNUFEaUxtYnJJZnZYNkFJa2RiTDhCaWJUaHd1YmFmZnFPUE84RzU3eVI1OU5ieDlZb2V1WS00Qkw1TTZ1eFU2NFZyazVqb0xtVVpOY1ZIYU1ZTjVNRVZUdlA4aURXZ1ZrVnRmbld3eUNMak1NUXFmY2hPYVFXSFZkam1vcDZ5bEY2U2cwMGZ6bzRFQ1gxRlRuVmpTdW5ZVG9CLU0tQjlOejVSYUw?oc=5",
+          "published_iso": "2026-04-30T21:13:26Z"
+        },
+        {
+          "title": "Massive summer maritime gathering planned for New York City",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "A major waterfront event could draw huge crowds and affect transit, tourism, and local businesses.",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3BtMDh1aEhGOXRNNjlxVHB2WmVZb1JMNEZvdW0yNVRxcnRMSWUxNkx1dE1obEpTN3BNc25TSUhzcThwWmduR0ZoZ0VmLWw1amxOOGVfamRkZHlSVjhaX0o1emkzaVpxMUdlWHpRcUR3NUxITG9rb2U3ckdPSGtBUFRGblZPUzJoU0J5Njc4MzRvY2NYRlFiTERxdllnMHRFZk5NVjY4VERTbG5RRWpSTnI5bDFzWEttZEQ5b2Nn?oc=5",
           "published_iso": "2026-05-01T00:37:44Z"
         }
