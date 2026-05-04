@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-03T11:48:45Z",
-  "daily_fact": "British chocolatier Chococo expanded to New York City with two new artisan chocolate storefronts, bringing more specialty sweets to local shoppers.",
-  "topline_md": "New York City’s week centered on governance and affordability: the city’s first “close Rikers czar” begins, leaders pressed for unspent anti-gun-violence funds, and housing debates intensified over rent board hearings, home flipping, tax credits and second-home taxes.",
+  "generated_at_utc": "2026-05-04T12:23:47Z",
+  "daily_fact": "Spectrum News NY1 highlighted Kelsey Goodwin’s “Clipping with a Cause” in New York City, showing how haircuts are being used to support people in need.",
+  "topline_md": "New York’s latest headlines span urgent public safety and policy fights: major fires in Queens and the Bronx and a fatal Brooklyn bus crash drew attention as the state moved to protect vaccine standards, preserve telehealth abortion access, and launch a $542 million broadband expansion.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,60 +13,39 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "City’s first ‘close Rikers czar’ starts this month",
-          "source": "City & State New York",
-          "why_it_matters": "The new overseer could shape jail closure timelines, borough planning, and public safety policy citywide.",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaFlMbktiTFVCaFFHMHdlMHBRdDd6V041RWhCR2VmSGJ3RHJBczZ3WG5fd2Q1S1BjalFpY2JXSlVRZi15SmhKSFo4bW93OXdNb1J6eVlNVF9JdTMzYnJlOGhIQ1hIU0FoY3dOV3hUc0xjd1gyaHNHZU4xRDZBeUp3NWdKQXo1dWxVT2RqYWZWbGxFRVJDSXFxZmlxM21ZUWM3aUI0Wm5sajNVOG5OSlRKb3Q5MVlYeHlaaE45anF4WWVUc1VP?oc=5",
-          "published_iso": "2026-05-01T19:09:26Z"
+          "title": "State moves to preserve New York control over vaccine standards",
+          "source": "Spectrum News NY1",
+          "why_it_matters": "State vaccine rules affect school requirements, public health policy, and residents’ access to immunizations.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1pPdWtLNmtpb1ZUV0M4YldjOXA1Z3dMeWdsM0VhU3RHSUVEWGhEREUyZmY3QjVPNHVPaXN1MUJ0clQxUTdWRXZ0MmJRcWJUZ3BDcEJzc0VFNUJwMm5yZjRmMlJpbnJmOF8waXcwbkQtT01NWEl5MGhIcU8tcWFSTkJzWTcyck5XeXFhc2RpRXh6V1dUNTNYYTB4cTFBVXVQTGluVzRhd2ljR0x3dVRZRw?oc=5",
+          "published_iso": "2026-05-04T11:45:00Z"
         },
         {
-          "title": "City leaders seek youth anti-gun violence funds",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "Redirecting unused state money could expand violence prevention programs for vulnerable young New Yorkers.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWlM1cEY2VGstZVZSWHJVeUVra2M4Y1ZESzlBTlQ2cUN1NVdtTmtHV2l3dU9KWlpMRHVtQ19pSElUZWNvdHdtdS1pT3pQZ2hIZ1hPaWF3Q0xEMk5NZ2pac2htYWpIM3piRXMyVEhkNzYyVzkwbC1QSWktX2pTd2RZWWZUaERFUFdTdjZxZ1VMSzQ?oc=5",
-          "published_iso": "2026-04-30T22:23:22Z"
-        },
-        {
-          "title": "Councilmember pushes loophole fix for illegal tow trucks",
-          "source": "Gothamist",
-          "why_it_matters": "Stronger rules could reduce predatory towing, surprise fees, and unsafe street practices affecting drivers.",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSU9MT0FYZG1HN1ROWlNMamdtdVM5V2xaZ0praWc2N3dCNFh4V1VsbmRmME03S0hmZzUtM05iTVF2TFg4blBlRm9VR2ZpLUV3TllDUnpxQ1hSTGkyVUl2LTFXZWdiaHpob1NBdDFrckcxekpsSnVmWkNteUhnck9qdVJxd2NLZzVmNHlyUzV3OGFRR1dPTmhVZEJHZlppNjQ?oc=5",
-          "published_iso": "2026-05-02T12:28:00Z"
-        },
-        {
-          "title": "Lime pushes for wider NYC e-scooter expansion",
-          "source": "Gothamist",
-          "why_it_matters": "An expansion could change commuting options, street use, and competition in the city’s micromobility market.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW5WOXBTenRBUER0elNLVEZ5X1ZpdHY2NWJEYjBZZDB4U1YxakRhSkpWOXVPVFl5Q2hpUE5QdHNHWE1zWDNfUmw0b3hZWjY5NjVmemNDWXdBVklZakVyN1lENU13TC0xWHBta3BCTURhLU14VjZDaXdaZF94MVF2ZEFYaHRDU2xIekJ6b2hJRTA4Z0Jfb2R1THBoNjlrRFg2ajZGTDh6aGxud0lEOWRVNHJtMA?oc=5",
-          "published_iso": "2026-05-02T17:51:00Z"
-        },
-        {
-          "title": "Queens judge rejects election-fraud challenge to Rajkumar",
-          "source": "Gothamist",
-          "why_it_matters": "The ruling affects confidence in local elections and who appears viable in a city race.",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZG1PVnZiVlUteE9KdGpPZlBKZHdDM2pYb2pxQ3dPajBoMk5MdE1sZE5rU1VIcTFjUlN2VFJjQS03VzVNckRVRU1hTFpYdUNxNVo4RnlfVURCcGlnZGVNR2lWVXcyYTk1bE54TTh5cDFJY1lKTE5pdGNOY0xkWmMzMWg4bUJGQWI5bVZ5TFFQV2I2cUpydEQ3Mndad3pKWkRVMjVxa1JPS09oTEl2MTB1Sm1ob3A?oc=5",
-          "published_iso": "2026-04-30T21:57:00Z"
-        },
-        {
-          "title": "Council bills target dog-waste enforcement",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "The proposals could affect sanitation enforcement, park cleanliness, and quality of life in neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDZEQTY5TDJuaHdBOEFmRGZBMjhsRi1BR1VRNnlVWWNjazFBUmJXVTFkNmdlSkhjWkhsSXhxSzA3WW9kTWpKS1I0QzhMbWRwNGhObk9jTGZQSHIySklkLXJRSmdkNDR1emdvbTJhLVVtS0tGS1NPbWZ1NFNRMUhnYThFR2p1RE9BeTBvYw?oc=5",
-          "published_iso": "2026-05-01T09:00:00Z"
-        },
-        {
-          "title": "Bronx pushes back on weatherization program cuts",
-          "source": "PoliticsNY",
-          "why_it_matters": "Cuts could raise energy burdens, slow building upgrades, and affect jobs for Bronx workers.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUs5QzdSa2k3cWhXeUJjY1hDbTlvSERwd25mVFJXTC1NTEZNSWItVjZPQUExLTJFR2pzQllORG1HSXZFUzNuWUFOaEFtcWhqTE1JRDlZcFhXSXFOY3pIZ2JJeThmN0dUZ09wSUdRNU4teVlBUl9lZ2cwSWdOV1Y0UVVoWEtuQi0wdlViSnFmVm4xRGV4cklLMlduWS1wVWtpaUpqMHpQS1VRUDVRYlN2WTkxa2Nab1JJak5EWjJFYw?oc=5",
-          "published_iso": "2026-05-01T21:48:17Z"
-        },
-        {
-          "title": "Test disruptions spur calls to cancel state exam scores",
+          "title": "Test disruptions prompt calls to void New York state exam scores",
           "source": "SILive.com",
-          "why_it_matters": "If scores are voided, families and schools could see changes in accountability and student evaluation.",
+          "why_it_matters": "Exam score changes could affect students, schools, and accountability decisions across the city.",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb083Y2ZrYnBEa19qZE9KcXJIYVZLN2ZJejE3NHdVSE1Ddk8yWFVCVWNUUTVmVTAyc2RUSmEzWnpGSXQyTVdFd25zbzRvMzhqb2pWVkNWLUJBYTYzaUZiMzVzY3JiMm9HMEtaeWdJUzBYSUxtY29nOTNhY1daZ2ZEX3UzWUM1QUxzRU85ZDhPWmdsQTIzbW1tZmpWZDlOTGtxNF9HVFdEaTZfemtxR3hRcWhMUHRHZWZGNEpvQktWMmdEclJ2QmVjcjZIaHQ0bm5YUVHSAeYBQVVfeXFMTmZ0MFdoX2ZTd3ZFTTFTR3ViOHhDSTdURzd1M204YTV1UEdDTVNaTGpqdGdXdmlwLWJWcnJpRHBQZ0hOdmRDZFhpbkdza200WHg1b3NmbnROV2QyaUlKOVBual9RZFhCUjNLZFlWcjRaVy1HQWVPRjZCZDB2dFFHMTZRNnpjcFlCbndLMkY4VFlPU0lqbmloMUR2elVkN2tCeWh1VDVJczBiTFRpODV2Y0JQMm9PYVJQV08zRllKQjZRUnpKeEMya2NyNW9ZRnZCTno3ZFk0dmdSaUJFOHY0ZTFMZ3ZRdGc?oc=5",
           "published_iso": "2026-05-01T20:37:00Z"
+        },
+        {
+          "title": "Fatal Brooklyn bus crash site lacks crosswalk markings",
+          "source": "Gothamist",
+          "why_it_matters": "The report raises urgent street-safety concerns for pedestrians, bus riders, and nearby families.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb19oTEt2WDZRb2tBeWR6eTF0TDdpdXE2WU9OOURUeDBiTHJyalBWMTNtNFBtUjNtbU1WcE5WSlRlUlllbFlUSTZGdnJaTm1vZV9PVzRZZG5rTGtTYmtTQjJDWF94cHI2RDZ3QXhvOGV6UjF0TFpVdWVPdWxDQ1lCOUZYek9wbDBTN1VScHo2NWZ0V0tNbW0yUU9lcjg2Q1pXVmo5aW5vWEloaHpWUS0yWlpHdFNYeWs?oc=5",
+          "published_iso": "2026-05-03T23:25:00Z"
+        },
+        {
+          "title": "City seeks public input on locations for secure bike parking",
+          "source": "Streetsblog New York City",
+          "why_it_matters": "New bike parking could improve commuting options and reduce theft for cyclists across neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRXVmRWxXaUxSY25LcWlqajZBRmo2RmNGMk1QS2oxWjlHV2lseXFKVVQ5bnlORE5iamtRelZrOGs5WFhWeURFZEhOaVR1OUJWSkFZaVdMazR0Mmgxc1ZYS1FQbGlWWDdZaTVtTUdwNW1KOUw4VDNKWjNGX3pmSUdYMlZQenJuWWZvbjk4VG1ielNwTkpKNVJ6WDF0Mk0?oc=5",
+          "published_iso": "2026-05-04T09:00:00Z"
+        },
+        {
+          "title": "Lawmakers consider broader pied-à-terre tax expansion",
+          "source": "Gothamist",
+          "why_it_matters": "A wider tax on second homes could influence housing policy and state revenue debates affecting New Yorkers.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFpScDFLYlZJSVJiYkNIWXY2N0xWZXZCWVlkTXlvem1BdXhoWmdDTlY5bWxKX0VBd2Y2YTdiUXZwb1EzYi1CamVqcW1vb3p0a0VBdldUb3d6VGlfb1lrTXhCSWdmdmRPVURuZFpNVHh4dkxBWkxaeUxhTzJ2M2FtXzhCNWxmVmdTcHVuUjQwSDVQV1prbG9LR0x5aFFkWnVscm5FWnd6LXVCQ3MxT2dXdWtIblBvcU8y?oc=5",
+          "published_iso": "2026-05-03T23:25:00Z"
         }
       ]
     },
@@ -74,32 +53,25 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Telehealth abortion pills remain available in New York",
+          "title": "NY keeps telehealth abortion pills available after court ruling",
           "source": "Gothamist",
-          "why_it_matters": "New Yorkers can still access abortion medication remotely despite a court ruling affecting mifepristone access elsewhere.",
+          "why_it_matters": "New Yorkers can still access reproductive healthcare remotely despite new federal restrictions on mifepristone.",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTFJJQ2p3V3k0Y2E5UlVFZFJNZmMyeWZCN2k5RlZyTTVwX3hjTkxYYXZzMk1qR055RkNnQmFwaURlV09LcU9iZV9ibm5IZXlUOWVrRFotSjd3eHZmT2I3bk5QQ1hpWm1EdDlHNGtCU3h5b3pXQTBhREZLLWNYc2ZHUGY1b2UzT3NfT0Fla3N3RGo0QXp4dXdkY2FWWDZRb2hvZHJVUENiYVFoU2YwM2RGZ0V1Yw?oc=5",
           "published_iso": "2026-05-02T17:51:00Z"
         },
         {
-          "title": "NYC trash bins required by June 1",
-          "source": "SILive.com",
-          "why_it_matters": "Households must comply soon, and stolen bins could create extra costs or sanitation problems.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWEVlNm9zZ1NjbHY3dnQ2bXhRSnFST1dFSDd4bEdJZjFOZDR6SV9TaGNpZ3dGNDc0eUl2RDIybkJkUEZYSm1vVWgxeUhncG93RGhWU01KOGNjcURPY3NRVFRnMUg3M0tQLXpXTzNmTkRBb2tieDBoLTAwSTdhelNuWXpNVk5STU5HRndIT3k3VHI3YzdwYVBKZXh6M1ctTEx4bVliSjFqazR5UnYzSHdRMVFILUVHa1llbnFad3dR0gHSAUFVX3lxTFBCLXdDbm1EcGhHQlRWWkxnUktXLW5jZTd3SndGblMwbGZSd1otc2lFeXBUNjU2LVZyZXl5ZnRteHhPYnhqWVNDSWlhQnZHLV9QTEVxWmtCSWs4ZEgzM1NlUG5BRDBkd3U5MURmSkhvemRfUjVqM2JseGt5aDU1MU5od0hiak9hVjZxZ0VRWi0xdnFNUVVnbGNLcVZWMWhrSVNKRmxIZlZaNHhnRTdTVGRkMG1icFlTMDRYSEo2V0hobjdtZXprMmlVUVRTdUlqYk5wZw?oc=5",
-          "published_iso": "2026-05-01T17:44:00Z"
+          "title": "New York launches $542M high-speed internet expansion plan",
+          "source": "The Journal News | lohud.com",
+          "why_it_matters": "Expanded broadband could improve access to jobs, school, and services for underserved New York households.",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3g5c2NrZFZDenljZFZlLUtKNTNCUllpaUtTay1aX0FWRDNpTGprTnotSGtrX19DZVhBM2Y5dzBWV0FqbF9OR0haV3gxLW9jdW10cU5TTC1NWm8ySjhRT3dsNUhpUTlsZGNKOEdrWXlSWmVRVlhwQnE1TEhJaVo4bVVXaWhodlhZd3BtUjdJdl82bndtYXdEY0JmVTZEX3NJcEd1eXN5QlZYT2RTMmpzN083c3VxUEpaV1ZPTnVybFl6aHM?oc=5",
+          "published_iso": "2026-05-04T08:04:00Z"
         },
         {
-          "title": "How to protect your home from deed theft",
-          "source": "Epicenter NYC",
-          "why_it_matters": "Fraudulent deed transfers can strip owners of property, making prevention crucial for vulnerable NYC homeowners.",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zelZrM1NRV0tkRFVCLTNaRUpVZFJiY1l2VEZ5d3NUWXByWFctRUpzNV9TTEo4UllpRnVjX2JQRzNNT3Vpd1RnaV9Dbi1sNGJpdzFTdUpadnVuVkhtM3NIR2xHTG10Vl9ybFBieFhwblgzU2o4QjRUUHh2dTJaSlE?oc=5",
-          "published_iso": "2026-05-01T15:35:53Z"
-        },
-        {
-          "title": "Flatbush affordable housing lottery opens",
-          "source": "New York YIMBY",
-          "why_it_matters": "The new lottery offers a rare chance for eligible residents to secure below-market housing in Brooklyn.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQU9PcHBLRUlDUDl1UHJnSW1qQWtHWmttemQ5M1d3eHA1QjRRYUlvNlBKVVJSNkd4XzdjcEtTM2N1aUtDWUI5WUZMUW1QeGlkVVNZX09KRER5eEVWdnV5NmpvZXhySFJrMDZpcEdtdzhPN2wxczdIeV9uWGhqbE5hazBFWUtxanZQME5tdHgwYU1rTURTMC1ZWnNkYlAxYnZEM0ZIUFZNZTBhYXBxRmkwUWFR?oc=5",
-          "published_iso": "2026-05-02T11:00:11Z"
+          "title": "Affordable NYC housing options under $1,000 highlighted",
+          "source": "PIX11",
+          "why_it_matters": "Low-cost housing listings may help renters facing severe affordability pressures across the city.",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2pnbjhfdU9seEtuelpOb1NiUDl6bTd1ZGVNZks3X3BYS0xrUzdZVHM1TFRvWE1rdE9mMlFCVWR5YXNMNzB0LWM5SkV6N0hHZ3VwWTNkaFhYYlgzNnc1S3BzVDA3eTFVdldrSnFiMjBYWVBiMW5FNkdMdTJnc1JNLVNsZ2XSAYoBQVVfeXFMUFdYanJGQVB6eXhISTg3OFBYRTBXci1vXzctcUR1Mkd5TjdLcG1EN1lQNU9YZS1xTHh0bmFIUS1nWlpldGhMekNMSC1fR1lsRnpEZi0wYlFqNTFrXzhwTnV0WVNNbkpmZGpfeV92UUx6cTUyQmhkWW9FWEZaMmktWlZuNHBMRWZNWTZR?oc=5",
+          "published_iso": "2026-05-02T23:30:26Z"
         }
       ]
     },
@@ -107,46 +79,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "Largest U.S. maritime gathering coming to NYC this summer",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "A major citywide event could affect waterfront access, tourism, transit, and summer neighborhood activity.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV3BtMDh1aEhGOXRNNjlxVHB2WmVZb1JMNEZvdW0yNVRxcnRMSWUxNkx1dE1obEpTN3BNc25TSUhzcThwWmduR0ZoZ0VmLWw1amxOOGVfamRkZHlSVjhaX0o1emkzaVpxMUdlWHpRcUR3NUxITG9rb2U3ckdPSGtBUFRGblZPUzJoU0J5Njc4MzRvY2NYRlFiTERxdllnMHRFZk5NVjY4VERTbG5RRWpSTnI5bDFzWEttZEQ5b2Nn?oc=5",
-          "published_iso": "2026-05-01T00:37:44Z"
+          "title": "First full-fledged casino opens in New York City",
+          "source": "Spectrum News NY1",
+          "why_it_matters": "The opening could affect nearby traffic, jobs, tourism, and neighborhood activity patterns.",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmZCV1B0b2hKbzg3N2tfczNuTnhId2lUdFJTZnRmMkY0cWE3QVpjaVJxanV6R1IzeFJNSzg3T0ZDYldmaFNQOFoxRXp4Q3FPX09IUGs0ZWhqNFFsS2lPZTRpdEVESzhrRlBOMmpLYWdfNEJIRkpseV9CNlZaWnJyN3F3TFlSUENLT2NSdkNRLUZrSDJMNHZHZHgybjJyQQ?oc=5",
+          "published_iso": "2026-05-02T16:50:00Z"
         },
         {
-          "title": "May Day protests and rallies held across all five boroughs",
-          "source": "ABC7 New York",
-          "why_it_matters": "Demonstrations can disrupt streets and transit while highlighting labor and immigration concerns affecting many residents.",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHM1bUg5b2RmNTBta0llcEdfeVkxQlNSQUQ0Q2pTU3ItOW5PQTNCdl9hN3VpVXdjWl9veWttNWRUSGY5UzlQa09WYl9OOEVITl9HTWdickg3RnZLcWNxZUttM1Q4bHpkcjFGMC1hYVJXS21YUFlsN3RjczRHeUFPNkRScEFWMnU3cUljcVFETdIBlAFBVV95cUxNd0EzQTRWYlAwamtiTGE5R0tiOTBUUW1Hc1dkeGtRVEhUXzQyZFBDcXlXd2E0cWI1Ul9NWk9uY1l0YVhxRWpRNU82UngyWWRoTkluYjRWSHY0OW1aTy1WNmJYbkRiY2dQQXRZUURWTEdvUE14QzdoQTlRbU94Qko1T0pmRnNUbDZ3dDBraUVvNWt5My0x?oc=5",
-          "published_iso": "2026-05-02T01:53:16Z"
+          "title": "Upper West Side residents rally to pause bike lanes",
+          "source": "amNewYork",
+          "why_it_matters": "Bike lane changes can directly affect street safety, traffic flow, parking, and daily commutes.",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVYzVnludkNTZWYySnprUXYxSk1TZWlSMmgzUnp1WWxGNDZfZnV5Q3pIV3ZlSVlHdzZPVEk2bDlwc1diek9oUFR0NnNHamduSjRhOVNnTVUtV0NiZ0pUYkVBV3NXT1Rsc2EtdkowUXhLdE11RGc2RXFrNzNBVVNNalFIeHNvRGlILXc?oc=5",
+          "published_iso": "2026-05-03T13:07:06Z"
         },
         {
-          "title": "World Trade Center steel beam begins national memorial journey",
-          "source": "ABC7 New York",
-          "why_it_matters": "The tribute honors local first responders and keeps 9/11 remembrance central for New Yorkers.",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSHg1c2RROHEyUEJ5M0dIMHJqMGFZTzRjNjREYTIwUzBiWGlFNjdnMFU4bWZ1LW8wbUVzMEFNV0pFUDhURElNZnoxQUx0SENHaVFuNkxiUC1sck1fWkJFRkp2T3VxOHdKalBzMUdSNGRZM1NUcm9abDB0bFJLMV9nRkxLYVZqczlyRTZ6MjAyQU0xYm1SdzNqNkNjWnBuc0xWLVRPLWZzWW1rcU15VW1VOEZTOHlMNTlCT2hQZEFjZHoyZlRuLTlkQTZn0gHPAUFVX3lxTFBFNUJUeWE1enpZWUpBMkJjRnB2WGMtNnc1dldpZ1dLei1hR0Jydjlnb29USkYxWTlMbG1kaEg5UTNRZmRPV2pQUzdmUDBBQmkzeVJKOV9YaU95LTlCQlF6UkZ3aTYzbUYzMEhIcUpXenVpVzdlSm1vVTQ3eWFxNFdBV3hMZkt3TzhMeDJfV1kxTjVVYXczX1Nid3k2aVV3VGxDRm1oMmFBZnBhY3FzVU90bTlpX09WVTB4XzZDdkpVWWkwaF9Xc1hndVhBQXJMMA?oc=5",
-          "published_iso": "2026-05-02T17:54:23Z"
+          "title": "Backyard at Hudson Yards returns with free summer events",
+          "source": "W42ST",
+          "why_it_matters": "Free programming expands accessible recreation and entertainment options for residents during the summer.",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWRTaVJVQTdSc09fMU9WdkNLUWo3SWRwTXBZcngzbldyenVRb2ozVGxUWnpjalBwNGhvTkQxRjZvbGhVMUdJcThHM0hUem1yQmYtMEVWVWpfblF6c2xlcHFSTXA1M2wxZ2Q0NkVwejJlZUQ0dGl6RDhDLU10aXEybG9wS1FOWDQ?oc=5",
+          "published_iso": "2026-05-04T12:05:06Z"
         },
         {
-          "title": "NYRR Mindful 5K spotlights mental health awareness",
+          "title": "Mindful 5K raises mental health awareness in NYC",
           "source": "ABC7 New York",
-          "why_it_matters": "The event promotes mental health support and community engagement around a growing public health issue.",
+          "why_it_matters": "The event spotlights mental health resources and community support around a major public gathering.",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDc4Mk81VXdGMVN1T01BN2FyVk56cUlSdjdwZWY3R0FmY2VvWEhxV2swekwzLXlMQ0JvLS1za2VXX3Vaa3VRX0FmQUw1bGR3d2o2azlFcnFpQm9uUXpJR0hjcnhkcC1OZTdIa19kOWhKbWdoMnQ5NEkxVTNndEE5ZkhEVW1Id3FzMTN1WDhacTRxcDFMdmVYNVYwalFtU1R6MmllWGlwWdIBrAFBVV95cUxQX0syUS12UzdDeGNRd0U3RG1VWkVrVEo5M3pTYTVmNFVrZ3hLc3R3cWdVWTNaNjFaMURqXy04Z1lPcDlXZXJ5d2VSaUJSZVI5MG5rZDNsUU9palhmcGluNEoyRVFLY2kxOG50XzRzeFgtR0hTb2hlUGpRV0VJbnFVclFtZU9rUk9qYU5ESXhsSUZUeDEtcU9lNERNZEliSE0tdkl0VzJ3eEw5MHNF?oc=5",
           "published_iso": "2026-05-02T15:34:43Z"
         },
         {
-          "title": "Rare Keith Haring works go on display in NYC",
-          "source": "Gothamist",
-          "why_it_matters": "A notable exhibition expands access to important New York art and draws residents to local cultural institutions.",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzFUaHFCWlhZOWVISW5VWGNDYUd2b2FveGxRX0VUZ2x4cFlKR3hMWHBDUWlaNmtRMU5SZWpDSHM2Y3JHSjl3Z21qa19jMjVyOC1JenowYjdndDZEYUUyb0dpTkZOUFd3aF9FRl9zNDRLS0lDQ3d3Z3BkekVxV0JNN0YtYTBGbGxMX1c0RTF0MVJFZUNoWTVpTQ?oc=5",
-          "published_iso": "2026-05-02T14:00:00Z"
-        },
-        {
-          "title": "May concert highlights announced across New York City",
-          "source": "WNYC",
-          "why_it_matters": "The roundup helps residents plan affordable entertainment and supports venues across the city.",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMzE5dVk5elcyb0xkMnB5WDdMY2hjQS15U1Yxa2VGekFoYXJFSkdOMnRUODBvazBaSWd5d0ttdThIczVZR2ladFFNdU5qUUxWRl9ZUThTNldhdEljLUNyR3QxejE0ODhNT1B4TTFkTWkzQzMzenU3d3B6Nm02X3NVY2R4VFJBUDNZYlJ5NVJRemQ3Zw?oc=5",
-          "published_iso": "2026-05-02T15:52:54Z"
+          "title": "Ground Zero steel beam begins Staten Island tour",
+          "source": "SILive.com",
+          "why_it_matters": "The memorial tour creates local opportunities for remembrance and community participation across Staten Island.",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUy1tZmlYS1dlZXNvbTlqM1pFcVF3Mk5rcURKWkhzRWZ0aExMa0RQc2J4MV9DYXBGS0E0T0Y5WHV0bjJ3Z19vZ2dla2p6SHdJVDVqT3I1VkRyVE1LQTFxai03akFjUjR6dlRzclRKWGlGTW93OFNJOEl0MkJ1ZkVneWt4UVFiejRydG04Q2Jpa2RGVnB5bF8tbXdFbmdvRXFIM3dtZUw0WU90dUhSZTdmTjN4a9IBxwFBVV95cUxNU0UyWXFacUd0ZVFNbHdtSnlLSUNQZGdFNGctOFJRT3hDRU5CRmk0VWY2dTZ2M095Yk9LWnllWWlfeU9ZdVJ5UzdFQTY2YXJEcXRSUWdPUUU0cDZPWUFJSjJGSUtBZ3R1aE1aaTZraWdVc29sUV8yWnpDU055eVQ3SXZPR1VBemRKOUhGdUlGUVB4SEFERmVSOE5GOG5WcTlqeFRfb085Nk5xY0NvU0I0ajZzVXRLTnZLZnpVQnFJMlRXRmhDbjdB?oc=5",
+          "published_iso": "2026-05-03T00:07:00Z"
         }
       ]
     }
