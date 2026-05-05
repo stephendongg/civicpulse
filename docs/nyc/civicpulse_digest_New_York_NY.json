@@ -1,51 +1,92 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-04T12:23:47Z",
-  "daily_fact": "Spectrum News NY1 highlighted Kelsey Goodwin’s “Clipping with a Cause” in New York City, showing how haircuts are being used to support people in need.",
-  "topline_md": "New York’s latest headlines span urgent public safety and policy fights: major fires in Queens and the Bronx and a fatal Brooklyn bus crash drew attention as the state moved to protect vaccine standards, preserve telehealth abortion access, and launch a $542 million broadband expansion.",
+  "generated_at_utc": "2026-05-05T12:07:58Z",
+  "daily_fact": "TripAdvisor ranked the Empire State Building Observatory in Manhattan among the world’s best attractions, highlighting New York City’s global appeal as a top destination for visitors.",
+  "topline_md": "New York saw a surge of public-safety and infrastructure disruptions, from a Queens blaze that injured 16, including 14 firefighters, to stranded schools, downed wires, and renewed court fights over congestion pricing. At the same time, housing and affordability pressures deepened, with federal cuts, food-stamp drop-offs, transit costs, and shelter-voucher gaps drawing fresh scrutiny.",
   "order": [
+    "risks_alerts",
     "civics_politics",
     "opportunities_welfare",
     "community"
   ],
   "sections": {
+    "risks_alerts": {
+      "title": "Risks & Alerts",
+      "items": [
+        {
+          "title": "16 injured, 14 firefighters hurt in Queens house fire",
+          "source": "ABC7 New York",
+          "why_it_matters": "A major residential fire caused numerous injuries and may disrupt nearby homes and emergency response capacity.",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fNG1PamhVd3JFeFo2ZTAwbGlYNl9zb0FsSU03QkZNZGNEQkJBcmNEV25TaDI3X1RPdmtVVm8wcDRQTFNpT1p3enV4WkJQcV9QbFFSSFM2NUZ4UjhfWUJGdGJjZkE2ekNsOUFCZzFXeVkwUzFEOEFZ0gF8QVVfeXFMUGY2MXRLOElKdUt6X25nMWNLRUFxV2tkdEFWS1VXQXRyQ2xuNUNxdTJWTWo0aEo2YzBvSVh3OU9YMG8wT29HTlFad0hqcjZndk8yRTAwQWx6OUtDbkowRGVER2Z4WVlYQ3JFMGVzU3N6Y2xMU0VTWDVnQjFGUw?oc=5",
+          "published_iso": "2026-05-03T22:31:36Z"
+        },
+        {
+          "title": "Four schools stranded after Broadway building accident",
+          "source": "Tribeca Citizen",
+          "why_it_matters": "The incident could disrupt student access, traffic, and safety for families in Lower Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNjJqdjZ6dnJSZDdsNTdEVy01U0NiWHRWZGdTMU9ZeC1SY1ZRRndmaVE2V0Fhb3ZCeWtqQzRtNFFZWWVrWWNpcUxZOGpJTFZub2VQQUlJdF9Bb2o4S0dMNmw3QUxiUWhhQU5FcXF0NnRBTkVGWHFkZ2hVcXFXbUlqVzJoQklhY3hRUmZNeEowdFl5dW52STBpaWVTd2s?oc=5",
+          "published_iso": "2026-05-04T19:15:20Z"
+        },
+        {
+          "title": "Downed overhead wire prompts FDNY, Con Ed response",
+          "source": "SILive.com",
+          "why_it_matters": "A downed wire can cause outages, transit delays, and immediate safety hazards for Staten Island residents.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXIxQXh6bEp4UFFiWkJILWZsVnZOeE85Qk5KeFI5c1ZPVkhrQTM3elNNbnlYaGR3T0VMbGlzdkN3aE5UcXZjRW9IZDdoUV9RQXhRd2xXYnM4N0k0M0JIRWxqM0F3S0dnZlA4N09yb2I2M0JVSEtmYm1telRrWDhtUFg4YVNIekVVN3NoRE5HcEd1QjNFVkZnSHhRX184YmZtVHFMY2JCd3hQeDJp0gHAAUFVX3lxTFBnam4wVE1XWFd0ek5Bb09CeFM2VElDcFZsS3A2ekw4NDdNdkpwU1UzeFEtYl82WEJXT09OQW8yd2lHeVNTQTB3Z1hHckVGU182Wm5JYmUxX3JTd0RVbjl4OExSRjNsZ1RSOUxEQlJFV3VKZnQ1VzhGc3h6VEhXa1A0ZVB5a0szQlJrUGxLeXJ4U2NTVzJOWGpaLThHb2FwWFNkOTdfRE9IRlM2MHVFUjE0Sjg1cU1SbGtoUkZ5OEgzbw?oc=5",
+          "published_iso": "2026-05-04T13:49:00Z"
+        }
+      ]
+    },
     "civics_politics": {
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "State moves to preserve New York control over vaccine standards",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "State vaccine rules affect school requirements, public health policy, and residents’ access to immunizations.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1pPdWtLNmtpb1ZUV0M4YldjOXA1Z3dMeWdsM0VhU3RHSUVEWGhEREUyZmY3QjVPNHVPaXN1MUJ0clQxUTdWRXZ0MmJRcWJUZ3BDcEJzc0VFNUJwMm5yZjRmMlJpbnJmOF8waXcwbkQtT01NWEl5MGhIcU8tcWFSTkJzWTcyck5XeXFhc2RpRXh6V1dUNTNYYTB4cTFBVXVQTGluVzRhd2ljR0x3dVRZRw?oc=5",
-          "published_iso": "2026-05-04T11:45:00Z"
+          "title": "Trump appeals ruling in NYC congestion pricing case",
+          "source": "NJ Spotlight News",
+          "why_it_matters": "The appeal could determine whether tolls continue affecting commuting costs, traffic, and transit funding.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQalpheVRYOFBpbTh0OTVsTEw1RW1vWjdVVUpwZ1EwS3NoOHd4bTNIN2Z6MnFRLUJXZ1A1R1RFQkt0ckNGV01HTTNsU2tlZzB5T2dpalpma2xSOFJyM0NCVzlPTWFZeDVwSmJzSnlmdWZWNG81YVVTazRONHNEcnBUczg5bWhCOUhkS1NUNG1kdG9tTFlLRnljRnh5Yzk1ZS1pckR4M1NQS3lzUTg?oc=5",
+          "published_iso": "2026-05-05T04:12:07Z"
         },
         {
-          "title": "Test disruptions prompt calls to void New York state exam scores",
+          "title": "NYC proposes new truck routes to protect residential streets",
+          "source": "New York Daily News",
+          "why_it_matters": "The redesign could reduce noise, pollution, and safety risks on neighborhood streets citywide.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM3Vacnh5NFF4Vk5SYmEyVFhpa1pwMkxwalJLZzBDQmtNNnRMSnJKU0lJb2NmVFg0S3dEQ0FsMGx5eVNHdEsxOE1JMzVRVFBhTk1KNTFHeDlpR2psSlZlcHBMS0d1TDVUUFVjbjkyOGQ5QVRibTFQVEQyRndRTGpUMTY1SVRVTktjamFBdXJQNFcwNWR2dkM2SVVRNVZydjB0aG9iV2wxdTNsNEh1QURieTdmYkZjM3dVeGpyeg?oc=5",
+          "published_iso": "2026-05-04T09:00:16Z"
+        },
+        {
+          "title": "Mamdani pushes universal internet access for NYC residents",
           "source": "SILive.com",
-          "why_it_matters": "Exam score changes could affect students, schools, and accountability decisions across the city.",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb083Y2ZrYnBEa19qZE9KcXJIYVZLN2ZJejE3NHdVSE1Ddk8yWFVCVWNUUTVmVTAyc2RUSmEzWnpGSXQyTVdFd25zbzRvMzhqb2pWVkNWLUJBYTYzaUZiMzVzY3JiMm9HMEtaeWdJUzBYSUxtY29nOTNhY1daZ2ZEX3UzWUM1QUxzRU85ZDhPWmdsQTIzbW1tZmpWZDlOTGtxNF9HVFdEaTZfemtxR3hRcWhMUHRHZWZGNEpvQktWMmdEclJ2QmVjcjZIaHQ0bm5YUVHSAeYBQVVfeXFMTmZ0MFdoX2ZTd3ZFTTFTR3ViOHhDSTdURzd1M204YTV1UEdDTVNaTGpqdGdXdmlwLWJWcnJpRHBQZ0hOdmRDZFhpbkdza200WHg1b3NmbnROV2QyaUlKOVBual9RZFhCUjNLZFlWcjRaVy1HQWVPRjZCZDB2dFFHMTZRNnpjcFlCbndLMkY4VFlPU0lqbmloMUR2elVkN2tCeWh1VDVJczBiTFRpODV2Y0JQMm9PYVJQV08zRllKQjZRUnpKeEMya2NyNW9ZRnZCTno3ZFk0dmdSaUJFOHY0ZTFMZ3ZRdGc?oc=5",
-          "published_iso": "2026-05-01T20:37:00Z"
+          "why_it_matters": "Expanded broadband access would affect school, work, healthcare, and city services for underserved households.",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORUdma1dnUlpNT1dOZk10RzNRb2JTdGZWSDV1amFjbWZuVWUxQUVuaU9xMkg3eUpmcDhJY3VNNkNNZ21aVU4zTjU3QTMzNkZQRERlWUd2eV9YVEUzT09aN3cyT25pWXJ5MnVodERQWEpRTkF1dHhDbW45THdvS2xYNmxMNk9ydFNJVDRTN29QUTR4T1VSME0zNFU1SU9DdThFNmxjQVNzb3RqQTR5c0xIcnhiNl9ZcV9sX0p6ZEU0cjJSVEhOUVFuRnp30gHeAUFVX3lxTFB4cEYzc1c0NVpyb050OVlWYmVHTUt0RGdFbjBVV3hzSFhjSVhfbVN2RF9OS2d3RHBRQUc1ckVOVVdWWUxqbUt1S201RU4wUU1VSzl1QWRndEFkXy02cXBjYlVkVkVsVi1CaU5SZVVieWtZUTA1NmxOYlVXUDZwNTh0eGdWNzlqRGNtbXFoSmZNeXEwZ2NDNTMtbWJZbnJtTGNSMjh6WGNIcGxNRk5EUzV5TDVXZXZST0ZXd0VDb0tLdmJtNXRtQnZDWDh3dXFrVDQxX0VvMDJieHpvZjJ4dw?oc=5",
+          "published_iso": "2026-05-04T17:28:00Z"
         },
         {
-          "title": "Fatal Brooklyn bus crash site lacks crosswalk markings",
-          "source": "Gothamist",
-          "why_it_matters": "The report raises urgent street-safety concerns for pedestrians, bus riders, and nearby families.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb19oTEt2WDZRb2tBeWR6eTF0TDdpdXE2WU9OOURUeDBiTHJyalBWMTNtNFBtUjNtbU1WcE5WSlRlUlllbFlUSTZGdnJaTm1vZV9PVzRZZG5rTGtTYmtTQjJDWF94cHI2RDZ3QXhvOGV6UjF0TFpVdWVPdWxDQ1lCOUZYek9wbDBTN1VScHo2NWZ0V0tNbW0yUU9lcjg2Q1pXVmo5aW5vWEloaHpWUS0yWlpHdFNYeWs?oc=5",
-          "published_iso": "2026-05-03T23:25:00Z"
+          "title": "Housing advocates seek stronger tenant protections in New York",
+          "source": "WAMC",
+          "why_it_matters": "Potential policy changes could affect eviction risk, rent stability, and renter rights across the city.",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xcFdsRmFPVXc2XzB2Y2ZRdkY0SnJkdy1QUXhPa3pvUzNjYkFfRGVRSE1Famh2aGRUcDJ0ZGFIVUJoendJaXBEMG5wV3ljdFJ2ZEFhODVpb2M5Y3pLYjE0cGlGY2Q4NEhBMU5tVEw3VUU4RGd3S2pRZmgzOA?oc=5",
+          "published_iso": "2026-05-04T20:00:00Z"
         },
         {
-          "title": "City seeks public input on locations for secure bike parking",
-          "source": "Streetsblog New York City",
-          "why_it_matters": "New bike parking could improve commuting options and reduce theft for cyclists across neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRXVmRWxXaUxSY25LcWlqajZBRmo2RmNGMk1QS2oxWjlHV2lseXFKVVQ5bnlORE5iamtRelZrOGs5WFhWeURFZEhOaVR1OUJWSkFZaVdMazR0Mmgxc1ZYS1FQbGlWWDdZaTVtTUdwNW1KOUw4VDNKWjNGX3pmSUdYMlZQenJuWWZvbjk4VG1ielNwTkpKNVJ6WDF0Mk0?oc=5",
-          "published_iso": "2026-05-04T09:00:00Z"
+          "title": "NY-12 race intensifies in Manhattan congressional contest",
+          "source": "New York Magazine",
+          "why_it_matters": "The outcome will shape representation for Manhattan residents on federal funding and policy priorities.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXhWQm5mbEx2SFV2RWk1OG5BWHFUZEVOU0tMUDZRU3Q3RTNiNkpjT0lHM19ublRBMFF3U3V6VFplTjRMZnUyUjllbV9tVGY0T2dmWmtSZW1vV2xmc0lEM2RWNGtxckJzVG9odWRYQm1RM0tHVkhPekN2bkhVRkJ0ZjNEQ1l3bDlyVTZjREJIdnZxZnJfZWtXNHIyNVI5c1ZBX3ZrSTU0cWlpLW9TMm1oUg?oc=5",
+          "published_iso": "2026-05-04T09:00:18Z"
         },
         {
-          "title": "Lawmakers consider broader pied-à-terre tax expansion",
-          "source": "Gothamist",
-          "why_it_matters": "A wider tax on second homes could influence housing policy and state revenue debates affecting New Yorkers.",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFpScDFLYlZJSVJiYkNIWXY2N0xWZXZCWVlkTXlvem1BdXhoWmdDTlY5bWxKX0VBd2Y2YTdiUXZwb1EzYi1CamVqcW1vb3p0a0VBdldUb3d6VGlfb1lrTXhCSWdmdmRPVURuZFpNVHh4dkxBWkxaeUxhTzJ2M2FtXzhCNWxmVmdTcHVuUjQwSDVQV1prbG9LR0x5aFFkWnVscm5FWnd6LXVCQ3MxT2dXdWtIblBvcU8y?oc=5",
-          "published_iso": "2026-05-03T23:25:00Z"
+          "title": "Redistricting battles could reshape New York political power",
+          "source": "WNYC",
+          "why_it_matters": "New district lines can change who represents neighborhoods and how communities influence elections.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFZsbmVNeDNRLWxocHJraDhkV2NjOUhmbEptZGFyZ3pyUm5CVzhqWG9na1ZGV0pka3cxS29mRWhpQ1FaU21Fb09haTVTMlgzbXVLZGtCcUNkaHB1TnBuRlRicmhnbkRnU0ZnSl9xeTBWWmFLQVl0bjV0Y3g3QXBQNlpQb0hxV0hmaWFQZ1RCNjZBSTJONWF0WnZybk52NlZ0ZmYtZl92QjM4Wm1lVWpReA?oc=5",
+          "published_iso": "2026-05-04T18:55:18Z"
+        },
+        {
+          "title": "Upper West Side bike lane proposal draws neighborhood debate",
+          "source": "West Side Rag",
+          "why_it_matters": "The plan could alter street safety, traffic flow, and curb use for local residents.",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd2cwdUdYUEtsbTlmWHo3VmJESkw2UzFPcXNlNmlyTURTUTBuNFdSbHdsS1VxdXhZZnQ4UDUya0RNbFN2T1M2NXJyRmN2X2JFQnU2MUdyUkZJdFVJR3JJdXQ5Nk5tVzNucVRrV0FZZnZEYTF3czg5QXZ6SmYxRlJZNHJCRDQ1TTJfMkcxWDBkMjc3LUZBMTU0N0cyOVE2TjlyUGZEUUhHNlNQRmJ6bDBrdHNoUHZfVnEyU1lRTldmaDFVTlR1?oc=5",
+          "published_iso": "2026-05-04T14:05:21Z"
         }
       ]
     },
@@ -53,25 +94,46 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "NY keeps telehealth abortion pills available after court ruling",
-          "source": "Gothamist",
-          "why_it_matters": "New Yorkers can still access reproductive healthcare remotely despite new federal restrictions on mifepristone.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTFJJQ2p3V3k0Y2E5UlVFZFJNZmMyeWZCN2k5RlZyTTVwX3hjTkxYYXZzMk1qR055RkNnQmFwaURlV09LcU9iZV9ibm5IZXlUOWVrRFotSjd3eHZmT2I3bk5QQ1hpWm1EdDlHNGtCU3h5b3pXQTBhREZLLWNYc2ZHUGY1b2UzT3NfT0Fla3N3RGo0QXp4dXdkY2FWWDZRb2hvZHJVUENiYVFoU2YwM2RGZ0V1Yw?oc=5",
-          "published_iso": "2026-05-02T17:51:00Z"
+          "title": "More New Yorkers are skipping food stamps amid federal overhaul",
+          "source": "citylimits.org",
+          "why_it_matters": "Changes to SNAP access could leave more city residents without food assistance during a cost-of-living crisis.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc0hvbDBoZ0xDd09VTjEtbTlrYlcyZWx6XzZLTUtFS1hZSm9Oby16TFBocVFsNDRySndtT2xRMXlYbFVvVEkxNml6TkpLejhqbU8wUEdXR29ZM0kzbjcxX2NUNlNJMHJSblJ2VnNyZm0xMGtYbmtYYUVUeFpDdzg2R082WTBfS2NUTnZ3amFFWFo?oc=5",
+          "published_iso": "2026-05-05T08:59:35Z"
         },
         {
-          "title": "New York launches $542M high-speed internet expansion plan",
-          "source": "The Journal News | lohud.com",
-          "why_it_matters": "Expanded broadband could improve access to jobs, school, and services for underserved New York households.",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3g5c2NrZFZDenljZFZlLUtKNTNCUllpaUtTay1aX0FWRDNpTGprTnotSGtrX19DZVhBM2Y5dzBWV0FqbF9OR0haV3gxLW9jdW10cU5TTC1NWm8ySjhRT3dsNUhpUTlsZGNKOEdrWXlSWmVRVlhwQnE1TEhJaVo4bVVXaWhodlhZd3BtUjdJdl82bndtYXdEY0JmVTZEX3NJcEd1eXN5QlZYT2RTMmpzN083c3VxUEpaV1ZPTnVybFl6aHM?oc=5",
-          "published_iso": "2026-05-04T08:04:00Z"
+          "title": "Shelter exit voucher excludes most eligible New Yorkers",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "If most shelter residents cannot qualify, fewer families may secure permanent housing and leave shelters.",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdm1kRGJhUXJsMExhOWRqUDlVUlBLSGNIekwtZnYxTVBMQU9LNTdfU1hVNVd6cWhWQ2pncnlzOVZoc2VHendjQ1FnSjduV0NjSS12M2thdWt0VnJHSXdzdC1sS01zX2NtajE5SU8yd0MzY24zellHSjVTU1FCMGxfY0tNbw?oc=5",
+          "published_iso": "2026-05-05T09:00:00Z"
         },
         {
-          "title": "Affordable NYC housing options under $1,000 highlighted",
-          "source": "PIX11",
-          "why_it_matters": "Low-cost housing listings may help renters facing severe affordability pressures across the city.",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY2pnbjhfdU9seEtuelpOb1NiUDl6bTd1ZGVNZks3X3BYS0xrUzdZVHM1TFRvWE1rdE9mMlFCVWR5YXNMNzB0LWM5SkV6N0hHZ3VwWTNkaFhYYlgzNnc1S3BzVDA3eTFVdldrSnFiMjBYWVBiMW5FNkdMdTJnc1JNLVNsZ2XSAYoBQVVfeXFMUFdYanJGQVB6eXhISTg3OFBYRTBXci1vXzctcUR1Mkd5TjdLcG1EN1lQNU9YZS1xTHh0bmFIUS1nWlpldGhMekNMSC1fR1lsRnpEZi0wYlFqNTFrXzhwTnV0WVNNbkpmZGpfeV92UUx6cTUyQmhkWW9FWEZaMmktWlZuNHBMRWZNWTZR?oc=5",
-          "published_iso": "2026-05-02T23:30:26Z"
+          "title": "Many New Yorkers still can’t afford transit fares",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "Unaffordable subway and bus rides can limit access to jobs, school, and essential services.",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qQlNXYklkeWZxcG54UkpuT2VXMzlJWGFTbTJEd2xIQXVHZHlpcHluS0dVSWhIaXZVZjRCdlBSRkgtQ29QT3hsQlA1UHR4NHZuSENTamJWMDBldmthUjUzWWRnd2ZCMHpOTmNKcnAzTGJROV84alBKQmxR?oc=5",
+          "published_iso": "2026-05-05T09:00:00Z"
+        },
+        {
+          "title": "Some New Yorkers are receiving $5,000 checks",
+          "source": "SILive.com",
+          "why_it_matters": "Direct cash payments could provide meaningful relief for households struggling with high living costs.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlRKeVBnLWpRVVpjSm5IQ0EzamdaZWFETHFELTRjMjZKc3NBcWFRYkJlRWtBQ21KVTg1QkFpd3pqeUljeTk1bVlHekh6cmRkbHFDOHd3N2R0ODFBWWNyY2hEMFV6LWp4czNIVEFrZV9SdnRwR2xkNmxJMmczeUFzUUU0d2c4dDNDXzRSX1FvT2xYaUk4N2tnWHBOYmlnU2RmMXVsUUtsSVVVOXVscFHSAcIBQVVfeXFMT3JYaWlOV1VYaWFPSGtXZkRMSTREQ0Ytdmo1OFhBcTVNekZrVGlsLUlrRUJjdUJiTUVlRU1JV2t0MzBtQWlLZ2xzc2RTWUJZSkdwOU9rSkFuTU5HNTJWVDFoOVNfZmhaZFU0dDl5RWk5Vk1KbkRfcXV1MHo5WXhYQ2dzQlZwdnNldGNvTnBNdThXdmI5XzB0bWFuYzRnR1czNGU4YTJZZTZ4TmtiZlVrUkFMcDNqdkl5N3JpY0cySmpzYWc?oc=5",
+          "published_iso": "2026-05-05T02:51:00Z"
+        },
+        {
+          "title": "Columbia-BMCC degree pathway becomes official",
+          "source": "Columbia Daily Spectator",
+          "why_it_matters": "The partnership may expand affordable routes for community college students to earn four-year degrees.",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVTV1ZFB2MmRjWUxwUXJheHhKUkEwb2ZfWXJQQThxVzJEcnV2YlJ5TXg4M1ZTLVVzUDExUVVybGhxcEU1TDJ1ZWg0OEZNSzFFbnNkS2ZsN1hiV2kyQzJoTmx2ZHlSemRadGQ2OGN3Sm5YTkFJbE1Hcjc0OVhXNmhOSGlMTHV3NC1McWVFb2w0VVhMbHRHcUNOT2dPNkxfVVZnNWhSRnU0REZnZ3NISVZmenN1SWRHaHJpemV4QWVlUWk5TWRkV28wb1BmclBBQQ?oc=5",
+          "published_iso": "2026-05-05T02:50:49Z"
+        },
+        {
+          "title": "DOT plans 500 new bike storage hubs citywide",
+          "source": "amNewYork",
+          "why_it_matters": "More secure bike parking could make cycling a more practical low-cost transportation option for residents.",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IWjVBVDRJQUxKTXBmd0Vyd0U0eTJ5WEtTMVQ2US1pdkJyZ3IwWVNyM21qLVdXYlM2aWpZSFNXRV9nbmpBTUlxSmpueWZmTjZBcWlxOEp1dkhfUU1fVUF1U3k2YUpGdlRGanpNVFBvdG5XZzgzd1Y4Tw?oc=5",
+          "published_iso": "2026-05-04T18:00:43Z"
         }
       ]
     },
@@ -79,39 +141,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "First full-fledged casino opens in New York City",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "The opening could affect nearby traffic, jobs, tourism, and neighborhood activity patterns.",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmZCV1B0b2hKbzg3N2tfczNuTnhId2lUdFJTZnRmMkY0cWE3QVpjaVJxanV6R1IzeFJNSzg3T0ZDYldmaFNQOFoxRXp4Q3FPX09IUGs0ZWhqNFFsS2lPZTRpdEVESzhrRlBOMmpLYWdfNEJIRkpseV9CNlZaWnJyN3F3TFlSUENLT2NSdkNRLUZrSDJMNHZHZHgybjJyQQ?oc=5",
-          "published_iso": "2026-05-02T16:50:00Z"
+          "title": "93-year-old NYCHA tenant battles housing conditions",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "Highlights ongoing public housing problems affecting residents’ safety, repairs, and quality of life.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0phMVZkMm1KV0JHQzdGZnZPZGpHYXd3RWFuN0ZrbkVUTHNaZTAxVnBZV0RKZWxCa3FmdmcwZjlJMFFaQ0toMW1vSXhhOV9Bc3dXSFlqdGRqZ1RtVU9LT0M3ZWNmYWRIdF9OQUc1N2xLbXcwamhlQ2J2eTd6VDdBY3Axd195eDBzRGJaSzNOZmg?oc=5",
+          "published_iso": "2026-05-04T09:01:00Z"
         },
         {
-          "title": "Upper West Side residents rally to pause bike lanes",
-          "source": "amNewYork",
-          "why_it_matters": "Bike lane changes can directly affect street safety, traffic flow, parking, and daily commutes.",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVYzVnludkNTZWYySnprUXYxSk1TZWlSMmgzUnp1WWxGNDZfZnV5Q3pIV3ZlSVlHdzZPVEk2bDlwc1diek9oUFR0NnNHamduSjRhOVNnTVUtV0NiZ0pUYkVBV3NXT1Rsc2EtdkowUXhLdE11RGc2RXFrNzNBVVNNalFIeHNvRGlILXc?oc=5",
-          "published_iso": "2026-05-03T13:07:06Z"
-        },
-        {
-          "title": "Backyard at Hudson Yards returns with free summer events",
-          "source": "W42ST",
-          "why_it_matters": "Free programming expands accessible recreation and entertainment options for residents during the summer.",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQWRTaVJVQTdSc09fMU9WdkNLUWo3SWRwTXBZcngzbldyenVRb2ozVGxUWnpjalBwNGhvTkQxRjZvbGhVMUdJcThHM0hUem1yQmYtMEVWVWpfblF6c2xlcHFSTXA1M2wxZ2Q0NkVwejJlZUQ0dGl6RDhDLU10aXEybG9wS1FOWDQ?oc=5",
-          "published_iso": "2026-05-04T12:05:06Z"
-        },
-        {
-          "title": "Mindful 5K raises mental health awareness in NYC",
-          "source": "ABC7 New York",
-          "why_it_matters": "The event spotlights mental health resources and community support around a major public gathering.",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDc4Mk81VXdGMVN1T01BN2FyVk56cUlSdjdwZWY3R0FmY2VvWEhxV2swekwzLXlMQ0JvLS1za2VXX3Vaa3VRX0FmQUw1bGR3d2o2azlFcnFpQm9uUXpJR0hjcnhkcC1OZTdIa19kOWhKbWdoMnQ5NEkxVTNndEE5ZkhEVW1Id3FzMTN1WDhacTRxcDFMdmVYNVYwalFtU1R6MmllWGlwWdIBrAFBVV95cUxQX0syUS12UzdDeGNRd0U3RG1VWkVrVEo5M3pTYTVmNFVrZ3hLc3R3cWdVWTNaNjFaMURqXy04Z1lPcDlXZXJ5d2VSaUJSZVI5MG5rZDNsUU9palhmcGluNEoyRVFLY2kxOG50XzRzeFgtR0hTb2hlUGpRV0VJbnFVclFtZU9rUk9qYU5ESXhsSUZUeDEtcU9lNERNZEliSE0tdkl0VzJ3eEw5MHNF?oc=5",
-          "published_iso": "2026-05-02T15:34:43Z"
-        },
-        {
-          "title": "Ground Zero steel beam begins Staten Island tour",
+          "title": "Firefighters battle multiple major fires across NYC region",
           "source": "SILive.com",
-          "why_it_matters": "The memorial tour creates local opportunities for remembrance and community participation across Staten Island.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUy1tZmlYS1dlZXNvbTlqM1pFcVF3Mk5rcURKWkhzRWZ0aExMa0RQc2J4MV9DYXBGS0E0T0Y5WHV0bjJ3Z19vZ2dla2p6SHdJVDVqT3I1VkRyVE1LQTFxai03akFjUjR6dlRzclRKWGlGTW93OFNJOEl0MkJ1ZkVneWt4UVFiejRydG04Q2Jpa2RGVnB5bF8tbXdFbmdvRXFIM3dtZUw0WU90dUhSZTdmTjN4a9IBxwFBVV95cUxNU0UyWXFacUd0ZVFNbHdtSnlLSUNQZGdFNGctOFJRT3hDRU5CRmk0VWY2dTZ2M095Yk9LWnllWWlfeU9ZdVJ5UzdFQTY2YXJEcXRSUWdPUUU0cDZPWUFJSjJGSUtBZ3R1aE1aaTZraWdVc29sUV8yWnpDU055eVQ3SXZPR1VBemRKOUhGdUlGUVB4SEFERmVSOE5GOG5WcTlqeFRfb085Nk5xY0NvU0I0ajZzVXRLTnZLZnpVQnFJMlRXRmhDbjdB?oc=5",
-          "published_iso": "2026-05-03T00:07:00Z"
+          "why_it_matters": "A grueling stretch of fires raises concerns about neighborhood safety, emergency response, and service strain.",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOUhWSjM3dWs0VVV3bkdJbzEyTnlvckdyLTF5VTl1aV82dWM0OWFXMUZzenVKX2R3V2dWUEVDQTcwcjVfeW9ndVRIUEo4UF9jemRMV2tReVEzZWxPckUxaldqVElNUzNJaWZCUzVNRzBqM3VXOVVYNnFNX1Y3WTVKS3A5TXA1S2l5MUFOTDV3UWVnZDZNWVJuRGhoMjRwYnJxejFqNHU5YVRiWklpbU9MdFZZWFVaR0ZCeFQ1dVhQbE5Gb2NJZWpycERn0gHeAUFVX3lxTE5wZG8wblVaaU9fMG9HbnhXT21CRGlCWVBXbkJPZzRCOHpMTXVmTDViWnhFaEdHaEZQdGNmZmhUTlU5TWlBbmo4UEZmN3VmUWsxdEs1SE5Dc1h4b3NhRmtuZ0NPb2pEUWs2S00tUGVIbVpfWFplcndweEZWeFduTndWYm1ycVhMeXd2OS1qaHpLZkNfa25qcHUwdFJXMGRmTml0QTVJMXlfenJ3aHF5RUdBRnNjMl8zeS0tbXl4eXNqTnM0emJScVYwMGc5bzdoOTA4Y0lnOGdnZ2tpdjNKdw?oc=5",
+          "published_iso": "2026-05-04T20:33:00Z"
+        },
+        {
+          "title": "Book of Mormon pauses after Broadway roof fire",
+          "source": "Playbill",
+          "why_it_matters": "The temporary closure affects theatergoers, workers, and nearby Midtown businesses reliant on Broadway crowds.",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDJYR0RhVlZFYzNVUmUyRHJNU1Q3bHdTNnN6UTVDQjRNNFJJa2NXNzY2Z19QekRpTkIweFRGcGY0UEs3STFxMHZUNXFPVnNabFhQNE1FdFdDQlg1cFFJYUtxeURJOW1WWHRhdzBYZXRhWFNDTm1lNUxNbS12X3hqN0ZYYzl0VHQ3ajhPWmhYZXZtN2ZoQm1LOXRhR2hPSTZKYWM3SVlENENoZEFoTDVfcjV3NA?oc=5",
+          "published_iso": "2026-05-04T21:13:21Z"
+        },
+        {
+          "title": "Brooklyn People’s Ball spotlights inclusivity ahead of 2026 gala season",
+          "source": "Brooklyn Paper",
+          "why_it_matters": "The event elevates community-centered culture and representation in Brooklyn’s arts and nightlife scene.",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON2RpUGFOMkNtNDZHNWxmOERSTHlLTkZVaHBSbnU2R1BPQV9jRl9pdnJBVmhjeUlIdG9Pd2xWMnFYRkE4bWhwX0szWlZNS1NaYXJ0Ul9LTmdwcC0zdVRLZ3RUQ2s5U2JoS3dHVFpJMHhROER5OXA5N1EtcE5oWUpuZ0l0dVc?oc=5",
+          "published_iso": "2026-05-04T18:41:42Z"
+        },
+        {
+          "title": "New public artwork honors Manhattan’s Little Syria history",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "The installation brings visibility to a largely overlooked immigrant community rooted in Lower Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOejctTFZVUVZLb2xzeHZQUHNEYVRiamRHcERzbnd0Ymt0X1ZNeGxIWE40UzVyQzg2eUdaQUx4Z3c4RVRsQ1h5UTQ0SmJkMTl6Qk5UajhaUkl5UTJnSkxOTWh6Mi1QZllaVkpFLUJZTmtoMUJ2U2RTc0NhSlE1WHlEVXI0RlUzMncxZ2RoVWhFdzVXNUZZelhwakVRX3RRbXRCbVpkX0hBd18xZVpSeXpmWjU2aF9IQ1AtOHJ5bkl6X0ZrT1duRWxpV09aTXM5WFkydWdxcGswenZOcnZfSWdxaFB5ZlJVenV3TDRQclA0REJjQVk?oc=5",
+          "published_iso": "2026-05-04T21:35:07Z"
         }
       ]
     }
