@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-06T12:30:15Z",
-  "daily_fact": "Cate Le Bon will play a New York City show after Woodsist Fest, giving local fans another chance to see the acclaimed Welsh musician live.",
-  "topline_md": "New York’s top developments center on affordability, public safety, and health: City leaders are weighing automatic Fair Fares enrollment, new community-safety and economic-justice posts, and transit/street upgrades, while immigration enforcement clashes, Rikers overdose fallout, rising child hunger, and a Manhattan measles case intensify pressure.",
+  "generated_at_utc": "2026-05-07T13:00:55Z",
+  "daily_fact": "A popular Staten Island gas station reopened after weeks offline, restoring convenient fuel access for local drivers in the borough.",
+  "topline_md": "New York faces a volatile mix of governance and public-service pressures: a possible LIRR strike, federal threats over ICE cooperation, scrutiny of opaque city contracts, and mounting fights over housing, schools, and Rikers. Meanwhile, officials are rolling out transit and street-safety upgrades as health and public-safety concerns persist.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,58 +13,79 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Council to weigh automatic Fair Fares enrollment",
-          "source": "amNewYork",
-          "why_it_matters": "Automatic enrollment could cut transit costs for many of the city’s poorest riders.",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OY3NMRy1Cd19qV2J6Tk41MndWdEd0NUFTeEJ3Sjh6RTdZZDlWT1ZPb3ZHbzJVTGh4VlFqSlA2Y3FoTmtLRUlXVUJSMWhEZVpfV21ZcDYxbXZfNll3MWVpRVVJSXBKMjA2Y2Jpa2xQNVdHOHNrMUJHaWpieTd5S2s?oc=5",
-          "published_iso": "2026-05-05T18:50:45Z"
+          "title": "LIRR strike deadline threatens commuter rail service",
+          "source": "New York Amsterdam News",
+          "why_it_matters": "A strike could disrupt daily travel for thousands of New Yorkers and regional commuters.",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlg3RmgzRlRiU19FYXdFR2lvU3R1RHVyX1htQl9OaGhMR1hxU1dNYlFZSjFsekVpVUF5S3dUaEF2T0RfMTVLdmdBZEZPTG5CVEZiTk9QSkF3OVRGVnVqSkRRUzFlU3hMcFlOV1lrRlRBang3QUVGWHRPUy15ampFLXBGdjlwem81aGFOM3hn?oc=5",
+          "published_iso": "2026-05-07T04:00:00Z"
         },
         {
-          "title": "Mamdani names leader for new Community Safety office",
+          "title": "Trump aide threatens New York over ICE cooperation limits",
           "source": "Gothamist",
-          "why_it_matters": "The appointment could shape how NYC handles mental health crises and non-police public safety responses.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVnU2QUNETXlYS2pGR0NfTXNvS3ZaOUZ5NDkyYl9PME5ndWlRcHA4bFdnWVN0OWRRRmdLRlhVWUVZWThpcGh1MTlmX2tDZlotUlV6WFBWSDVac0pkMTVrZkw2ckNHNTBWbU0zdlJiUzFST1VjdjNIUjI3WU43ZEtJdFVoTUFkMzZDdm9tTW1tYmhKNk9NbDJvMFdNRnNRMXpRY210UzNB?oc=5",
-          "published_iso": "2026-05-05T20:52:00Z"
-        },
-        {
-          "title": "Trump aide warns New York over ICE cooperation limits",
-          "source": "Gothamist",
-          "why_it_matters": "State-city immigration policy changes could affect policing, immigrant communities, and legal fights with Washington.",
+          "why_it_matters": "Federal pressure on state lawmakers could reshape immigration enforcement and local policing across New York.",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXpOYTBfZjRodW9ZNGhpZE15Zlc0RGxuM2RUNjFub2RmYXR6QTlmSTk5ZTQ3ZEw3Rm9YY2VqVzNMSU5EZkVIN2FVUWVVcjA4QkJuRnlOVTlZQUMwZzY4aDhybEdJTnNWQVBZZ3dlTGIwNUdza080RkRma2tOdGZIR25CYzhpOU1vTUl4aWJZYzFBQXdwbWZlS09zcDJqNHZRV3FFNUYwUFJPOWFqSWVlQg?oc=5",
-          "published_iso": "2026-05-05T20:31:00Z"
+          "published_iso": "2026-05-07T00:44:00Z"
         },
         {
-          "title": "Advocates question NYPD role in immigration enforcement",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "Concerns over police cooperation with ICE could influence trust, protests, and enforcement practices citywide.",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS0lxTjUycHFmbC1sWFcwakNzMGFId3VrUVNTUV9OLXVTTGNkWWM3X2Y1SlVaaGhnWERCX1NZUkZTeTNBNE13d0ZXbnJQN01zZTFYc1FZcEtCbjB3NHVwZ1RhamxFc2pVOU9ISEJ4cnFJR1pUX1drZDJtU0ZvN2hvN044WnBZUGZUUTlwcUkyQ1RCY3Bnbk9yZFVHMUxzaWROUFRnTms2UDRBWUpaOHhfQnhKTmQ0d2pVVXFsdHFiYXRLelc2WWN6MkZyNGpVY1lrSkE?oc=5",
-          "published_iso": "2026-05-06T00:30:00Z"
-        },
-        {
-          "title": "Disabled New Yorkers push back on ending 24-hour aide shifts",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "Any change to home care rules could directly affect vulnerable residents’ daily support and caregiver staffing.",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFFwTUNsUnp6OUdGOURRUTJLQTJpNFl3M3dNU0oyN2dWUWZEc2NjREFsdERpLWVnREVxSlVuZ3VMQ29mUmRKeG1pZ2kxWHAxYms5dlE2TTVVM1pVWnYxQ04wZmhYZFp6bW1kRlVURElmRUFjRjJKS1hkcW9tcUZrWEJvcTg?oc=5",
+          "title": "NYC black-box contracts face new scrutiny",
+          "source": "New York Focus",
+          "why_it_matters": "Oversight of opaque city contracts could affect spending, accountability, and delivery of public services.",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX2NydjdUNVdoODdjek9WUGs3OHp3dGh5WWVDR0tyYXcxSFV4SXBYV2tnVkVGbGlod096b0NxOUd0cU1VcEdzRzFON0dKYVExeEpDZGlYS09XSHFEMTJGUUpiMzRueURSOTZrYnd6ajdXaVZFWTNnd2lMUWwxM2liRw?oc=5",
           "published_iso": "2026-05-06T09:00:00Z"
         },
         {
-          "title": "South Bronx pollution study raises congestion pricing concerns",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "If traffic pollution is rising locally, city and state officials may face pressure to adjust the toll program.",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZDBNcURncV9VN214djdEbmhibUVzMlJpSDJlWFVIR1o4OWpiVEZQNHpaMVRlT21jalVoeHJHdkZqbnZqUnN2OU1udWxBeFN2NE9IRzhDOF9NVWVaTG5LcW1FUWhOek5WVVIxNlA0NmZRZzhtYmJicVItUzV6WVlIdV93YUZFRFB6X2JFd0Qtams5TnFIVWVZdW0yWmZDMjRrRjV4bU5vRUpDdF9lSE9SOW54WkR3Znd2M1JYZWItYVRoQnlObVM3dUM0X2I4UXBQX0J0VldHdnNoNkhv?oc=5",
-          "published_iso": "2026-05-05T22:00:00Z"
+          "title": "More NYC school funding may be included in state budget",
+          "source": "New York Daily News",
+          "why_it_matters": "Additional state aid could affect class sizes, staffing, and school resources citywide.",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaUZXeFpMME5ON2FHSlk0OGRUSVBub1Vha0ZUUHgwcllqOGpmT1dscmpXVXllSTFIVzRCanhsY0ZtM3JBSEJGNzlwdms0QXFBVTF4elNVOEM2ZE1fRVdZSUFCbmh3SkpXclloREJoR0NKNWpac1FMbXFIY29uZm51UzdhZ2JuVGhXMExqNmYzUGx2a2RVY0pLYVYxbnRmaGhleS1kTVRuX0xYRjdITXIxSmtQS1NHYUtSNjc0ZFNDcS1hTWJ6N1NtUDRn?oc=5",
+          "published_iso": "2026-05-05T20:52:15Z"
         },
         {
-          "title": "Officials explore first Harlem River ferry service",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "A new ferry route could expand transit options for Bronx and Upper Manhattan residents before the World Cup.",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVExQb1N3Z0QyRWVaN1lnQVBNbVhZdEdvMzNiUWQzY3p3QXZnRVM1QVZ5enlkakhnSFQ4NWJqUnlhRHRpbFphSU85X2FWLVRWdi1xLTIyMjhCVWVidVBTMFFXYXplN2xIVzlJNENWRS1qTXVFcGlpTUxJYl9CaW13VmJMazRFYXdqdlJOU3MxRWdST0pibDJpb0lyUHVjTGNtbWNCVXNHbjZuOENmel9QVVhYaGVXMW4wYXd2bklDemhXN3AwQVU4aGNYX0ZVd0lEZ1pKVlFKRklJV2w4czVDb0RpRQ?oc=5",
-          "published_iso": "2026-05-06T04:03:32Z"
-        },
-        {
-          "title": "Rikers overdose deaths cost city $5.2 million",
+          "title": "Affordable housing loophole hinders larger NYC projects",
           "source": "THE CITY - NYC News",
-          "why_it_matters": "The payouts intensify scrutiny of jail safety and could influence oversight and reform decisions.",
+          "why_it_matters": "A development loophole can reduce affordable units and shape what housing gets built.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSlN6WnNYcTZ4dEtFZ0dLSDU4azVQS2p3LWRjb3JndE8xeFhsX2Fzdm15LUowM3ZvUlk0cFZ5SzQtVGpzWDhEdFlDT0ZhTXZwYnNLb01WeXM1RnVyV2hOWlJVQnN6M3VocUVKalhfZ2tJdGdoRFdCbC1MSnNxS18tQUQzbFpodDZyV3lTTTh5Rkc?oc=5",
+          "published_iso": "2026-05-07T09:01:00Z"
+        },
+        {
+          "title": "Voting-rights ruling could affect NYC elections",
+          "source": "New York Magazine",
+          "why_it_matters": "Changes to voting rules may alter who can participate in local elections and how ballots are counted.",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0gxWnNUTXNGdXBSSjY5djBmUF95d3lQZ2t1R1NkOVNZT0I1VFZucE0zb2czMmhqYUI4MlJMQlM1bGtNLVcwdklKeU1mNURTTXlVMFlBWkFYRksybFY2bndJNUUzTHpZS1MzS1lSazY2RWtfZ0tWTmZlUE9UVjJINlpTRE9Zd1k?oc=5",
+          "published_iso": "2026-05-06T10:00:19Z"
+        },
+        {
+          "title": "Bronx landlords hit with $31 million penalty over conditions",
+          "source": "Gothamist",
+          "why_it_matters": "The penalty signals tougher enforcement on unsafe housing conditions affecting Bronx tenants.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDA2aGgwNjFMZ1dtLWZCVkhfY3hKMm1ibGo2TlNTMVZ2UmhXMEwxRXBjeTUxRHo3d2hvRW53RkNuUlhJU1V3d2p6QmxSSk1Ma1lseHh4cHg1ekNxcE15RzFhZjJuQTZEZWRXQ01XbDRsSHdKekdtNzFyRU1GRzFrTnlBR1Y0SjM1T1NGWnhsV1FiM2pMQVg0M0J5ZTNWWWcxRUYzM0RB?oc=5",
+          "published_iso": "2026-05-06T17:18:16Z"
+        },
+        {
+          "title": "Fair Fares expansion push tests Mayor Mamdani",
+          "source": "Politico",
+          "why_it_matters": "Transit discount decisions could directly affect commuting costs for low-income New Yorkers.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaE83UEMwQUNhY2hyTDVPV3JqMmwwcFB4ZWRXSHV2VUdtUDBnRVdnYXJCd2pXWUZQYUJPSjJGUDZFancxRDlkbllFa2drUEZOY3pRMFlNZ2E2ay1Fdm45czBuZUVNc1kzWHpUM3pWaldpZWpzMU5DVkJCbjNoVnhwYVdEZGRmclAwTGlKZkx0bzdobTZCRUd0U0sxb0xsbENMUkh3TVA0RGM4eTZCVlln?oc=5",
+          "published_iso": "2026-05-06T20:31:05Z"
+        },
+        {
+          "title": "New community safety commissioner named by Mamdani",
+          "source": "Spectrum News NY1",
+          "why_it_matters": "The appointment could influence how the city handles violence prevention outside traditional policing.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGRaekxCSm5LZXd0RnQydGVwQ0t0c05tZC0tNW1STENwQU1YVHU5OEZBUmlSUnhDbS1TRDVFTXpzdEZOcS12aTdiVDJyU3M4eGNCT2xPNS1vd29rTXhLQk9PRGtOMDRoMnBEOFBxd0NiZFFsbWRESDJISlE0eFRBSUhDa3FZN1QzVU1TQ2Fxb3hVSWcyU1UybHVGWnZLQzJ5RzNuOENiWmZDeFNaVlFN?oc=5",
+          "published_iso": "2026-05-05T19:00:00Z"
+        },
+        {
+          "title": "New Rikers closure czar takes over jail shutdown effort",
+          "source": "New York Amsterdam News",
+          "why_it_matters": "Leadership changes could affect jail conditions, borough-based facilities, and the city’s long-delayed closure plan.",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2ZFWVdvWHpTYThjLXdXMDNCeUhBR2lqWmpva2NLRlhpRjcyN0wzcjJnQTdPLXluRjhFZjYyRUNiblFWYVA2TlltRU5nMnNLOXVVcDk3cWJhME9TUkk2bkd4SDQyeEtlUWNab2F0emtqeFBoTTJ3c1ItS3BXZU5rVDVfMlBWS091VFRwMm04bG9xc25D?oc=5",
+          "published_iso": "2026-05-07T04:00:00Z"
+        },
+        {
+          "title": "Rikers overdose deaths cost city lives and millions",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "The case raises urgent questions about jail safety, oversight, and taxpayer costs.",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTEJOLWFYb3U2dUVZcU5pWEhXMEFLcElrVVRCRXloM3c0QVVEbkU4NWxzbnhkeVRKZG9vNDFtTFhiRGNTSG95UjY1OC1DbGRSU0JPcThfUkxmX1N2aUhLNGpBaW8wVGdhLUhLNVhSVUNqODZ2TUE2dy1rYkFqV085YnlmXzYzZU0?oc=5",
           "published_iso": "2026-05-06T09:02:00Z"
         }
@@ -74,39 +95,32 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "More New Yorkers are skipping food stamps amid federal overhaul",
-          "source": "citylimits.org",
-          "why_it_matters": "Reduced SNAP participation can worsen food insecurity for low-income households across the city.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc0hvbDBoZ0xDd09VTjEtbTlrYlcyZWx6XzZLTUtFS1hZSm9Oby16TFBocVFsNDRySndtT2xRMXlYbFVvVEkxNml6TkpLejhqbU8wUEdXR29ZM0kzbjcxX2NUNlNJMHJSblJ2VnNyZm0xMGtYbmtYYUVUeFpDdzg2R082WTBfS2NUTnZ3amFFWFo?oc=5",
-          "published_iso": "2026-05-05T09:00:32Z"
+          "title": "MTA invests $20M to combat childhood asthma in the Bronx",
+          "source": "New York Amsterdam News",
+          "why_it_matters": "Major health funding could reduce asthma risks for Bronx children and improve neighborhood air quality.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDhteGNSdThQQmpaa3EzS0p5UUZNVHNKT2ZJZlpQWjgxSjNfZHBJaUxSZnhhQzdvd3JnUE1aaEV2T2xKbURUZlJoaUxNZUd2LUdSWVcteHJLSWFxc2U3YUQtWDUtamNMQy1TaTZ0RW5ZZ0FHdTBELWRBclJCQXpGWUJ0dWdBTVVBMm1CQnJDME9TTHlhZ3hQRnp2bFZRaW00VVpzMnFRVWJJN0k?oc=5",
+          "published_iso": "2026-05-07T04:00:00Z"
         },
         {
-          "title": "Report says more NYC children are going hungry",
-          "source": "WNYC",
-          "why_it_matters": "Rising child hunger signals growing hardship for families and pressure on schools and food aid programs.",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsN2JYM0RVdk9mWFZLVDZtMWVxd2FBNXcwa21Gc0xiMzc3VHJaMHI4Z0w5NDAtNm1tQmdBM2d0OXJCVzBKWUdPTmlubXp1LWZodUlWTXN5Ujd2WXF1NmFlR0ZzM1FNVm9Edl9Qb0R2eTZVTDQ?oc=5",
-          "published_iso": "2026-05-05T18:54:56Z"
+          "title": "Travel training expands independence for students with disabilities",
+          "source": "Spectrum News NY1",
+          "why_it_matters": "It can help New York City students navigate transit safely and access school, jobs, and community life.",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFJUUUxhYmJFTzVMM0ZKR2tKLTlZWG54ajhqR09LUHVuTTlnUzYxQWxpQVpaTEhaYkRscHYxdldDbU16bTh0QW1jakhWSVBUOHNhX2VLTUVsY000VmJyNG1NV0xZbmprRDlpUEtJM29HNnlKcldyXzlMVG10YjQ3TkJqdks1bEx3ZE1VQjBFelFCbmZaenFNWXF5LXRydVEycWNVbjF6Z3VQNU1qTWNDSXFkcDJpN0tnWHBFTk5n?oc=5",
+          "published_iso": "2026-05-07T09:50:00Z"
         },
         {
-          "title": "State program could send some New Yorkers checks up to $5,000",
-          "source": "FOX 5 New York",
-          "why_it_matters": "Eligible residents may be able to claim significant cash support during a costly time.",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkE4QmlndFVadXctWUZ4RmgzMkkyMGtSeU9ndWY0dlZWMlh3b3hSNE85R0tKb3FSNEpVaWtOd190OGZyQ0VmUEpWblFpNGU5c0h0VHJ4NjBEa1ZmUzJZOWNrM1VRYnJZUnJqc0xYRndURnBvYWQwQjE3ejNHUmhXWl9NcnBFQVHSAYwBQVVfeXFMTnV2QzFvQWxLWDl0LVdqalZjQzNsSG82dzQ4VU8tN2FtUUNEOVJPbTMtYnhQWlZiWVA3bDNWRlNJdlg3TUJzU0VKZTNaSHE1eFJLOEpsS0QxVENCUmNERWZwZ1VCb0t4Y040NDdoRnAxR3U4V3VaZGRvb0gzTmJfb1N2VmpaSWZvaXVMcDc?oc=5",
-          "published_iso": "2026-05-05T19:47:43Z"
+          "title": "NYC to add 500 secure bike parking hubs",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "More secure bike storage could make cycling more practical for commuters and reduce theft concerns citywide.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0ZQVXJXMHg2WHJvNlFQS3daMUNEQXhOX0poNHJlbU5rRHVWOTlkTDlNTE5SVzhtV2xwUkZFbFg0aTlFVGd3NFR4OEphTG05SHJUYTJlNlFZWUY5UVExbHUtblhZcUdIOG1MYXkyU1dHQkxOY095MzdnV1RtbGFYTUxSSHN4ZGE3S3dNMEFjQV92T1dCMzBKZWg3VW1EQmlvZUxSYkp1VE5sQk82ZUE?oc=5",
+          "published_iso": "2026-05-07T00:26:02Z"
         },
         {
-          "title": "NYC to open five new public schools in Queens and the Bronx",
-          "source": "ABC7 New York",
-          "why_it_matters": "New schools can ease overcrowding and expand options for families in fast-growing neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkU2dHRMMENvVUQtMFJHSFloNS1iY1lObHlfeDdGdDQzb2tCdlNSd1lvT2NlN2tDNUZfeDNpNHFlMW1JZS0zME84cWh4RnNidHhsSE91TVFsUEVsWnJGSm1wYXM0U2FKTU9QS1o5ZlF6Q3g5YWp0Ti1XcDNTa0xzYXdIamx6YU8xVVVnVGpnZGJfWFd5QlHSAZsBQVVfeXFMTlJiVWlBU1RweVVkb3lkcFVMUjRHY2dYMU1FV0l6VHNNUFQwazF0U1hMa2hWdGZ0V1lhRkREejNxeDMwS08yWURNakJYQk5nSkVQb3kwRGd6QW5XSjctQjNxSkpjX3psLWMzeXBZWXZyUU9MZGhLQnJEQ0thSnRNaFJ5aWR6ZjJydVUtNnlwT3pqWDF6ai1UbEJXMjA?oc=5",
-          "published_iso": "2026-05-05T20:52:25Z"
-        },
-        {
-          "title": "Bronx childhood asthma gets $20 million from congestion pricing funds",
-          "source": "NYC.gov",
-          "why_it_matters": "The investment could improve health services and air-quality protections for Bronx children.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMXhzaHE2YzYxcGN1Q0xzVjNWdHMzSlF2SThoWVB4NnJlZHRic2xTRl83dFVYUmcwaVZtQ29zLWNCWXJzZTV6NjBld0lXZ3ZjR0FYaWNELXlGeTVQR3E0V2tEbmZfSzI4cHJTX0JuMWd5c2Z6TldpcE1wcmNGV1FOZjhkTko5d2drUVoyU1lWOUxXcXgxLUtBbWIxMFFid09GYUcwajNJcXZCeVBiN1c5TQ?oc=5",
-          "published_iso": "2026-05-05T18:00:21Z"
+          "title": "MTA seeks contractor for Chambers Street J/Z station overhaul",
+          "source": "Streetsblog New York City",
+          "why_it_matters": "A long-delayed station upgrade could improve safety, accessibility, and daily commutes for Lower Manhattan riders.",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalgxQm84TUdDcjV3OHo5d2hCdUlTOXJGNEdUWDRjQk5NM2wwelpXSThNb1gyVi05WEVnbzhiRUNkU3g5c1hNdGNLRTNQcWtRR1k5YUZRUEJtUDBwLU5ZSnBTV0g4bkdsSTA2TDlGeEVJYTBaRWlJN2ItVEl4cE9JNHNINF9TcFlxeUxDX1FJUWpudTJDNkdURmlobEpzXzFNU3JMYTlvZ0htYm9wSktyNGNkWEprb2RQU01Sd1FB?oc=5",
+          "published_iso": "2026-05-07T04:05:00Z"
         }
       ]
     },
@@ -114,39 +128,25 @@
       "title": "Community",
       "items": [
         {
-          "title": "FDNY urges ‘close the door’ fire safety practice",
-          "source": "NBC New York",
-          "why_it_matters": "Fire safety guidance can help New Yorkers reduce smoke spread and save lives during apartment fires.",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWXlIYjhXU1RuOUwtSnUxS0I1ZlAzaVN6UXFYcmM4SEZOMHRkbi1CODBqLXNMSjlDN3BpOGpDdWd0d0hObVkwXzNxRG5fMkNIX0RpTW5KLVBCeS1NXy1lekt3dTBCX2xIRVh4Y1VMaW8yTTctMW8zMVhNcjZNYlZ0cHlPUWY2d9IBjgFBVV95cUxNLXRyajlMUE9BZ1MxaXBEMXNUSFQ5aDBGTElaTGdWZlppZ0JJeC1menNhSE9yVkEyQUltWHc2eDQtejlBTE13bHJhdGc0RXNvUXluNTFpdkRqQ1JFYkJVWlVieVhNenlYRjNFRnZlN3M0R2hPQWs5Tk1HOWJxZmNNTURacGVvMFZDSzVZMGpn?oc=5",
-          "published_iso": "2026-05-06T03:49:00Z"
+          "title": "Primark opens new NYC store this week",
+          "source": "FOX 5 New York",
+          "why_it_matters": "A major retail opening can affect local shopping options, foot traffic, and nearby business activity.",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xeTB6Vlh0a2podGUwX0Z4UEdzc2h4bnZKQjNLNkJVZkRQb1M0bWdiUTZtcGpPOUpOMDhIOWNEekVNVG5vQ1Z5blNfWl9tLUlTV3BFTFctQ2h1blFK0gFiQVVfeXFMTVUwSDhGcTBFSlVzODFyaFpCSGdHb1poQnU1WWRVWUthdVdBZWVUMFRBRHBtMVZMRF85NGFvc0hpWmNfOWVTUzItNDNsQ1A0MnlCY2pqa1JpeDczSXQ4Qi1RQ0E?oc=5",
+          "published_iso": "2026-05-07T11:37:34Z"
         },
         {
-          "title": "Sacred Sites Open House returns across New York",
-          "source": "ILoveNY.com",
-          "why_it_matters": "Residents can access historic houses of worship and neighborhood landmarks during this annual public event.",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWFwbkxlNU9EYVY5amExUTBzTXkwNEJtQXJPN1M0VG1zNlNsTTg4SjJNby00UEtCdmYzQjdHazVBU2dfZE94S1htRHBDUm5qRlVyanBHWlM1UDkyT1ZTeE5ydHA1dUdsdGtiZzhGWUp0ZTJGanpHaGw0UUpaQzQ5TWhST2RNN2FLUzAwVnpGMlY0WUcyUGlJNzh0WDY4c3ZoQlJka2FOOFlPbXdlR0ZZ?oc=5",
-          "published_iso": "2026-05-05T16:57:25Z"
+          "title": "NYC Pride names 2026 Grand Marshals",
+          "source": "ABC7 New York",
+          "why_it_matters": "The announcement shapes one of the city's biggest public events and draws broad community participation.",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFkzeVhEV3ZZaXlQbHhyMFBraHYyNUk4dEU2dXVGYy02STRKazBRZnFRcGhjaVNrLV9rQURQQ1NSbGltejVweWNVTzh5WXBhNUFDdWlJcDhJbjNfSmNCMy04TXdOZWVsTFcwMTNEdlhLVWs3b0xMcnhvLVg4aGJxUVpEVVJjZ9IBiwFBVV95cUxOWTlSRUVGMmszRlF0dW44Z1l4N0FkWDUxdHVhWFZHRnB1NHhUZWE1NjlDNkphbXQwMjNCcVFnMUQtUGNUY2ZTZlNha241Nk9lVS1TQ2RMOEc4TzhVOGxXbjJkbTBfTFRzTzNKODU2RDZqbUlvV29RUTU5RlN1SlBtSVBuTHczUU44Y21Z?oc=5",
+          "published_iso": "2026-05-06T16:24:14Z"
         },
         {
-          "title": "Brooklyn’s People’s Ball spotlights inclusive local fashion",
-          "source": "Brooklyn Paper",
-          "why_it_matters": "The event offers a community-centered alternative celebration highlighting Brooklyn creatives and broader representation.",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON2RpUGFOMkNtNDZHNWxmOERSTHlLTkZVaHBSbnU2R1BPQV9jRl9pdnJBVmhjeUlIdG9Pd2xWMnFYRkE4bWhwX0szWlZNS1NaYXJ0Ul9LTmdwcC0zdVRLZ3RUQ2s5U2JoS3dHVFpJMHhROER5OXA5N1EtcE5oWUpuZ0l0dVc?oc=5",
-          "published_iso": "2026-05-04T18:41:42Z"
-        },
-        {
-          "title": "Jim Henson’s Creature Shop opens NYC tours",
+          "title": "Jim Henson Creature Shop launches NYC tours",
           "source": "Gothamist",
-          "why_it_matters": "The new tours add a distinctive cultural attraction for families, visitors, and longtime fans in the city.",
+          "why_it_matters": "The new tours add a distinctive cultural attraction for residents and visitors alike.",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaThJcGFQZDBGWXVyYW1VZnpVaFBMZ0JLMmdDVFJSVGlCNlBOMHRaaXFLa1NLRTR2U1czSnF4REV3Ml83RmVBWWR0Q3VMV1IyZjBEdzYwa3hpOVVUOU9RSHZ0dkUzek9hRUJhQU9NVVF6T3JOOGlHci1jc3dfbjlMUmJ0OXVmT3lyWUZjLXRUYUxZSExDS3IxcU5WN3dDSkZReWhra1kxb3RnaVpNeU9oTkdWNGRJbGEtSnREcFItVmtZTHR6VXYwUk13?oc=5",
-          "published_iso": "2026-05-05T15:00:00Z"
-        },
-        {
-          "title": "Six Cinco de Mayo celebrations planned across NYC",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "The roundup helps residents find timely neighborhood events and cultural celebrations happening this week.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzVIUmFRWHpyTkxBUlYzcnZEVllWVGdVTVBscHUyVUplN0NhYTZHSjRxQmcycTBZOWRWUWlCZ0lKVW9xM0ZiT1FKdWw3VGhxUzZoNnVOci1qSHRKa3B2RmxucWp5TWhBS1hjWUROS0dZQlFZOWdLYjhNOFdodFpFY3I1VnVFTGRTMjR4MFJvTG13MDVzNndDSXh3bEttYmw4ZE1wVzJORzZyMnBDNTZaRnlR?oc=5",
-          "published_iso": "2026-05-04T22:44:13Z"
+          "published_iso": "2026-05-05T15:01:47Z"
         }
       ]
     }
