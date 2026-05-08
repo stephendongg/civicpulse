@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-07T13:00:55Z",
-  "daily_fact": "A popular Staten Island gas station reopened after weeks offline, restoring convenient fuel access for local drivers in the borough.",
-  "topline_md": "New York faces a volatile mix of governance and public-service pressures: a possible LIRR strike, federal threats over ICE cooperation, scrutiny of opaque city contracts, and mounting fights over housing, schools, and Rikers. Meanwhile, officials are rolling out transit and street-safety upgrades as health and public-safety concerns persist.",
+  "generated_at_utc": "2026-05-08T12:12:07Z",
+  "daily_fact": "A luxury houseboat in Jersey City just became the NYC metro area’s first such rental listing, adding a unique new housing option near New York City.",
+  "topline_md": "New York’s latest headlines center on city and state governance under pressure: Albany is advancing a luxury second-home tax while avoiding higher income taxes, as NYC faces scrutiny over opaque contracts, transit labor and fare fights, housing loopholes, and public-safety concerns from Rikers to antisemitic incidents.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,81 +13,60 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "LIRR strike deadline threatens commuter rail service",
-          "source": "New York Amsterdam News",
-          "why_it_matters": "A strike could disrupt daily travel for thousands of New Yorkers and regional commuters.",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlg3RmgzRlRiU19FYXdFR2lvU3R1RHVyX1htQl9OaGhMR1hxU1dNYlFZSjFsekVpVUF5S3dUaEF2T0RfMTVLdmdBZEZPTG5CVEZiTk9QSkF3OVRGVnVqSkRRUzFlU3hMcFlOV1lrRlRBang3QUVGWHRPUy15ampFLXBGdjlwem81aGFOM3hn?oc=5",
-          "published_iso": "2026-05-07T04:00:00Z"
+          "title": "NY to tax luxury second homes in NYC",
+          "source": "CTPost",
+          "why_it_matters": "The new tax could raise city revenue and increase costs for owners of high-value pied-à-terres.",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnpsel8zaE15MHNsOVFrVXhKUzdPcTUyaG1jMFc2cGVzUU80TEpDQ195TVdaakwzQnhDMHdvOUJkRVpqZjhRVjlMcS1vNjdaUzVPb1lxNnJNYUk5S0lFdVFsLVBhMFFHQnlhRzUtcnVwUFBlbS1fR2d4enl3OGc1OThUTkN2ZzFsblRqWDdyTWRrU3BKNjZqaXh5cGNwZ2lF?oc=5",
+          "published_iso": "2026-05-07T21:29:24Z"
         },
         {
-          "title": "Trump aide threatens New York over ICE cooperation limits",
-          "source": "Gothamist",
-          "why_it_matters": "Federal pressure on state lawmakers could reshape immigration enforcement and local policing across New York.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXpOYTBfZjRodW9ZNGhpZE15Zlc0RGxuM2RUNjFub2RmYXR6QTlmSTk5ZTQ3ZEw3Rm9YY2VqVzNMSU5EZkVIN2FVUWVVcjA4QkJuRnlOVTlZQUMwZzY4aDhybEdJTnNWQVBZZ3dlTGIwNUdza080RkRma2tOdGZIR25CYzhpOU1vTUl4aWJZYzFBQXdwbWZlS09zcDJqNHZRV3FFNUYwUFJPOWFqSWVlQg?oc=5",
-          "published_iso": "2026-05-07T00:44:00Z"
+          "title": "LIRR strike threat looms as MTA, unions resume talks",
+          "source": "ABC7 New York",
+          "why_it_matters": "A strike could disrupt commutes for thousands of Long Island and city riders within days.",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ0s5Y2VtbW5NT2RxY2tzX3k4U1NISzhFSXcyaUhlUGRjZzBGR2xwTTBMMl9lbXpUdXFnZ29FYjdUNFBHcE9Ed0JnM2VienhaemZXTnNDaVhVVTFGcHFvcDdkVkoxVHhsQUpKQ1luMWpLU2hMWWNoRXRtTWlKSE1ya1BvYzh3bFFCb0kxYjhrNzRkZ9IBlwFBVV95cUxNUE1kNDBQX3R2ZXVqblk1Q3MtOG1FeVA0am11cHY5MlM2TnJnTURHREhMMURzN1dvSWNJaG55N3ptckNWV2Z3Umhrei1FeUx3TFR3TXZjbkxfRnV4YXlvVk5ZNVltTmdjbXJacUMtWjdKWldRZkJfanI4MEJkekpGQldpbTJLdjFiU2dGU3lkSlZZZzhSUnNR?oc=5",
+          "published_iso": "2026-05-07T11:13:05Z"
         },
         {
-          "title": "NYC black-box contracts face new scrutiny",
+          "title": "NYC’s multibillion-dollar opaque contracts face scrutiny",
           "source": "New York Focus",
-          "why_it_matters": "Oversight of opaque city contracts could affect spending, accountability, and delivery of public services.",
+          "why_it_matters": "Greater oversight could affect how taxpayer money is spent on major city services.",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX2NydjdUNVdoODdjek9WUGs3OHp3dGh5WWVDR0tyYXcxSFV4SXBYV2tnVkVGbGlod096b0NxOUd0cU1VcEdzRzFON0dKYVExeEpDZGlYS09XSHFEMTJGUUpiMzRueURSOTZrYnd6ajdXaVZFWTNnd2lMUWwxM2liRw?oc=5",
           "published_iso": "2026-05-06T09:00:00Z"
         },
         {
-          "title": "More NYC school funding may be included in state budget",
-          "source": "New York Daily News",
-          "why_it_matters": "Additional state aid could affect class sizes, staffing, and school resources citywide.",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaUZXeFpMME5ON2FHSlk0OGRUSVBub1Vha0ZUUHgwcllqOGpmT1dscmpXVXllSTFIVzRCanhsY0ZtM3JBSEJGNzlwdms0QXFBVTF4elNVOEM2ZE1fRVdZSUFCbmh3SkpXclloREJoR0NKNWpac1FMbXFIY29uZm51UzdhZ2JuVGhXMExqNmYzUGx2a2RVY0pLYVYxbnRmaGhleS1kTVRuX0xYRjdITXIxSmtQS1NHYUtSNjc0ZFNDcS1hTWJ6N1NtUDRn?oc=5",
-          "published_iso": "2026-05-05T20:52:15Z"
-        },
-        {
-          "title": "Affordable housing loophole hinders larger NYC projects",
+          "title": "Affordable housing loophole blocks some 100-unit NYC projects",
           "source": "THE CITY - NYC News",
-          "why_it_matters": "A development loophole can reduce affordable units and shape what housing gets built.",
+          "why_it_matters": "Closing the loophole could unlock more housing production and affordability in a tight market.",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSlN6WnNYcTZ4dEtFZ0dLSDU4azVQS2p3LWRjb3JndE8xeFhsX2Fzdm15LUowM3ZvUlk0cFZ5SzQtVGpzWDhEdFlDT0ZhTXZwYnNLb01WeXM1RnVyV2hOWlJVQnN6M3VocUVKalhfZ2tJdGdoRFdCbC1MSnNxS18tQUQzbFpodDZyV3lTTTh5Rkc?oc=5",
           "published_iso": "2026-05-07T09:01:00Z"
         },
         {
           "title": "Voting-rights ruling could affect NYC elections",
           "source": "New York Magazine",
-          "why_it_matters": "Changes to voting rules may alter who can participate in local elections and how ballots are counted.",
+          "why_it_matters": "The decision may reshape who can vote locally and alter city political representation.",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0gxWnNUTXNGdXBSSjY5djBmUF95d3lQZ2t1R1NkOVNZT0I1VFZucE0zb2czMmhqYUI4MlJMQlM1bGtNLVcwdklKeU1mNURTTXlVMFlBWkFYRksybFY2bndJNUUzTHpZS1MzS1lSazY2RWtfZ0tWTmZlUE9UVjJINlpTRE9Zd1k?oc=5",
           "published_iso": "2026-05-06T10:00:19Z"
         },
         {
-          "title": "Bronx landlords hit with $31 million penalty over conditions",
-          "source": "Gothamist",
-          "why_it_matters": "The penalty signals tougher enforcement on unsafe housing conditions affecting Bronx tenants.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDA2aGgwNjFMZ1dtLWZCVkhfY3hKMm1ibGo2TlNTMVZ2UmhXMEwxRXBjeTUxRHo3d2hvRW53RkNuUlhJU1V3d2p6QmxSSk1Ma1lseHh4cHg1ekNxcE15RzFhZjJuQTZEZWRXQ01XbDRsSHdKekdtNzFyRU1GRzFrTnlBR1Y0SjM1T1NGWnhsV1FiM2pMQVg0M0J5ZTNWWWcxRUYzM0RB?oc=5",
-          "published_iso": "2026-05-06T17:18:16Z"
+          "title": "NYC bars Citi Bike from using facial recognition for age checks",
+          "source": "New York Daily News",
+          "why_it_matters": "The move affects rider privacy rules and how bike-share verifies users citywide.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUUx1NU10bU81cGpjY19QV1Y2eE9xSTk1MjNHRl9rcWYxSjg1QmhWZFZ2RmJ2aFBzS1BDaE1DR3Vnb0M0NDhnbHY1YVE0Q2V4c3VXSzZKRFRLOWpEd282SDQyVDZVYW84NDAzWTFvYjlYLVEzQUU5SXNiQ2hnU0U4T2VJTF9rd2lxNUdrbDJGRVRVeXAxS2RMd01CX2pWX3pJU0RhbU1naTVHMWs0ZVE?oc=5",
+          "published_iso": "2026-05-06T20:07:08Z"
         },
         {
-          "title": "Fair Fares expansion push tests Mayor Mamdani",
-          "source": "Politico",
-          "why_it_matters": "Transit discount decisions could directly affect commuting costs for low-income New Yorkers.",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaE83UEMwQUNhY2hyTDVPV3JqMmwwcFB4ZWRXSHV2VUdtUDBnRVdnYXJCd2pXWUZQYUJPSjJGUDZFancxRDlkbllFa2drUEZOY3pRMFlNZ2E2ay1Fdm45czBuZUVNc1kzWHpUM3pWaldpZWpzMU5DVkJCbjNoVnhwYVdEZGRmclAwTGlKZkx0bzdobTZCRUd0U0sxb0xsbENMUkh3TVA0RGM4eTZCVlln?oc=5",
-          "published_iso": "2026-05-06T20:31:05Z"
+          "title": "City pays $5.2 million in Rikers overdose death settlements",
+          "source": "New York Daily News",
+          "why_it_matters": "The payouts spotlight jail safety failures and add costs borne by city taxpayers.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM0NxSUtDX3RXWmJIS2RLUGpKNDd3czJDQXRQblRCZmpBVU1GV3BoZG55ZU1XVFNfZmRmejJYdVZCTGJsRGUySmhtT3hWYWVDdzE2XzNVTVF6bHQ5TTRvZk5FUXNraG9KX0lGTUJQUlF5Q01kUEZ2MFBydkg1OEZRODlwVGNBLXBUYkQ0TGw3Qm80S1czUjIyQTVBZ3lyN0dCaXBnUjlXZGZvQ2J1Z0ZlbGttYUNQdXZkN3dvOG5QeFk?oc=5",
+          "published_iso": "2026-05-07T13:46:27Z"
         },
         {
-          "title": "New community safety commissioner named by Mamdani",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "The appointment could influence how the city handles violence prevention outside traditional policing.",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNGRaekxCSm5LZXd0RnQydGVwQ0t0c05tZC0tNW1STENwQU1YVHU5OEZBUmlSUnhDbS1TRDVFTXpzdEZOcS12aTdiVDJyU3M4eGNCT2xPNS1vd29rTXhLQk9PRGtOMDRoMnBEOFBxd0NiZFFsbWRESDJISlE0eFRBSUhDa3FZN1QzVU1TQ2Fxb3hVSWcyU1UybHVGWnZLQzJ5RzNuOENiWmZDeFNaVlFN?oc=5",
-          "published_iso": "2026-05-05T19:00:00Z"
-        },
-        {
-          "title": "New Rikers closure czar takes over jail shutdown effort",
-          "source": "New York Amsterdam News",
-          "why_it_matters": "Leadership changes could affect jail conditions, borough-based facilities, and the city’s long-delayed closure plan.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN2ZFWVdvWHpTYThjLXdXMDNCeUhBR2lqWmpva2NLRlhpRjcyN0wzcjJnQTdPLXluRjhFZjYyRUNiblFWYVA2TlltRU5nMnNLOXVVcDk3cWJhME9TUkk2bkd4SDQyeEtlUWNab2F0emtqeFBoTTJ3c1ItS3BXZU5rVDVfMlBWS091VFRwMm04bG9xc25D?oc=5",
-          "published_iso": "2026-05-07T04:00:00Z"
-        },
-        {
-          "title": "Rikers overdose deaths cost city lives and millions",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "The case raises urgent questions about jail safety, oversight, and taxpayer costs.",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTEJOLWFYb3U2dUVZcU5pWEhXMEFLcElrVVRCRXloM3c0QVVEbkU4NWxzbnhkeVRKZG9vNDFtTFhiRGNTSG95UjY1OC1DbGRSU0JPcThfUkxmX1N2aUhLNGpBaW8wVGdhLUhLNVhSVUNqODZ2TUE2dy1rYkFqV085YnlmXzYzZU0?oc=5",
-          "published_iso": "2026-05-06T09:02:00Z"
+          "title": "New red light cameras expand across Staten Island",
+          "source": "SILive.com",
+          "why_it_matters": "More cameras could change driving behavior, enforcement patterns, and street safety for local residents.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ0k3cE5zY0tiWjVTRVh6aEwyb2hBRVFiRG00bFNWTmV6MXVPWmhvNGZYSFo1dXU0SUJxWWo1WVRJdDNyakgzYTN0bUpjeGtNR1RRYm9NdjdmRTdaZ3EyMjZ3dVp2ZFc1cVVvMDBIRWR1US1WTC1sRGhvOFZvRlppS3pna1RabDRScjdUdnYxcm01dnJYeDQ2V2Z6VWE5cGEydEFqd3ZKeWJSbTZkcmdjNklUMWp5LTZkX1ZkaNIB0AFBVV95cUxOVkFKX2E4WmtxT285WktNUlNUVVVaTExKWllxSlJmTTk1aThsbENnUkR6WUx3b2ExcXpWT3lMeXlqS1FRRFQ2WE96cTNXZ0xsaC1QRFVETDdzVGUzRE1pYklzMXdEQWx4YkgtcDRBSW1KckNpZTc0NVRrdXBuMHNCRnkyY0NkalFaaXhlSEp0aUxnSHVycW5CNHBhM01WalpFaUNPbEVpcHF3eTFDRTlzR25jenhKSXpUQlZNOHJveXYyUF9Cd3ctaHdyT3E4TDhm?oc=5",
+          "published_iso": "2026-05-06T09:50:00Z"
         }
       ]
     },
@@ -95,32 +74,39 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "MTA invests $20M to combat childhood asthma in the Bronx",
+          "title": "NYC households face SNAP benefit losses in 2026",
+          "source": "NYC Food Policy Center",
+          "why_it_matters": "Reduced food assistance could worsen hunger and household budgets across the city.",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNk4xOUYzZVR2UUxvR2diMEFZTGJKN1dLR3lDUFFBLUQ2OVVLaUJHY2pyQkVoY0ZERWhzOFVNYXM1Y0RtTUF2Yzd5VHVTbGFEOFhBcm5IR0xKQVJmZjNGdEhJTHdZbkJ3T1l5bm0zVWV5dG5CVkJiSVh6SmtZMDhuMXQ5VHFvUEFwMjU0RFpXWkZaUmpYZ0RhX0Nn?oc=5",
+          "published_iso": "2026-05-07T19:15:19Z"
+        },
+        {
+          "title": "MTA commits $20M to fight childhood asthma in the Bronx",
           "source": "New York Amsterdam News",
-          "why_it_matters": "Major health funding could reduce asthma risks for Bronx children and improve neighborhood air quality.",
+          "why_it_matters": "The investment targets a major health burden affecting Bronx children and families.",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDhteGNSdThQQmpaa3EzS0p5UUZNVHNKT2ZJZlpQWjgxSjNfZHBJaUxSZnhhQzdvd3JnUE1aaEV2T2xKbURUZlJoaUxNZUd2LUdSWVcteHJLSWFxc2U3YUQtWDUtamNMQy1TaTZ0RW5ZZ0FHdTBELWRBclJCQXpGWUJ0dWdBTVVBMm1CQnJDME9TTHlhZ3hQRnp2bFZRaW00VVpzMnFRVWJJN0k?oc=5",
           "published_iso": "2026-05-07T04:00:00Z"
         },
         {
-          "title": "Travel training expands independence for students with disabilities",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "It can help New York City students navigate transit safely and access school, jobs, and community life.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFJUUUxhYmJFTzVMM0ZKR2tKLTlZWG54ajhqR09LUHVuTTlnUzYxQWxpQVpaTEhaYkRscHYxdldDbU16bTh0QW1jakhWSVBUOHNhX2VLTUVsY000VmJyNG1NV0xZbmprRDlpUEtJM29HNnlKcldyXzlMVG10YjQ3TkJqdks1bEx3ZE1VQjBFelFCbmZaenFNWXF5LXRydVEycWNVbjF6Z3VQNU1qTWNDSXFkcDJpN0tnWHBFTk5n?oc=5",
-          "published_iso": "2026-05-07T09:50:00Z"
+          "title": "Health officials discuss hantavirus concerns in NYC and New Jersey",
+          "source": "ABC7 New York",
+          "why_it_matters": "Residents may need updated guidance on exposure risks and prevention measures.",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNanZJUFBQb1A0NVpjZl9sZ2VGZDhQNEVLRXlDX1VlV3M1cThIV3plX29yR2gzdkt5aTdtVzZvQVlnbl9fb1EydUVHZGJPUk5xV1ZBbFhZc1BmWHk1SV9EMFFpNVhjNi1jc2xYV2FSTUJyU3BCRTVDUWJCanl6MzVGUDBVek5fLTNuM3NzNFJ2WnREVnMzZktxRk1WS2VBdFp6ZEFBRm1uRm1JRnFmYmQ4ZGJNQzF0d9IBuwFBVV95cUxOaDFWYjgycGl5S1hsZ2dMNXQwQkg4bGxPc3ljYkhGYTYzemhmdFBmVkhTMnhxWFktOUtjLWk5RTQwY1JDZnFiaHN5cm5wSkI4anI4LWFaVURFdXo2RjlWNG01bmtsSlV0LUJPX3NFMjdWTzQ5bU9DcEQ3dUhLa1VIMFFoTGhTTy1SNVhZSjJWR3BfQlFUd1haSlgxR3c4a2JhWHVpM2ZlRlNTTmZNOXZIRVVYQ3BaTFU0Vi1n?oc=5",
+          "published_iso": "2026-05-07T20:28:38Z"
         },
         {
           "title": "NYC to add 500 secure bike parking hubs",
           "source": "Time Out Worldwide",
-          "why_it_matters": "More secure bike storage could make cycling more practical for commuters and reduce theft concerns citywide.",
+          "why_it_matters": "More protected bike parking can expand commuting options and reduce theft worries.",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0ZQVXJXMHg2WHJvNlFQS3daMUNEQXhOX0poNHJlbU5rRHVWOTlkTDlNTE5SVzhtV2xwUkZFbFg0aTlFVGd3NFR4OEphTG05SHJUYTJlNlFZWUY5UVExbHUtblhZcUdIOG1MYXkyU1dHQkxOY095MzdnV1RtbGFYTUxSSHN4ZGE3S3dNMEFjQV92T1dCMzBKZWg3VW1EQmlvZUxSYkp1VE5sQk82ZUE?oc=5",
           "published_iso": "2026-05-07T00:26:02Z"
         },
         {
-          "title": "MTA seeks contractor for Chambers Street J/Z station overhaul",
-          "source": "Streetsblog New York City",
-          "why_it_matters": "A long-delayed station upgrade could improve safety, accessibility, and daily commutes for Lower Manhattan riders.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQalgxQm84TUdDcjV3OHo5d2hCdUlTOXJGNEdUWDRjQk5NM2wwelpXSThNb1gyVi05WEVnbzhiRUNkU3g5c1hNdGNLRTNQcWtRR1k5YUZRUEJtUDBwLU5ZSnBTV0g4bkdsSTA2TDlGeEVJYTBaRWlJN2ItVEl4cE9JNHNINF9TcFlxeUxDX1FJUWpudTJDNkdURmlobEpzXzFNU3JMYTlvZ0htYm9wSktyNGNkWEprb2RQU01Sd1FB?oc=5",
-          "published_iso": "2026-05-07T04:05:00Z"
+          "title": "New NYC Charter School Finder launches for families",
+          "source": "qgazette.com",
+          "why_it_matters": "Parents may get an easier way to compare school options and enrollment choices.",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeVllSEJMeXZvSDVJVkNvNjdqdG9WeXJoRC1Nd1A5c0xmdWhLYWxLSVJ3NEFQV1F1YVByYVdkaVVPdWV1dzllb2tGeF80cHlqQnl4UU9qWmVqYzZVUkhZaVJzREJzYTZFanEzaktHUlhvUm1rQ2pwRXM2ZzNGV3Noa2o5N081Zw?oc=5",
+          "published_iso": "2026-05-07T19:37:22Z"
         }
       ]
     },
@@ -128,25 +114,18 @@
       "title": "Community",
       "items": [
         {
-          "title": "Primark opens new NYC store this week",
-          "source": "FOX 5 New York",
-          "why_it_matters": "A major retail opening can affect local shopping options, foot traffic, and nearby business activity.",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xeTB6Vlh0a2podGUwX0Z4UEdzc2h4bnZKQjNLNkJVZkRQb1M0bWdiUTZtcGpPOUpOMDhIOWNEekVNVG5vQ1Z5blNfWl9tLUlTV3BFTFctQ2h1blFK0gFiQVVfeXFMTVUwSDhGcTBFSlVzODFyaFpCSGdHb1poQnU1WWRVWUthdVdBZWVUMFRBRHBtMVZMRF85NGFvc0hpWmNfOWVTUzItNDNsQ1A0MnlCY2pqa1JpeDczSXQ4Qi1RQ0E?oc=5",
-          "published_iso": "2026-05-07T11:37:34Z"
-        },
-        {
           "title": "NYC Pride names 2026 Grand Marshals",
           "source": "ABC7 New York",
-          "why_it_matters": "The announcement shapes one of the city's biggest public events and draws broad community participation.",
+          "why_it_matters": "The announcement spotlights a major citywide event that draws large crowds and celebrates LGBTQ+ communities.",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFkzeVhEV3ZZaXlQbHhyMFBraHYyNUk4dEU2dXVGYy02STRKazBRZnFRcGhjaVNrLV9rQURQQ1NSbGltejVweWNVTzh5WXBhNUFDdWlJcDhJbjNfSmNCMy04TXdOZWVsTFcwMTNEdlhLVWs3b0xMcnhvLVg4aGJxUVpEVVJjZ9IBiwFBVV95cUxOWTlSRUVGMmszRlF0dW44Z1l4N0FkWDUxdHVhWFZHRnB1NHhUZWE1NjlDNkphbXQwMjNCcVFnMUQtUGNUY2ZTZlNha241Nk9lVS1TQ2RMOEc4TzhVOGxXbjJkbTBfTFRzTzNKODU2RDZqbUlvV29RUTU5RlN1SlBtSVBuTHczUU44Y21Z?oc=5",
           "published_iso": "2026-05-06T16:24:14Z"
         },
         {
-          "title": "Jim Henson Creature Shop launches NYC tours",
-          "source": "Gothamist",
-          "why_it_matters": "The new tours add a distinctive cultural attraction for residents and visitors alike.",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaThJcGFQZDBGWXVyYW1VZnpVaFBMZ0JLMmdDVFJSVGlCNlBOMHRaaXFLa1NLRTR2U1czSnF4REV3Ml83RmVBWWR0Q3VMV1IyZjBEdzYwa3hpOVVUOU9RSHZ0dkUzek9hRUJhQU9NVVF6T3JOOGlHci1jc3dfbjlMUmJ0OXVmT3lyWUZjLXRUYUxZSExDS3IxcU5WN3dDSkZReWhra1kxb3RnaVpNeU9oTkdWNGRJbGEtSnREcFItVmtZTHR6VXYwUk13?oc=5",
-          "published_iso": "2026-05-05T15:01:47Z"
+          "title": "Staten Island advocates honored at Women of Achievement luncheon",
+          "source": "SILive.com",
+          "why_it_matters": "The recognition highlights local residents making tangible community contributions across Staten Island neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd1BremhwSV9iR3Rpb2duSHkwMUJMU1hQNl9Mc3VZdk0xeENvQTBFMmlLME1CMDZHYjVyQXVrLUFmUklESGlnSDI1a0RHQkowS1lFR2xacWJzckpIWFZtQTlFQUdSTWM3dTZ0SkdKZmdlRC14TWR1WjBmT0tQZWN4U2M0aURmcHNseWJTZXNHTVRkcXVhUlRsV3JtRUNCY0pHcVVZNnpUQ01QcV9jZ0hHQlZ2Qjl6RjNGMWluYXBNbTB6N2F3bXNidEFXWW1MeDhPRkHSAeYBQVVfeXFMTUlhdlMwczY2bG1tcFktSGRkeGVMalFkOWtaN2lsZl85SnZUSFlPaGszNzFxdTVSdS1BT2s2NWpac1dwSTJ4dlpXSjN1bkg2MnJvS0lJR2dNZ251MnhuVVU1VGFwOGJVWlg5Z3IxekdSTFpUcHlScWN2TVhYLW92TzVKRTF2R2hHeklWcnE2VkMxanhXNzQybC1KU2JoMkhGeUxIQVNmY2ZUVTdybURBSXFWejVBdEpJWmN3a2pzdFpMaXBVV0YtTnBDcE1DNE1CZi1VSkFndW1ha2lxa1pRSVJVLThYM0E?oc=5",
+          "published_iso": "2026-05-07T21:33:00Z"
         }
       ]
     }
