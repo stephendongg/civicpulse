@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-09T11:54:49Z",
-  "daily_fact": "Time Out Worldwide highlighted Michael Ayoub’s pick for New York City’s best pizza slice, celebrating the city’s enduring culinary excellence through one standout local favorite.",
-  "topline_md": "New York’s week is dominated by high-stakes public policy and service pressures: MTA-LIRR strike talks resumed as Albany advanced housing and tax changes, while the city also faced child-welfare oversight accusations, transit safety incidents, and fresh public-health alerts on measles and hantavirus.",
+  "generated_at_utc": "2026-05-10T11:56:26Z",
+  "daily_fact": "On Friday, several New York landmarks will glow blue to honor National Donate Life Month, celebrating organ, eye, and tissue donors and raising awareness across the city.",
+  "topline_md": "New York City’s biggest cross-domain developments center on oversight and public safety: ICE detention actions and a proposed state budget curb on ICE agreements coincided with allegations of blocked child-welfare oversight, while major student-data breaches and school tech-audit gaps exposed vulnerabilities. Housing and health also moved sharply, with a possible NYC rent freeze and expanded Legionnaires’ inspections ahead of summer.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,60 +13,67 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "LIRR strike threat looms as unions and MTA resume talks",
+          "title": "NYC rent freeze moves closer after board vote",
           "source": "ABC7 New York",
-          "why_it_matters": "A strike could disrupt commutes for thousands of Long Island and city riders within days.",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ0s5Y2VtbW5NT2RxY2tzX3k4U1NISzhFSXcyaUhlUGRjZzBGR2xwTTBMMl9lbXpUdXFnZ29FYjdUNFBHcE9Ed0JnM2VienhaemZXTnNDaVhVVTFGcHFvcDdkVkoxVHhsQUpKQ1luMWpLU2hMWWNoRXRtTWlKSE1ya1BvYzh3bFFCb0kxYjhrNzRkZ9IBlwFBVV95cUxNUE1kNDBQX3R2ZXVqblk1Q3MtOG1FeVA0am11cHY5MlM2TnJnTURHREhMMURzN1dvSWNJaG55N3ptckNWV2Z3Umhrei1FeUx3TFR3TXZjbkxfRnV4YXlvVk5ZNVltTmdjbXJacUMtWjdKWldRZkJfanI4MEJkekpGQldpbTJLdjFiU2dGU3lkSlZZZzhSUnNR?oc=5",
-          "published_iso": "2026-05-07T11:13:05Z"
+          "why_it_matters": "A rent freeze would directly affect costs for many stabilized tenants and landlords across the city.",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdkdtMTlnTWY0ZlJMc2Rubnc3cUZ4dEtWd1JCLTFzMlNfYjdRazBmSWN5OVJlQjdHc2s3VW1BQjR5VUpfYVNkeVVUOG1XM2w3UWtZYlE1aFcyWXIxUEFxamNmZjNNZldwbXdCNEtjVVVRSmx6czVvSEFDNnBhb3FnLXEzUXhkSUowbEVBX1U3ZkNSd3poYjM3aGFyMkJ6VjJzWkd4aE1ramVLQl94WWFmOTMwdFh2U19jbmZrc2hiMld0YUZBVWlBc0pmN3ZXWmJDODNr0gHYAUFVX3lxTE9PR005U1BHZDA5UzczYlh6Z2t3ZmJPUlBzbWR1QTNmLWJSYjVkVFNCRWtyUnpVTUZIR2YtMkRKdGd1QUFvTndieGhOUXBvZHI5a1ZrS3Azak4zQVFhVjlLNFhyeDZKb0k3Mnp5MEpWWEpza01TRi12YV9Qd2h3clBpYTdndmgzalNCc3ZjOGJ3Nm9OWDcxYkRrbjFkS1BacW5aSTF3Zlk3N0dMZ1lrWGxUR3otOEVYanJNcEl6aXJtVHJyWmlxS2RrYzUyNVVDbVZ2N1VrYlBuMQ?oc=5",
+          "published_iso": "2026-05-08T22:31:37Z"
         },
         {
-          "title": "State budget taxes luxury second homes in New York City",
-          "source": "CTPost",
-          "why_it_matters": "The new tax targets high-value pied-à-terres and could raise revenue affecting city housing and budget debates.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnpsel8zaE15MHNsOVFrVXhKUzdPcTUyaG1jMFc2cGVzUU80TEpDQ195TVdaakwzQnhDMHdvOUJkRVpqZjhRVjlMcS1vNjdaUzVPb1lxNnJNYUk5S0lFdVFsLVBhMFFHQnlhRzUtcnVwUFBlbS1fR2d4enl3OGc1OThUTkN2ZzFsblRqWDdyTWRrU3BKNjZqaXh5cGNwZ2lF?oc=5",
-          "published_iso": "2026-05-07T21:29:24Z"
+          "title": "Budget deal would limit ICE cooperation in New York",
+          "source": "citylimits.org",
+          "why_it_matters": "State restrictions on ICE agreements could change how local agencies interact with federal immigration enforcement.",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDBOTGpnLUNzYkNud3gwb3poLVJSbU5GM2tvajZQSkhqLXJEWVd6YjJKMnRIVVlobnVzOHZRSE1KamdLc0VjYWVvOTRBWmY2bkJGY0xwYzY5UmlfSnZHVEZEd0JVVmpwVUJKSzNoWnBZQWhCdnRQdDRfRy1aSXhNWjJ4ZEhjeVR0c0F3SXpxSGpjY2dwSlEwanNsZC1DQ1p5NEg5YkxreWNlaVFDTldMUE9PV3ExVktMVlItTVZCaHhNOGJDZ0lyYw?oc=5",
+          "published_iso": "2026-05-08T18:54:05Z"
         },
         {
-          "title": "State budget fast-tracks housing by limiting environmental reviews",
-          "source": "NEWS10 ABC",
-          "why_it_matters": "The change could speed housing construction in New York, affecting rents, development timelines, and neighborhood projects.",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pOHZwWk4wSWxBdDMzZkJhc0ZGRUFMWUh2NjJMc0Z6aFVvRkdHYUFYa3g2ZFdxMURiWi1BS2dNVlczZnF4b0lXQmZIbzEwM0cwVjRyQW51UkNHdjVhQ3l6UG1MWmluSVRa0gFuQVVfeXFMUFFIUHdvRDMzTWd5aGZQa2h6TnM3bjJ1aTF3RjlnNC0teXlJYW9ydWtrZUh1aWxzTlMxWjQ4X1I0ZmdFQmItTkNNdURHcHpZclE0Y2x6YXNPMUVZRWptcnRaSk5zRU8xQVZCYlBQSnc?oc=5",
-          "published_iso": "2026-05-08T22:04:44Z"
+          "title": "Student data breach hits NYC schools and Columbia",
+          "source": "New York Daily News",
+          "why_it_matters": "Families may face privacy risks after a major cybersecurity breach involving student information.",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTBrZnJoR0lsbThHVnVqeWVsQXhMd0MwaGRXQ3hDalRha3BmaVc4RWtUTllkVm5EdXlIYmVoaDU3anM3R0VwLU9aN2ZrY1l3YkFDTEhJT3ZyZlFUZHVVRFMtT2VfS1c2RFVPNkl4Z3gzSW1icklTcnpVVDFsSXBZaUR0YmNCZVFBNzlCVHByc3dSSTBsUC1kZlFTaXhFQkhsc0xZZGxPdWVmNVNDUkJMNlUtRUV3Z29palE?oc=5",
+          "published_iso": "2026-05-08T23:08:21Z"
         },
         {
-          "title": "Support weakens for bill ending 24-hour home care shifts",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "The bill affects vulnerable patients, home care workers, and how long-term care is delivered citywide.",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcW1BLXhqd2l0bXdDdnY2aEpTZGpDbjdoV2tWQi1pN3JBM05FLVlaUjZLXzdoMllHc0Z4S1piZkdvRTlxa1ZQQjIzN3JmTTBHVlFRMFREWll0OVp0Ukg0UTl1by1xckdHZHd5N3dTWm5rM1pOM1ZIV3lNczNjSUtxS2NBRG8?oc=5",
-          "published_iso": "2026-05-07T22:09:00Z"
+          "title": "Audit finds weak student-data oversight in NYC schools",
+          "source": "Gothamist",
+          "why_it_matters": "The findings raise concerns about how safely public schools manage students' personal and educational records.",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjNMUGxpREdOYXhhT1p3bmp0b2JXWFlRbzByUjUzR3EyVXNiNDc0M2dSZzRLZmZoeU1RcTlyMU1Pc3ZJRGEzaGg1a1E5SUVkY1VwcFo1d0Nwb2JET0phRUx0VDhLN3ZmV1JjV2FOSFZuVG0zTmxORXljTjVBVzdjWUxyNTVEZ2NoWnJjSDlDcGFja0FXRGVBXzNEdFBfSzhm?oc=5",
+          "published_iso": "2026-05-09T20:13:00Z"
         },
         {
-          "title": "NYC investigator says state blocked child welfare oversight",
+          "title": "ICE detains woman before congressional oversight visit",
+          "source": "amNewYork",
+          "why_it_matters": "The incident intensifies scrutiny of federal immigration enforcement at a major Manhattan immigration center.",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HN1V1RUdMa3I1ZjQtMTZfX3VrQWstUFJXb1ZPNFVyeDJxckNPOVNGeHRhV3NqZXNxeGdWYUhqbGU3T0hTVmduLUYyX1hxWVlxSUszM1IydC04d2ZDSng4TWJTSFZQREtFSWFsVVI5WS1maWRuM2otS3RQcWV0UQ?oc=5",
+          "published_iso": "2026-05-08T17:45:14Z"
+        },
+        {
+          "title": "State accused of blocking child welfare oversight in NYC",
           "source": "The Imprint",
-          "why_it_matters": "Alleged interference could hinder accountability for agencies responsible for protecting at-risk city children.",
+          "why_it_matters": "Reduced oversight could affect accountability for how vulnerable children are protected and served.",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdk1Ub25fYXRvRjhtT2VOT05ycG5CVmNzTG1oaG1jeHRTMDVNNEFyR2U5UFdWazZ6aWFibVV6NFg3TXByTEFVOFA0NEpRdjQ4OWVpeHZqNndFanVQM1A4MVRZVS1USkJmLU4zRm1TTE8xQW1hbVZYVWRNY3JwYmd1WnVJQkJubVppSmJFR25VNjR5Z3pNTzNTN1VDRERXNnJkbXVBdmZvVnZYSEot?oc=5",
           "published_iso": "2026-05-08T18:04:29Z"
         },
         {
-          "title": "Civilian fare inspectors deployed across NYC buses",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "Bus riders will face expanded ticket checks that could change boarding, enforcement, and fare-evasion practices.",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRnZLMHZvdXkzR0tMS0VPRTNPYkZYVWpQU0dWYUphdGE4ODBXQWpaN0JQSldxWUY5Y0Y4OUVzUVl4OFViNm41NTBNT1VwYlBFLXYxdy1mSmx3YXlZT0Q2TXhyenVPTXg4TUJ0VW9pem11dnUwS1JfSTNfektVY2R4cHZ6REs4ZFdRVjNfSzZLZDJzckdiSXBGQ3BSd3hKeXZWU0pJNThidk4xZzVfU1E5Uk5wUnVBY2JzWC1PaVJ0aVlrcmRVNTc5WmZkS2Y4bF9Z?oc=5",
-          "published_iso": "2026-05-07T22:26:04Z"
+          "title": "PBA sues CCRB again over police oversight",
+          "source": "Newsday",
+          "why_it_matters": "The lawsuit could reshape civilian oversight of NYPD misconduct investigations and discipline.",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT3JVakpjNlRURFJkOXBWazhTQVZkanEzaHR1TlhlT2VoR2Y3U0NnX1pvNVJmdTBjaGxfUWZGR0VIblFxNy1ubk9OQUw3a3hDMEZSWlJZZzdheE5WRE5fc2xXVVFZR2JJMG1aOUZHWi1reTZWRkhIRGdybnlTN2ZWVjllcnk2azA?oc=5",
+          "published_iso": "2026-05-09T22:11:08Z"
         },
         {
-          "title": "Bronx leaders back bill targeting surveillance pricing",
-          "source": "News12 | Brooklyn",
-          "why_it_matters": "The proposal could limit how companies use personal data to set prices for consumers.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUU4zR0I0ejRoeVBYZ3FGX084cUduT21uY2NKaUYzX3JIX2ptMGpzNDVPcF9CUGptbS05R2ljMzA2Q1E1eXlZZm82TU8zUzhTQTVrRjV5TWlwblBRdWllMGVYWV9Cd090SGRuMm96SEFZSG9MYk9rZlM2ZUZ0elZSMXdSamJSd1NicmI0ajNBaFlycGpV?oc=5",
-          "published_iso": "2026-05-09T02:25:29Z"
+          "title": "Support weakens for ending 24-hour home care shifts",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "Any delay would affect home care workers and medically fragile New Yorkers relying on long-shift aides.",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcW1BLXhqd2l0bXdDdnY2aEpTZGpDbjdoV2tWQi1pN3JBM05FLVlaUjZLXzdoMllHc0Z4S1piZkdvRTlxa1ZQQjIzN3JmTTBHVlFRMFREWll0OVp0Ukg0UTl1by1xckdHZHd5N3dTWm5rM1pOM1ZIV3lNczNjSUtxS2NBRG8?oc=5",
+          "published_iso": "2026-05-07T22:09:00Z"
         },
         {
-          "title": "New York joins federal tax-credit program for private school aid",
-          "source": "New York Daily News",
-          "why_it_matters": "The move could redirect education-related donations and intensify debate over public versus private school support.",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdU9TbXExMGo2TWQ5Z19fbFJiUjdCQWtfTGctRHNBX21YbFNPUzR0WHl3bENzal9ObGNUb0d4Z0ZPQ2NzNFhvd1NpblVTQVQ2WHNFVU9ONHBuNVFGNk1Ic2c1Tm9PMmhWUkJzcTBhSDhEMjctRUNjOEJXLUpQYjBsakVreWlUajRXM1J6V20zeXJOZkpSdW9aZHRfZmMzaE1YVGUtWkNCNF9oNlkyV0Z3cElIT29YS0xiYllOdV9LVGotblhBYXMtNmozWFRSbW5YbGc?oc=5",
-          "published_iso": "2026-05-08T15:05:24Z"
+          "title": "Hochul pardons 19 people convicted in New York",
+          "source": "SILive.com",
+          "why_it_matters": "The pardons affect reentry opportunities and signal the governor's approach to criminal justice policy.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTXNqQWVGMzhjb2gyb0hSU1FWalZnRThjQkNzYXczT3VxcEV3WnNSZS1OeEVsU3M1YUhGT2J6Qm96d0dDenFCTTBuLVB3a1ItbnUtczBiUHB6WEhmamJoNFpPMVdiaEtwWXNEUDh5VHBnWUZLeF9jN29EMDNjYW05THNIUUdKTjZJLV9hbEVjc1kzUmo4MkllRVB1ekYwNmJHSHFzS204dXZtRXRkWTVVU3ZB0gHGAUFVX3lxTE11Q3lJaEFQYTltMjc2OW92cmFBNEJfaVlkanFvVkw5RkRGN1l1RFlkZkJQQnZfQ2h4ajNLWEpubkFVMUFEa081UHdlaF9LcC05Zy0xV0kxbXB2SnVUSnNpNjRWX014bjVJcXNydVJZNUFoZGpkWm1HT2JCcVNUVmVHamxJdnZBQnhJNjhmalAwR2JxVTdiVkozeTBxZzhueVVNRG9pUG9XbFYyYUw0Z2VBYkdYUFlqYVFhWUVTcWl4MWZGdVlQdw?oc=5",
+          "published_iso": "2026-05-09T21:15:00Z"
         }
       ]
     },
@@ -74,46 +81,18 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Bronx transitional housing gets $1 million federal boost",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "New funding could expand temporary housing options for Bronx residents facing homelessness and housing instability.",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVHdfdXBkRjZjb0FuMmVnTGxzUVdmdG01eDZTdloyb0JxbmYtemk1blNIV2N6dXJKZ0FGZzA3MWpISzFVTHNjU3RFZXpfZFJkcDZXR3daVDk1UWhJdmxHTk9XMHQxT0R2MXBKT28tbjJ1NVhQZmd6UkdFY3g1NGk1UmZLNGw1QUlVcW91SmNXbld0Qm1uTDA2aHV5dTBsWlExZlBnMTlYWjIxM1MyazdibVU5ZFFVeWRlQ3hETHBBWC1aVzRJcHBFeg?oc=5",
-          "published_iso": "2026-05-09T00:00:00Z"
-        },
-        {
-          "title": "NYC households brace for SNAP benefit losses in 2026",
-          "source": "NYC Food Policy Center",
-          "why_it_matters": "Reduced food aid could worsen hunger and strain family budgets across the city.",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNk4xOUYzZVR2UUxvR2diMEFZTGJKN1dLR3lDUFFBLUQ2OVVLaUJHY2pyQkVoY0ZERWhzOFVNYXM1Y0RtTUF2Yzd5VHVTbGFEOFhBcm5IR0xKQVJmZjNGdEhJTHdZbkJ3T1l5bm0zVWV5dG5CVkJiSVh6SmtZMDhuMXQ5VHFvUEFwMjU0RFpXWkZaUmpYZ0RhX0Nn?oc=5",
-          "published_iso": "2026-05-07T19:15:19Z"
-        },
-        {
-          "title": "NY Waterway ferry fares rise Monday",
-          "source": "NBC New York",
-          "why_it_matters": "Higher commuter costs will immediately affect New Yorkers who rely on ferries for daily travel.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0R0NEY1MGc4Yk1zM2d2ZldVVUlSVWdURnZycjlwT3pfQ1VrT3R1cVlXZFZ6U183ZjlLblc5STNIU3FLQ3NBMXNrdmJSeXNjbVE1bnNaeFVoQ04zOV9jb3NGSGp4WWZla2htV3FuRkx2NlRLV0dSOFpSMk1nY3dKVExMQ2VXSmpYSmNyc21ELXNzRWkxMDNNU2dCN2dxTDFD0gGoAUFVX3lxTFBkcXVWQURpZVd2V0V0Z3o5SW5qMzJNYzA1OE5falVydEItYjl4VjdTMjViTEE0a3lRaE1jODJGOXlGNWZxaWt2ay1uVm9yMkRVVDZ1aXJXbEREX1lfM1d4SzBnc0lQRUZNNFkzTy1xUjdxZzB0THZldURCUFZvaDQ3dFhBU0o5NnRGQkpWU0JqRWpHMHptM2loYWtScC1YdkFIeWFSVVY4UQ?oc=5",
-          "published_iso": "2026-05-08T11:41:13Z"
-        },
-        {
-          "title": "NYC pilot offers AC battery incentives and bill savings",
-          "source": "NBC New York",
-          "why_it_matters": "Residents may cut electricity costs while helping reduce summer grid strain and pollution.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTl8wNEZPLTBTelJ6WkdYM19kTlJtSzdQQ1VTclk4LXk0MVpLX2FiN0pISV91UWlwUmlVUTJGT1Y3UVpTOU1UUDZ4UW91OWhib0NJcHZfcUFJQW1BRmgyYmJfR0I5bjlZQXJ5dWNxcXYxYXlmcGxMTHBIaXlIZGhNc0pJeDNES3dOeTVQVDRWb2F5QVpBSEFUY0gxWndBbmpGVmhaLV9sVHVsNF80M185U3RR0gG6AUFVX3lxTE5tQm1OWUhmYVo5VUNHbzR1aE5yb3dtbkkwcUtuc2JVaWpyZHBLZmUtanpTWUFfV2pmNjZZd3dSSDZ0MHJuQXBGUEx2ODhicUs4ckRyVzA2UEJoaVF1T2ZzdXI4MU5VR0M4Y0J3ejM3MmtQNmVreG5iNkNsMkJtRl9UdFFCbjVPVHNGeG9fc1lfLUNFUThadDZKY3BmQmxEMTRiOWM1d1RoQkp4ZUhfTk9UUUppOHRidjdiZw?oc=5",
-          "published_iso": "2026-05-07T17:52:52Z"
+          "title": "Brooklyn and Bronx apartments available from $962, application ending soon",
+          "source": "Epicenter NYC",
+          "why_it_matters": "Low-cost housing opportunities are scarce, and eligible New Yorkers may miss this chance if they wait.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMElDSjl4bmEwSWdYNU1pMXpyT2htLUpobm1sd0p6eTMzZ3laNFBXR0t0REpGd3RMSVBLMHBPaS1CZ0RSSU9qN3FZYjZDdGhqcDRRSHVUdjdLVkFBS29Fb2ZMdWE0Y25vNlY4Y3BvSWtOV3ZLdTJtNVV0QmJZRnI0U1plSXdEVHN3ZjFvQ1lnSGpDMG5Kb1V1ZnJtdG04UDNEeVE?oc=5",
+          "published_iso": "2026-05-08T14:37:23Z"
         },
         {
           "title": "Staten Island trash bin deadline approaches",
           "source": "SILive.com",
-          "why_it_matters": "Residents need bins soon to avoid sanitation compliance problems and possible disruptions.",
+          "why_it_matters": "Residents may need to act soon to meet city trash container rules and avoid service issues.",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21Gczlyem9uLW9RZ3FfVXpHYjgyWGo5OGxBM0V3dy1yZnJDUktGX3pEbFpTT3U5R2VMNU1PTENySGl3U0FsbFRQTDVQYWlnbmJ2SW13ZmZxam5kX0t1LWZGa3RkVUFUS2VMeGZfNjZ1dHlyQnJvX0QwYXF5LWpUTVVuRmdJSmZEUUd3OVRKa3ZKSmMxQmlwVE1xUjF3YW12czduS05IeWk3NUVlOTRlRkVYMGpsSFRVWUVR0gHPAUFVX3lxTE9fWVYwZ3R5Z1RkbGs0U3ZXTFBiTFpiWXJObWNHUlgwREpSeFhqZTNfcTlMd2VZa2UzbmNvR0YtRGN5RUtNUkxiSmdBbzFCS0lHUmFHNWdIVDFEUmtaRHZPbmF6eDd6WEJqU1BqSHNZVDFudGc1ZEVwOENxUldOd1lhZ1lNWkpBQ3E0RDZUc0JRQmZrTllSamJsOTZiS2ZWRV9ESU9UU3U1SFJ5SVI3M0hSNVowelZ6TU1VWU5TZjB0S3h6MHhtTzZYak9BSFJtSQ?oc=5",
           "published_iso": "2026-05-08T16:22:00Z"
-        },
-        {
-          "title": "NYC monitors hantavirus outbreak",
-          "source": "PIX11",
-          "why_it_matters": "Public health monitoring can shape local guidance and reassure residents about potential disease risks.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGtYckZvWUUya1MtUXNLZmpwY3ptWGF1MnlQWWR1eW1ZNG5leUh5ZjZBanFwSnMwS2NfWU83NHRnRnRkWm9RQjczRmdoamx4Q3laQzJkcURBYzZFMnUyTzdmb3lQMUVKT1JIUnFtMkFmX3RJcEZKM3dKTVRRR1pLMDFIM3R0RTlMejJOZU91M0VjVXBRWTNZcjFpSTdBOC1s0gGmAUFVX3lxTE0wRFZ4cWZTZG1KbVk1bzloS1dVbnpxOWdIOW5odTNuT05EWlJzd1pEbVg0eE40Q29uUWpjRHg4U2lnZHI2LTJDclU1S09famNRUm5Md0Jkd295YW1zNHZLR0FwR2hKUFFpVHV1ZnFIbW40ZXdIa3BsX3hvT2ZISFZZaXpjMExmMlh2c0pyNTh3M21DeXBrRWg0ZTM4dW9EV0FqQTg1VFE?oc=5",
-          "published_iso": "2026-05-08T21:58:10Z"
         }
       ]
     },
@@ -121,32 +100,25 @@
       "title": "Community",
       "items": [
         {
-          "title": "Brooklyn tenants remain displaced four years after fire",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "Long-delayed repairs keep residents out of their homes and highlight ongoing housing safety and accountability concerns.",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMGdxd3RZTll6VmxtQjZXZVdrSnh6c1NKcVJKSHJQVWxSdlpxSS1PMW9Qc3huTE1kODhxN2t6Y3ZjQTJIb2p4TlljRjJWNDZ6aklROGZJM21Cbi1WbVloejNLWXhPNGFtMVBlUFZPVmNzcUphemtxaXlyc0Vzdlg2ZVBrMHIxX2RjempFZ2FkOHVzbUhsSlBkOXFrM0tlb3JaY056RmZOQnN3UGFpWklaQUVsVDRHVVdIR2hWNG1NRV9tZw?oc=5",
-          "published_iso": "2026-05-08T09:08:00Z"
+          "title": "Mother’s Day film shoot to snarl Chinatown traffic",
+          "source": "Gothamist",
+          "why_it_matters": "Street closures and traffic disruptions could affect holiday travel, deliveries, and local businesses in Manhattan Chinatown.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcHFSOGM2TEcyODJaa25fYnQ3X09yR0tXNVVzZi0yNXhWZ1JnOGdVbjJSTExoYnpxaTE5OU5iT2hjVi1GMXRkOGxNWXlnVEFEdUpDYWgxeU82TzRSVHlUaGNqT1E3TkkzUTFGXzRBSVhLMnRtTm96amdOZm5DcVVmSk01MGJLcU1ZMElUeUpNVW9tMjZhZEVvTFlHbFA5bGh6OFNSRklTRWt4RFdrN3ln?oc=5",
+          "published_iso": "2026-05-09T20:13:00Z"
         },
         {
-          "title": "Riverdale residents warn local pathway is unsafe",
-          "source": "News12 | Bronx",
-          "why_it_matters": "Safety issues on a neighborhood path could affect daily walking routes and pressure officials to make improvements.",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTGRpUS1DQ3VURHdMUGtBSFNlbkU2Q0puZzF2MG1pV1dqTGdzZDNjbF95dS1hRTlONDM5MUZYSFNLbS1VU2NOUGR6bUx6Z3F1NFFtN2VvLXpRRGltWmFtTGVjdXZ5a2psaUFlYk9DZFBHcGFjTUIxSGdGSlJGal80TWg2aEJudkczQW5xaVQ5T2dyNE13anNBcFg1MGFqalZVanpPMFBNRTlpUQ?oc=5",
-          "published_iso": "2026-05-07T22:07:10Z"
-        },
-        {
-          "title": "Japan Parade and street fair return to Upper West Side",
-          "source": "iLovetheUpperWestSide.com",
-          "why_it_matters": "The event will bring crowds, street activity, and possible travel disruptions while offering a major neighborhood celebration.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX3BmYU84b1RNaFpnU3pqV0I0NDFldllWekQ5bDJwT21RYmpRUWdQNWxKU1U1cFFSY3NGQmlVeDhKYlBqTjNoZlJFZ2dCZWxLWTJpd0sxeG9LT0ptR3FzeTJKUlZ1Q0Y2ajVqTHJxMG8xSVM0OXZLcF9ILU9hcUx1Ym5MZXJSaUpzb2FoZzllc2pVOFlZeDl0LWhPalJDdTNUMHRlWmJMZjQ1Mzh6a3hVeQ?oc=5",
-          "published_iso": "2026-05-08T16:05:13Z"
-        },
-        {
-          "title": "Staten Island deer population drops after vasectomy program",
+          "title": "Staten Island deer population drops sharply after vasectomy program",
           "source": "SILive.com",
-          "why_it_matters": "A sharp decline could reduce vehicle collisions, property damage, and other deer-related neighborhood complaints.",
+          "why_it_matters": "Fewer deer can reduce vehicle collisions, property damage, and neighborhood concerns across Staten Island.",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYXRkS0YwcG1aZVEwXzJKQ3RVS3MxVmdkRUlGMWdkQ09ZTEh6Rm9MWmo2cnV2LXBqVDVwS3hDN2lnMXA0TDFyTXk4dTl4NG5xeEg0aExmcndIRW1VOUpINVFqeEV6aW5IVjNxaWR0eEhudUNxd2dLZnBfbi1udG15eVJ0R1ZFTy1CN1FpdFlrc1ZMZ1IyUkE3Ql9WaHBGZWEzWHBEU1R0OFlwREx4T3JRLUE4d1XSAcgBQVVfeXFMUF9JS1AwZl94X1Y4T0NBS3RBS2UwRC1TV21DYWlfY0xwQkN4Z3MtMG1wMWIycEVjWUQwSnJoU3RoRjM3aENiZGlScWREN0dISWZtSXl2ckdqVXRna3RxZE0zVzVOQWROZXZtZW1tcEhiVjh3V2JYUU5pUTAydk1fbEFTVklERmlmcEp6WWRqQlNIQllRaDJ0T3FsRWY3RDlHX2tsRkhqX0RaZ3ZqWl82R0JtTzQwdGRRUVZtT2RUQ3BOaExvb1ZPRFU?oc=5",
           "published_iso": "2026-05-08T09:50:00Z"
+        },
+        {
+          "title": "Staten Island school earns NYC emergency preparedness award",
+          "source": "SILive.com",
+          "why_it_matters": "The recognition highlights school safety planning that can better protect students and staff during emergencies.",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGtjY3dhNnhTQ3VFM1dwY3kwU29yM2hKc1h4SXBKSDFWNV9GSktzV2dRV05HVEhBUzFZNGFIS1RvSFlfMkp0NFJnRVhFY0YzWDk3aHF2TlVHdG02Mmt3bENveW0xWUl6MUJmV3E3Z1FpWGw4bmM3ZVlCUjlJaVplU3NwbGhib2RGWGFadGMtWGdTdElVNU5RWkFFVEJ5dGZE0gG0AUFVX3lxTE9YNThMdmtINUpPN3VtSWtDSm1EaHB3WGNHQXBSZTJPNUFkMllxbjluRC1maThlLThXSW1XUEJHNkNOYlIzZHFZZFl1a19UbDY4U2xDekFUMThibXNjN29vSFEtRFAyWVNJaFN5OWNxaTd0TGZhMlpEZThNNjBmSk5sTHBoZEtTQ281QWNJQTZKTzBaTlZxdzlzNmZHWWxOMTBWeXJUTnhpcVNLS3NTbG5ZRzFQOQ?oc=5",
+          "published_iso": "2026-05-09T16:37:00Z"
         }
       ]
     }
