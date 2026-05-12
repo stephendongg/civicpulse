@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-11T13:50:51Z",
-  "daily_fact": "At the Americares Airlift Benefit in New York City, supporters gathered to raise funds for hurricane relief, showing the city’s strong commitment to helping disaster-affected communities.",
-  "topline_md": "New York faces mounting pressure on core systems, with crumbling subway-overpass bridges, possible rent freezes, and major gaps in school tech oversight underscored by a huge student-data breach. Meanwhile, officials are weighing key political and public-health moves, from redistricting restraint and a looming Senate succession to expanded water-tower testing after a Legionnaires’ outbreak.",
+  "generated_at_utc": "2026-05-12T13:07:50Z",
+  "daily_fact": "A new thermal bathing club recently opened in NoHo, giving New Yorkers a fresh wellness destination in Manhattan.",
+  "topline_md": "New York City’s biggest cross-domain developments center on mounting infrastructure and housing pressure—crumbling bridges over Brooklyn subway tracks, a possible rent freeze, and urgency around Mayor Mamdani’s pending MTA appointments—while public safety and accountability remain in focus through major fire, crime, and building-violation cases.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,11 +14,11 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "Crumbling Brooklyn bridges threaten subway tracks",
+          "title": "Crumbling bridges threaten Brooklyn subway tracks",
           "source": "Gothamist",
-          "why_it_matters": "Deteriorating bridges above subway lines could disrupt service and raise safety concerns for Brooklyn commuters.",
+          "why_it_matters": "Deteriorating bridges above active subway lines could disrupt service and raise safety risks for Brooklyn commuters.",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkpDdGl2MndJQzNnYTBJUF82aG1PbGU0a3JpU3doSGVlcGx2ZHpCR2NqZWw4QVFVSmZYZTZrZTFDLWtINUhuS2hNU0g4bHB6YUlIbUpZLW9zaVB5Tl9fb2JmVWREb0NzaGNYcWhsLUtST0VzVk9fTl9STThGMkxKeVVJU2p2dEZlNkZ6cEJNdEFuWkVLZnFVQ1NQZndYMTdVclhTY3A0TzYyUmlvRk1j?oc=5",
-          "published_iso": "2026-05-11T10:01:00Z"
+          "published_iso": "2026-05-11T22:20:00Z"
         }
       ]
     },
@@ -26,32 +26,46 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "NYC rent freeze moves closer after rent board vote",
-          "source": "ABC7 New York",
-          "why_it_matters": "A rent freeze would directly affect housing costs for many city tenants and landlords.",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdkdtMTlnTWY0ZlJMc2Rubnc3cUZ4dEtWd1JCLTFzMlNfYjdRazBmSWN5OVJlQjdHc2s3VW1BQjR5VUpfYVNkeVVUOG1XM2w3UWtZYlE1aFcyWXIxUEFxamNmZjNNZldwbXdCNEtjVVVRSmx6czVvSEFDNnBhb3FnLXEzUXhkSUowbEVBX1U3ZkNSd3poYjM3aGFyMkJ6VjJzWkd4aE1ramVLQl94WWFmOTMwdFh2U19jbmZrc2hiMld0YUZBVWlBc0pmN3ZXWmJDODNr0gHYAUFVX3lxTE9PR005U1BHZDA5UzczYlh6Z2t3ZmJPUlBzbWR1QTNmLWJSYjVkVFNCRWtyUnpVTUZIR2YtMkRKdGd1QUFvTndieGhOUXBvZHI5a1ZrS3Azak4zQVFhVjlLNFhyeDZKb0k3Mnp5MEpWWEpza01TRi12YV9Qd2h3clBpYTdndmgzalNCc3ZjOGJ3Nm9OWDcxYkRrbjFkS1BacW5aSTF3Zlk3N0dMZ1lrWGxUR3otOEVYanJNcEl6aXJtVHJyWmlxS2RrYzUyNVVDbVZ2N1VrYlBuMQ?oc=5",
-          "published_iso": "2026-05-08T22:31:37Z"
+          "title": "NYC Moves Closer to Mayor-backed Rent Freeze",
+          "source": "Insurance Journal",
+          "why_it_matters": "A rent freeze would directly affect costs for many stabilized tenants across the city.",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EMlJid1RfSVpNbWppeDhDU1Rqb1E4SXFWUjM2U3h2bHpueE9uREdtOG9aWHN3ZmwwSmtGV25FS0k1bktmVVBtUmVLT2ZwY2EwV193Z1loang0RnMzbEEwRjlCRU9rRlBnS3NZaldKRXIxQQ?oc=5",
+          "published_iso": "2026-05-12T05:19:19Z"
         },
         {
-          "title": "Student data breach hits NYC schools and Columbia",
-          "source": "New York Daily News",
-          "why_it_matters": "Families and students could face privacy risks after a major cybersecurity breach exposed sensitive records.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLTBrZnJoR0lsbThHVnVqeWVsQXhMd0MwaGRXQ3hDalRha3BmaVc4RWtUTllkVm5EdXlIYmVoaDU3anM3R0VwLU9aN2ZrY1l3YkFDTEhJT3ZyZlFUZHVVRFMtT2VfS1c2RFVPNkl4Z3gzSW1icklTcnpVVDFsSXBZaUR0YmNCZVFBNzlCVHByc3dSSTBsUC1kZlFTaXhFQkhsc0xZZGxPdWVmNVNDUkJMNlUtRUV3Z29palE?oc=5",
-          "published_iso": "2026-05-08T23:08:21Z"
+          "title": "Mamdani Faces Deadline for Key MTA Board Appointments",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "These appointments could shape subway, bus, and commuter rail decisions affecting daily travel.",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82QWw4NkZVeXJEMVZROHl3U3hoSDFBaV85OG1hUEw2aHZiYkxCeDlYakdLNVRHOHdxcDZVbnZtRm42TzB4NkVES0ZZSDY0Ri1iYkl1eWwzT1BNUWJFMzR3RFczWUJ5b0k3V1prSzBXZVJkbm9PYVA0c3AzZHhJcm8?oc=5",
+          "published_iso": "2026-05-11T09:00:00Z"
         },
         {
-          "title": "Audit finds weak oversight of school tech and student data",
+          "title": "Albany Budget Stalemate Drags On Past Deadline",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "State budget delays can hold up funding and policy decisions that affect city services.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTW50VUs1dWowMGRoUjR6bXNUMWN6TVFqU3FCa0lQME1PeU91LXdFcVEyX1hTNXBudXpNbHZXNnQ2LTdMaHpVdVJkeC0wUm1kNFR6SjM3NXhWVlM3R05BWHRpZ0wtNW5QbzlWVzlBOExhLU5qRGJteUViQUpZLXBLbmxyRnhOTGJMQkpTT25yTGc?oc=5",
+          "published_iso": "2026-05-11T19:43:58Z"
+        },
+        {
+          "title": "Court Rejects NYC Cellphone Rule for Civil Service Exam",
+          "source": "amNewYork",
+          "why_it_matters": "The ruling could change hiring procedures for city jobs and affect thousands of applicants.",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmlBVzdGNUhhRGVCbkV4cEQwZkxyYUhVakN6UXdCaGl5OTg4RDhCT3NHQUVkLWFLcGNXN01kM0dMVmhQNzVyMEYwREJ2bFpJYUt0Um1Ra3VkRG9rbkRIWVdPeUtXZTNNMkFtb0R5Ri1sUHFyMTY3M21BRHZtWEFJeUc2cG9odw?oc=5",
+          "published_iso": "2026-05-11T17:30:52Z"
+        },
+        {
+          "title": "Brownsville Crisis Response Model May Expand Citywide",
           "source": "Gothamist",
-          "why_it_matters": "The findings raise concerns about how NYC schools protect student information and monitor education technology.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjNMUGxpREdOYXhhT1p3bmp0b2JXWFlRbzByUjUzR3EyVXNiNDc0M2dSZzRLZmZoeU1RcTlyMU1Pc3ZJRGEzaGg1a1E5SUVkY1VwcFo1d0Nwb2JET0phRUx0VDhLN3ZmV1JjV2FOSFZuVG0zTmxORXljTjVBVzdjWUxyNTVEZ2NoWnJjSDlDcGFja0FXRGVBXzNEdFBfSzhm?oc=5",
-          "published_iso": "2026-05-09T20:13:00Z"
+          "why_it_matters": "Expanding civilian crisis teams could change how mental health and emergency calls are handled.",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1V6eWhhZlRtWWhWV3EtX21MY2ZZT1RzbnR4bXJqNkpNbmtSWVN4eW9TVlFnYU5BR1VSc1Eyd3ItZVBhWFVLTnEzU0pDbk9URnNIR29NejYza0sxdThxMGZIQWhNVVhhbFRSLUdpM3ZwbzZ4M0hMUmVIejRWcExWS00yZnBGV2ZieGF3YnJtS1Y0Z05jZEpmX0xjQTlrYVk?oc=5",
+          "published_iso": "2026-05-12T10:31:00Z"
         },
         {
-          "title": "Bronx officials rally against congestion pricing surveillance",
-          "source": "Bronx Times",
-          "why_it_matters": "The pushback could shape how traffic enforcement technology affects drivers' privacy and commuting costs.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbDEzZFdmS2ZRNFk3QndNbGhvQWlEWWpPLUhyN0ZwT3pXZUhyQm1XamYzY2I0N3FDRUdGN0drMFJJRUUyQXBJRmg3V1JmYlFxbjJrRF9kY2NKdkpDemZ0UWJydjVXZ2EyQnh1REx4NVQ1NmtoU1ZsbldGZjFQWFlXQnBlNmtBZjVuRlluS1phQm9WZHRLOEZFX3d2YjlGRXZfZGx3NjJBQUhaMUdKM3JtZ3RUMHRpYS1RMEpSM21wVQ?oc=5",
-          "published_iso": "2026-05-08T21:28:41Z"
+          "title": "ICE Releases Bronx Man After Norwood Crackdown",
+          "source": "Norwood News",
+          "why_it_matters": "The case highlights immigration enforcement activity affecting Bronx families and neighborhood trust.",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYlBVbGZDd2lGMGgwVHlDa1lMc0xoZnI1UUpPNVpNZkNZTTRJYUtOMFdpbDJzQmltWDRhLTNrNk8xaHcwb2xKSFBtWjJ6cXpiQXR6QkJKcEtyNlZ0NEJzUExLSkQ0SDVTQnJISVRCd2tBbVNzYmVmUWZETndhTjdiTTdXR0t3dzdDVDVhbnlpYU5jNWYxQlV6UE9pM0dEU0FrSkhmaQ?oc=5",
+          "published_iso": "2026-05-11T21:28:52Z"
         }
       ]
     },
@@ -59,32 +73,25 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Apply in May for NYC civil service jobs paying up to $66K",
+          "title": "NYC civil service exam opens in May for jobs up to $66K",
           "source": "SILive.com",
-          "why_it_matters": "Open city hiring can help residents secure stable employment with benefits and career paths.",
+          "why_it_matters": "Residents can apply for city jobs offering stable pay and public-sector benefits.",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHVYbW0yV1VWd3VfMVZKWWJlclBweHhLZW04UnVRSnBvM2NLc1dfQUdoUXNVT2ZURW41c0dVNXpGTUZsMlFmNngtbEZKem9fNWU0OEY0eWtHY2EwOHdoLVRqcXByRGxGTy1DMjQxZHZ3alJ3a2I5MFZQY2VneDFVc1NPNWM0TW5ycTFWUlZpUjdMLThvQXB2ZUxjSkd4REpCb1g2a3R2NzVRZ9IBvgFBVV95cUxNMHVmYWtReE9nT2lXdFBCOHNSbjl2M0pmSXAxclVVMXh6UTl6WmQ5Y29YQkRHSFFnUC1XYmp5bDRheFVNV3M4V29PSEQxVUFWT203UzV6c3FDTzlrVHExTnhrZFFvanlLS0V2ZGl0WkRMTm10ZW8ycklWZVhwX3hHZWtPdlBqSExVTHM1OGlDcEVxMFNYWENFMjc1RENOQzBwNWEwRnNjdlFUTEJCY0Vyc19ZdEItRjJEVEI1S3d3?oc=5",
           "published_iso": "2026-05-10T16:30:00Z"
         },
         {
-          "title": "NYC triples water tower testing after Legionnaires’ outbreak",
-          "source": "Crain's New York Business",
-          "why_it_matters": "Expanded testing could reduce health risks for residents exposed to contaminated building water systems.",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2N6OTQwc3ROQUpLWi1YckI2c25ZYU4wSWFyQ0c1Z2Fab1ZoTUZNX1hBSGpPX1BQVWlrZXpUcnB1YnZ6bnh2V1lpTXhxY19fRHl5TUtpNWdCbmtNNEFENXZTc080cWQtZDFyRFhabXA5U01hd2dSWTZ6djJwekItcHlSb2paZzA2R3NCbFU0SHRvczV3?oc=5",
-          "published_iso": "2026-05-11T09:30:00Z"
+          "title": "Snug Harbor seeks performing artists for PASS 2026",
+          "source": "Playbill",
+          "why_it_matters": "Local artists have a near-term chance to secure visibility and performance opportunities before the May 15 deadline.",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbm1zWFhrWWV0bDVDWUpzVDZuUlo1UUlIcWsyYnhocFI3b1ZlbDhjcXFGWmw5cnB3MGdkdWJCazVRaUpCa0VBR256WU9tNnhXbHlQY3kwX29uX3BuQk42YkYyNkt1M1NYT2JPMC01MmhlMnhUT21tNlNHdjBOSTRpc3BzQkFWR25uWVo4OVp6ckZreU1qc01sYVFYb3FEMUNKR054b3ZFWXFPRWszRm42SnIzbjVKZFByZTlhdnZCV0dhYUxkWjRiTkNFeGNHeWJjMjVybm5CZHJuZFpR?oc=5",
+          "published_iso": "2026-05-11T17:09:30Z"
         },
         {
-          "title": "Staten Island trash bin deadline nears for NYC container rule",
-          "source": "SILive.com",
-          "why_it_matters": "Residents may need bins soon to avoid sanitation issues or possible enforcement under new rules.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS21Gczlyem9uLW9RZ3FfVXpHYjgyWGo5OGxBM0V3dy1yZnJDUktGX3pEbFpTT3U5R2VMNU1PTENySGl3U0FsbFRQTDVQYWlnbmJ2SW13ZmZxam5kX0t1LWZGa3RkVUFUS2VMeGZfNjZ1dHlyQnJvX0QwYXF5LWpUTVVuRmdJSmZEUUd3OVRKa3ZKSmMxQmlwVE1xUjF3YW12czduS05IeWk3NUVlOTRlRkVYMGpsSFRVWUVR0gHPAUFVX3lxTE9fWVYwZ3R5Z1RkbGs0U3ZXTFBiTFpiWXJObWNHUlgwREpSeFhqZTNfcTlMd2VZa2UzbmNvR0YtRGN5RUtNUkxiSmdBbzFCS0lHUmFHNWdIVDFEUmtaRHZPbmF6eDd6WEJqU1BqSHNZVDFudGc1ZEVwOENxUldOd1lhZ1lNWkpBQ3E0RDZUc0JRQmZrTllSamJsOTZiS2ZWRV9ESU9UU3U1SFJ5SVI3M0hSNVowelZ6TU1VWU5TZjB0S3h6MHhtTzZYak9BSFJtSQ?oc=5",
-          "published_iso": "2026-05-08T16:22:00Z"
-        },
-        {
-          "title": "New Downtown Brooklyn high school opens this fall",
-          "source": "Brooklyn Bridge Parents",
-          "why_it_matters": "Families in Brooklyn may gain a new public school option and added local classroom capacity.",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkRSNlNtWkk4bnZmX1hMOGpmWWF4djdmV0hPUzRzMnQxazNwNHl2U1NncVpnUUFFeE44dFBvNy1FRlV5MFQ5azFSQ09pR1hWZTAwc3Z1eEh0TXZEM2doZnJDM2ZuMzFWdXdCM0pLbDg0Mjh3TjA5WmlBWHNKaEJCdng4ckhkMWZoWkFuVTZhdHZuRVM3el80YmhB?oc=5",
-          "published_iso": "2026-05-10T19:54:26Z"
+          "title": "Playbill lists lead narrator role for NYC premiere",
+          "source": "Playbill",
+          "why_it_matters": "This offers a niche paid audition opportunity for performers with the required British accent.",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQNUNQZE1obFJvYU1qNUlCeVYyVk1PZ0t0bV9mcHhpX1lRQXg2NEJZbkZWeGRjazZVQ1NyWHdMekE5eGhPRURYMDB1M0hIelM5MTNJcTRzbmhhZTJvWEktb0tiUUZuRWxlblJhLWdmT3kycVpycW1SZGpqVFdLYWRRam9VX080QnRENmVnd19nR0JBQVlkbnl3ZGk4ZGYtVmZVSHV1bHBUVk8ycFl1eFp4eE90SDhZd240TEgzWnFYcGxJQzdnY2tRN0hWR1RIVm42UlVIcEE4cVQtZ0tNVXJRell1MzVodnpndU11bEptenFTR3loRzVnQlBKcWxkMGItaWt3ZlVpQ0ZpbFFBTjhSQ0dvU0tZWFRZbWdGUGlZSUw0d2IzWkgzcExFS18?oc=5",
+          "published_iso": "2026-05-11T17:06:47Z"
         }
       ]
     },
@@ -92,11 +99,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "Port Authority tests cargo drones between Brooklyn and Manhattan",
-          "source": "ABC7 New York",
-          "why_it_matters": "Drone freight trials could reshape local deliveries, airspace use, and waterfront transportation planning.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRUF2SG1nWmpmZ2ptUDlBVlNGd1ZRN19TS2lGemg0NTB5aXpHRGV3OVhLOFlWSnZYSEZiQnZEV0NhdHZtMWM5d0RMcXFqcWota3FObWNEVkhwV1B2R2MzODhNOThnUEZNN1ZsSmI4aGpOU3JrUHp4NUVDcFY5ZVFwdXlia0IzNHBib3loNHk0eUZ1ajhHb2ppbEFCTHByMWh2MEHSAacBQVVfeXFMT2JJZW1EeHhfQUpxX3ZpNnJadFhZUDVNX0lWWmZZTHNtcDRpNTByQk1uTzYtWjlqdlZpSExreE1TQjR5ZXNxWDFJeng3OFhocnp3OHExYmlpYUxLNWR5RzlObjktbzZHam52MU1KcnVmcnJvZldmalZLZGY1Mmg5SjcwYlR5ZEJoTWpoN1JGaUZ2QWJFUWdYRWw3OVR4bHNtbE1UVURpa2M?oc=5",
-          "published_iso": "2026-05-08T17:55:10Z"
+          "title": "2 World Trade Center construction resumes in Financial District",
+          "source": "New York YIMBY",
+          "why_it_matters": "The long-stalled tower will reshape Lower Manhattan’s skyline, jobs outlook, and neighborhood activity.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRVgyNTVhLUNnYlF6bjlZNExSLUtCQ0NrdzliYTR5eTBfeHVmYzZhd180TEtFd19EZGVncDdUeENrNlY5X1poenBsUnoyd2pvcmNsNGsyNGppOVp3ZnQyLWVtaERWdkRlTUZtYk1oQTBWd1k1ZlQ1UDNwbS1qZnp3d1h4bzJIa1NrU0JzZEwyck55Z2dUNTlvQVkzbzZyNXlNSEVtbTRxY214VkNPMWNXUQ?oc=5",
+          "published_iso": "2026-05-11T12:00:03Z"
+        },
+        {
+          "title": "Jack Kirby honored with Lower East Side street name",
+          "source": "New York Daily News",
+          "why_it_matters": "The co-creator’s street naming celebrates neighborhood history and New York’s lasting influence on comics culture.",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRERKMHc3T0hZcC1tRWZKM29VZmg5cE5aVlpYdVcwTTdfcWJESEtrUkFEdlIxTWh0VmVHQ3RtVkFjSUV4QWpoMDFVaFg5cXAxYk1BNHlobDZsbmNXQ2sxem1VbEkxOXJja05ZSW81RExOejVLRF82Y3U4YWQwbVVnUGgxVjVDOERfOHpfQXphWmxYWjRKdHc?oc=5",
+          "published_iso": "2026-05-11T19:09:52Z"
+        },
+        {
+          "title": "Greenpoint restaurant Ilis will close after building sale",
+          "source": "Greenpointers",
+          "why_it_matters": "The closure highlights how property sales can quickly change neighborhood dining options and local business stability.",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOExYMGJ4ZmFvU3pVZEdPUnRLc1ZzLUEweGItWmozWDd4ZTBVUXlLQ21FUjJHR0pfR21RSEp2S1JHaVczMllNZEJ5QlBMTjNtVGhXZi1uRHgtaWlBVk5lMG0yczhlNXkwaXlZZlJsb2VMS3FpNlFEOGNsUnExYkRQX0ZYVHRNSl9fRlhwUUFUaGZPZHUzcDlKUw?oc=5",
+          "published_iso": "2026-05-11T17:49:01Z"
+        },
+        {
+          "title": "Prodigy to play Under the K Bridge in Brooklyn",
+          "source": "BrooklynVegan",
+          "why_it_matters": "A major outdoor show can draw large crowds and boost nightlife activity in the surrounding area.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV3d2RE1jamZHNUgwa0tvblJ3dnFqRjFlSFlJTmRmR1VwWXBOQzIzeExDVHRlQkpRajhaUERkUEtvbmZuazl3Zmxpd0hPcTdIY3hIRzFBZ1hRZ0M4ZDgtRzE0ZzBWTlJaLU1pVi1tYUJFdlp2RHljeG5OVkxQUVM3d2lRdmowbUI4QU9sLVpaYUY3a2llY0dUa29TTTBldVZqUG0tajROWkVXUXJZVTJ3?oc=5",
+          "published_iso": "2026-05-11T19:39:04Z"
+        },
+        {
+          "title": "New South American tavern replaces Llama Inn space",
+          "source": "Eater New York",
+          "why_it_matters": "The opening signals another notable change in Williamsburg’s restaurant scene and neighborhood commercial mix.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSjF2SkRsbC1mbnROcXJkUDJ6ZFJtUHBzempNTlBnTXBXV2hQS3RVbVhhMDJxU3Ixc3N4bTlncnJ4Z2JUYWRKTTZFME5yY0d1U3haNWlTVXk0QURlZ051Z0ZsVXl0bDlnX0JGLS1KaUFxNHk4VDREX0w0LXpCTzZJTTVINms0aGZDcW9fZ0MzZmhOWkJGenJWcTFRanFkQXFwS1lWZFNKQlYyOF9EcmR0UUdKQUJRekk?oc=5",
+          "published_iso": "2026-05-11T18:07:40Z"
         }
       ]
     }
