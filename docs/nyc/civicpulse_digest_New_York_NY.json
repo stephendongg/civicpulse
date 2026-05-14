@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-13T13:16:46Z",
-  "daily_fact": "NYPD detectives escorted a woman in labor through rush-hour traffic from Brooklyn to Manhattan’s Upper East Side, helping her reach the hospital quickly for a safer delivery.",
-  "topline_md": "New York’s biggest updates span city services, labor, and housing: Mayor Mamdani restored library funding after backlash, LIRR unions and the MTA remain deadlocked as a strike deadline nears, and tenant-rights pressures are intensifying through eviction disputes and growing tenant union activity.",
+  "generated_at_utc": "2026-05-14T12:28:52Z",
+  "daily_fact": "This weekend, New York City will enjoy 80-degree weather before “fairly hot” temperatures arrive, giving residents a sunny stretch to enjoy parks, beaches, and outdoor neighborhoods.",
+  "topline_md": "New York’s biggest updates center on housing, transit, and public services: the city is moving to fill long-empty apartments for homeless families, restored library funding after backlash, and faces fresh pressure over LIRR strike threats, tenant protections, child care access, and rising utility costs.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,53 +13,60 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "LIRR strike deadline nears as unions and MTA remain apart",
-          "source": "ABC7 New York",
-          "why_it_matters": "A strike could disrupt commutes for hundreds of thousands of riders across NYC and Long Island.",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDBTSGdtQUFHR0NVVm5YUTNsbHhybjAzNVBnUDJmdlNsM2JURDg2T0VndDhuSXJZN0tmX1h4OFBwTVFfenYwcjliczVicUZUTG5nM0otb05kY1pFWXR3MXZwdF9lVmgtOU5mdGxsTEdHbjhVNFRwRGN4QXpTcV96cUFJdkcwXzR6LU01NHRkTUtoRXpfSHZHWVdrTTlKNTdJTlI0MWVVSUJ0eVJWVjU2eWlXWHl0eEdz0gG-AUFVX3lxTE1UMXhSeUR4WVVLU2tCX3RWN1FDZ2wwWmVHMDRVM2tjdkJtRnIzd0FudWlROVFTbV9MeVp0OFhjSC16UHBfLVZRRi1INnd2bER6SlhBYXRYSDc2Tk1yRGlWRVJHVzhtd1BUVmV4bXhWZmRyZ3p6QTJ2d09vZ0NXbEJNUXhKa3FBZXlRcjI1d2ZIVVlCamtiaFZySkNXaEFZY2VWZXdpeWsxdnpMbDRfYm02VzJXSXBlTTBNRk9iMFE?oc=5",
-          "published_iso": "2026-05-13T09:02:06Z"
+          "title": "LIRR strike threat alarms commuters before weekend deadline",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "A strike could disrupt travel for thousands of New Yorkers and Long Island commuters this weekend.",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdURsU1FpMl9mVktPZU4zZ3U4OWJ3SWxuZjNiRVVCOG9pTE9mQklOWUpwTnYtMEVsNXVzZFVVZ1ZybjVaWlNDbWdxQmJWdkxhYXFGMHhoWjNfVjNTcjdycnFPc2pobVNTYkp3Y2FtYW45cUVONlVza1JndmliYWxPZlRVTUdOZw?oc=5",
+          "published_iso": "2026-05-14T09:00:00Z"
         },
         {
           "title": "Mayor restores library funding after public backlash",
           "source": "Gothamist",
           "why_it_matters": "Restored funding helps preserve neighborhood library hours, staffing, and services residents rely on.",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQVRBN0E2SE9RVTdpeVVmdlRMX215M0JoVUJaZmw4MUtTY0VudVV2elhBaTVHNXBka25jdXYwcnJldGZxVWRCRUdqRTNEUmwzcVNKcjN6S293UU5TZ3B3UWVBMlVpME5HSHduM2h1a3llSDZ2QUQ1WDJ1WmstNTMwc2hqR1BLRGVjRXpkek5R?oc=5",
-          "published_iso": "2026-05-12T20:25:00Z"
+          "published_iso": "2026-05-13T22:34:00Z"
+        },
+        {
+          "title": "NYC moves to fill vacant apartments for homeless families faster",
+          "source": "Gothamist",
+          "why_it_matters": "Speeding placements could reduce shelter stays and get more families into permanent housing sooner.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkwwZnFFYW4zYXZzRnhLY0kwa3g3SUY5NUpXb3dhc054SlNYTWVtMmp6T0hNZG9rZG5QMWV6YTB4eldoUG5IVWE5a242UzlYRUhxX2h6QTF2UUZIRHNLQTMyQXBnaldvaXFicFV3aUdLOFJhQjRna0w5TDl5MlN4OUliTXpGamhDVUFXQU1PQ0xSMnBnRmFtZXdVRDlNOG5QdjRTOS1zVm1WVkZwcE5lM2liSEo?oc=5",
+          "published_iso": "2026-05-13T14:06:00Z"
+        },
+        {
+          "title": "State weighs easing child care staffing ratios",
+          "source": "New York Focus",
+          "why_it_matters": "Rule changes could expand child care availability and affect costs and safety for city families.",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVVtOUxrRWg1ajZDYTVMLTZPTnpTYV9pLTZVbDJRcUhOdVFaem5VcUM4UXlBT0E2TGRseGxNOU5qQ3FRWkVvTE5JZnZCWXVybmpiZ2J1QTdLQUtOUy00WGNUbldHUGt3UTdBRzZfOWhEZVV6aDZTUjNGWDM1ZUpCZ01tVW1nWTd5bHpiN2pvaE1aTHRMWHpSNlhtUkYwLUk?oc=5",
+          "published_iso": "2026-05-12T09:00:00Z"
+        },
+        {
+          "title": "Landlords test ‘demolition’ claims to evict Good Cause tenants",
+          "source": "THE CITY - NYC News",
+          "why_it_matters": "The tactic could weaken tenant protections and put more renters at risk of displacement.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM3FZX241WFFpVjg2ck9jQnFZNmJSSVAtT2JYZl9VMHVteEN3c0lZcUdiZmQzSV9mQzVLay0yeXJ4NWVjU3c4NXVuRWdqWFZQRm1iUzJ4Wmllc0RnTlpLT19yTDVIblZQMVFBVWhuMjh3aUMwUl9SREpOc2NSekRPR2FKMkhGaUVHN1dVd0xGV2k?oc=5",
+          "published_iso": "2026-05-14T09:54:47Z"
         },
         {
           "title": "NYC homeowners must buy official trash bins by June 1",
           "source": "SILive.com",
-          "why_it_matters": "The mandate affects sanitation compliance and costs for many homeowners within weeks.",
+          "why_it_matters": "The mandate creates a near-term cost and compliance deadline for many city property owners.",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZHB1R1VuaFNELTBrRDU4RFRNZmhMeW1id2p6TzJuZy1jVFh2aEdlZFVLeEx6Q2s2THRxcV92Nk80VkJxcTNwdGlFS1hmMkpxbGtfNjVJaVRSdkFMOERvTUU2VEc2UnZHQ3J5ZzJrTE1VcW9lclRnLXQ2cnM3ZTd2MDVuQXN0LXNKM0FMWDZ5WjNKUFlBem1qMzMyR1ZyWHl3Sll3M3lIV0gwdWpXOXAtWdIBxAFBVV95cUxOOFRYVmN4cGpJY1BrYWFzVkd4S0NBX3h6QmtnTEpRWnowajhDT3l3QVZlU3BYQy1CNk93WndEc1V0LWFnT19ad29QZy02ZmRrR3FqRG91SXRfVGoweFJZTDFOeThMbzNVWDR5MUtkd1oxTlRPVzlPWWhVUHBHbWdWMDcyd0t0LS1YS0tnazllc1U3aEx2N09hSkpJdG5JZzF2akdaUjVjeGNId2pUc2FtcHFBemVKUk1raWVNeW5ZU3FVOE8w?oc=5",
           "published_iso": "2026-05-12T15:08:00Z"
         },
         {
-          "title": "City targets Staten Island crash corridor for safety upgrades",
-          "source": "SILive.com",
-          "why_it_matters": "Street redesigns can reduce injuries and deaths for pedestrians, cyclists, and drivers nearby.",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWN1REswZ05FQlF1NHlrT0VtbXk1LUM5cjJHQkw1NmtXVzV6eHVKYzFSSURWRkphQ09QMHI1UlQ0S3ZoaVJKbUtuSzJvYmRlLVNMd1dZSEs2Sm1XMTYzeW5IOXNaQ3liU2JnT09JYXY2NmNxU0kzVEZYendxWlVnMkdMR0R5VXZua3FsV1JuLVM4YUFWZGxyUDhPSDFQNzVPak9KNHoxWTVGRGF0NlFoNFJjaXNDZ0Zsalcwak9wVXlWNnNCdk9pMmxieHQ1ZlNKbFc3bjB0T0xIRkwycEHSAfIBQVVfeXFMUC0yX0s5T2ltQ0F3b0JWUm1qaFlMYm16X3d2VnVNRXJ3cTlFcmRNdVI3UzlnUG1NN29CSUZKNkx3MWFmcU1hLTZISElqVHRKUFZWWlFETUk0YlJoRGJJWktDVGx4eWtRSWozRVQ1dUlEd0RzT29pdWdLTElCUl8zdWZVNGsxRWJvWFlDVUxEcnViTzl4T3B2ZVFWaW56YTQwaGRycjgzS3VRZ2xBem9QRDdIX081YS1GV0hDbXZOY2hLWmtUcHE5UEJUSFNkckJuWndLSVVEOUtlNHU2aXRnUGFudTRiLUZhLXVxN0tTcXV5QkE?oc=5",
-          "published_iso": "2026-05-12T16:04:00Z"
+          "title": "Bronx man convicted in Chinese government secret police case",
+          "source": "Department of Justice (.gov)",
+          "why_it_matters": "The case raises major concerns about foreign interference and public safety in New York communities.",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMEt0X0dkS2ZLaXoyVHhYbTBkem00RlhGMnZhNm1TbGZaekJGNXh4bUp5X0RTb2p5M3NCcThfaGk5eHI5YmpoT3BIUTAxRXFYdzB4MnZtdjJiQTlhclpiYUJySHBadVE2MkRranBnQ2ZpSlE0MXlOai13MXVmMXZCVGxCc05aaEhDal90YUtmYW9VN3Noek1IdDVSVkFMMjVqbmoySWd1SmtuaHgzallXQUZYYnBEMXQteEE?oc=5",
+          "published_iso": "2026-05-13T22:18:55Z"
         },
         {
-          "title": "Court rejects NYC cellphone ban for civil service exam",
-          "source": "amNewYork",
-          "why_it_matters": "The ruling could change hiring procedures for city jobs and affect future applicants.",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmlBVzdGNUhhRGVCbkV4cEQwZkxyYUhVakN6UXdCaGl5OTg4RDhCT3NHQUVkLWFLcGNXN01kM0dMVmhQNzVyMEYwREJ2bFpJYUt0Um1Ra3VkRG9rbkRIWVdPeUtXZTNNMkFtb0R5Ri1sUHFyMTY3M21BRHZtWEFJeUc2cG9odw?oc=5",
-          "published_iso": "2026-05-11T17:30:52Z"
-        },
-        {
-          "title": "Landlords cite demolition to evict Good Cause tenants",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "The tactic could weaken tenant protections and increase housing instability for renters.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM3FZX241WFFpVjg2ck9jQnFZNmJSSVAtT2JYZl9VMHVteEN3c0lZcUdiZmQzSV9mQzVLay0yeXJ4NWVjU3c4NXVuRWdqWFZQRm1iUzJ4Wmllc0RnTlpLT19yTDVIblZQMVFBVWhuMjh3aUMwUl9SREpOc2NSekRPR2FKMkhGaUVHN1dVd0xGV2k?oc=5",
-          "published_iso": "2026-05-13T09:00:00Z"
-        },
-        {
-          "title": "State weighs easing child-care staffing ratios",
-          "source": "New York Focus",
-          "why_it_matters": "Any rule change could affect child-care availability, costs, and safety for city families.",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVVtOUxrRWg1ajZDYTVMLTZPTnpTYV9pLTZVbDJRcUhOdVFaem5VcUM4UXlBT0E2TGRseGxNOU5qQ3FRWkVvTE5JZnZCWXVybmpiZ2J1QTdLQUtOUy00WGNUbldHUGt3UTdBRzZfOWhEZVV6aDZTUjNGWDM1ZUpCZ01tVW1nWTd5bHpiN2pvaE1aTHRMWHpSNlhtUkYwLUk?oc=5",
-          "published_iso": "2026-05-12T09:00:00Z"
+          "title": "State announces 10 downtown revitalization projects in NYC",
+          "source": "Governor Kathy Hochul (.gov)",
+          "why_it_matters": "The projects could reshape public spaces, business corridors, and neighborhood investment priorities.",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1E0SXFqVWQtSk5FendOVTR6WjN6bGpCUVVlWHhFNVUtS1E2bDhFVGctOTlkZGxIaDBzaVN1UGx2OGZFYnV6cU5QazQyZWx0UThobFBPLXNUeGI5clFKNHRNNkppQ2o2RzNQOWpMSEV0dWt2ZElBRjJOUURCeUdOTms1VFp4SnZhbUhjV1hOSmRRUUtWLU82Tm1rbnVVUmlUeTQyWXpqNWJPNnFMRkp2RFpRVmllUQ?oc=5",
+          "published_iso": "2026-05-13T21:21:39Z"
         }
       ]
     },
@@ -67,9 +74,16 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "East Flatbush Affordable Housing Lottery Opens",
+          "title": "Free air conditioners available for eligible New Yorkers",
+          "source": "SILive.com",
+          "why_it_matters": "This can lower heat risk and utility costs for vulnerable residents during summer.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU0NFcHFNd05vS3RzNjVXN0NLNHVMd3M2M3k0a2dHSUsydUM3aEREdFFoOEtqMnMxUTlwNC1rMnZkdFlxSEFNTlpadXRVV05Vd1NDcnR4Y0xKS1hHNFQ1Nm1iWWxlU2ZLWm5XQjVER3FrcGRRZFJDX00zcVRtV0RHYzJSYmZuZWRtcWN5c0ZNV0NibDZneHlpc1hvVEVITUpPekxrMGpfbWJ0U1VaNWxwLV9YbWTSAcgBQVVfeXFMTmdKc0tXeG5BdkhyRWJYWlY4NkVSUHBJSUFxTnNLd0pqTE9fY3VUeVZ3RjZCUDJodXNpc1lxZUFvVDlPaXZzclhKaXVEYjhvWWJSeFRjRGVFb3A0ZWc5SnlOTUVDSVlKRmMwOW1MQzU3dklZeEl3enFGVnd1N3VmV3VhTzNDLS0xTDMzeEhwbmdjTlluYTZCUEZFQVhpVUY3N1FiS3VJenFPSUk3aVR2RVlKTVpBRkYtVVFWcG5HdEZFd2l0LVpfRWo?oc=5",
+          "published_iso": "2026-05-13T17:52:00Z"
+        },
+        {
+          "title": "East Flatbush housing lottery opens at 3216 Glenwood Road",
           "source": "New York YIMBY",
-          "why_it_matters": "The lottery offers Brooklyn residents a new chance at below-market housing in a high-cost neighborhood.",
+          "why_it_matters": "New affordable housing chances can help Brooklyn residents facing high rents and limited availability.",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTQyTU4yYm12NGFnYi1RcVRpQ1kxWTdmWGJSWTBBSlZ2dmxrblpBVVkweUc5RmFjWV9HdWppemRVRU5zNlhDUDB1Q2c3SXY2aEdVQlZ1c05JdE81cDBydEVILVhQd3hneVQwcGFZRXZzSEstT21JalFiRjhFd3JkRHF5THlHY013Y044WmNxRWJITzhjNVRoNXN5ekJpTGVncVhpbHI4YXpOQlk1S0t1ZA?oc=5",
           "published_iso": "2026-05-13T11:00:20Z"
         }
@@ -79,39 +93,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "Lincoln Center to expand with a new theater",
-          "source": "Playbill",
-          "why_it_matters": "A major cultural expansion could bring more performances, visitors, and jobs to Manhattan.",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTVxMmJWMVhxRzZHUEJuTGxSbzlLaE1wXzduNDlRN0RoVjIxRUQ2Z1kzVkFMUi1fT1pNYWVKZk4zOUl4a1JuSThNNlIyYjNaWnA5NFBwaW1fVnBvQ1Q1VmRlemlBMGVBSXNpX1JpOWZpZ2hlQVpBZF9ZNWk3SEQ4Y0E0YVFnLUF5ZzBDcHY1clE4dw?oc=5",
-          "published_iso": "2026-05-12T13:14:00Z"
-        },
-        {
-          "title": "Roundabout launches campaign to renovate Studio 54",
-          "source": "Playbill",
-          "why_it_matters": "Upgrades to a landmark theater could improve accessibility, preserve the venue, and strengthen Midtown’s arts economy.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkJfZ3RCWXdQNGlMZ0g3bHpic0pWbUt2XzIzZHZ0cUNSZUpqWXg2S0RjVzY5bUVTR01yQ2UtR0R0M2Ywc2ZlX0tDbGJRczFkLVM3azhkNTlVOFNSeDRuWDdFTl9rU29kdDdXZWVEamF5dTEzbFlLZG9xMHpfMnJ1ZFBvN3BZY3JZLTdyVDFmM2p1UUt3cjJVbklTMA?oc=5",
-          "published_iso": "2026-05-12T20:32:00Z"
+          "title": "497-unit Sunset Park tower rises on 8th Avenue",
+          "source": "New York YIMBY",
+          "why_it_matters": "A large new housing development could affect neighborhood density, retail activity, and local infrastructure in Sunset Park.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzFxOTYzQkhOOTA5bWZtaHVoVnl0N05HcC10cTlMYWwwazRwbHVVck4zUUZLbXpWNHQ4MnozNzZ0cUh1MjlxSFREMURDVHpfQlRuWmZHOUFxTDR5UjJwYmNLS1RRLUYzbjkyUjk5SWdHRm5ET0ZiQnQ3V2UyNUYyZks3MGdDRVI1dndfZFFjT2ZWNmxCa1VlRUZRSjhUcHFjTkNn?oc=5",
+          "published_iso": "2026-05-14T12:00:39Z"
         },
         {
           "title": "Bronx Week opens with Skate Key tribute party",
           "source": "Bronx Times",
-          "why_it_matters": "The kickoff celebrates Bronx culture and draws residents together for a signature borough-wide community event.",
+          "why_it_matters": "The kickoff launches a major boroughwide celebration that draws residents to local cultural events and businesses.",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUTGptRFliTU9pTE5CbWNnMUJYYWFrelRkLWdFNXMyQ3g4WVd6UFZsbWwzYVhqSm90MFlEY1Y5c0pyRERmT3RQUG5QSFlleTUwbTJ4allIQkhsMmZTOE1zcGZFSldRV1MtcjJLaVBMWl8zb1pMZEE?oc=5",
           "published_iso": "2026-05-12T19:38:04Z"
         },
         {
+          "title": "Governors Island Jewish food festival returns this summer",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "A popular sold-out festival returning means more seasonal programming and visitor traffic for Governors Island.",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQajdMWnpVTkE1NG1QWnVzVHZObm52dHpjSWZxcXJrTHRjT0Z0Sm9HSjJTeUVuYklvV0hhczdfV3A1OTFNTkRma3pVeG9pdl9lb01KMEpKQ2tkemd3Q3hHeG5nVk81Vlh0RE1PUkV4QzJXYkUzcjhGZ2t6NFkxbEx3YkxEblhJV1ZBV3A4cDhvSXpUSUxHenJncjlkYVBFamh3WjFkMHJUeGVVSjlLbXN6T2UyN3hHQi1TUlZyNWNpdG5TaEI4cE9tNA?oc=5",
+          "published_iso": "2026-05-13T23:03:00Z"
+        },
+        {
           "title": "Brooklyn artist brightens Fifth Avenue planters",
           "source": "Brooklyn Paper",
-          "why_it_matters": "The public art project improves a neighborhood corridor and adds visual appeal for local shoppers and pedestrians.",
+          "why_it_matters": "The public art project improves a busy streetscape and adds neighborhood pride along Fifth Avenue.",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uRFFDeFBmVWdfb25wb1FDZ2RzU1F1VXh1NVVOeURBOGJyaTZJcUVDbmZyYnJlV3FTYUpiN3RmMWJPbTd1UW9Dbkx5Y0hPSU1hbjUxSWNTSGpBa0Z1Vy04MzZOYkVDQzUxMDBEWm5rVndQdlE?oc=5",
           "published_iso": "2026-05-12T13:20:19Z"
         },
         {
-          "title": "AAPI women comedy showcase coming to NYC",
-          "source": "amNewYork",
-          "why_it_matters": "The event expands representation in the city’s comedy scene and offers residents a new cultural gathering.",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTYtZVllT3JqME5DNjcxRkkyN3JvcjZuMEFFSVRGLWZxbV92anptNGtxVlN4R2VIc3lwVVRxVXNwOUF0b1ZNYTdRcFZiQ2h5bHRXdFR5bXhIOWpKMW1lbndhVDhfUmZqdUlaUGtHYm5KTFRNZGRHQklVeWlZTkpfdFV0dEU0UFFTMkNGYjdfaEZFZGFVYWtHeWV3?oc=5",
-          "published_iso": "2026-05-13T12:00:38Z"
+          "title": "New thermal bathing club opens in NoHo",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "The opening adds a new wellness venue and could boost foot traffic for nearby NoHo businesses.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONXJMeWpKOWpsTDFPcDJ3YWF4a3RIbU5WdXdMRGxQMDV6T3VzZlpJanBIbDlHcG43OEczVndIS0cwVmN5UVNQV0dneGpjMG9CTkpBd19WMUw3TEI4Q1J1a19Wc3dJVzdJOERUcktyUy0waktyVkJpTkdrWDFBWlZvVzM1SlB2V0xHZ0t0ZXR1aktfa2FEeGxVSHd2NmNWTUFKMWNDdXVOS2VfOU5lTkttTm5OMXBhbFBIVS1qVg?oc=5",
+          "published_iso": "2026-05-12T16:19:38Z"
         }
       ]
     }
