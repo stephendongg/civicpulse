@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-20T13:43:42Z",
-  "daily_fact": "At age 20, a Staten Island resident has built a 7,000-piece archive preserving the borough’s lost stories, celebrating New York City’s local history and community memory.",
-  "topline_md": "New York City is confronting a dangerous heat wave with cooling centers and free AC aid even as transit, power, and fire incidents disrupt daily life, while major civic developments include a federal judge blocking ICE courthouse arrests and the approach of the June primary.",
+  "generated_at_utc": "2026-05-21T14:17:03Z",
+  "daily_fact": "Curbed highlighted the growing appeal of office weddings in New York City, where couples are turning workplaces into stylish, budget-friendly celebration venues.",
+  "topline_md": "New York’s top developments span severe storms causing flooding and damage, major civic decisions on Penn Station and Bronx policing, and the Mamdani administration advancing neighborhood planning and other policy moves amid broader debates over housing, transit, and city costs.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,11 +14,11 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "Extreme heat grips NYC through Wednesday; cooling centers open",
-          "source": "Gothamist",
-          "why_it_matters": "Dangerous temperatures can threaten health citywide, especially for seniors, children, and residents without air conditioning.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY0E4NXdXbHVhTEtnZDJjY0ItVU5kUUlwMlhxZkMtdnNPaHUwYVZ4T19UTkZwRXdkWjl6bTFzd3FiTGVLaXJsa0VuaEhWdXhUOGhQNWtaZXVpWGMzVVVNMms1NTdwUnZsSVhZQms0NUc0aGk4TDFxY1MzNlJNMkl1djRDdUF0MmNybGR0dWNkQURxcjBsa0hMTXhnWURSaFZhOG1kbHdUbXA?oc=5",
-          "published_iso": "2026-05-19T15:42:00Z"
+          "title": "Heavy rain and storms flood roads, topple trees in NYC",
+          "source": "ABC7 New York",
+          "why_it_matters": "Flooded streets and downed trees can disrupt commutes, damage property, and create immediate safety hazards.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSHNqWjJBem9HTHlPelRKU0owTmNwcWdUOEN4ZU91aWtVZDB5WVVuSDVlNlJZd0JxMERJeEJqTlQ4XzE1QUVDMnlRQVp4THFhcnVnNFUwTVRHdDhhLUpxR09aWktoTF9SWUxVNW5MNGZpVFVYTUd2YUZ6eWEtNlFVanVTWjBXM05veEZPYjJMNTVWWElBZ19ZNUZndjFUa1BJa3lXalZOSkJpLXk2eXV6YtIBtgFBVV95cUxNN19XZ0dQYlNhY0NlQWJXeWVFQVJ5eFhXVFg0NTcydTNUZHNKZi0ycVNhUDNyT0NJMnk4M3EzcWI4WWEyaU9aZG8tRnNZZnYwblg3VUZaRVZrZ3ZhaU1QdGlvQTJwQmhZNDMzQWNTN0ZFNF92VmZVRlNPT2xpWEJyVV9tYXBLWG9KdnhNbEY0X3docDBDM0trZ3hTRklFUUF6ck5oZ0drTjdRWGZ6MkdTbUE1a0JrUQ?oc=5",
+          "published_iso": "2026-05-21T02:41:54Z"
         }
       ]
     },
@@ -26,46 +26,46 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "June primary election: What NYC voters need to know",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "The primary will shape city leadership and policies affecting schools, housing, transit, and public safety.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFlnYlg5VFRYbnltSk85VXRGOVRmMmowRW9Land4LXpHb1h5YlYxVUs4M0M1X25KaGE5QW5YdDBfZFJiNk94WUMwcTQ0aHFUa1BXSWpBa1BwNDh4aVh2SWc1YmRNVFdxSWVsLV90STh5dUtVTlVmTHJmYmVNd1Y2T3lJRWR4ZGFPRWdFRmNRQm4wbjloTzQ3VnVJSldiQm9kUnR4YXFBT2ZIdndXOE5zendhVDcwNkUyLXc?oc=5",
-          "published_iso": "2026-05-19T21:40:00Z"
-        },
-        {
-          "title": "Judge blocks ICE arrests at NYC immigration courthouses",
+          "title": "Feds choose Penn Station rebuild design, keep Madison Square Garden in place",
           "source": "Gothamist",
-          "why_it_matters": "The ruling could change how immigrants access court and affects city legal services and public trust.",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFRYSTNmeGlNYTdHb2EzemNfWGxtRGpONkxIU3MtemZfUkV3VTJYc1RyeEhmckpPeUE5Qi1XMGFyTVR4by1RaldyMm9DNFd6dTVueEMtOE5DMzhGd0F0cnZkMXVlbjVQRGJwejJPT1pUY2pkLU9tQzVQRkdPQW9HQUJ2RjBNd3Y4bnRHRHQyY20tbVNpZ285OE1RODlqREpKTVpsYw?oc=5",
-          "published_iso": "2026-05-19T18:52:00Z"
+          "why_it_matters": "The decision shapes a major transit hub overhaul affecting millions of commuters and nearby neighborhood development.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEsyTXgxNF9fNUVnVXgzN1g1cjVtMnRWYzNVUlRZTnAxcmlyS0duVF9zWG9NOFRXbzZ6dTZHb3lFV0ZJeEItazYwNzNmd1oyY2dsWDJtOUx2azFOTXhzX2ZrV0NKUmx2Y0tnTXUxaTRRTTVXeHd0elR4NUtlSGdMVXNLUmFGUzFldy0temluTFBKWVFpSEUzNWRWTmIxWEIxMFE?oc=5",
+          "published_iso": "2026-05-20T22:18:00Z"
         },
         {
-          "title": "DOT suspends Cross-Bronx Expressway bridge rehab project",
-          "source": "Gothamist",
-          "why_it_matters": "Pausing the project affects Bronx traffic, commute planning, and the timeline for needed infrastructure repairs.",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTUtzcnZPRENJMU01Vi1EWmVSOUx0dlFpeEx5U0V3YnFUMDhaY0VIWW5YSXVIeGdaQVNqVEhwRGVkWVpsVHJPSW9jNzNpenIxdjFYVVdSbUF3N2FxcFJGdDRockN6LVpBaURma2VudDRUN1o5VTY0bS04TTZTSHhVbXNEY1lRX1NiN2lJ?oc=5",
-          "published_iso": "2026-05-19T22:14:00Z"
-        },
-        {
-          "title": "NYC announces second public grocery store site in the Bronx",
+          "title": "City advances neighborhood plans for Bronx and Brooklyn corridors",
           "source": "NYC.gov",
-          "why_it_matters": "The plan could expand affordable food access and signals a new city role in neighborhood retail.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdmZ6aldlMlRLd01acUlRQU13a1BaV0VreFRXT09Ib0U4WmE2dVdfSGVEMUw0RFZyVDk1X1VON0ZiM1hBRWMxRl9CUDVEc1hnOW5WX0Z5ZG84ejJhdVBGeHYtaVFCTk1qbWpYVjdrYjVYOHdfNWpYY1ZBYWVGNVN3OTNMVHRrMExRSV9aSFFqQ055c3FjS0R5ei1tSG1GV1BwVHh3S1huMUhJTGV4TlJBVzMwc1R5MU0?oc=5",
-          "published_iso": "2026-05-18T23:27:43Z"
+          "why_it_matters": "The plans could change housing, zoning, streets, and services in two growing neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWs5LWlrMDF2UEJDeXhWZEV4YnJQaFJxYTRnRVFnUkhVU3Qta0FTNWY4eTQwVFdzanNjQXVzUk5mRWRTSVUzQzV0M0NscWF0WXRSVjFuTkw0S0JkellySmlTRnNGTjBKNVROQmlDN2pkZlNVVTJUQ2ZRR2pIcnkzTDUzRlQ0NktneG1SZ0RfRHVmaFF3RV82UTd4WHRuVlV2TXYyY1MtZG1GV0NMZnExag?oc=5",
+          "published_iso": "2026-05-20T17:41:56Z"
         },
         {
-          "title": "NYC trash bin mandate deadline nears before June 1",
+          "title": "NYPD splits Bronx into two police zones, adds 200 officers",
+          "source": "ABC7 New York",
+          "why_it_matters": "The policing change could alter response times, enforcement patterns, and public safety across the borough.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcjV2blQtV3hyenBPejZ2d3FwSDFQU1VFT3ZQcmFHY2dOdmlLaUQ3X0htTTlGT1IzWE40M213V0UzeFpORktNa0RTbWUxdUV6N2RMZU8xV0MwMTBCNmhfZ2ZGWWFaTHBWR1M4amFVS19pNUVZNDc0djhDTkhJYV9HMHlkc0lFdE5NeVVQWnRLM3pwQlhPM2xrOF9ZbExkbHdBUGw4UVFhQUbSAa4BQVVfeXFMTW9pS0k1cUt5SUhEaTRYTnlqVTJ1Sk1hUnVHX0xhcjlEc0FfVjRpZXBsRmhvX1Y0dkJIbFlMbXBhWnNYa0I3eFd5Smpaei1TUHlDM3l4WDRqMDhiZ0p0eTBQMGpNakNUWk1TcllQSm9uMnU5enVZOTJCQ2pWSzBxMDZSU1FCamc4TTVhbzc4YjJIQ0xUbWZIUWtVVERkWnhtU2NpWEMzcU9WN1pEM3ZB?oc=5",
+          "published_iso": "2026-05-20T20:04:10Z"
+        },
+        {
+          "title": "Cross Bronx bridge repair project suspended after community pushback",
+          "source": "amNewYork",
+          "why_it_matters": "Pausing the project affects traffic, infrastructure safety, and how residents influence major state transportation decisions.",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzlWdWpEQWhoLUVPVHhXQzFfQnVtR2p4enZwa0dLQ29ZZFVFWE1WSGNJSEI3RzhHUS1NcUFKdGlMSm9BX1UtWHRMNS1iTHZEbG5aWDRuSjFwMklGdktacE9DMG9iMWR6ZnZZaXJCSHRjR1FmV0ZOS1JzZ2hjQy1Zc1dEUHc5bF9kRUFuTTFZU04?oc=5",
+          "published_iso": "2026-05-19T22:00:10Z"
+        },
+        {
+          "title": "City delays fines for June 1 trash bin mandate until September",
           "source": "SILive.com",
-          "why_it_matters": "Residents and property owners may face compliance costs or penalties as the sanitation rule takes effect.",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOWhzUHpGYjRqRllyYnhkT2JmZm9DQ1plVnVNdjlsR3JyM0xsWnF2TnpJREZKRFJBTzVTWEJfVU9tX2k0a3Jkb0tzQVZyQ0lnWFBWMEdOeHBBUVhKbmk4Yy11b2h3cU9Iem1pc0hNY0RxZUJMQ1lkNTM5dUhZVzB4Tl9sdVZjcDJqY2llSzNSamYzMUYtb2pOMXRGOVdTNmhVLXAzOVVrU3o2NlZNQ2xWTFZ6LWdLUU03M0JXZHdIcU5rWXI3MmlrN0tOM2bSAeABQVVfeXFMTXI3VjhUdXJRT21faWR4NnFzMzRDMkFWNHVKV0hKcTN4RXBMNVNzZklSZjQ3ZnJULWY5aVljcGZwSUEyajRLUHo1MDcxcTJESTVPeTZxclhUYzZuYjc5OFA1T3JjbG1uWEdNc0hCWGxQREZKdi1COENPTDdzaVFfRWhPVGNYQUM3am8tSGVZaU0yOTZpM3o5OGlLS3dRVUFoMlZaT2VPR1JXc1VXXzlyZkZZQXNCOFNSUF94MEctVTFvZ3FrRDBuRGk2UVlGdmVZZFM4T3lqNndpVzhZV2tXTXI?oc=5",
-          "published_iso": "2026-05-19T15:20:00Z"
+          "why_it_matters": "Residents and landlords get extra time to comply with a new sanitation rule without penalties.",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzlGMWd0SWtjVXUxSGZ6aXZmbXFZRkNiS2g0d2x5eWp4cElXRl9wQWUtVGtRZnFBenRRZ1JJcnZqN3ZlclU0REhraTFid1BpZ0NzZzNHVTdhd1NJSmVGUldleWFZV0FEWm5KQ2ZZd3ZfaUZ4aGhZU1hTV1FYUEdiU3IwNU5adG1sd005Q1dlQWFfeXozMXUxck9iOE1aRDdpQkstQkRYYjk5LTlfQTFxSm1sVUZFQ0lfNEtTNGlTNWZKX0dh0gHYAUFVX3lxTE5WZTY4VUxHV2xZaWVNV2YwMmtmRzlqbndBcGJCSWxJMmxibXItWmNod0drQnFmNmlNRnpkVnlzcHJ1TU9GeTBMdWhZUmQ1Z05UYWdHMWNhZ2ZQa1RvZ0lRbWZTbENBSWoxVXRWMlNSX3VYT1BNU05sczRpRFNzX2JlekRPZ3NKVWVMMF9oUmlESkg1aUpMMzhhMDh5eFpwakNWMDZWNVFwUmtkTjBkYkhDa2NYLXlpc0hpZ1A3RTR1UG1fMzA1UERzZWtJWnp1MXVHTnlJSHNGUg?oc=5",
+          "published_iso": "2026-05-20T19:44:00Z"
         },
         {
-          "title": "Whistleblower challenges Rikers Island deadlocking investigation",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "The allegations raise concerns about jail oversight, detainee safety, and accountability in the city correction system.",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1JFUThSaVluUk5lTXRpeWQ5NXR1UlVXZkRLNk5tSEhyN3BCWkhEZE9zQUJFeE9sRWo5Y0FiLVRSUUNxeS1TLXhvdmlmN3YtMlppbXVoY2VEcnlXMElxSm5YQjdzOWlVMjliM0RJcmI5RTlJUXJOLVF2SUxYWkVZX1FwVzBjeFhZSG1MZmZGdHgzU0FtaTB2dw?oc=5",
-          "published_iso": "2026-05-19T09:00:00Z"
+          "title": "Proposed 6% water rate hike draws backlash on Staten Island",
+          "source": "SILive.com",
+          "why_it_matters": "Higher water rates would raise household costs citywide if approved.",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcER6MXQwR19jQWtHV3dDU3gyX09ybmphekZHMHU4RjM2dk9LdU9MVEs4WUdHM3JOTjZjZzZDM29VNVhiY3FVM1g4Wi1GdjNsSzcwNjZWazdpRmplYXJTQThYTDA4dk9ZbjM3bkRGeHN5TXVqR0I0UjRTbFR4YlJSN1BqWkFzNlNsdjV0ZGQ2OEtRSmxrNVBiX0h6V19qcm9pVXNwUFB0WXJwaWhnaFhhUE9Yd0VKX3NVRzVSMWdudTVubWduQkHSAdoBQVVfeXFMTll3U3JaeFp1ZFhqNFUzODZrbGd3RzVlVDI1WlowMDg5TTUwM0hNb3RYY084NENFOVNyNXJ3R0pMLU5QQ25wcEFmUlAyUHVaalppRE1iUXVIRDdpYldRNFB3TVdIUDhSV3JEaFV0M2ZWMWdFWXB6TjNob0lNel9Qbk9TZXdNM3A0blZKWnVocHVNclVUdDl1T28zUXkzMXNWN3RGQnFSNktGT1FqYkVOZ2ZaTDk1WG9TMkJfTUhsOHRMeEpKZDFhNWNlYzZISGdjdHV6d25mdEdUMGc?oc=5",
+          "published_iso": "2026-05-20T19:39:00Z"
         }
       ]
     },
@@ -73,25 +73,18 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Free AC units available for eligible New Yorkers",
-          "source": "FOX 5 New York",
-          "why_it_matters": "Helps low-income residents stay safe during summer heat while lowering upfront cooling costs.",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLW1KVE1ybnR4eHdrcVVhY2prT0tyMEJuNHRETjZtTUJSdGZUZzgzUHFQbTl4dkRnWDRpczhkVmItX1FqMXVRVlJlajJQWXhfWEpySlpDby1EY0U5WWF5c3N0V2x3ODdUUzB2R19qT3VhN2pPZ3M1NFFITVNNRGVWWU00eUdnOHpwdnfSAY8BQVVfeXFMT1hZMlJTWDE2OVNmaUJJd1lseUp2RkRwZTVhQlVCU1FSbDg3OGJpeGNBbnhTaENpZVJycTZoeVJkLXk4SGZwLUFnLUpqTE9tYm5VazcwN0RKazRCNFlHWGw1YnE0OFpSczh1cFNJMXBTQ2dfUWo5Z0lNSHJ0LVBueXQ5d0g5b19VMkx1d3p2OXM?oc=5",
-          "published_iso": "2026-05-19T21:17:25Z"
-        },
-        {
-          "title": "Beds for immigrant children shrink as federal contracts end",
+          "title": "Beds for unaccompanied immigrant children vanish as federal contracts end",
           "source": "New York Focus",
-          "why_it_matters": "Reduced shelter capacity could leave vulnerable children with fewer safe placements and strain city services.",
+          "why_it_matters": "Fewer shelter beds could leave vulnerable immigrant children in New York without stable care and support.",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYS0zdWMtQ1R3Mzk2WV96ZDFHVF9SVEFDeVhHZWt2OFB3NHBsSTdrZmtmVVg1WE9DejNPTzZUQmdQbFZieUhqOFFPa2J3azFKN1lQLUdTNGlSR1hORmJ2MVBOU2tpZ1VodF90eGJONlBMS0xucFQ2TGtxUThCSDBud1lZejg?oc=5",
           "published_iso": "2026-05-19T15:04:00Z"
         },
         {
-          "title": "NYC Ferry expands summer service before World Cup",
-          "source": "amNewYork",
-          "why_it_matters": "More ferry service can improve seasonal commuting and event travel for residents across the waterfront.",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tbm1IenRweFotODlibXlmN2lEZi1xOE9HUHgyVmZSMEFkSElvZWczd2hLNTBMMFB5dGxFM3dRVVdOalFlUVEyR3FtdzVKOW9reDAxeXNVekV4US1Ibm5CVHRGWGlQb2stX280SWVablk?oc=5",
-          "published_iso": "2026-05-19T18:15:27Z"
+          "title": "Bronx NYCHA residents face four transit changes to reach grocery store",
+          "source": "Norwood News",
+          "why_it_matters": "Difficult grocery access can worsen food insecurity for public housing residents in the Bronx.",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObTI0UGgtcS1YT2paT1JBc1BIVEFPaEJwQWU1ZFpxa2JQSGtFWTFKTncxdDlEY2Z1RGhmTXpNVzNqd09fa1Nhc1VQWmM3YUZ1MzBVZE9PMWk2UlJjQ3FrSmdBZnVZcUN6RXdqRW12R1JJdDVXTjlVRnprUXdRVi0tV3dqMTFHN2RGZFFROS1QYkxsQnZpQ3RDUlNJUkJJbHM3cHQ5U2RxSE1rLTl4Z1FiRzlFR3VTZVh6b1NLeWphV0Y3dDc2?oc=5",
+          "published_iso": "2026-05-21T05:02:48Z"
         }
       ]
     },
@@ -99,39 +92,25 @@
       "title": "Community",
       "items": [
         {
-          "title": "Coney Island beach season opens with safety reminders",
-          "source": "ABC7 New York",
-          "why_it_matters": "The beach opening affects Memorial Day plans and highlights water safety for families heading to the shore.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSjREWTVvWGE0YmNMbXcwMkVsRjBVNFBLOFpLb0otTmp1THJxaTE0czZLNmt6cm1FU1JEOTFDWGM3cDBXNlNzSkV4N3dpQ0hoclFlbm5vWHdzRm01OUtDNnJPX05CaUdOcWJqNFl6VlRzMkF5anhEZWxkbDNoRnQwcFhRaGVLLXZmQUF0MDktaExMeXZtbWhkUDN6Z2ZuaURLalJnUnlrc0o2QWRRV1JodGptZkk4SkR5bnNR0gHAAUFVX3lxTE4xTDFrb3BoZFd4bGFWYWFpaVRTRGs5czViWC1mWXVuLUl3aHZzTG5oR1M2djhBNjluRlNzbG0tcXdqbkRYSy1Dd1NfYUpKQUs3dTNuLWZQS2xOMDI2NDlGYVU4TlVWWGdPMklHYlF0Rm5NTFNhWHJqLWEyRUZXcFBWV2VOLVRINGRrbENRTVg3RVppRW40UDZFeTNGekxvQmdZUWlkaEQwLUtWZ3JVTmdrS2tzLUY3N3FDaWc1T3F0Zw?oc=5",
-          "published_iso": "2026-05-19T22:42:26Z"
+          "title": "Brooklyn beaches open for summer this weekend",
+          "source": "Brownstoner",
+          "why_it_matters": "Residents can plan beach visits as official openings affect recreation, staffing, and seasonal neighborhood activity.",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02TmlGaTRVNFdyeWVSRExjMHlIRm9lZGJ3ZUhyQXRZRFRld1hadlBlRk9mcEIwQ2Rsd25VbEFyak40bDF3VkpBR3RVZTBzTmJPcFVQSElMQ093UjMyVFd3eFZobzdqMTRwemQ1YjhvTk5iM0VycmdLcmNUcEUzZ2c?oc=5",
+          "published_iso": "2026-05-21T13:00:20Z"
         },
         {
-          "title": "Battery Park City announces free summer concert series",
-          "source": "BrooklynVegan",
-          "why_it_matters": "Free outdoor performances give residents accessible summer entertainment in Lower Manhattan.",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMzRZeldaa05jdW5fVnpxVmhUSlBrSy1DZFFOMHFDT0IyNVdmZ1dUd2UxcVN3YWtyNG04cUNrUDVZTTUzZEthdFpORDJUSmNpaTk1N2psZ293SGtjSXdlRl8xTnRiYWhQSmRfdFZmRGxtZEF0c2E4X25CajY3VTNxOUZQZDBKZ3VwRWNpVEJMdC1xWEgwX1FGa2h6VUtZVmhMNXAydlBPbVZCRTlmbnpIa3dLbmZKSld3dmZQTHk5QXVmVGJMQU9KdQ?oc=5",
-          "published_iso": "2026-05-19T19:28:48Z"
-        },
-        {
-          "title": "Puerto Rican Day Parade names 2026 honorees",
+          "title": "Puerto Rican Day Parade names 2026 NYC honorees",
           "source": "ABC7 New York",
-          "why_it_matters": "The major city parade shapes upcoming cultural celebrations and street activity for many New Yorkers.",
+          "why_it_matters": "The parade is a major city cultural event that draws crowds and shapes community celebrations.",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMTNocElzOFRiYmRaZ2Q0VEl5dEJyNDloMmlvNlU1aDNxR19INU9id1Nqd0FTTHlqTC02enJReXVNVHhoMXNlYmxERzZLQ2FYLW45aGo1bUVEY1p0X2x6TXpCM1FueXFRV0RJVHdJR2dvemdnR3poVmpZc0kyMVBUNDUzbVkyZVBvLWxPaksyUHUyOExBa1pxdU1paFlSWURtYmctVXFFb0lnbU1RQ00zQWN4MEZFUHUtTmZoRzhaM1VzSDQ3WXN4eHYyWdIB0AFBVV95cUxPUi0wX2dtdHNRNjBTMllxOVdsVEpSeC1DVkdlNVJhNFlxNUhlMGJaVmFzVFlXVUNDbEMwS1A1Z2FCdHMyT1pORW9DaFluMmN1RUY2ZzdSbE5Vc2JZaWRsTWxfUEpVcUIwMTlQdGxmMUcwaXJRNkM4WWtsSDZhRkRNY3U2YWNLeVVlUFRCOHBlMDhRYlVnTDJYbnV1NVNWWXRxYTZDeTgwdUVBY0Frd1o2SFh2a2drczNSeXRhQ0JKalNzNENXMVJiODNIM2t5TE9K?oc=5",
           "published_iso": "2026-05-19T16:40:27Z"
         },
         {
-          "title": "All Things Go NYC reveals 2026 lineup",
-          "source": "BrooklynVegan",
-          "why_it_matters": "The festival announcement helps residents plan for a major local music event and ticket demand.",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVGRWZFFQdGdfMVpCd2dTaThJaE5qRXBNRWxWZUg4akhMN0x5QW4waGpPZXNFWGFTRWt1OFlRa1U4NjNlMTlvdHIxZy1GczhQaXVMZ1FuSVhua0dMTmZlNExLcWZsNjhRaHo1aXNzZXpERUtCOTlvRE1yYmF5cTRTQzBSdml3QkVyYWRPMVYzUFIxYXROSUFJay1JZUIyYlVJb2d4cUZRSElYVnFQWkpCTE1nOWpzZFVEMmVKRk4ybGhxVHg5?oc=5",
-          "published_iso": "2026-05-18T15:00:30Z"
-        },
-        {
-          "title": "Memorial Day weekend family events announced in Brooklyn",
-          "source": "Brooklyn Bridge Parents",
-          "why_it_matters": "Families can use the roundup to make holiday weekend plans close to home.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJiS01HaFNEMXRTQWhYMzFiZ0p6czg1OGpEWVVjQzcxRmY1NzlpazRNRHpoTm1TYUUtV3NURVBlUF96bnlNcUw2R3VhdGZWRDRVd3N2SXNjbEd5VXNwU2pPMXE3WmVDWHJJckg3Y08wZjVPVHdsTXZOU0pnYWRXMEdOSmFsTVRkWkRlNGVjZmRsM1Y2VURXdTd3Yw?oc=5",
-          "published_iso": "2026-05-18T16:34:10Z"
+          "title": "Summer solstice weed festival announced for NYC",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "The event could affect local attendance, nightlife plans, and nearby business activity during a busy weekend.",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdkZQcllUdXZRSzQxclZabzR4T2VBbnFjU2lmRmlPUkU1OWx0TGlRVHp2NFZBVGdlTEEwX0pUMDgyUVk0THFjMDJ6TWxOa3YzbEdoUmFKRXBUdzgycFFaMU9ueUttS3V2WlhjSHFwNWRGQkFwX0h3aklVRUlJWXBvR0tCMVRWWEhXakxOU0dLZ25NMVo5TGYtclE2YnlYQWpTWlpxbWltdGlwaVc3UEhHYllIbUdKV0tNZ0tIUEtNSFR0UWlPdHp5dWo5Z05faVJCTkVvX3BCY3JwQ3RvZHZLaTVhMHZJakNjbDJQc2RR?oc=5",
+          "published_iso": "2026-05-20T01:05:40Z"
         }
       ]
     }
