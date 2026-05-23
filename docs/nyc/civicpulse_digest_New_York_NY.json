@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-22T13:34:46Z",
-  "daily_fact": "JLL promoted Angela Gentry to New York-area vice chairman of leasing, highlighting a notable leadership achievement in New York City’s commercial real estate sector.",
-  "topline_md": "New York’s week was led by politics and policy: a new poll shows Lander far ahead of Goldman in the NY-10 primary as Mamdani moved on sanctuary protections and a Central Brooklyn rezoning, while courts struck down the state’s Host Homes program and revived a rights claim against NYC child welfare.",
+  "generated_at_utc": "2026-05-23T12:02:50Z",
+  "daily_fact": "FDNY firefighter Christian Montalvo was honored after rescuing a woman trapped in a submerged car during a storm in Queens, highlighting lifesaving bravery in New York City.",
+  "topline_md": "New York City’s biggest updates center on rising immigration tensions and public safety: budget protections fell short as ICE detentions climbed and protests grew, while officials also investigated East Village Legionnaires’ cases and advanced multiple accountability actions on housing, fraud, corruption, and deadly incidents.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,60 +13,60 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Mamdani orders stronger NYC sanctuary protections for immigrants",
-          "source": "Gothamist",
-          "why_it_matters": "The policy could change how city agencies interact with immigrants and affect access to services and enforcement.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNWxzSlFDalRxZ1pISEo4OEZoTlk4aEJWNnFLNXJHM2xaWTJ2Rzh0RWF1eExRWUhRQlZ3WnZuOGdCWm13R0VLOHFBQy1aLTFxOTlJbzRSQlZEXy0zZ2toa3RzZUh2Mzh5SllsQzJTMzd6YmR0ZDZKanZOcl9ScUJ3TXFkZW16TUhEYzhleTRZVG44SjhuU1NHa0V1OTl6M0x5UzdJ?oc=5",
-          "published_iso": "2026-05-22T10:01:00Z"
+          "title": "Budget immigration protections fall short of New York for All",
+          "source": "City & State New York",
+          "why_it_matters": "State budget choices will shape deportation risks and access to services for many New York immigrant families.",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZ1VWd2Q2SnlieUIxRFJ0aU5KR0hjcFl4c0t2WWJfNWF2Z3VuTVllVTdHXzF0MUR1YVRfNFAxaU9OS1hTOG1nemhZNGpJR0NnbERpelY1dU5MMC03LUw2TXNwNS1XdHhJU3dsT1hnRHVBUG1tdzJHMURTN2Ztd1lOdFAxRTVfQmd4RnF4aWFlSXBFWW13RWZMZnNhVHduQ2VfMm1NLTUwTHZ2cEJLQkJLR1RZZWc4Yld0NHFKRDR3WXNraGVrVXhZdzVsT2Rndw?oc=5",
+          "published_iso": "2026-05-21T19:33:46Z"
         },
         {
-          "title": "State high court strikes down New York Host Homes program",
-          "source": "amNewYork",
-          "why_it_matters": "The ruling halts a child-placement program statewide, affecting vulnerable youth and families relying on it.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MeVpHRERNVDkzeW5qd0tMQzdJanFrNFZ5YXdOeEh2VDdqemVHRUNVMURnMmNtclY4djliQmc4NTJQSFlUTGRIdV9fNUU5N3RBdW0xYlo1d1pkdnFOdEFZcjJlQzUxMm12UFh1ZVVFaGJGN1hMbVlvb1ByWGZzZw?oc=5",
-          "published_iso": "2026-05-21T20:35:35Z"
-        },
-        {
-          "title": "Mamdani targets Central Brooklyn for first neighborhood rezoning",
-          "source": "Bisnow",
-          "why_it_matters": "Rezoning can reshape housing supply, development, and neighborhood change in a large part of Brooklyn.",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ0o4TE52RDByVjUtOThzLTN2RGd1Qm8ydUEwOS1uNGktbzRCaDJxWV8tY0F5c1ltczlCcjFUZlVRWTZ4bld4b0dsaWpVbWdzZG1HcTNNaV9nX3dHTVVnZERtNWxzNnBkUlNGNmlwUThPWENxVVMyNjZxZFdsYW1Ba0FVOWE3WDZCZTNmb2xGTzRNQTIxWmo0ZkJ2UEw3c2k1VFBXdmhYTTRrZnJtelJIZUNOMGR2bE5tVlBkUm5pRDZsV1dYZnZoXzUyamcwSEE?oc=5",
-          "published_iso": "2026-05-20T19:47:08Z"
-        },
-        {
-          "title": "Council bill would let NYPD hire older recruits",
-          "source": "Newsday",
-          "why_it_matters": "The proposal could expand the police hiring pool and influence staffing, budgets, and public safety services.",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeFcwanpMRXVfSlZTSGwtNEdVdk1nVHE4QmQ4TmV2bWxlTmh2aHRrZjFsRGYyVlhmMXBGSVgxbWVSUG5pQlktd3h0eExFS2Jyc1k5VGVOdVliYWJ5d1NGUXF2TDZRZGhKWHY3RW1lU0FEclR2M0dHWkRJbURBdTNVQmQ1bktvRGNjem5XMUhtelBOQQ?oc=5",
-          "published_iso": "2026-05-21T20:08:59Z"
-        },
-        {
-          "title": "MTA tests new fare-evasion enforcement on moving buses",
-          "source": "amNewYork",
-          "why_it_matters": "Bus riders could see different inspections and penalties as the MTA tries to reduce unpaid fares.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUNhNHNDQWhRMnBXd2xGZ1ZncGtfWFFfUUExRDVlVzRtS2hwaXc5VDJ3dEhiaWNkZlkyMTl3UWM0VTZrTEdlMW8wcG05b3ViVWpBaFVQSVU1UVhhYnJXNWEwbnNiN3lsRkhiYWxrWDROM2JnR0xEb1JwdU9qNk5FeWxqRXJkLW9QVVhWc3BuUmw?oc=5",
-          "published_iso": "2026-05-21T15:45:41Z"
-        },
-        {
-          "title": "NYC extends deadline to buy mandatory trash bins",
-          "source": "amNewYork",
-          "why_it_matters": "Homeowners get more time to comply with a city sanitation rule that can affect fines and trash pickup.",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQk5WWXlDNkFNS3lHdjFQeWtIM0hUaWE5MkZqdnR2N19TdU5MU3FxWTRVSHR4clZ0UzFqNlQ4dkQ0YUMyam5VdTA1Qk51eWlrSEoyTXdJVklrLWJ2d29xbnFGbG85c19JeXo2cXVuazlfUGpXVUVZMkpQVlp0WTRvTg?oc=5",
-          "published_iso": "2026-05-21T19:45:14Z"
+          "title": "NYC steps up immigrant protections as ICE detentions rise",
+          "source": "ABC7 New York",
+          "why_it_matters": "City actions could affect legal aid, enforcement practices, and daily security for immigrant New Yorkers.",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmZLTjVxOHQ2VkFYc3Mxal9nWWlGdmJCYjZuSHRjS2VWbWVDS0JRdWs2TjN0Ul8xYmpFbUdJUENFblZHUGc5RzZuaW9qeVF1MTBYNldrTmJ1SVVybHhpNkJjcEZKUFdhMjVZTUM2WEZfYzh3ZVNtdGk2eGE3d3NLVWxHVURnSk5NcDNwVV9GU2djeGNQOXVWalljSkNxaFBCRU85eEtqTFE4d9IBrwFBVV95cUxOeTRMOHNGY3l2SE9NcmNTd0k4Q0x5S2hhMWJVQ04wNThLa003aERQT2cwZW9wNi1kbFE1MTZDS2toSFRDbV8yTmRUZUxHeTVOS0RuSF80Ykx1angtanAyUFVKN0JtUkVEZGJSNXA0MXZud29ETURQX2VGMUZVVGplQ2loU21uTzVpWmVHOWZ2WnZLVEVpakVMSXA0VDZ0LUJXa1dzMWF1X2hFa29NTlhN?oc=5",
+          "published_iso": "2026-05-22T18:37:02Z"
         },
         {
           "title": "Atlantic Yards project set for $175 million in state budget",
           "source": "Gothamist",
-          "why_it_matters": "The funding could accelerate a major Brooklyn development with impacts on housing, jobs, and local infrastructure.",
+          "why_it_matters": "Major public funding for the long-delayed project could reshape housing, development, and oversight in Brooklyn.",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN1dhSHk4TTNnbHEwaFFuREVMOUJUMFIzN0JYUzRhRFRiOHVHMDRmZ1NqV01mWDl5UGJEbW1KVFdTUEd5QkZ3eHRFS0NKN3FMSDBEblpCdjRCdmZZSUhrcjB2elZSTXFLT3dBRU1FWXJOSHNaY1ltRDRTWS1RY3R6cHNZR2FFb3QyTGRiTDJB?oc=5",
           "published_iso": "2026-05-21T20:43:00Z"
         },
         {
-          "title": "NY-10 primary poll shows Lander leading Goldman",
+          "title": "Feds charge temp-tag dealers exposed in ghost plate investigation",
+          "source": "Streetsblog New York City",
+          "why_it_matters": "The crackdown could improve traffic enforcement, toll collection, and accountability for dangerous drivers citywide.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjdPa1BTQWxEUWFaU1BLWVNHVXZiNGhxb3lMU01td3ZsS01QUy1mYnRzci1wOWVBV0oxOHQzVjNhcGJ2eTAyanN5RW0wRVdiemFaY19iMHlZeEJVd2pIZVE1RzB6WmFieFJ4NUQxLW5YQWhrVGNYVF9DUDRqSWRhOVU4ZUc1aGpYcVhFN1FZMTczTVRxUFRTUTlTYzlHRXlDaWhMXzNud012RjRtSUtSZHpR?oc=5",
+          "published_iso": "2026-05-22T04:16:00Z"
+        },
+        {
+          "title": "AG James shuts law firm accused of exploiting NYC tenants",
           "source": "amNewYork",
-          "why_it_matters": "The race could determine who represents Lower Manhattan and Brooklyn in Congress after the primary.",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jZzJJbWxpZ1QyY283T1FxUzNaUlNPcWVfdUNpZHBzakFXZXQ0Mmd0RHVFLUVUczlWVGU5ZVlGcWF4VnhQeXphenBpUVZiUzhrT1RXR3I4TGw0Uk1xc3NaZEpKTk1HWFJNUHFKLUJGMA?oc=5",
-          "published_iso": "2026-05-21T15:00:45Z"
+          "why_it_matters": "Tenant protections and housing justice enforcement directly affect renters facing eviction or legal pressure.",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12YVU0TFdmd1NnZTFnZFYwS3NJY2ZwdkJLajNIenJmOTJ4SHFPenV6VlRPVGZ6WVM5cE55cm1kTGRab1dTOEdwWWNlNng0QldHVjVXWkdDTVRmcXBZY3N5cUJEblh5N1FpYUdQcTNtZ1QwcU1xSjh5NU9ZNA?oc=5",
+          "published_iso": "2026-05-22T16:30:27Z"
+        },
+        {
+          "title": "Appeals court revives rights claim against NYC child welfare agency",
+          "source": "amNewYork",
+          "why_it_matters": "The ruling could influence how ACS treats families and how residents challenge agency misconduct.",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanFDblFOUU96TEtxdnNCamZrNUM4Mm5QNGNUa3A1c3A1dTRRa1U3WUpRMDdvcFVhakRMcEJ4M0c0eEZuMzFaQTJiRmQxSWk0SEZhNHhIRmtJbGVXUnFkb2stWDI1aTY0dzEtMXo2NWtiRjZlLWtjWnVTU3N4WndDdUJCbkpHXzlaQWVMMXRjYk80blBSVUtRV2Nn?oc=5",
+          "published_iso": "2026-05-21T21:25:08Z"
+        },
+        {
+          "title": "NYC extends deadline for mandatory trash-bin purchases",
+          "source": "amNewYork",
+          "why_it_matters": "Homeowners get more time to comply with a sanitation rule that affects costs and curbside trash handling.",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQk5WWXlDNkFNS3lHdjFQeWtIM0hUaWE5MkZqdnR2N19TdU5MU3FxWTRVSHR4clZ0UzFqNlQ4dkQ0YUMyam5VdTA1Qk51eWlrSEoyTXdJVklrLWJ2d29xbnFGbG85c19JeXo2cXVuazlfUGpXVUVZMkpQVlp0WTRvTg?oc=5",
+          "published_iso": "2026-05-21T19:45:14Z"
+        },
+        {
+          "title": "Correction officer charged in Rikers contraband bribery scheme",
+          "source": "Norwood News",
+          "why_it_matters": "The case raises fresh concerns about corruption and safety inside the city jail system.",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGg2ZmJnVEhWMFhnLTQ1N0J0SjN2cWltLXViRGJlS0czRndHSXlVWnl6NlpSYjdaQzNLem5mLURyU09RdzhWRWFxQk5ldlhpbXlJNUV0OHpuN19Fam9CUGxhUzMyR0tZSHhzMTRkTm1oZ01NbXdfcnBGaEVaazVBUEFPTldiYjQzM1VmSlhKYU5rRm94R0VyTG5PbDZoR2dtSjNOTVg4MDRKNTh1V0E2Y2RVWUVQQXVDdnc?oc=5",
+          "published_iso": "2026-05-22T16:20:23Z"
         }
       ]
     },
@@ -74,23 +74,16 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Bronx NYCHA Residents Face Four Transfers to Reach Grocery Store",
-          "source": "Norwood News",
-          "why_it_matters": "Difficult transit access to affordable groceries directly affects food security and daily costs for Bronx public housing residents.",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObTI0UGgtcS1YT2paT1JBc1BIVEFPaEJwQWU1ZFpxa2JQSGtFWTFKTncxdDlEY2Z1RGhmTXpNVzNqd09fa1Nhc1VQWmM3YUZ1MzBVZE9PMWk2UlJjQ3FrSmdBZnVZcUN6RXdqRW12R1JJdDVXTjlVRnprUXdRVi0tV3dqMTFHN2RGZFFROS1QYkxsQnZpQ3RDUlNJUkJJbHM3cHQ5U2RxSE1rLTl4Z1FiRzlFR3VTZVh6b1NLeWphV0Y3dDc2?oc=5",
-          "published_iso": "2026-05-21T05:02:48Z"
-        },
-        {
-          "title": "City Donates Bikes to Underserved Communities",
+          "title": "Bike donation effort expands access in underserved NYC communities",
           "source": "NYC.gov",
-          "why_it_matters": "Free bikes can expand affordable transportation and recreation options for New Yorkers with limited resources.",
+          "why_it_matters": "Free bike donations can improve mobility, recreation, and transportation options for residents with fewer resources.",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05d0FHLUd2bzJOX3huMVpnTndBZFVYTFhhVkJRanloaWNvTFNkR1pmMnpnRGY4QkotMGZKWWd0bW9DaElNY0hIZ3NtS1JfWmxvYzZFeWZfbjFGRGZVeVhWMzJUd08tVVd2NUd1b0tENA?oc=5",
           "published_iso": "2026-05-21T21:29:24Z"
         },
         {
-          "title": "TikTok Showcase Highlights Bronx Small Businesses",
+          "title": "TikTok showcase spotlights Bronx small businesses",
           "source": "amNewYork",
-          "why_it_matters": "Extra visibility for Bronx entrepreneurs may help local businesses grow sales and reach new customers.",
+          "why_it_matters": "The event could boost visibility and sales for local entrepreneurs seeking customers and growth opportunities.",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQclBmSHdMbFNLRUZZdV9hTXRsaGswTHJUWGlpbzZKU1N1N2xXLWtqd2s4Yk94a05EdDE5eWkyVFpDSnhCOUJ5QzFYNXotR2dWcnh6ZjdLSTNvVUVvcTRLTFgtdFhFOEFyazJ4MzVJU0labFF0ejZoNDZyZFJoUnE3NWIwTjhVS01aZU5WY3ZnbEZkVWg2MVptOHRrSjdjd2VEbGt5bnAzWDdIQlp6RTB4X3VSVDI?oc=5",
           "published_iso": "2026-05-21T20:27:47Z"
         }
@@ -100,51 +93,44 @@
       "title": "Community",
       "items": [
         {
-          "title": "Memorial Day parade closures will disrupt NYC streets this weekend",
+          "title": "Luxury renters across NYC are forming tenant associations",
           "source": "Gothamist",
-          "why_it_matters": "Drivers, bus riders, and residents should plan around holiday street closures across the city.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkY0cVlDNjg2bl9DY0p0U0hLU1dLSHlhZldSM0pmQkJ4Y2EzNndzVDNfYlhtc2ZuaFNjU21hT1pEN0ZiNnpiWE9zNld0ZktOWGJIdmJDTUtJczNkSDdsWmdLc3l4TWZTT3V6RGV0V1BsT2hwZWZuN0JGR1Q4TlNiN2dGalExNGJmY0g2SFlad1M3SGJCZjZLYW4wMU1haTZxQmc?oc=5",
-          "published_iso": "2026-05-21T18:33:00Z"
-        },
-        {
-          "title": "Parts of Queens flooded after thunderstorm",
-          "source": "Queens Chronicle",
-          "why_it_matters": "Flooding can affect commutes, homes, and neighborhood safety in impacted Queens areas.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcG9DMk9aNldLaGdCQWRfU0R6eTh1RG9qNzRHS21UUFdzYmN0RDhRUkh5WW5NbWVFN2p5Q1I2UDRFVC1rUTJYb2FsQkFXeFFPN2Eta2xPdWlNbmU4c29DOExfNGVJcFRaQUVIYnBBckFmOXU4Sy1YZUwxNEhnbEdJSl9Uemt6T0NDRTZMVnBaVC1JWW5iaUZQazZEQXI0NWRHYi1aSHFSS010eDZYQTg1SnNOcjV6T2JMNUlsdmV0S29GejZQd3c?oc=5",
-          "published_iso": "2026-05-21T17:05:00Z"
-        },
-        {
-          "title": "Bronx rent-stabilized tenants feel strain in pressured housing system",
-          "source": "Bronx Times",
-          "why_it_matters": "The story highlights housing instability affecting many Bronx residents in regulated apartments.",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RTVhPdU9VOVNmS1NBNlFnNGgwbko4V2dBU0dfaFJZOFp6TUJXc0x2OTZ4bGNJUGtSejhJbGwxcWUwcVRfTzdsdjU1bVZFdmRWbTB2ZjRycWh0ZC1fdDVfTkNJaHVTLXdjVVkxVThhUTRHWHBYRVFONk5tQlE?oc=5",
-          "published_iso": "2026-05-22T10:04:53Z"
-        },
-        {
-          "title": "Luxury renters in NYC are starting tenant associations",
-          "source": "Gothamist",
-          "why_it_matters": "Tenant organizing is spreading beyond traditional buildings, signaling broader renter concerns citywide.",
+          "why_it_matters": "Organizing by higher-income tenants signals broader housing pressure and could reshape landlord-tenant dynamics citywide.",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFnRzMzendKSzc5N3h3a201d1VxNDJQc2FDUUxMc0l0S0hBSmd4MnJJSkwyaHNOcVFmWU1zMXdvUTgzQUVodER2bzFtclBUVlE2NzVyOE1STXNKN0F4YjhXenp0a2pEVDV0U0ZiZ3BNRDhlWFVoU0ozdEJQeUhLVmlRWlhkSV80MXVrMU05Ynk4X1JfcFZJVVcwV0pxRXhFcUdpSV9jNmZET2s?oc=5",
-          "published_iso": "2026-05-21T20:43:00Z"
+          "published_iso": "2026-05-22T22:07:00Z"
         },
         {
-          "title": "NYC beach water testing tracks sewage before summer visits",
+          "title": "Memorial Day weekend rain timing could disrupt city plans",
+          "source": "SILive.com",
+          "why_it_matters": "Holiday travel, outdoor events, and beach visits may be affected by shifting rain across the city.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYU53YVZZalZYTVJyY3VOLWxqMGFrT2lnMFZPNnRQM1B0cHVUc1drb0lpdlAxWHFwRmdHbG0ySE9fWFAyZFZSS1FqakhYTFJYSHpPa29nbmxnRTZ6Mm0zYWdWT1BFcXVXaHdWVWF3WHlqaXVxOFZTUVFjTlB1Z2VyUFNwQS10U0NaenBRa2c1MVBaVlEzMGVINUpLNEZNT0VGaGhmSDBYeHhsMWhlOFpR0gHDAUFVX3lxTFBKbDgtWEZiTldSeFRVdUpSQXY0NGJzVG9OZlNFSXplOEhpQTI1eE5nalFWdURqM1Q3eElVX0xyeXVRVnFJV25zMDdqeU8zbWhrWjZ3NHo5ek5hb3ZzRk1zUXZRVTZXTmY4TGxSUzk2dkhlSTJUTjc1LUtsTVFBbVNma3FxU0NWSnJaUDl5UHdQUkw5RkhSSnlLckxsWmpoZm15UmE3b0pQVWp6UjlvdWFucHh2eGd1Qm9uc0FpWW82RDI1RQ?oc=5",
+          "published_iso": "2026-05-22T19:52:00Z"
+        },
+        {
+          "title": "City beach water testing tracks sewage before summer crowds",
           "source": "THE CITY - NYC News",
-          "why_it_matters": "Beachgoers rely on this monitoring to avoid unsafe swimming conditions during the warm season.",
+          "why_it_matters": "Beachgoers rely on this monitoring to avoid contaminated water and make safer recreation plans.",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0huNHdLM0pGa2JGZV9YZTA3bExvcFlHbWFzM0VaOWpRRVNTZDdRLXFIUEpoWi1MMTRRbklDaWo4TVlCWVJzdDR3Tm0wQXlKeEM1VHhXMmZaMkVtTmtqT1NMaXkteGN0U2l1S1pSRHJXOGhKSGpKNEFaTHBaSWRhRGxxV0ZZS2U0Y0dpVVVkNlY?oc=5",
           "published_iso": "2026-05-21T19:45:00Z"
         },
         {
-          "title": "Brooklyn Mermaid Parade gets promised annual funding",
+          "title": "Reynoso pledges annual funding for Brooklyn’s Mermaid Parade",
           "source": "Brooklyn Paper",
-          "why_it_matters": "Stable funding helps preserve a major Brooklyn cultural event that draws crowds and local spending.",
+          "why_it_matters": "Stable public funding helps preserve a major neighborhood tradition that draws crowds and supports local businesses.",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Hc05YOEVaSkhVMW9pdkNjOWhkbkYwTmtVZzF4OXdXdGxzb0cyaTVjc2t6QlBYTC05clJUVUZqQ0hnTFlpM29MM25mTl9KMVlmMWx5QVBqZGJDT0JEMXFnZHE0LTBTVFM5QmJvZS15V1BKSzVWWVI2cXpON3A?oc=5",
           "published_iso": "2026-05-21T17:03:03Z"
         },
         {
+          "title": "Bronx rent-stabilized tenants face mounting pressure",
+          "source": "Bronx Times",
+          "why_it_matters": "Strain in rent-stabilized housing affects affordability and living conditions for many Bronx residents.",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RTVhPdU9VOVNmS1NBNlFnNGgwbko4V2dBU0dfaFJZOFp6TUJXc0x2OTZ4bGNJUGtSejhJbGwxcWUwcVRfTzdsdjU1bVZFdmRWbTB2ZjRycWh0ZC1fdDVfTkNJaHVTLXdjVVkxVThhUTRHWHBYRVFONk5tQlE?oc=5",
+          "published_iso": "2026-05-22T10:04:53Z"
+        },
+        {
           "title": "Bronx remains NYC’s most affordable homebuying market",
           "source": "Bronx Times",
-          "why_it_matters": "Housing shoppers may find the Bronx one of the few remaining paths to ownership in the city.",
+          "why_it_matters": "Would-be buyers may find rare ownership opportunities there as prices stay out of reach elsewhere.",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWpCM3N2eExjbTFSOGI3SVp2bmZibm9QSmgybzJTTTE1bjRNSWdtSTdvaDByekJpY0JMOGkxYnR2VE5WQXBNc1dQaERGUWRCeEpXbE9xVWdDaHZLN0tyM05XeEx2U2lNZ1RGcWNIcEZqdTE1YlBReGlaeXBiMThJZHhuSm4?oc=5",
           "published_iso": "2026-05-22T10:05:41Z"
         }
