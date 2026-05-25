@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-05-24T12:03:34Z",
-  "daily_fact": "FDNY firefighter Joseph Gulotta was honored after rescuing a trapped woman from a submerged car during a storm in Queens, highlighting lifesaving bravery in New York City.",
-  "topline_md": "New York City faces a stormy, high-traffic Memorial Day weekend as officials warn of flooding, while public safety and governance pressures mount with deadly fires, a Legionnaires’ probe, rising ICE activity, and major court and enforcement actions on foster care, housing, and fraud.",
+  "generated_at_utc": "2026-05-25T14:12:44Z",
+  "daily_fact": "A previously unseen Banksy artwork sold for $18 million in New York, highlighting the city’s continued prominence in the global art market.",
+  "topline_md": "Severe weather and violence drove immediate disruption across NYC, with heavy rain toppling trees and snarling transit, while fatal shootings and a Bronx fire added to public-safety concerns. Meanwhile, immigration enforcement and housing oversight intensified as reports detailed surging ICE arrests, judge firings, and persistent tenant and public-housing failures.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,18 +14,11 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "Memorial Day storm could bring flooding to NYC",
-          "source": "SILive.com",
-          "why_it_matters": "Heavy rain and dangerous conditions could disrupt travel, outdoor plans, and create localized flooding risks.",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ0pRendaRmVSY0o3V1RyOHRvNXJUZnE4ZjI3aUxSeU4wbkJfeEhBc1Vic3E0UUtfRER1SEdvZWZfMmdxaGhPRTM3bnJrNkFSeHN1MzhwRHZnTjNBUlYtMjh3SVVLUEtDYThZM2VrNFRqb2dTWWtnZ2I5dHJiUmVkOFRkUlFGNGpRdy1RSUhfSlptd1l1SVdnUWZCMlhKOWZNWmF5Y3VnbFhDcG1YUG1iZ2N3N21Falh6MkQxak9QMmlUSTBrMzBGMWNOT3FFVmoxZ0hXSkFB0gHqAUFVX3lxTE56NGJ1N1hkNDE5aWlCQm5JRENTVlp1Ymx1T1NTa2R1bkRKR3lWNmxyRXFKX2IzdVFrMWVodk03QW9LTlFVVDhfb0RiMkktT21UUTctVTlCODg5UmRELUNWUTFvQlBWT3g0ZXhzd1c0SUtJeGxYWEh0VkR3UDBEazUtcXhHb0l4cHJJcEVtQml6MnF3cEJES19sa0IzUU1iWFRWTUJGRExKT294clc0dWpJUWxXbEJ2dm5qYmdqNExWdUtYUDhwZ2gwcktWQk5PLVB4S3ZnTnpMbHN4QlRtYlFneFBobEZRR3pJZw?oc=5",
-          "published_iso": "2026-05-23T12:59:00Z"
-        },
-        {
-          "title": "Peak Memorial Day traffic hours to avoid in NYC",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "Holiday congestion can significantly delay drivers and complicate trips across the city and region.",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUHRkMURJZlBnQVRvYmt6U2wxWGxyX1pxU1FJcXUwUTVsZm5MT0JZXzhTclMzbFlBMXJBLWJKdS1lOFI5d2VSX21ZSVpXM2taSEROTERteW9mWUc3V2lQZ2tuNTBOVlZMSWpxRHZUQUhPdXVpcXpSMkVobHJXVm5mejZmazJVSjY5cWl1bXg0V0R4NFl3dGItc0txQ3hKOWsxNThRZXZEa3dwSVZBdG9iVE03TGhxQW85aTVXQzRvTDQwdl9aTHpIc1owN1h1Uk1uOUJsZnNZOFFvQQ?oc=5",
-          "published_iso": "2026-05-23T20:40:33Z"
+          "title": "Heavy rain topples trees, disrupts Tri-State train service",
+          "source": "ABC7 New York",
+          "why_it_matters": "Storm damage can delay commutes, block roads, and create hazards from falling trees and damaged vehicles.",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW50Mms5aGx6c2dNNlRNaG50OXJzTEozU0lGb0hHVUY5YjM5T3NQOHhoRkRrbG9MOGVqaDI5QlM4QUpMTXRmT0xGWkVjZ1pLMWs5S2hDdE11WndpQ1VKelRsLTZNUldzWWJxMU44bnBPWFNJdWNmYnY2OHR1ZWxleTJRMHRTUmZjSV9VazlZT2dtSmVMNlBHSG1UamQwVGRuaDFkY1dTZWpfd9IBrwFBVV95cUxNY2tDbHA4aHRMTDY5aER3dHFENHRkWVlCWEpCR1AxemRQX1ZEMlVnb09yN1lyWjA4UnYwN3JnZDlnMjZtVGlUbVBUTUZncUxrU1lMaFBRay1qZEJnQ1F6TmpXVGZoQW81VEpaU3JxN0QzanF3TEFLTnlBSkNtN2dBSWowa1J6MUp2dVRMaDBHenpWSWMtVjZQNzR0WXdVMU9pQmxVRThROTNVdTFEQ2hZ?oc=5",
+          "published_iso": "2026-05-24T13:04:29Z"
         }
       ]
     },
@@ -33,60 +26,60 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "State high court strikes down New York Host Homes program",
-          "source": "amNewYork",
-          "why_it_matters": "The ruling halts a child-welfare housing program and could reshape support options for vulnerable youth statewide.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MeVpHRERNVDkzeW5qd0tMQzdJanFrNFZ5YXdOeEh2VDdqemVHRUNVMURnMmNtclY4djliQmc4NTJQSFlUTGRIdV9fNUU5N3RBdW0xYlo1d1pkdnFOdEFZcjJlQzUxMm12UFh1ZVVFaGJGN1hMbVlvb1ByWGZzZw?oc=5",
-          "published_iso": "2026-05-21T20:35:35Z"
-        },
-        {
-          "title": "City Hall report finds sharp rise in ICE arrests in NYC",
+          "title": "City Hall report finds surge in ICE arrests across NYC",
           "source": "New York Daily News",
-          "why_it_matters": "More ICE arrests could affect immigrant families, legal services demand, and trust in local institutions.",
+          "why_it_matters": "A sharp rise in immigration arrests could affect thousands of city families and local trust in government.",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjY5MlNwMHlQUmI3UFliX1B2R3ZoVkRmWHBLVXBmMXpGbVJlNUtmeDRhcnhoQ3RaNHBGT0I4c2JNaUIzWjIxaGE2YzlnTHFWMWViOXU5eGZoU0J4UlR6YU5kUmRIVHhuNU5HNjlYdlZIWEFLNUxFdVVSZ2s1eUNVSEtoeTh2Y1ZjVVFtMTFadTBXUzFRUXptU1ZNSFZnVWRUUzdyNHphaUx0cmtlSTNBUHI3MWY3MWZrSDJtTk1IdEUydzQ?oc=5",
           "published_iso": "2026-05-22T20:38:46Z"
         },
         {
           "title": "Trump administration fires two more NYC immigration judges",
           "source": "New York Focus",
-          "why_it_matters": "Fewer judges can worsen immigration court backlogs and delay cases for New Yorkers facing removal proceedings.",
+          "why_it_matters": "Fewer judges may worsen immigration court backlogs and delay cases for New Yorkers facing deportation.",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTjhJXy1Ld0VUMF9vUUdQUnFadURmYkpmYkR2dDBkaEpPUWRCajQxYlpVaDVPY2gtTVI4Sjc2YlIxZ3hfOTNHUnVvUDFtRmFCN3FjT2g4VlZzX1c3XzhnV0JIRFhyM2dsUUVpQWRmZTd1VHhSREJyblFrNFZfbVBhNW94enNBbUFTbjBEcmhHdw?oc=5",
           "published_iso": "2026-05-23T17:45:00Z"
         },
         {
-          "title": "Feds charge temp-tag dealers tied to NYC ghost plates crackdown",
-          "source": "Streetsblog New York City",
-          "why_it_matters": "The case targets fraudulent plates that undermine traffic enforcement, toll collection, and street safety.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWjdPa1BTQWxEUWFaU1BLWVNHVXZiNGhxb3lMU01td3ZsS01QUy1mYnRzci1wOWVBV0oxOHQzVjNhcGJ2eTAyanN5RW0wRVdiemFaY19iMHlZeEJVd2pIZVE1RzB6WmFieFJ4NUQxLW5YQWhrVGNYVF9DUDRqSWRhOVU4ZUc1aGpYcVhFN1FZMTczTVRxUFRTUTlTYzlHRXlDaWhMXzNud012RjRtSUtSZHpR?oc=5",
-          "published_iso": "2026-05-22T04:16:00Z"
-        },
-        {
           "title": "AG James shuts down firm accused of exploiting NYC tenants",
           "source": "amNewYork",
-          "why_it_matters": "The enforcement action could protect renters from deceptive legal marketing and predatory housing-related practices.",
+          "why_it_matters": "The action targets deceptive practices that may have harmed renters seeking legal help during housing disputes.",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12YVU0TFdmd1NnZTFnZFYwS3NJY2ZwdkJLajNIenJmOTJ4SHFPenV6VlRPVGZ6WVM5cE55cm1kTGRab1dTOEdwWWNlNng0QldHVjVXWkdDTVRmcXBZY3N5cUJEblh5N1FpYUdQcTNtZ1QwcU1xSjh5NU9ZNA?oc=5",
           "published_iso": "2026-05-22T16:30:27Z"
         },
         {
-          "title": "State budget sets aside $175 million for Atlantic Yards project",
-          "source": "Gothamist",
-          "why_it_matters": "Major public funding for the long-delayed Brooklyn project could affect housing, development priorities, and neighborhood oversight.",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN1dhSHk4TTNnbHEwaFFuREVMOUJUMFIzN0JYUzRhRFRiOHVHMDRmZ1NqV01mWDl5UGJEbW1KVFdTUEd5QkZ3eHRFS0NKN3FMSDBEblpCdjRCdmZZSUhrcjB2elZSTXFLT3dBRU1FWXJOSHNaY1ltRDRTWS1RY3R6cHNZR2FFb3QyTGRiTDJB?oc=5",
-          "published_iso": "2026-05-21T20:43:00Z"
+          "title": "Staten Island compost rollout criticized for lack of facility planning",
+          "source": "SILive.com",
+          "why_it_matters": "Questions about infrastructure could affect sanitation service reliability and neighborhood impacts from the citywide compost program.",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGRVZjdYeWhyQTE3N29IRDc4UndzLWxNV2JJMnYySUlJcU5LT2pMc1pJd3ZpQldvQW9tZnVtRmlva2VTMk5naFQ4V3I5U2t3WUVZNFprUVF0V296V080YmpZcmU4Qm1wcmJQWjV6alpDU1JxRWo4Tzg4bmRFNGswdW9rZnN4N0tKcW5Mdk5JRVNPRy1HSVJBcHlLTVN3d0l3eW1kYnFGdG1LREZEeEVWVDl2LWk2ZzR6UkZYTzYwWURpc1lBTGVN0gHbAUFVX3lxTE5HNXM5bGlndHFLSHBGdkJhQnhFTG5xUEtmdU9FcFZsNHNQVVVWcTY4dkcySEl4U0V6V01ucTBCalZER1pQdjZDUjhPREcyOF9vVTlIckdYcEZYZFhFUVVBaHlCSGNaXzB3WTU5cGJaVDkwMVk4elp5NXdnemdmMFlNby1zbGJKbUlKWENpYUlkUnhCdzM1SDNDaFJVR3lUZERBdS02SHJZZ0puRTN6ZmdMNHlmazlxYXdUaU9zTEJDZnRMalZObVZpeVk1QktlazVNdXR3UHpaX3A1TQ?oc=5",
+          "published_iso": "2026-05-24T09:50:00Z"
         },
         {
-          "title": "MTA tests new fare-evasion enforcement on moving buses",
-          "source": "amNewYork",
-          "why_it_matters": "Bus riders could see different inspections, penalties, and boarding practices if the pilot expands citywide.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUNhNHNDQWhRMnBXd2xGZ1ZncGtfWFFfUUExRDVlVzRtS2hwaXc5VDJ3dEhiaWNkZlkyMTl3UWM0VTZrTEdlMW8wcG05b3ViVWpBaFVQSVU1UVhhYnJXNWEwbnNiN3lsRkhiYWxrWDROM2JnR0xEb1JwdU9qNk5FeWxqRXJkLW9QVVhWc3BuUmw?oc=5",
-          "published_iso": "2026-05-21T15:45:41Z"
+          "title": "Public Advocate, Bronx groups rally against ICE activity in Norwood",
+          "source": "PoliticsNY",
+          "why_it_matters": "The response highlights growing concern over enforcement actions affecting immigrant residents in one Bronx neighborhood.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa0NtTGVPMnJmMm1Ka3JBNWU2WGtLUlgzYzJlbGFITWZ2aHhGVWxxN1NMdWFtTG1oQlNHX1RTR0VJQnJjQzlpRnZKSGIxdFpJOWIxRHM0bENSSVZBbktfcThncU8zdURBOHRvb0pTRDlJYXJUQ0FNRy1Uc05Lek1xcEZsc2l1a2IySlZJem5KeUJ6MVNyTFo4bDRmS29WTzkzMzNCWE41Y3l3bktDV3ZnQmplelZBa1E?oc=5",
+          "published_iso": "2026-05-22T20:02:40Z"
         },
         {
-          "title": "Rikers officer charged with taking bribes to smuggle contraband",
-          "source": "Norwood News",
-          "why_it_matters": "The case raises concerns about jail safety, corruption, and oversight inside the city’s troubled detention system.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORGg2ZmJnVEhWMFhnLTQ1N0J0SjN2cWltLXViRGJlS0czRndHSXlVWnl6NlpSYjdaQzNLem5mLURyU09RdzhWRWFxQk5ldlhpbXlJNUV0OHpuN19Fam9CUGxhUzMyR0tZSHhzMTRkTm1oZ01NbXdfcnBGaEVaazVBUEFPTldiYjQzM1VmSlhKYU5rRm94R0VyTG5PbDZoR2dtSjNOTVg4MDRKNTh1V0E2Y2RVWUVQQXVDdnc?oc=5",
-          "published_iso": "2026-05-22T16:20:23Z"
+          "title": "Mitchell-Lama residents face weak oversight, Bronx report says",
+          "source": "Bronx Times",
+          "why_it_matters": "Oversight failures can threaten affordability, maintenance, and protections for residents in middle-income housing developments.",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xWjJQamhWODFNWm1wWE9WX211ZnRFODVPNFVOalpLOEdSUXdJYmhUaUVMWUZYM0ljX0JfbXJ2WDRxOFZCWm00YldIRF9nbWhZSWs0MFQxazlXdWdhaFVmUWt2SVc1c2ZvVTRISGNmVUdHY1l1Z2diWklB?oc=5",
+          "published_iso": "2026-05-22T10:03:42Z"
+        },
+        {
+          "title": "Bronx report calls NYCHA the city’s worst landlord",
+          "source": "Bronx Times",
+          "why_it_matters": "Persistent public housing problems affect safety, repairs, and quality of life for many low-income New Yorkers.",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwd2JMczZRV05zOEF4bTljWlJZLURyMDFPSG5lQnkza01fb29pZFpRNW4xeS1XWGh3dmVNdTMtSnBGbEdmSUZSOEtTOU9GcjliNkJYcjg5bzlHSWZIVXNSUzFPMDdPZEJBSDlhUWlrdk5qU0N6MDMzOHNLMA?oc=5",
+          "published_iso": "2026-05-22T10:01:10Z"
+        },
+        {
+          "title": "Valdez-Reynoso NY-07 primary tests local political alliances",
+          "source": "New York Daily News",
+          "why_it_matters": "The race could reshape representation and influence among Brooklyn and Queens voters ahead of the primary.",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYzNqdVh2SW9DOGtibDc5ZklQcDkyUW9qZG9oNzJDR182Qk9vYk9feGtEejROZ3dqTlZ4RGRmWExJUks2MGNLYU5CaDd0RldUUDJjLUc4UzMxMjV2cGlaN0xFT0FsNmlpVHUxOWZLY3cxeVpjV3pFdmVKZkZQUUhva2JSUEtMY2ZPWndfVFNQSjFMTWtXeGc?oc=5",
+          "published_iso": "2026-05-24T13:00:45Z"
         }
       ]
     },
@@ -94,16 +87,30 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Housing lottery opens at Rialto West development",
+          "title": "Housing Lottery Opens at Rialto West Development",
           "source": "W42ST",
-          "why_it_matters": "New affordable housing opportunities can directly help Manhattan residents seeking below-market apartments.",
+          "why_it_matters": "New affordable housing applications can directly expand options for eligible Hell’s Kitchen residents.",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkFuNUFyWlpzSkhwTFgtRXhMd055U0VnTWdiTnJEaFdUa3JlZ0JrOXRVWnBZdy1zOHpnTjZadFlBQ3hMaDFfUFFFUzJpcnlUR2Y5WDNPdzZGNFlTZHBKYWpEeHVIU29Vel95SEhadlNJSk1VYmFIT1VFY3FDNjB5dXlVTnFFem00MlJJS2J3?oc=5",
           "published_iso": "2026-05-23T11:57:31Z"
         },
         {
-          "title": "NYC public school students off two days next week",
+          "title": "Stop & Shop Cuts Staple Prices at 137 Regional Stores",
           "source": "SILive.com",
-          "why_it_matters": "Families need to plan childcare, work schedules, and student activities around the school closures.",
+          "why_it_matters": "Lower grocery prices could ease household budgets for many New York City shoppers.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa2VEQjlWd05rTlk1RVNVS3UyVDljSVctb3FxQzNuS2dxVm9XV2NpQTRZbVZNdDNLaWpYWjRJamhuTmNVMkM0MFd2dEdTR3NtUjVDZXFRaEJGVmkwSVRTYXdTWUFHZ3RpYkpjWlh1azhuRjVxTHl5SmlBaGpzRm9ONGFUQWZtdV9qRE52d01HY1ZGRlpRZ2dzWmZzSXhOdUE4R1BKWkZGM2ltWWpQc0tZMVRYRXJwTUxC0gHMAUFVX3lxTE81MlNGejFhMGtqSC0xaWhGMTBiQXVKSlpaWFVISWRORFBUYUFnUERuVHNPUDlZQ1NPeUVxNXlJZzZNeFlRYUI1ZVBXVDJCWkFSaVRhc25LSEg5cXJXUlZOSlZoNDhwQVllWFJaMHRqQ1FqeUpHLXRvSlUwX0tsNUNOam0xUE9QcXJPZVRYUHhYYVBxTUNCYUxOMEtYNGo0emNRdzM1MVpQWl9LUEhJTUF0aGpNVmJCZU90cWI2Y3JFZ3ZEMmVLSzlQVnc4Ng?oc=5",
+          "published_iso": "2026-05-24T19:11:00Z"
+        },
+        {
+          "title": "Bethany Senior Terraces Finishes in East Flatbush",
+          "source": "New York YIMBY",
+          "why_it_matters": "Completed senior housing can add needed residences for older Brooklyn adults on fixed incomes.",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZVB0RzlFVXFVMXRiUElVdjl1N2pHN2lmUjAxaHRybi0tRkozT1hBYmVYMnkwbGd3Y0lmOEppeExjZU5RSlkwUGNIT2NOY0ZmSTVFQ1RnMkFWeWlBaDFlc2RtdkpGWjNHdWZFVFdGdFNLVDhRX0VRM0hxTFUtN2NhMmJEOG9iRXdBckljTXJ6U2ludXdVaUl5QnppS2xJSWd0WW42Z29sM3VhSXRYcUdTcERuVVlBd2Z0SjlQVGREZWtiUVozamdlZV9VZmJRY3M?oc=5",
+          "published_iso": "2026-05-24T11:00:26Z"
+        },
+        {
+          "title": "NYC Public School Students Off Two Days Next Week",
+          "source": "SILive.com",
+          "why_it_matters": "School closures affect childcare, work schedules, and meal planning for city families.",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYWtDNm1CcC1odzF4QUp4eEthbDlvZ196cWNzZWF0ZXp5ekl2QjJBZERxb2s1RnhpLWw2UFlRYmNMMWVsRHhiV2FheUNKZlpZeXFYNkwxS3JhQ2g5d3JPYk4zZXRFaGdCeTdsMWtoWHp0OF80bllDVFB4Uk9nbGRXVmVnX2RtSUJMTUJGeXhER1NKT3JURGtoNjVnVmY3TzRSX0JWNU5KRHLSAbwBQVVfeXFMTkJ6Ulc1S0JhTHlpM1phMmZzUTZwSUI5Q0xfTDA2YW1xTnZqU2ZMRWJPS1ZQRDFFakR1UlFqZnJRT3Y2c1FoTV9FQ21lQnc5dnB1dDNwdGxQeFN3ZEpNTWluak94LTRDcTFPbXpQLS1GblZLMVgyYUJZLXJlcW1DZ2FiRjZUbWhjOG5Pa1pCR1RWTDF3WmlwMzJySVVWdUUzaVBMUmN3TEx4QWxQM042MVYyNnpFbVNuYlVkcHo?oc=5",
           "published_iso": "2026-05-22T15:53:00Z"
         }
@@ -113,53 +120,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "NYC beaches open with strongest lifeguard staffing since COVID",
+          "title": "NYC marks Memorial Day at Intrepid and Queens parade",
+          "source": "ABC7 New York",
+          "why_it_matters": "Memorial Day ceremonies and parade plans affect neighborhood travel, attendance, and public commemorations citywide.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDBobkNDc0I4Ry1IU21GY1dTTXlZcmtYcmZnYkhPeXVkU2RWSHB6bG9MMjdST2Eyai1LWTdYdkQ1SkM5MVV6UEFWTUgwZUtLZzNBS1VFN3hjd0V1ZTl4SzlMVUFxSkZrQy1Pdmw2cVFOeG5OTHczYjd0Y2g4Q3NIcnBCeTVZZE92Um1HRWxieTRac1oyUUtJanppeDZIdVQxS05sWjlzZmkxVFI5OUpQR0h6SDlGWlgy0gG-AUFVX3lxTE1BSXlMOXFVbDVkTGFCRTdwWlRDU1JMd2NKQmpkS0R3a3htdWI4ME1XMlVoNlQ0VTBFMGFfeTZManVTU0dUTmp1cEo3aE1PYktOdkg2SjJBY2pJZDhPWEtDbjRKenh5ckdJV2ZGUWJ3ZHNob1YtZWZfaFN6QVVTdlZydHVZYmFhYllXakdKVXJQM2dtQzN0UXBHUGNPWWtfZHRrUXdlVTZpaXY0NXlxT0VaTmRIa2ZIZHBnQ1U0bGc?oc=5",
+          "published_iso": "2026-05-25T10:40:01Z"
+        },
+        {
+          "title": "Avoid peak Memorial Day traffic hours in NYC",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "Holiday congestion can disrupt trips across the city, especially for drivers leaving or returning this weekend.",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUHRkMURJZlBnQVRvYmt6U2wxWGxyX1pxU1FJcXUwUTVsZm5MT0JZXzhTclMzbFlBMXJBLWJKdS1lOFI5d2VSX21ZSVpXM2taSEROTERteW9mWUc3V2lQZ2tuNTBOVlZMSWpxRHZUQUhPdXVpcXpSMkVobHJXVm5mejZmazJVSjY5cWl1bXg0V0R4NFl3dGItc0txQ3hKOWsxNThRZXZEa3dwSVZBdG9iVE03TGhxQW85aTVXQzRvTDQwdl9aTHpIc1owN1h1Uk1uOUJsZnNZOFFvQQ?oc=5",
+          "published_iso": "2026-05-23T20:40:33Z"
+        },
+        {
+          "title": "Luxury renters in NYC are forming tenant associations",
           "source": "Gothamist",
-          "why_it_matters": "More lifeguards improve beach safety and access for New Yorkers heading into summer.",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeEMxZjk2OG9xRUYtaUdTTHk4SEd5SDFWZERidWdKNVU1T1FrQzRaZEgwc3AxXzI2cC03bEExaTIwa2hETU9Bd0dRQXNrYUNNZGFWekJtbEJjLUtJU3ZPcER4NThkcDZTak1fd3pXOG9qcmFMdWpCZWNaeDJfNm1qQ2tiemdjcFgtcHBQN0hkMEhiUHRPdy01b21R?oc=5",
-          "published_iso": "2026-05-23T19:48:00Z"
+          "why_it_matters": "Growing tenant organizing could reshape building disputes, services, and housing power dynamics for many renters.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFnRzMzendKSzc5N3h3a201d1VxNDJQc2FDUUxMc0l0S0hBSmd4MnJJSkwyaHNOcVFmWU1zMXdvUTgzQUVodER2bzFtclBUVlE2NzVyOE1STXNKN0F4YjhXenp0a2pEVDV0U0ZiZ3BNRDhlWFVoU0ozdEJQeUhLVmlRWlhkSV80MXVrMU05Ynk4X1JfcFZJVVcwV0pxRXhFcUdpSV9jNmZET2s?oc=5",
+          "published_iso": "2026-05-22T09:31:48Z"
         },
         {
-          "title": "Bronx tenants report mounting strain in rent-stabilized buildings",
-          "source": "Bronx Times",
-          "why_it_matters": "Housing conditions and affordability directly affect Bronx residents’ stability and quality of life.",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RTVhPdU9VOVNmS1NBNlFnNGgwbko4V2dBU0dfaFJZOFp6TUJXc0x2OTZ4bGNJUGtSejhJbGwxcWUwcVRfTzdsdjU1bVZFdmRWbTB2ZjRycWh0ZC1fdDVfTkNJaHVTLXdjVVkxVThhUTRHWHBYRVFONk5tQlE?oc=5",
-          "published_iso": "2026-05-22T10:04:53Z"
+          "title": "Brooklyn lesbian bar cancels Pride DJs over noise complaints",
+          "source": "Gothamist",
+          "why_it_matters": "The cancellation affects Pride celebrations, nightlife, and tensions over neighborhood complaints in Brooklyn.",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTmNSejh4Znp4S2VoQlBCRkJJcDZrZ2tOVUZJdlVYS1BqOUhHNFhqMzB3MXNxNzRJX2JSMjVSX2hWUjhOVUJyVlNLUkVYU21IdENvS2ZCUDF5X29GMVZwT01sUXFheDNManNuWERsYXE5RlNobklOeHVyZlp4YmVUVGh0V2dUUWJaUG1ycDBsaUV2WW1sV3dDUDJR?oc=5",
+          "published_iso": "2026-05-24T14:00:00Z"
         },
         {
-          "title": "Brooklyn food co-op boycott fight highlights neighborhood tensions",
+          "title": "Brooklyn food co-op boycott fight highlights local divisions",
           "source": "New York Daily News",
-          "why_it_matters": "The dispute reflects local divisions affecting a major community grocery institution in Brooklyn.",
+          "why_it_matters": "The dispute reflects community tensions that can affect neighborhood institutions and member participation.",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEdQN2IwQlBoRlhYMUF1elozbTd3S0Q4emZFbTNqWElzZTdoRE1XZ21qRnpoSHB1REFvSW82bjlCTE5ZQjVuRWNmeVIyMDJyZlQ2c3hZZmg4UVpxQzBJc2JhU01KT2RnVnNtaWlmUlJHVjluZnd0NXI3TlI3NTRNTkdDZXA5NlpmUUNtVDVQRk5RR0plSEJJeHN1eGtYYmdyU0FIZzJRX1FXWFVUZGZoazVoWUJVU1JmeS0xV1NwREd4bDJ3eXc?oc=5",
           "published_iso": "2026-05-23T17:00:36Z"
-        },
-        {
-          "title": "Team monitoring NYC beaches for sewage explains safety checks",
-          "source": "THE CITY - NYC News",
-          "why_it_matters": "Water-quality testing helps beachgoers make safer decisions during the summer season.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN0huNHdLM0pGa2JGZV9YZTA3bExvcFlHbWFzM0VaOWpRRVNTZDdRLXFIUEpoWi1MMTRRbklDaWo4TVlCWVJzdDR3Tm0wQXlKeEM1VHhXMmZaMkVtTmtqT1NMaXkteGN0U2l1S1pSRHJXOGhKSGpKNEFaTHBaSWRhRGxxV0ZZS2U0Y0dpVVVkNlY?oc=5",
-          "published_iso": "2026-05-21T19:45:00Z"
-        },
-        {
-          "title": "Bronx remains NYC’s last relatively affordable homebuying market",
-          "source": "Bronx Times",
-          "why_it_matters": "Home prices in the Bronx shape where middle-income New Yorkers can still buy property.",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWpCM3N2eExjbTFSOGI3SVp2bmZibm9QSmgybzJTTTE1bjRNSWdtSTdvaDByekJpY0JMOGkxYnR2VE5WQXBNc1dQaERGUWRCeEpXbE9xVWdDaHZLN0tyM05XeEx2U2lNZ1RGcWNIcEZqdTE1YlBReGlaeXBiMThJZHhuSm4?oc=5",
-          "published_iso": "2026-05-22T10:05:41Z"
-        },
-        {
-          "title": "Staten Island teen’s shoe-drive nonprofit earns Congressional Gold Medal",
-          "source": "SILive.com",
-          "why_it_matters": "The honor spotlights local youth leadership and community service with global reach.",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmJZZU4xNkxBNnR0M3BfN29lc1BuVkpUbU1LUzl5WGtsemc4ajRoZnlQdElVdk11UzVTNldCWVFibzNSYkYxelI2YWpXSUFDVlRrd3VudE9xVFpCT2lIdVRxMjFYSElYTlJqYW9XRkNSZ0VDVTdTVG9yd3JvLUliUVloZGNwcVNxc3RORkpvVG1KMmFEaG5fS3FlMTJ0LXpCcXpRa3ZmVG1ZOEVILUtUZFNvZlBwcy1ZN1pYMXdvcFVzR2QyMTlldTM5aFY2a3IyUFFfUE1MYmZEQdIB7gFBVV95cUxOZ3RMaEdxVE5yQi1oeEdLeUp3LUtqT2xfd0h0MWNaV0JvazA3Z2NvWXdMQnFSOEhES204X2dxNlRRd1BpWk0wZXBULUd3eUdiRWpCRFV3OVpYVFBCZ2xUZ2doYlJKYW9TUU5CSU94amZPZUZaQU1fVjU5eW5VaFpiSVBCMHBiTTE0OHpIcnp0ZFpRbk5yX3lDejBCSnF1U3lOQ1JpOVFvWlRzVTJZZmhIZ21ZdzRheVNTRWJ6LTVEdjFhSEtydFhfLTREM182blhtdUFaY0tJWUp5emJ4YVRGdXVyMXU1WGJmT21qcUF3?oc=5",
-          "published_iso": "2026-05-23T12:00:00Z"
-        },
-        {
-          "title": "Staten Island senior accepted to Juilliard",
-          "source": "SILive.com",
-          "why_it_matters": "The achievement is a point of borough pride and inspiration for local students.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnluR2ZaY1E3RFF3eFFNWGUzSEpTZmVIOHotal9QRkpoX2pFZ2tQVS1vZ2RhaGdaV3RmVExzMnZpVzRCZkRQOTZXRnA4dXE1UFVNaks1TFZ5aDdCdGFPaFZWSmJfbm02YW02ZS1heUtaVkNqdUF1ZmRBb2NWY3RNNC1XYWRTa0s4Z1JGZW9fZVJ6Zlo4UHE5Y0VFOE9WZV9MdXY1MDVjbzc5UGVZeWdnU1c5WdIBxwFBVV95cUxPdGFIX0JMeXRFRjZnb1pMVTZ4WUFncHd2djRlbm5KYW1ZY3dYeEZkRDFvbHoyYXNpSFJiVllZb3VET2hMUk41TmlGbmlKZWVVVTJRVEduUHdEYTZBS0pkQ1AtdlpUMHQ2bTlIcVE3N1JkVmJfZkJVVk41OGRNVzVpWExKcDF0aTROQlN4UzdvMktrMW1OVXpIWnl1ZzFpeUJMcHhRVDN3LTFZYnlCWFVRTzZYSVFubmhheFdrUWtBaU9pd1Z2OHA0?oc=5",
-          "published_iso": "2026-05-23T14:37:00Z"
         }
       ]
     }
