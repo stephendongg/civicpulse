@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-06-03T15:29:43Z",
-  "daily_fact": "Bill Nabel and Neil Berg’s musical Flying Toward the Sun will receive a New York City reading, highlighting the city’s support for developing new theatrical works.",
-  "topline_md": "New York City’s week was led by public-safety and health pressures—Bronx fires spurred a unified City Council push for more FDNY staffing, while trans New Yorkers sued over federal access to healthcare records and officials sought new 9/11 toxin-report funding. At the same time, City Hall advanced major street redesigns, including a 34th Street busway and a backed W. 72nd Street bike lane.",
+  "generated_at_utc": "2026-06-04T14:06:59Z",
+  "daily_fact": "Time Out reported New Yorkers could soon install window-mounted solar panels, potentially expanding clean-energy access for apartment residents across New York City.",
+  "topline_md": "New York City faces major policy and public-safety shifts, from possible cuts to foster-care prevention, lawsuits over trans healthcare records, and expanded NYPD overtime, to housing, transit, and data-center moves reshaping development.",
   "order": [
     "civics_politics",
     "opportunities_welfare",
@@ -13,39 +13,60 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Mayor advances 34th Street busway in Manhattan",
-          "source": "NYC.gov",
-          "why_it_matters": "The project could speed commutes, reshape traffic, and affect businesses and street access in Midtown.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWs0U2J5bTN3cFZJSkY3QTFnWE0zUG5CYUg5TFVWbW83ZDJGY2IxN3EzQzFrNFgycUhvNHIzV2lWTm1TcloxYnZ1NFZKV2ttakZGSVA3R3RGQ25CN09zZlBhLVZfOXhGREpjclFseGlSZXREOUVWd3lNa1RHeXFaanE3VWY0TTJLODFFZHo4eUVZc1Z0OEo4ZFJyRldHR01GYldv?oc=5",
-          "published_iso": "2026-06-02T17:01:45Z"
+          "title": "NYC may cut foster care prevention services",
+          "source": "The Imprint",
+          "why_it_matters": "Cuts could push more vulnerable families into crisis and increase child removals across the city.",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYW9vMGRET0t6TTZMakQ5ZTFwcU8tSWUtUVQ4a1dFU2FvbEROX0R5eHdtSDhxcHdOQjhpNExMdjR3V0RFOENIekpVZEFiTDNwSlRmZ1dnaFlsSndMTC1GaUNJaGdfZERwaTcwZDVHRkUtMld4YmFRcnl4X1J3TFktOGpuN2l4TFQwalphQVhLcFFFTW8zTHJ3?oc=5",
+          "published_iso": "2026-06-03T00:11:12Z"
         },
         {
-          "title": "Council pushes for more FDNY staffing after deadly Bronx fires",
-          "source": "PoliticsNY",
-          "why_it_matters": "More firefighters could improve emergency response times and fire safety in neighborhoods facing repeated deadly blazes.",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2FiVTdQczlzbmNjR1dpOWJIMTg1cEx0MHpzWlZMRWZ3Y0NNVDBXYnVscjdQQVZIU1NhdWdld29STzE5QzExMUl5M0JEZXBBUXl2UkJhclFxTkgta240U0J1cVJqQVJ3c3doQlRLVDVydm0wNUh3eUZ1dzNjRXZfOUFjc3JfWG4xUEFjVDViVXprTWhob2pnUzZwdF9SN251dFN6RmR6cnVzMWY4eWQtaWw0MlE0WTM1TEM5T1dpb1JvUm9hM05VRUtnSQ?oc=5",
-          "published_iso": "2026-06-01T20:54:39Z"
+          "title": "NYPD plans 12-hour shifts, $100 million overtime summer",
+          "source": "amNewYork",
+          "why_it_matters": "The policing plan affects city spending, officer workload, and security at major summer events.",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oWUJ5YmFtcU55elBaa2gwWkRHMzlFSmgwenY3X0lDd21NSjJNQUhydmdJb2NSOEtPWDFQanVXWWtrTnNCSE1FS0hqMnlMUVhpZXFZWDN2UW83NmlnVDVRVndKYi1MdkliM21SSlEtUjJiazdteGhsVkJB?oc=5",
+          "published_iso": "2026-06-02T20:50:28Z"
         },
         {
-          "title": "Trans New Yorkers sue over federal access to healthcare records",
+          "title": "State weighs moratorium on new data centers",
           "source": "Gothamist",
-          "why_it_matters": "The case could determine privacy protections for sensitive medical data held by New York providers.",
+          "why_it_matters": "A pause could reshape local energy use, land development, and future tech investment in New York.",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1pVcW1LaXIyakVEOENzWE1TQS1RT2x4X0pyeXc1d21qMUtaaWM3NWFkUGZ4a0pZWFdsTHUtNkJQbFVKVnVKdDFsTVF0OFAwamUtZ0k4SThqT1ZqX3pXOW9tZUdIa0pBQUY0RnZhMjF3NERhdFVDek4xbm5DQVRhdkhHNXQ1TEpqVW0wTEJ6WUFreEhUdE15NklR?oc=5",
+          "published_iso": "2026-06-03T23:56:00Z"
+        },
+        {
+          "title": "City advances 34th Street busway in Midtown",
+          "source": "New York YIMBY",
+          "why_it_matters": "The project could speed buses, change traffic patterns, and affect daily commutes through Midtown.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0JZc1JCTmVYT2NOYWlsWm81b3NCVjdyQkhLbS1lclBUOUJmMkdzdjRxaHBnUng2TmFCdTZfNGRRdnFVRXlWS20xaXN6YkFhb1JmVEQ5c1J5M3FWQ3FmbVhkSkZueXVUalBDNUwwREZQMmZ5c1owN3UwNVVFNVpwODhIcFpSRktTMGw1TlFKQkZnTDlhaU9QWDUyYjJQTndsT0EwcjhoZ3lCN2pu?oc=5",
+          "published_iso": "2026-06-04T10:30:51Z"
+        },
+        {
+          "title": "NYC to install traffic sensors citywide",
+          "source": "Gothamist",
+          "why_it_matters": "The sensors may influence street design, enforcement, and privacy for pedestrians, cyclists, and drivers.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOalNpbUgxQXJVYjNDZUctY1dTakp2NHNJOUZEY0QwRGh2WVFfTW5zNHNkZmQxSloyenM1YzExLTQyYm1jVlBLaEJsaDhoaUhUUG1KdERpUDRTYnlob0xadnNFQTlScENRY2VaT0Z0a2lJMEFlaWNoSV9kTHJ4UE9KZ1B2cFlxTHRhZ1hOYlFmYzlRVjRPX2R6bWxjNjAxOFp6aFZPWmY2NGZkb0xU?oc=5",
+          "published_iso": "2026-06-03T23:56:00Z"
+        },
+        {
+          "title": "Trans New Yorkers sue over federal healthcare records access",
+          "source": "Gothamist",
+          "why_it_matters": "The case could determine privacy protections for sensitive medical data used by New Yorkers.",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVnQwbHlpcGFBUVdBaHo5dGJHTlY2blpxU0V5RHlpX2ZZSkRRRHlHYVJEWjlDbHd5d3RXTV9EV3NMYVBBV3pNem5PSl91ejg0QXpXcDhhV2NiZVBjRFpVWC1henpfNjFHYjNvc2JOaEgwU0FYYm1VMXZnLU81T01NX1NCR1dRc050WldnbVpnY0ZDMWZtSVhN?oc=5",
           "published_iso": "2026-06-02T22:40:00Z"
         },
         {
-          "title": "Council seeks $4.5 million for Ground Zero toxin report",
-          "source": "New York Daily News",
-          "why_it_matters": "A new report could influence healthcare, benefits, and accountability for people exposed after 9/11.",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWVd5WnMxWkg0WWYtTXlMOUFTdzdqUlEtQUxOTEZjUVAtVk1xbU9HQ0dmMlhWbUNkTzRTMVF6T2gxQUd6ckJvRG1lOHBiTTBUZGpIcGQ2eUVKbDlaZ1BqLVJaZk9maGkyWmJ3aF90U2h0b3dvXzFmbThkY3NWNGtMNFVwUko3d1hhanlCVklYdmR3RDlHVnVLMTVjMnpZTl8wcHM0NUVUQ0RPUQ?oc=5",
-          "published_iso": "2026-06-02T08:00:16Z"
+          "title": "Housing agency targets 99-unit projects under tax break",
+          "source": "Crain's New York",
+          "why_it_matters": "The policy could shape what housing gets built and how affordable future apartments are.",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXc1cWhMX09iYkdZMjJLTjRwQ3plc1ZPdnk0cHBZaVpEakptNnhJbW1DVXppT3R2cFk1a0s3RFlKZUZfTVU4TzBVZ2pQMms3NUJsbHhBN1pyaERkV2JEYnhaVUFVaFhFTmRvYTVSTktlWnR6X0VOSlRzWlRnSkprRzI1VElFNmdGN25JaFV3?oc=5",
+          "published_iso": "2026-06-03T10:00:00Z"
         },
         {
-          "title": "Window solar panels near approval in New York",
-          "source": "Gothamist",
-          "why_it_matters": "The change could expand apartment access to clean energy and lower electricity bills for city residents.",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWRnRlZuTFhhR0dyZVBWX0dTSnh3RnlXVmktUDhubWFHaTJUdS1FcWpJTDVXREVaQkZhWXN2NEptQlVvbkc3TlBpWmhiam1seFdaVmpGRlZpSjJCTzVZbDVIUHBycm94aVp4b1k4alg0b1YzNHQxZGdsLWItemtXQU9wYWJtRGN1TWlPY3V3ZHJ1WHVodTNMVXJLZmprTUQxczRLVkhnTjhKQzA?oc=5",
-          "published_iso": "2026-06-03T01:16:00Z"
+          "title": "Bill would remove 'sell by' dates in New York",
+          "source": "Newsday",
+          "why_it_matters": "The proposal could change grocery labeling, reduce food waste, and affect how residents judge freshness.",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeElJTUtJbDBVeTR0dVVhMTE1VlNacHFpMkVneUN2b19xaVdXbGhSQU9MSUFYSFZpTE1hMWI1WlBWRkhBNVVuNU43V1U3ZW5rMHFlRS1mZ19QeHZFU3dtRklzd1lwTjQyN2tQMGJ2S1RRT1ZXZzZlcnB6T0RTYlV0VGNCbw?oc=5",
+          "published_iso": "2026-06-04T02:07:22Z"
         }
       ]
     },
@@ -53,39 +74,25 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "NYC 2-K Applications Open for Families",
-          "source": "New York Daily News",
-          "why_it_matters": "Families can now apply for free early-childhood care, affecting child care access and household budgets.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkN2aFRXUTM0X3BIUjQ0QXBpMnZnU1VxcTFRVndTSmlKMlI1QjZhcm1RV2lIbENVNjk3OTdTRVNZcEtFT2MxcWpMNlZaWEtaeE41RGFIMC1lMjFkM0pTaFM2SEhINERMUVpOZF9YZlFHV0h2RlZrdU4waVBYMXlmcC1mdVY0cUlaemxTbGxhMmJQMmtKTE9lRmw1dnU5ODQtWnd4dzdUclg?oc=5",
-          "published_iso": "2026-06-02T20:08:05Z"
+          "title": "NYC launches 2-K application process",
+          "source": "Governor Kathy Hochul (.gov)",
+          "why_it_matters": "Families can now apply for free early childhood seats, affecting childcare access and school planning citywide.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkRINlJMTWJ6S2FpMkF3ODlwR2x0TUJGcVJXYVg5Y2F1U2VyV3hBN2xUSWt0d1gxVWw1M3BaZmE3TEVsQUl1d1Y2UUtTSl9GejNtOHB0bEdvMldSMTZCVGlFcGV2YUhsb3RXYWYtVlE4QnEwaXJNTmp5SVRzMlMtTHZGTm05SnR0NzNCbGhrTjVyM3RaRm5YZUxtSHpUUEJDVmRoWTB0UmZvYmFqZ1NzdDZ3?oc=5",
+          "published_iso": "2026-06-02T22:08:35Z"
         },
         {
-          "title": "New SNAP Rules Affect New Yorkers Who Lost Benefits",
-          "source": "New York Focus",
-          "why_it_matters": "Changes could determine whether struggling residents regain food assistance or face longer gaps in support.",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTJESktHVWpIcEU2a19wZTlJQVl5bzliR0RnZ1hHTTNBcVBFOU8zY2lmVEwzR1ltWGJFd1B2R19QR0dyby1YRDRTSTJJMk9OZFRVaE5EejFRdnVSN2J6dXNlMXJuM1RnRzJ4bWFxckZIYXBDRnYwOEFVMk93SjlmQ2hZNTNad21kZ2xaQTd2WQ?oc=5",
-          "published_iso": "2026-06-02T09:00:00Z"
+          "title": "NYC wins state downtown revitalization funding",
+          "source": "Governor Kathy Hochul (.gov)",
+          "why_it_matters": "New state investment could support neighborhood improvements, jobs, and local business activity in the winning area.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVS1nTFpha0RlRHV0Z0ZLZjUzTm9KSW94RzYyREZ3cFF3aXFfNWFoTElJcVVhSXc2ZnBUanRpUV9jYlRfS2pveGZXNE5MMng5NnJVX1hVWkhqS3dJMTl1WUtya2plaGs4dXhycGRzWlVlNEg3Qnc5V2VXcTJkRFRJbzJKbWMzaXg5MjNIemFNdFZ0cWxYbmV1bEpHRWg2SGtZM3VtNnVIZDE2VGg3UUp5Mk1SZG5FUXgzRTZHTnhPUzY?oc=5",
+          "published_iso": "2026-06-03T22:12:10Z"
         },
         {
-          "title": "Essential Plan Coverage Loss Pushes Residents to Marketplace",
-          "source": "Gothamist",
-          "why_it_matters": "People losing low-cost health insurance may face higher premiums, coverage disruptions, and urgent enrollment decisions.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMDZ6YVVKTjNfZFd4R0NhRE1zTG5ja2ktN0FzRXhGOWM5aFhLS0owVDNuUzdaLWFLaUVseFdNNDJ0MWliakgxTW9IZWFIVVcxbzhqRWdGV2xaejEtX09mcUtfX1dUdUhnejM2SU9wMjFha0pHNmxnSmJLaURadkFOcUYxYWtZMHpfMS1kUDhsOG80bGlwcmZuald1NVVRLXR5N3Y2aFdTN2cxWkdQMmc?oc=5",
-          "published_iso": "2026-06-02T10:31:00Z"
-        },
-        {
-          "title": "Free Home Inspection Program Launches for NYC Homeowners",
-          "source": "Bronx Times",
-          "why_it_matters": "Homeowners may get help spotting building problems early, potentially avoiding safety risks and costly repairs.",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0ybzdpSmpZR04yVzYyVU05dTZKWE1rVXVQd3B6V1FUUFpiR3pGODAtSVBkRW9STDdCUTNsX2JvRS05bkxGSFA4bkc2UFFVSFptbmQzeU5LNGNrQ2dVZFhXSFNUUFhvTEFlZHBwdVlabjlvTXVYOXlQZS1vaE0yNFU?oc=5",
-          "published_iso": "2026-06-01T17:33:43Z"
-        },
-        {
-          "title": "Bronx Housing Lottery Opens at 217 Bedford Park Boulevard",
-          "source": "New York YIMBY",
-          "why_it_matters": "Eligible residents have a new chance to apply for below-market housing in the Bronx.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdDZwajdUdkxIQVVIb2R0ZUhHT2oxYVJCWUprYUk4Z2FLdU5KWVhFZXlUU0c1bUswem93dlc2eUJ6TXlVM0FDVWpNbTQxTkJ5YUNKM0w4VVF1MmdoVXZzamVtUGsyUmFhWkUybU5ES2RpbjM4M1FrODBDR0h2WjRRbDdPZDQ5VktPc3ZHSXYwVzA4VUE1SGFiRXpLR1lDTm1OSzh1VVY4TWRlb0dtLWIzRmZ4T3VZaHdVajRZ?oc=5",
-          "published_iso": "2026-06-02T11:00:19Z"
+          "title": "DOT expands pilot to cut delivery truck miles",
+          "source": "amNewYork",
+          "why_it_matters": "Reducing truck travel may ease congestion, improve air quality, and affect deliveries in busy neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeWRJT09rVlFvd0lWVFlWMmdGU2YwZkZvRTU3ZEkwNUhZSmpKczhENnFtOGJWTDlJQlB4b3RCeVdPS2V1cktoMWlaV3d6UEFjYnZXZnpkd0FfQ1NTOE13NlJYaGRRck9leE1XaEI5Vk5panZTZEUxYUo4N21La3h4cg?oc=5",
+          "published_iso": "2026-06-03T04:01:27Z"
         }
       ]
     },
@@ -93,46 +100,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "Tribeca Festival brings films, podcasts, and talks across NYC this week",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "A major citywide festival affects entertainment options, crowds, and neighborhood activity across Manhattan and beyond.",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNN2thQ09wUnBBcFhNdFg4T2FLNWZqU1ltenFZTXZfZVlncFhESGNGeW9oajBWWVlGclAtQWZMOHJZaU5ySnFnR25fVEcxSWhLQXpwYU9zcE5XR1lLLUxDclRMRlVkMHA0b2xkenBuWHpITXNaVThTR1BqbjZmYUhtN2RhX1d6cWk5QU5jZlRLWG9qVGF6aG1kNzVCT0pWY2g0UXBPZy1VOXVsNG9CNGpiMzl4bWNkTmJsVXF0bncyZDl6YkNEbTFDeENBMHBfQzI0Mkw3ZW56aEIzaWZnVDE2WkRpcVlmVVpS?oc=5",
-          "published_iso": "2026-06-02T02:33:45Z"
-        },
-        {
-          "title": "Celebrate Brooklyn returns with free summer concerts",
-          "source": "ABC7 New York",
-          "why_it_matters": "Free borough-wide performances give residents affordable arts access and draw crowds to Prospect Park.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbUowQWpubENrVmtCR2ZYUmkwTzFLbnpRN1NVc09VVEVLbjVKZERGSmVfNkhfejV3REgwemZSSGNkbkpidmJoX2RadWhZdzF4R3lhY0ttN2ZZcG5IT1kyY2RxSWpLc2tSSk5MNVE0OWRTWHkzV1g2ZGlHZEpuTG5mTjQ3VkttdERTWWszUGN0UFhyT3lwNkRONWhNLVpfdzVwa0RQcXhjMjVvTVpTZ1HSAbMBQVVfeXFMT1RWSmxOWVNya3l3dVJaZWpuODlDdGlzWmh6VGRNdl8walo5RG42cnNoTU8tSTFNaXBNRjl3cV9BUHdzcXcyYTBVeDBWQWZfRlhBY0ZGeUpmT0JlTlhOYWo2NmtYb1hjYTRiZXlteDk0NWQ1aWtZQzNoempkVk5BS01zV2ZlRm5hUVUycmdSYUNuZDZGbkNSaUVzc2RfUWtmR1VkUmc1T3BSSll6dnRTRV85Z3M?oc=5",
-          "published_iso": "2026-06-02T22:23:15Z"
-        },
-        {
-          "title": "Best free summer cultural events guide released for NYC",
+          "title": "Bronx major fires have doubled, alarming residents",
           "source": "Gothamist",
-          "why_it_matters": "Residents can plan low-cost outings during summer as prices remain high across the city.",
+          "why_it_matters": "Rising major fires threaten safety, housing stability, and emergency response capacity in Bronx neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOEZZMmRwaEV0REoxWGRvbGYzVDA3dk5GWGxVUkJPTGJPd2JFWUd2LWU4VFl0THRadkNIdEFfTHJybjJhUHRqYkZIbU5ENGsya3lSQ0JWTXcyUmNXU3RvWm9iQXEtMzFOd29vU1dRNHFoeGlQanhBZl93Z1F3M0dYZ19QWTlLSV9KQmNfcTVoNzJTODMwb3BZTQ?oc=5",
+          "published_iso": "2026-06-03T20:54:00Z"
+        },
+        {
+          "title": "Best free cultural events in NYC this summer",
+          "source": "Gothamist",
+          "why_it_matters": "Residents can access low-cost arts and community activities across the city during summer.",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdy1OZmg2STBLRW9rQnFac0ZlY24xZkY5Z1h1NHhZOVplSllqUWZjR3lCTXQ5V2JndXQxT0g3V2RyQ3VsX1FNS0lhWnBJSG03VmppRXNabUI5dFBlR2RfNWxKaHZUN1N3WmctemRWMlFWNkgwZzZmZkprLTFobHJyZ2RvNXBsMjQ4aml3SXRzYUQzaEhSSWR2MnY5alN3aDdTU1g1TU9SN2hlQjNrOEhQdnhndw?oc=5",
-          "published_iso": "2026-06-02T14:33:00Z"
+          "published_iso": "2026-06-02T14:34:33Z"
         },
         {
-          "title": "Seaport announces free outdoor summer movie series",
+          "title": "Seaport announces free outdoor summer movie lineup",
           "source": "Time Out Worldwide",
-          "why_it_matters": "The lineup adds another no-cost waterfront activity for families and residents downtown.",
+          "why_it_matters": "The series offers families and neighbors free evening entertainment in Lower Manhattan.",
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeDd2MllPQjVNeWVqZWFoM3YwZDM2YWlPRDZQYWliZXlCMngxc3IyS3BiWURjS2hDZURRZFN3dnFFMlp6cHBGTFhZeS1DLVdIZ09TQXVRMmdJUENQS3czaWZ3Yko3YmFMN2FWdHFnc2Q1dzkyVk4wTUhUUHd2OEZsVkpyMTNtVU1VRTctbnB4TEY5cm4tUGxoYWNQVXdQaU9vOVpfWFZBc28wc2thaDNvZEIwZnBzYm0tQ3BYbUg0VE9MZnZjV2thdi1hMWR1dmM?oc=5",
-          "published_iso": "2026-06-03T01:14:04Z"
+          "published_iso": "2026-06-03T01:14:00Z"
         },
         {
-          "title": "9/11 Memorial gets $25 million Bloomberg match for youth education",
-          "source": "Times Union",
-          "why_it_matters": "The funding could expand educational programming for students and preserve a key civic institution.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaUpxckozWVZlZ1RKb0ZvcWtObGZXYUJwV3RuRlZzTHRYUFRremt1OXVtZzAxRG9lUHAtRnBzQXBhOS1SWEZILWd3RTEta1VHM09KcU1kTVBicjFfalJPNjhVcUFiVGU5eUxqYjlFMEs5YS1OZVlvQkJ4TmtFdUV1NjJxTVZ1WWl0Tl83eWJubElLOWNHQk9pUVpHWHBEQ0QzaXc?oc=5",
-          "published_iso": "2026-06-03T12:54:15Z"
-        },
-        {
-          "title": "NYC launches its first French Restaurant Week",
+          "title": "Interactive map helps kids find free summer activities",
           "source": "Time Out Worldwide",
-          "why_it_matters": "The promotion could boost local restaurants and give diners new discounted options citywide.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWtsUGowdjE1LVlTVHlVY3gzREU2cGJQa0pVd0MwcWNiSWdBcWFqLUgxMzI4bEEzdW1kcWJSeWpLb1FHV1JJWWdfdzdjbENKRWZhanRIYVQ2blZ5bHVVNWNVRGJtS0tsaDNXcE10VUJZLW13c1ZPNUJXVWlzMzRZNEQxejJ3S2xpT0J2cmlHX0k0eGFtYUZJc0xPVkNFZS1PbVlr?oc=5",
-          "published_iso": "2026-06-01T21:47:51Z"
+          "why_it_matters": "Parents can more easily locate free local outings and programs for children citywide.",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQXFJMjMtTEh0U1ZfRTkyYXF4a0RaRmtfTFkxQk5LOG9TUGd4X0NNT0psS3JSMkstOFR3SE5oU0NLMk8xUjBrRTFrT1VGMktSU2FLOS1wbUtxcHV6dHRLeVJUQlkzTU44VDFLUVphbG1vVWExNExjOEY0Y1M4ZVRhWk52SV9WUU4zSVBHOW42NTFuaFItcWlEQVpaS096Y3BWbDdPRnZtUFpBZGk0dEdEZE5iaXN2eFJUb3N6dTMybVZVNUk2?oc=5",
+          "published_iso": "2026-06-03T21:37:43Z"
+        },
+        {
+          "title": "New ferry reaches Jersey Shore from NYC quickly",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "The route expands summer travel options for New Yorkers without cars.",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNel82YlZKeXNKLW1rdkNyNkJMT2lfcHJhZ1FKaG04WTJWVHNZbEdzNktHb0wxSGd3Q2RzYkFocXl0blBrcDA1Umc1WXJHbWU4MHNlY0sxMFdWWmUyZXRHaDJXT041WENkcVZOMEVfY0FieDJpRWlPU3I2cFA2aHM5V3k1RndZVnJwMXZINjVnTWsyMVRUTjg5bWNDVE1xdmNMcW5lYkE5cnBfYUNSVkxlbm1aQmFVMHhodG5nTExKYzYxZUlfZ1ZXRGFfTm1UdElRWEVpNHplVVhyRmJRbUxrMUItNFJXQQ?oc=5",
+          "published_iso": "2026-06-03T23:03:05Z"
         }
       ]
     }
