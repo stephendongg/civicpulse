@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-06-05T13:54:11Z",
-  "daily_fact": "Investor Hidrock Properties bought a seven-building Lower Manhattan portfolio for $81 million, signaling continued confidence in New York City’s commercial real estate market.",
-  "topline_md": "New York’s biggest updates span public health and policy: the state issued an air quality advisory for Long Island and the NYC metro, while city and state leaders advanced major fights over budgets, housing and rent, redistricting, criminal justice, and environmental oversight.",
+  "generated_at_utc": "2026-06-06T12:08:52Z",
+  "daily_fact": "Renderings for 289 Kent Avenue in Williamsburg reveal a new mixed-use development that will add homes and retail space to Brooklyn’s waterfront neighborhood.",
+  "topline_md": "New York City faces overlapping public-safety and quality-of-life pressures this weekend, with an air-quality advisory, possible severe thunderstorms, road closures, and mosquito-control flights alongside housing, policing, and jail-policy debates.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,11 +14,32 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "Air Quality Health Advisory for NYC Metro",
+          "title": "Air quality advisory issued for NYC metro",
           "source": "New York State Department of Environmental Conservation (.gov)",
-          "why_it_matters": "Poor air quality can worsen breathing problems and affect outdoor activities across New York City.",
+          "why_it_matters": "Poor air can worsen breathing problems, especially for children, seniors, and people with asthma.",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVXZ6VDVUUDh4eUI2MFRwSGd3d3dxaHVSTmhRQUNLSXVWYWl5SS15dTJhRWlFS3RoQ3FqaWVqNXB4TUpRTjRPTjRnTURwS21QYTMwcVhWRXVZcWJkUUIwU0FJLVdYdjlEaEkzV2ZNSnJUMXNlM0M2emZMOTZKQmVUMk9HSGpkdHZVOU90RXBwWTJleVdGTmYxeHU4ZVA3aU1EQ2VLUktfUThHY1RIX1JrRU55SENjNFJCOXMxaA?oc=5",
           "published_iso": "2026-06-04T23:14:57Z"
+        },
+        {
+          "title": "Severe storms may hit NYC Saturday evening",
+          "source": "SILive.com",
+          "why_it_matters": "Strong winds and hail could disrupt travel, outdoor plans, and cause localized damage.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ1pLZVdEUXg4WWNGT0ExWWxVRmZ4NXV5b29Gam44dFVYOVBYVldlWV83TnhzWHY0cW1EdktvTGNpUkRjNjMzU093OXJKTXpXRTlLaDJSQThpZ19aMXJpWGZOUmJsZ0pESGU1dkRKMWdGZk5iNXNfQ2ZHQW8waTZsd2luZVNOMHA0OWpGX2w0M3A2WXRnM3poc0pQcFhvZGYxZXRwRVZLM3VvbmdrM09UV3VIUVNLd05NNzN6TG9iNm7SAdQBQVVfeXFMTXd4WTdwU1ZjQVRmTldnaUdhUjlWUENYQ2NCZFpnYVdsaHdwWnVoYnJ3S2dpaXB6WWM5eUFmcXJia2NfblAzSHROeF96QXA1N1QtNWZsRW84U0VDdkZTejFnRkpWWXlwYlF3bl8tWVYwN29uZGVGZlhzR0Y3S3VHQ1RUaHk2eVlOVVlTeW1ZNVcyRWVRZDd2ekdnaDVudWNVdGtsZ2s2Q2lSRl9Jc3NVUHpZRFhqb185SlpyX1gwZEQzZnp2RGYwU3BVRXJtUUwxalhVWkU?oc=5",
+          "published_iso": "2026-06-05T14:30:00Z"
+        },
+        {
+          "title": "Aerial mosquito treatment planned for Staten Island",
+          "source": "SILive.com",
+          "why_it_matters": "Residents may see low-flying aircraft as the city works to reduce mosquito-borne disease risks.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHcxMU9IS3ByNllieXhBUFN2SnNEekdFTnEyNUdrdVRsSGJIb1VyVVdwc1laMkJxcnZVdVhvdTJ5ZV9JdndiMmhDYWtLYUM3aHBYZDRweE5jMkl6dVh6VEZtYXh5dHRtaEd1cV8zaFlCS3VLdjB3Rko4OGxxb2JicXlENHQ3Z0Q3OTJwLXVWemxMZFhvWExGTUhTMzNrRGpQaW9vZ3NMWHZzR0lCQTNQVEdkSzl1LW1Fb1FnZG0xN2jSAdQBQVVfeXFMT2YyMWk0V0hWM2IyTV9FSW1QdmFHRDc4TjdpcXRfNVludzkxdjdjdmFCajBXT19EUllmRmRLN0F6MjhVN3JlbDFBNm12TTYtOHhHWlpOSTgtQld5LXloYnZQUmJmcVpXZy1FN3Bib1pfdGJfd2YyOC04SHJiQzR4T2p6NG8xMm9XdzhSdWxHdlhoY3lPOTBZRVIwTUJmbm5qQnFFV2FyQlhIbG5ZUVVSZTM0U2d0Y0diaWhEbmQxZXpWTVA3ZUpBbFdNQjFoazBTdHdaVGc?oc=5",
+          "published_iso": "2026-06-05T22:48:00Z"
+        },
+        {
+          "title": "Weekend fairs and parades will close NYC roads",
+          "source": "SILive.com",
+          "why_it_matters": "Street closures can delay driving, buses, and deliveries across affected neighborhoods this weekend.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTVtNk9vM2tVUkZ3bTM4WEd5VEtQWkpKYmhieWFUM2ZLc1hhRzhZYlN0VGxXdy1paHgtUjlpbjJLNnRtN21pQzl5SlFiWWJZSWxzVzgxcUpnMVNLVnBSM2VWOUpKYUpOYmY1MmVVN0ZwM29zR09YQXVGR0NHa0xGT1h4SWJjYzdVXzFGUTBMMkZiNjdQM3NTS3VIQ2l1QUN2VDM1cll30gG6AUFVX3lxTFB3TXZYenBkSE1OTktDWTBGM0I2b05sWWJnU3FyMGtFSkRvcWFURHhvR2xkaG5hLWhRYzVTRTNhZ0ZjZUhSQ0xhSWtReFpDZ3FXYkgwRXFscXdtSTJ3LWoyUHRGWnp5SThWZW9pNEJWTGNEa3gzb3AwSDlxUkJvVnpQd3JjcS1Pa1I0WlhJWHM2V3o3WmVHNVJITDA4R1U1a2ZtUDhEWENVSmVaTTB3Z2o5TXJ6Wlg1aVJwUQ?oc=5",
+          "published_iso": "2026-06-05T20:16:00Z"
         }
       ]
     },
@@ -26,53 +47,67 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Lawmakers tee up state constitutional redistricting fight",
+          "title": "57,000 rent-stabilized apartments sat vacant, housing agency says",
           "source": "Gothamist",
-          "why_it_matters": "Changing redistricting rules could reshape political representation for New York City voters for years.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0JIcTFobW1qa3V4clVleU81ZG1ST1VObXdiM1ZoS1p0Sk11QUhrRWptT3BKU2dxV1YybDdEVHA5eG5UR1lnaFR6Zmtyczd2VnFIVzhWMng2QTRNSW5NUENSX01TSjh1Z0k0VWtvWXd0Z2tDX1VEb3dzcEZuOVlsRTVSRjkwMXZNZ3drbkcwTlBRWExVRTJ4bVIza2VKYmxJMDhDaS01c2RNN3BaMEVRaEZ3?oc=5",
-          "published_iso": "2026-06-04T23:48:00Z"
+          "why_it_matters": "The finding could shape city housing policy and pressure officials to unlock thousands of homes.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGRSYWsxaWY3MFlEZGpXUW1nT3NlUjJ2aWNQZE1ja01Fd1hzN0JWeUFfOExwTl9jT2ZqZTlyNEM1SjJpSnB3UWFtaUVJbGU0NDlnR3ZteGszWHdhemFSWUxvMk5TRU5JSndIeGo3cW1zYXFjdmZXcUtQbVQ1SDZyQi10WUk4YVdHaVZyV2lXZW0tVkdYTmJkSnZUaHE?oc=5",
+          "published_iso": "2026-06-05T17:11:00Z"
         },
         {
-          "title": "Court says NYC must alert residents to sewage discharges",
-          "source": "amNewYork",
-          "why_it_matters": "Required notifications could help New Yorkers avoid polluted waterways and pressure the city on infrastructure fixes.",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ITmVTNHRqNnBIZEdRblJucGNzTHNONm1xanhwR3Y0bERKdzBfTXpha3pNSW5JWGRfV1BoVk1sblBIVkZodzdPZXo4OWZaMjlBNGZiNFFqR1prZXlEbTlzNTBZeVhsZTU3UmJv?oc=5",
-          "published_iso": "2026-06-04T21:15:21Z"
-        },
-        {
-          "title": "Advocates push NYC budget funding for jail alternatives",
+          "title": "City urged to fund jail alternatives to speed Rikers closure",
           "source": "PoliticsNY",
-          "why_it_matters": "Budget choices now will affect public safety, detention policy, and the city’s ability to close Rikers.",
+          "why_it_matters": "Budget decisions now could reduce jail populations, affect public safety, and advance the city's closure plan.",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMzF6R2RRMndEa3JIVEV5OVBuR1laUTNDZVRrNF9COGcwcGVTLTZkckgyQmwxWFY2MnUxNU9LQnAxS1lZQVYwb2RNZm9sdGxaMFRKQVJrT1hnWFlmUnBwV1djQnQ4MWh2a3RVb3VtdmxxVHNoU1FObXFxbmlwUV9jWVFuZWk0Q0k5OXlCT2hfVmwtV0NtdkJwMzBwdkl1WTlXSklEQlNPY1k3SWgwbDZ1T25HbEtWTmN5TGNhWENwLUd1QWpac3plSHA3Z1NNRmw0TDV5U0Y0aXBCOWZ2TjVBWEZ1VGRFVFZXQWh5aXEzU0xtZHFaMUxHcVlFMA?oc=5",
           "published_iso": "2026-06-04T19:45:05Z"
         },
         {
-          "title": "State weighs first-in-nation pause on data center development",
+          "title": "State crackdown may raise childcare costs for part-time workers",
           "source": "Gothamist",
-          "why_it_matters": "A moratorium could affect energy demand, land use, jobs, and future tech growth across New York.",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1pVcW1LaXIyakVEOENzWE1TQS1RT2x4X0pyeXc1d21qMUtaaWM3NWFkUGZ4a0pZWFdsTHUtNkJQbFVKVnVKdDFsTVF0OFAwamUtZ0k4SThqT1ZqX3pXOW9tZUdIa0pBQUY0RnZhMjF3NERhdFVDek4xbm5DQVRhdkhHNXQ1TEpqVW0wTEJ6WUFreEhUdE15NklR?oc=5",
-          "published_iso": "2026-06-04T16:08:00Z"
+          "why_it_matters": "Families relying on subsidized care could face higher costs or lose access to childcare.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcHFubXdDdUtEXzBMZHJncnpLOG9tSEx1QnUwbVRZekhQOEtnMXZUbDZIb2lyb3BERWhFUWJzSXBQQWxBRkVZNDlhNWZUbV9PYXVnMDZndEFVS3RyV0d2MkMyX21ZMlJOU1hRQmE2RnlhNnFkSWdwZ0xLOW1DMUNHRXR3ZDRYMDlhOUZ5VXJCN2ZaSHhlalRUWE5NWnRJdllaX2h1U3oteldrTkgy?oc=5",
+          "published_iso": "2026-06-06T00:56:00Z"
         },
         {
-          "title": "Residents to weigh in on proposed rent hike freeze",
-          "source": "ABC7 New York",
-          "why_it_matters": "Tenant feedback could influence whether stabilized rents stay flat for many New York City households.",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnNWUktIc0NwSExDTG9SbWNnMFlCc1JSb090UGFhVVhCTHoxRVpQVVJocjRxYlVRSVI1S1hvdzZQdGhvNzdRMzdodS15VTVQdXh5TVp2NU0wcUxKTTBORThFekYxU3dVazZWQ1llWkFjOFFQSzQwOVhCUk1INEtHQXZLOFgxM2o1dTFUaUpwX3dwRGxOVG5B0gGcAUFVX3lxTE42YW1heElocEdzSzg1TzY3N0tZV0kyWC1vWE5yZVRQOHhzTno0cWNtQmFDazhSM2x0ZmFRSTRtdzBEWEhnMEt0OUFudktBR2dVbDJpZDdCRi0tNkRmU0FfYlhBMjdVbC1GRlMwaWp4NEhocGxWM21HU0VjQy1ELWhZLWtveXp0eEl6ZFRDSEFwTFZheVAwLWVsMVBoNQ?oc=5",
-          "published_iso": "2026-06-04T19:28:59Z"
+          "title": "Comptroller report targets persistently high NYPD overtime costs",
+          "source": "NYC.gov",
+          "why_it_matters": "Reducing overtime waste could free city funds for services and improve police budget oversight.",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOM0FJZWppMzhEQzlMMjB0anpzdnozX2tSTkpmN21DV2F5S1dpX0N5V2hBZkgzUzU5eTAxUENCLUtWQ1RfZ3lxNFRJOWxHTnBwSjlBM0dpS19TczdZRzJtQTdHc252Y3JmaVdWQlVaZVRTOWdvaUlCbmthOEdCWUhuaE1CSEhjVE5nLXlnUmRralZhdWg5NDdGaHF3OVM1UU56Wi02X2IwTExXNTlkSWE5cjdod1ZQcjRiTkFiaDdTX3pQVkdNaWlMeWZWZ2hHalVoSS10ZUtKU1FreFhNZlpGcGZjSjZuVks2LW83VzVQa0hCbGFCV21zN2h2T1NLemFkLThWZVVtZFpEMnQxVE9sUFVGUUVDZw?oc=5",
+          "published_iso": "2026-06-05T20:09:58Z"
         },
         {
-          "title": "City advances 34th Street busway in Midtown",
+          "title": "City will monitor nonprofit tied to federal corruption probe",
+          "source": "Gothamist",
+          "why_it_matters": "Continued city oversight affects accountability for public dollars and services delivered through nonprofits.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2tjSGhlbGJKcGFYc282X1VvbnU1NTk3aU1ybDJvYW83OTMxR0Z0UkZjbkpqTDVjeWpTcFR2VkEyeExsUFhETGJ2Y1pneHJBZzJCSlFFcmFTVWc5SEVsYTN5RG1EcEZiWlpleHlMR2hVZTJDeEFqWHRQUFp2NlNTb19aNWZEUl9NZm5sX1hZUlVQR2dFZ21mdWRtNnRhUXVkWEE?oc=5",
+          "published_iso": "2026-06-04T18:48:00Z"
+        },
+        {
+          "title": "City moves forward with 34th Street busway in Midtown",
           "source": "New York YIMBY",
-          "why_it_matters": "The project could speed buses, change traffic patterns, and improve daily commutes through Midtown.",
+          "why_it_matters": "The project could speed buses, reshape traffic, and change commutes for thousands of Midtown riders.",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0JZc1JCTmVYT2NOYWlsWm81b3NCVjdyQkhLbS1lclBUOUJmMkdzdjRxaHBnUng2TmFCdTZfNGRRdnFVRXlWS20xaXN6YkFhb1JmVEQ5c1J5M3FWQ3FmbVhkSkZueXVUalBDNUwwREZQMmZ5c1owN3UwNVVFNVpwODhIcFpSRktTMGw1TlFKQkZnTDlhaU9QWDUyYjJQTndsT0EwcjhoZ3lCN2pu?oc=5",
           "published_iso": "2026-06-04T10:30:51Z"
         },
         {
-          "title": "State bill could change grocery date labels",
-          "source": "Newsday",
-          "why_it_matters": "New labeling rules may reduce food waste and confusion for shoppers across New York.",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeElJTUtJbDBVeTR0dVVhMTE1VlNacHFpMkVneUN2b19xaVdXbGhSQU9MSUFYSFZpTE1hMWI1WlBWRkhBNVVuNU43V1U3ZW5rMHFlRS1mZ19QeHZFU3dtRklzd1lwTjQyN2tQMGJ2S1RRT1ZXZzZlcnB6T0RTYlV0VGNCbw?oc=5",
-          "published_iso": "2026-06-05T01:57:23Z"
+          "title": "Lawmakers urge hospitals to resist DOJ requests for trans youth records",
+          "source": "Gothamist",
+          "why_it_matters": "The dispute could affect patient privacy, hospital policy, and access to gender-affirming care in New York.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnZQdWROVkNlS19VX0hNQzdRNDc0NUFId1BxXzJzNTVRRWxCc29XTVZsRjV1Uk5Uck5LbUdUS3MzQk5IY20xaGJ6MTRxalEtX21qUmpTT21Ma05wTkxza2pCeVQxTE5YcEc4LTUzTkR5VkdJXzZzRC1weGpEdGZkQVJ5TGpRR1p1MHdkWkpUSE1NTGNxVk1wOXhsdjFkei1VSTZpWlozRk5xajR2a2c?oc=5",
+          "published_iso": "2026-06-06T00:56:00Z"
+        },
+        {
+          "title": "Teachers report federal agents near schools targeting parents",
+          "source": "amNewYork",
+          "why_it_matters": "Possible immigration enforcement around schools could deter attendance and alarm immigrant families across the city.",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVVWRsVTZiQjl1ZEVpTk12VUpweFZIckN0MnZMM05ncWtZaEtOV2tEc1Q2cy1WcVV4ZkIxS2FHZGcweFROQm1RYVN1RVNCcTlDczlyTHdrVEdLTkh1bTdBdzhtamlKOHpKZG1Ic3VYRFA?oc=5",
+          "published_iso": "2026-06-04T21:40:16Z"
+        },
+        {
+          "title": "Stalled bill may determine hundreds of New York sex assault cases",
+          "source": "New York Focus",
+          "why_it_matters": "State legislative inaction could decide whether many survivors' cases proceed or are dismissed.",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTGVCM2Mxa1hJRVVmOXhGNjNrMkFNMDZUN3NDTTR6RFVLdV9TLVlBbExhZTlWZ3h0WjRQN1ZOSlcwYWVPNVRUM0V5d2xxUWNyZlE0Y1NyMGJYbnVraUV1YkhmT1BJT0ktNTMwR3lTbDEzRHhreWZmZnQzNVc3OEZqdmxwN1VlbmlGRVc2VnRn?oc=5",
+          "published_iso": "2026-06-05T09:00:00Z"
         }
       ]
     },
@@ -80,39 +115,25 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Childcare subsidy crackdown could raise costs for part-time workers",
-          "source": "Gothamist",
-          "why_it_matters": "Many NYC families working part-time may lose aid and face higher childcare bills.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcHFubXdDdUtEXzBMZHJncnpLOG9tSEx1QnUwbVRZekhQOEtnMXZUbDZIb2lyb3BERWhFUWJzSXBQQWxBRkVZNDlhNWZUbV9PYXVnMDZndEFVS3RyV0d2MkMyX21ZMlJOU1hRQmE2RnlhNnFkSWdwZ0xLOW1DMUNHRXR3ZDRYMDlhOUZ5VXJCN2ZaSHhlalRUWE5NWnRJdllaX2h1U3oteldrTkgy?oc=5",
-          "published_iso": "2026-06-04T20:32:00Z"
+          "title": "NYC Trash Bin Reimbursement Deadline Extended to Sept. 7",
+          "source": "SILive.com",
+          "why_it_matters": "Eligible homeowners have more time to recover money spent on the city's required trash bins.",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ3JiN2RWTzNyOE9CNnVXRXNMWTlpVHRUUHF6a0M2NWNpSzAyZl80S1gzQmZIemR2QXhWV201by1JbEhmLWgyeHVNVWs2UDV4bUtmWk1Wc195RmcwYVQyUUpDQ2NqMmk5Zkw0d0ZpSVY0VXU3NXQxby1SZ2hlOWZ2RzMtdmRFZGRibk5YbDF2LV8waGdUTjRBbXFhSHVkMmhodl9RZndZTHUtTDNuVUxhY0xYSElSMFRkTVIxME5ObTFyY1RSblR0UHZObmp4d9IB4gFBVV95cUxPRTZKZWRMa0tHbFhHT0V6bkpzeC1pQk54bmRhTjFabFF3dEZaVEg3VmdCXzZDU1RLQ0xTOWoxdWhwY3VJc1BuTzVrMUc2Ykd6cC0xdXFfcmk3ejc1dWFDY3RTRTNGQTJrVjlvenRHcHZNeWJtSkZGZGs0Z3ZtX0FfZWgxYTFZMXU5WE5HWl8xMURZOTZFYndObTNxektNNXdld0VDOE1KVU5Kb2hvZUNvQlVKVFZ0dmNNbzR5eWhpTGwxMmYyTWFYdHJ6cElOZnZrUFgzUVdxczB2eXlzOEdjalJn?oc=5",
+          "published_iso": "2026-06-05T16:39:00Z"
         },
         {
-          "title": "Bronx housing lottery opens at 3060 3rd Avenue",
+          "title": "Housing Lottery Opens at 3060 3rd Avenue in Melrose",
           "source": "New York YIMBY",
-          "why_it_matters": "The new lottery offers affordable housing opportunities for eligible New Yorkers in Melrose.",
+          "why_it_matters": "The Bronx lottery could offer below-market apartments to eligible New Yorkers seeking affordable housing.",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGJSVjNtMm9YRGs0RW0yVzA0d1Y5OXZhZnVacHNtTmdxUGVyMmgwQkpWdjdYdFIyRlZQZlBTazJ2LXBYVjZULWhHR0l2bXpSd2ZONV93QkgzX1J5R1ZzOHlOX3JvRF9KMUdDU0tMNkZaeldJTXZUR19uUEtqQThKNkZwcVV2RVVHdFRTbWtoMFJtYzZoQWl0R213aV9rTXpKTjF0OXln?oc=5",
           "published_iso": "2026-06-05T11:00:20Z"
         },
         {
-          "title": "Some NYC school spaces still lack air conditioning",
-          "source": "citylimits.org",
-          "why_it_matters": "Students may face unsafe heat in cafeterias, gyms, and auditoriums as summer temperatures rise.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUQ2YVBka0tvRWQ2WklZS2tDV29kc2hNTjlGNEQ4c21fZ0ZTYlFIT25aNUF5MGFyWlRhNXB4b1pXc2dsVXpaOGU2MUxUUU1YNDZVY3pqV2xjNkl4ZlhVU1BGUUdxQVhWVTZaOGdmVUNVUlFvanBLM21FNVRZVFpKcHNKcVUzVUZVeXhScV9pNS1GSVZsSGFpVi1XeFR0WFo1T1pxSVpDLVpMbTBRUjFjUUc1TDlYQmoxdXc?oc=5",
-          "published_iso": "2026-06-04T20:31:53Z"
-        },
-        {
-          "title": "NYC neighborhood wins state downtown revitalization funding",
-          "source": "Homes and Community Renewal (.gov)",
-          "why_it_matters": "State investment can support local jobs, streetscape upgrades, and community development in the winning area.",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcEYyM2YyQmlUVFY2bjdEWWRsX01UY0pWeC15UVlob2ZVczU5MDBIR2p5MmgxalVBeDJHM3dmckhoUTFxZElUWTEyNkctVnpLV1ZwTUJlSW95R2ZVT1pMeFFWX1VxamNUU1pWeU1maGlybGZtNkNXOUhfNFlrYzNHVi1BRWtqenlfV193Mk1BN0ZrcWlKT0tKYmJEVEtLMVBPUTJiMldFbGtkRjJsR0Z3Y0Vn?oc=5",
-          "published_iso": "2026-06-04T23:35:17Z"
-        },
-        {
-          "title": "Interactive map highlights free summer activities for kids",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "Families can find no-cost programs and outings across the city during summer break.",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQXFJMjMtTEh0U1ZfRTkyYXF4a0RaRmtfTFkxQk5LOG9TUGd4X0NNT0psS3JSMkstOFR3SE5oU0NLMk8xUjBrRTFrT1VGMktSU2FLOS1wbUtxcHV6dHRLeVJUQlkzTU44VDFLUVphbG1vVWExNExjOEY0Y1M4ZVRhWk52SV9WUU4zSVBHOW42NTFuaFItcWlEQVpaS096Y3BWbDdPRnZtUFpBZGk0dEdEZE5iaXN2eFJUb3N6dTMybVZVNUk2?oc=5",
-          "published_iso": "2026-06-03T21:37:43Z"
+          "title": "AG Says Refunds Coming in New York Car Dealership Fraud Case",
+          "source": "SILive.com",
+          "why_it_matters": "Consumers who overpaid may soon receive compensation, putting money back into affected households.",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVRpZ3c5Y3lUdjVPU1oycEotR2o3R21MTldQOXBmeGE3dmJoZDdnVHBVU2lvTWl6c2tSdWtCaWk0Q3o3VmRuUlBPdFBxU1Y1b3FZREZqbFhIclNLSmlTR1kyUFo1UnJ5Z29fWWowekFoeVFROXpiWEcwZlpMaGZZTlg5SEZRLU9EbldjZTZyLThlR29fbjFIalVDclQzYTBaNVlBcC1mVkZJQUxrOUZtVExpQdIBxwFBVV95cUxQY09aYmJmc2premR1dGdKR0d1RmtIZnVlekJoY1ZaSGZfVHVCcGRlRWEzSEw2bWY5b0JjRUl2RksxN29PV3lhOS1DNnhUN0s4bDdROFNnS0hWb2JtMFp2MHoydlpmX0VmNjZIX0NFazVMM0toTzlua1ZJZ3hvMlB2Zk1sTFlFcW1NYWEweWxZTWhjTEFmRXIxSEZmX0JmazZTcEMzdUNmQVllbUNGYWRBSTY1UXQxc25KWDRXVnNoNkwzcUk5cFhV?oc=5",
+          "published_iso": "2026-06-05T17:39:00Z"
         }
       ]
     },
@@ -120,32 +141,46 @@
       "title": "Community",
       "items": [
         {
-          "title": "Brutal Summer of Restaurant Closings Begins Across NYC",
-          "source": "Grub Street",
-          "why_it_matters": "Restaurant shutdowns can mean lost jobs, fewer neighborhood options, and more vacant storefronts citywide.",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmJ4TGVHX09jVnhScE10VEVwazd4UE93NnZkOGQ0VmVjWUdJTU9UcFU1UU9FcEIteTRxMkgtWGdGVmJIYTZkbGVDSTg2NEJJeVJPQ0gtVHBXWkV0dkloQm45S0NMZ1Vpa2J2bzdBY3ZTZHNDZ1RTYzNPRUlMRlZTM3BXeWlEcVpFWmYw?oc=5",
-          "published_iso": "2026-06-04T15:32:22Z"
-        },
-        {
-          "title": "Free Summer Movies and World Cup Screenings Announced",
-          "source": "Epicenter NYC",
-          "why_it_matters": "Free outdoor entertainment gives residents low-cost ways to gather and enjoy summer across the city.",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BeG5kY2FoNG5yRjJrZ1gtdnltUlVyeU9DMnhtRmpqTEFfX2dTdGltRkw3M1ZmZFEtbzd0b0N4OVNtYTFybVBlR2Y2eGQ1T2lhMGZoUU9LNjczYnpZel9RbGFRMktUX2E2VzNMZ0U4VXczYVA0Z0V0ZFJ3MA?oc=5",
-          "published_iso": "2026-06-04T19:04:34Z"
-        },
-        {
-          "title": "New Restaurants Open Across NYC in June",
-          "source": "Eater New York",
-          "why_it_matters": "New openings shape neighborhood dining choices and can boost foot traffic for local commercial corridors.",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wQVVYWlIyT1hBZjJ0RzNBSG1zWXBZdnVwV1Q2Z0FGVmpialoxRlk1bVhRMlI2R0tCRjBlenRpZlp3c3VhQkhMZW95VG5HUFZ0ekt6emM5d3lfdjBMMFdJVzltMTVXVDhvbGE4aXhkZTVZRTEzVGJjb1Jn?oc=5",
-          "published_iso": "2026-06-03T15:05:08Z"
-        },
-        {
-          "title": "Pacha Opens in Former Brooklyn Mirage Space",
+          "title": "Governors Ball weekend guide released for NYC festivalgoers",
           "source": "Time Out Worldwide",
-          "why_it_matters": "A major new nightlife venue could affect local crowds, jobs, and late-night activity in Brooklyn.",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeTNxQ01DaGtfbGpZbGtRLWh5M1NGdzR6S0pYeFM1bEtnOWkzQmRkUERSa0FuRUF5TklXZTFuV3JZTWVLN3RFa194YXhIdHlnWUs4ZWcteDRwSEdYMXdXdWllNy03eVI3Z1dlQzU3SlRHNl9ZZDNPTEd2S0U1c2xyVXJkSEpPZGk3VklDOTBIQ1FKZkpqQXBCUzV5NzEzcVlyZW16WWRJNTc1RTJJeDZtVWlkNXVFNU9jMHd6cG1sem0zeTZ3anMwQktB?oc=5",
-          "published_iso": "2026-06-04T18:03:27Z"
+          "why_it_matters": "The major Queens music festival will affect weekend plans, transit, and crowds for many New Yorkers.",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnVHZjNzNEFLUmVUdGg3UHkxRGxBNlNDcW1SYmZVM1RVMnRkalpiUEdtRTlsUnJxOThOTWV2SVZ5QjJuYlJoRjJ2Sm53c2RlSWdhNkhRRU9rOFp6VEpWVEJmcFc4R1RPM2tuakZ3S3JwYl9kOS1lOXFtLXhzXzcyMGdqYUJhdFpDb1QwVnJXblZlNVJieHA1eWF6c3RqY0JSRUFwVmg5RzVBbldZdnJMYnpRamI3Ni0zUGEtMG4xZUFHZ0t1YWYyZi1jRHdQdw?oc=5",
+          "published_iso": "2026-06-05T18:08:19Z"
+        },
+        {
+          "title": "Free rooftop panoramic experience opens reservations at Municipal Building",
+          "source": "NYC.gov",
+          "why_it_matters": "Residents can now book a new free public attraction with city skyline views in Lower Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdjV3SFJiZTVnY1BFb2N6OE92ckdaRUwtTGk0UXRLZXpvWS1Hci1namlTQ1FNS191bjFzV184SXUtZGhUTk5LN3FaMWdDc0lyMTVJNTlxYTVkeFgwbXJaYUZuR1M3ZnpuZnJwRnRHUzJoR081bkRRcEVoUlpsVWY3SkFyeUlGWXBuMkp4aktHaWd2d3FXcl9iZFhxa2dGQlB4dWVwQUhiLWVZdUVDRDFiOQ?oc=5",
+          "published_iso": "2026-06-05T05:34:15Z"
+        },
+        {
+          "title": "Tiny new public beach opens in Greenpoint",
+          "source": "Time Out Worldwide",
+          "why_it_matters": "The new waterfront spot adds summer recreation space for Brooklyn residents and visitors.",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORTVhbXdoODY0RTVIWlZHMWlLUFlUVjhCYlM0OVVkbzNBTHI5WDN6RWxaT2tDWVJ0OXBVRHJHODJQUDRmakxYd2tGdVRVTlNPMjl2YVVEa2pfLS1EY2o4NnVsN08wbHc2WmRfYlpLWjhSZ25UMjZPemFmMmRhZzg0ZVhtbkV0d3Z0UUljV1pqSV8tay1BREJiaVl0YXIzOE91Sk5nXzVfYm44WTdxVmowVVZtaWViR2JyQWc?oc=5",
+          "published_iso": "2026-06-05T19:47:09Z"
+        },
+        {
+          "title": "New Citi Bike stations spark debate in Bronx District 8",
+          "source": "The Riverdale Press",
+          "why_it_matters": "Station placements could change local transportation options, street use, and neighborhood parking concerns.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbXN3OHcyWXA0bnpoemNIUm4xeG9tVzhYZjlxUEYwRHJHX2FEQ3Z3M2tnRWVkQ0tDRHp4SXNFNmZua2NUT1c4RzR2QVFtZG5EemgtZXFLN3dZTFMwQUpsU0Q5Mnlmc3NMZUdhSko3ZW4yTmRTZkl5SlBEU0REOEpKTWh5WEMwbV9pb0ptVUJ5SjBKc2lMWXA3X2pwUnZpWmtKcU51VG1WRm96elFOQkN2aV9NVUJxaE1ZSU9CeW5GX2o?oc=5",
+          "published_iso": "2026-06-05T15:06:00Z"
+        },
+        {
+          "title": "Bronx launches Gun Violence Awareness Month initiative",
+          "source": "Bronx Times",
+          "why_it_matters": "The campaign highlights public safety efforts and community engagement around gun violence prevention.",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3ZsRkdVVUZCOU9RWmJaUjN6bWg4TmwxOUpiczNtVHZQaG5GV1ZuaHQ5NE5aQXdPa1FGNWoyS1hKRV9ZSVJrZC1aZ3VqeW9hSEFLZ0x3SGp4UzlzdFY1ZXJibE1aZG16NXlWYXFJVXB5YVNxSE55eTBMSVRjcUlaQ2Zlak4?oc=5",
+          "published_iso": "2026-06-05T19:35:49Z"
+        },
+        {
+          "title": "West Village’s oldest bistro is closing",
+          "source": "Eater New York",
+          "why_it_matters": "The closure marks a notable neighborhood business loss in one of Manhattan’s historic dining corridors.",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaDJySDQ5THVYRjdZUmJIT2lkM25rZkUyM1VnRU1qM0FKS2xWd3V0SFROVWNkaXBEU2t4QU53ckFsNmVXWTgwNHR2RG9Oa1NLWU41dG1JcHBHdEhiTGNzNDh4azUzQl9kdjNNSGVzd04xWDZwRDNldWRwT2IwVnFuNnl1d1NkSjA?oc=5",
+          "published_iso": "2026-06-05T15:21:41Z"
         }
       ]
     }
