@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-06-07T12:24:15Z",
-  "daily_fact": "A new app highlighted by Time Out Worldwide now combines New York City subways, buses, and trains in one place, making regional travel easier for riders.",
-  "topline_md": "Severe thunderstorms are disrupting New York City this weekend with flood risks, downed trees and flight delays, while housing and affordability pressures dominate civic news through voucher fights, tens of thousands of vacant rent-stabilized units, and a record $268 billion state budget.",
+  "generated_at_utc": "2026-06-08T14:51:49Z",
+  "daily_fact": "The Sons of the Revolution will host its annual Flag Day Parade, celebration, and open house in New York City, offering residents a festive patriotic event.",
+  "topline_md": "Storm fallout dominated NYC, with Con Edison restoring outages after a deadly Queens tree strike, while officials advanced major policy and infrastructure moves including the next phase of the Second Avenue Subway, a ban on “surveillance pricing,” and mosquito-control aerial larviciding on Staten Island.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,25 +14,18 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "Thunderstorms and possible flooding expected in NYC this weekend",
-          "source": "Gothamist",
-          "why_it_matters": "Heavy rain and flooding could disrupt travel, outdoor plans, and create hazardous street conditions citywide.",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRjJrWXpiajJYTThTTlZabVl3YnB2ekFnTGJUUTF2MXNweUFQczJYWlk5eWJGUUhiQjhyVmhPenlvdlpXZEZya3NJWFQ1NGpwWDZmTEdld2hra0lXWEVyaWVQMmJPTFFJM0d1UE5leE9WRlFXVmtHN29YVzRaUldBM2ZnQ2hkV0NzWEF3TGUxelBGSnQzX3hEM3lXbEhaV1h3bUVYNw?oc=5",
-          "published_iso": "2026-06-06T14:00:00Z"
+          "title": "Con Edison restoring storm-related outages",
+          "source": "Norwood News",
+          "why_it_matters": "Power disruptions can affect homes, transit, refrigeration, and essential services for city residents.",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGJNeEhoTmZJTmVPVjEzcnVKSXJ2bUJ6NEF5ZWtWd2ZjUFZOdV93R0lDOXJrTTIzYzhqX3c5MkdkaWtld3hGcmJJMmVGeUtKUlBOY3ZPV054NmhoUG5HcEhtQlk4cW5ZTlBFcV94ZmZraXh4Z0hVeERPanhwMmhNR0ZfTGpjOVdRdDJJSkxfcw?oc=5",
+          "published_iso": "2026-06-07T04:47:52Z"
         },
         {
-          "title": "Severe thunderstorms down trees and delay flights across region",
-          "source": "ABC7 New York",
-          "why_it_matters": "Storm damage and airport delays can affect commutes, flights, and power reliability for New Yorkers.",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYU1jUVMwb3FyZ0sxZmI3TXJhekE2bmllRlNDOEkyWl9UR1F0R0ZaVG9TX05WUWxaWHNKWGR2MWJlS0dWNGRTcW1oeUxpWThhZFVZRDQxMjB4ZERvSGF4OWxFb3p2SXdrUWhtTG5OTWJ0Z0dzR2ZhNkVweExtMUprQkk1YVh1ZjlPeTl5VjI2Y183YThsVXdjbHlR0gGfAUFVX3lxTFBIakJuWlhvOVpxNjh1eTBMaUw1LWl0M1k5cVR5Y0lDUlRnVmhETWFhZVBVZGRwanV4cGRTU0h1VENiejRGMWRBaHllTWhPanJ1TDdiSWNfVUhRWmtxRWpFZzBvZVBaTkdVekRDT1RDTU02eWFtM05iSklTQ2dSLWVPRTdLRkRjT0docks1ZWtYYnVtQUpsbXgweE1zbFdMMA?oc=5",
-          "published_iso": "2026-06-07T04:39:14Z"
-        },
-        {
-          "title": "Weekend fairs and parades will close some NYC roads",
+          "title": "Staten Island aerial mosquito treatment planned",
           "source": "SILive.com",
-          "why_it_matters": "Street closures may slow driving, buses, and neighborhood access during the weekend.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTVtNk9vM2tVUkZ3bTM4WEd5VEtQWkpKYmhieWFUM2ZLc1hhRzhZYlN0VGxXdy1paHgtUjlpbjJLNnRtN21pQzl5SlFiWWJZSWxzVzgxcUpnMVNLVnBSM2VWOUpKYUpOYmY1MmVVN0ZwM29zR09YQXVGR0NHa0xGT1h4SWJjYzdVXzFGUTBMMkZiNjdQM3NTS3VIQ2l1QUN2VDM1cll30gG6AUFVX3lxTFB3TXZYenBkSE1OTktDWTBGM0I2b05sWWJnU3FyMGtFSkRvcWFURHhvR2xkaG5hLWhRYzVTRTNhZ0ZjZUhSQ0xhSWtReFpDZ3FXYkgwRXFscXdtSTJ3LWoyUHRGWnp5SThWZW9pNEJWTGNEa3gzb3AwSDlxUkJvVnpQd3JjcS1Pa1I0WlhJWHM2V3o3WmVHNVJITDA4R1U1a2ZtUDhEWENVSmVaTTB3Z2o5TXJ6Wlg1aVJwUQ?oc=5",
-          "published_iso": "2026-06-05T20:16:00Z"
+          "why_it_matters": "Residents should expect low-flying aircraft activity and mosquito-control operations in affected neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHcxMU9IS3ByNllieXhBUFN2SnNEekdFTnEyNUdrdVRsSGJIb1VyVVdwc1laMkJxcnZVdVhvdTJ5ZV9JdndiMmhDYWtLYUM3aHBYZDRweE5jMkl6dVh6VEZtYXh5dHRtaEd1cV8zaFlCS3VLdjB3Rko4OGxxb2JicXlENHQ3Z0Q3OTJwLXVWemxMZFhvWExGTUhTMzNrRGpQaW9vZ3NMWHZzR0lCQTNQVEdkSzl1LW1Fb1FnZG0xN2jSAdQBQVVfeXFMT2YyMWk0V0hWM2IyTV9FSW1QdmFHRDc4TjdpcXRfNVludzkxdjdjdmFCajBXT19EUllmRmRLN0F6MjhVN3JlbDFBNm12TTYtOHhHWlpOSTgtQld5LXloYnZQUmJmcVpXZy1FN3Bib1pfdGJfd2YyOC04SHJiQzR4T2p6NG8xMm9XdzhSdWxHdlhoY3lPOTBZRVIwTUJmbm5qQnFFV2FyQlhIbG5ZUVVSZTM0U2d0Y0diaWhEbmQxZXpWTVA3ZUpBbFdNQjFoazBTdHdaVGc?oc=5",
+          "published_iso": "2026-06-05T22:48:00Z"
         }
       ]
     },
@@ -40,39 +33,60 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "State budget wraps with record $268B spending and data crackdown",
-          "source": "Times Union",
-          "why_it_matters": "The new state budget shapes taxes, services, and privacy rules affecting New Yorkers citywide.",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaklPeUwzUVpGSGRpZ0NlR1k0b2dKZ2V0b0hJT0YyWXZneWk3TmNvdmRkUk1xbDVBVFpRelcxVE8wZnJLU09ROERka0ZRSUtmbGlqcFZRcExTVmFILVI5RFBBdkYxR0tWTUthcF9MNEhmUElmQnBtQngyTXJzbHRxajBiVQ?oc=5",
-          "published_iso": "2026-06-07T10:13:12Z"
+          "title": "Hochul to announce next phase of Second Avenue Subway",
+          "source": "ABC7 New York",
+          "why_it_matters": "Subway expansion could reshape commutes, transit access, and development on Manhattan’s East Side.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMExNUjZQa21tUEltZ3pNNlpOQWdQR0xSN3kwWUN1dzdPVFA2RHBlUWpvNmRTZWlCc1ZxS256R0FJSWpvamhPd3NvZDI5YUprM2U2LVRzbkxRVGw4Zjg5dGJqVWFfTlYzTWFNQjg2M2puU2w4aHZ1OVMtTGFibmV4b1FBek54REl2RnJsVG11WTVIZXJocjRabEg2TGpySXlYb1ZSS3FVc0tzX2PSAbABQVVfeXFMT2F3ekZ1STJGeTN6b051QWtNTXhoamVGWnJ0RjBRREJwZ1dkd2ZpMmY4VnVNY2tOczc1RGtGSWZTSDJ6NVJUX09Hak0zbE5oLUUtSlgzUF9WSW9LNnltVjYxOUluejU0dTBiLVlJQWJvSHJpMXpSYkxvR0UtdFhvMy1yUWduUXp5VHRxSHJFWkdTTzh3VzAyXzNSMXg0SElncEJGQlVPazdpSTNKOVZqNTg?oc=5",
+          "published_iso": "2026-06-08T10:27:02Z"
         },
         {
           "title": "Lawmakers vote to ban surveillance pricing in New York",
           "source": "Gothamist",
-          "why_it_matters": "The measure could protect shoppers from personalized price hikes based on their data.",
+          "why_it_matters": "The measure could limit personalized price hikes for shoppers and set new rules for retailers.",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcDVyU2pZSkRMRDcwb1daTXVIRWFoWjMtajdEaTh6a1A2S2FRSUFzdU1ORGU4TXoxQ3BpTS1MQW1IX2xxVXIzT0Y3RVNUZUw5Z09DWXNQbDNYTjZyemVleGtZbEE3MlktTHl5YzhQZDdNbG96cGFxUHlQOHZyRWI5R2ZMY3pNQ3U4VkdvakI1Qk9CazJLd1lsZlRFeTY3aE12Tk1UQ3V3?oc=5",
-          "published_iso": "2026-06-06T12:42:00Z"
+          "published_iso": "2026-06-08T00:22:00Z"
         },
         {
-          "title": "State crackdown may raise childcare costs for part-time workers",
+          "title": "57,000 rent-stabilized apartments sat vacant, agency says",
           "source": "Gothamist",
-          "why_it_matters": "Families relying on flexible childcare could face higher bills and fewer affordable options.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcHFubXdDdUtEXzBMZHJncnpLOG9tSEx1QnUwbVRZekhQOEtnMXZUbDZIb2lyb3BERWhFUWJzSXBQQWxBRkVZNDlhNWZUbV9PYXVnMDZndEFVS3RyV0d2MkMyX21ZMlJOU1hRQmE2RnlhNnFkSWdwZ0xLOW1DMUNHRXR3ZDRYMDlhOUZ5VXJCN2ZaSHhlalRUWE5NWnRJdllaX2h1U3oteldrTkgy?oc=5",
-          "published_iso": "2026-06-06T20:17:00Z"
+          "why_it_matters": "The figure intensifies pressure on city and state leaders to address housing shortages and affordability.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGRSYWsxaWY3MFlEZGpXUW1nT3NlUjJ2aWNQZE1ja01Fd1hzN0JWeUFfOExwTl9jT2ZqZTlyNEM1SjJpSnB3UWFtaUVJbGU0NDlnR3ZteGszWHdhemFSWUxvMk5TRU5JSndIeGo3cW1zYXFjdmZXcUtQbVQ1SDZyQi10WUk4YVdHaVZyV2lXZW0tVkdYTmJkSnZUaHE?oc=5",
+          "published_iso": "2026-06-05T17:12:19Z"
         },
         {
-          "title": "Housing advocates press Mamdani to fund CityFHEPS expansion",
-          "source": "amNewYork",
-          "why_it_matters": "Voucher funding decisions could determine whether more low-income New Yorkers can afford housing.",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaDNJZ2NUVGhiRVloQk5aM1dROE80ZThraGxzMjFTeDByOC1rNEFYalhuSWlaQ1JydVlZOGpieEVURFFteUMxd0Y4cFNxWGpGOW5wbXBVU3l6a3BSNXd4dUJad0pVU0NnVncwcE5mUUNEQ1dLZFNwc2RmV2g4b0llNHR3aDVXTVU?oc=5",
-          "published_iso": "2026-06-05T14:25:18Z"
+          "title": "Penn Station overhaul faces scrutiny over Trump-led plan",
+          "source": "Gothamist",
+          "why_it_matters": "Questions about the project could affect a major transit hub used daily by hundreds of thousands.",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXFPZ2c4T1EwaDNDME9UVGF4R3hzX3JSejBHTUxVdS1pM0RfUm14U2s3RVZZUTVQUWdEQUdUeHFUZkZ0VWRpMldwNmVhamhPZWViRlNMNU92S2tjM253ODRwd0xtckRCcTEzNnUtT1pxU2cycDNweWRrb1M3V0laYTlmWWdVbUhicDBhTlhmM1o5VU1FS3lPTlJHOWh3czBWNE1zUDdfOA?oc=5",
+          "published_iso": "2026-06-07T20:30:00Z"
         },
         {
-          "title": "New York requires cash totals to be rounded up or down",
+          "title": "New York approves cash rounding law for transactions",
           "source": "Time Out Worldwide",
-          "why_it_matters": "Cash-paying residents may see small changes at checkout as businesses stop using pennies exactly.",
+          "why_it_matters": "Cash-paying residents and businesses may see small purchase totals rounded up or down.",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZjdfRzBadnE0UkhYUDJEcWZqelVGdDhMSzBPMkdQOGdfYlpncHRpR25NSDExNXhzSGRXSFNEYUc0cnVVSXBxX1hVNkRPdHEwZnNRY2g0RGlmRmtlSlA4Zks2SVhvMFgyV2dCcjlGcWI3ODhyZWphWk1qTEt6eDQycUF0SkZ1WVFXcXpPdVFiYktEQUNiaU4zaHkwcVI3OVloOTh2QVJsbXRncUJMUmpyMFA5dzEyTU9jaHJQM2VudXltTGVZV3BxMzRIMFVmRmFaVFpqdlFFQ2I?oc=5",
           "published_iso": "2026-06-05T23:04:29Z"
+        },
+        {
+          "title": "Mamdani earmarks $96 million for new greenways",
+          "source": "Streetsblog New York City",
+          "why_it_matters": "The funding could improve bike and pedestrian infrastructure while addressing deteriorating existing paths.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX190MEd5SG5nV2tYVmJPRUFuWEtpckMtcUtfQWJmTU9xWDNub3VSVHdJbmZmMXpEQlpBZmRSMzd0dTBES2QwSnVaQVlzSDlmZUd2ajUxQUF6ZGhjTzdKZERkVXBIdGpFdXA5YnNoU3NtVHdwYmo3Wm83VHlNMjJIMVhXOTRzeGx3SzJCeXh3dW5aUmMxRDZNTnBvbENaeEtoczB0d2dzUy14NE91VFE?oc=5",
+          "published_iso": "2026-06-08T04:04:00Z"
+        },
+        {
+          "title": "Lawmakers end session after least productive Hochul-era year",
+          "source": "Gothamist",
+          "why_it_matters": "The session’s limited output leaves major unresolved issues on housing, transit, and affordability.",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSFJ1Q01BWnNpMUNfT0F4ckI1ZEhTdFd0Y1B4ak5lb3dCTE9mb2otMXZubEFsdllOcWdpMDVUVHhVMEJZOUVmcTMzZUVTbWU2V1JhSTZvRG9QZVQzY0lBTjdnNmloUTJjQ2JWNzJZMzZEMUJlNENXVFVXLU1EQ09CVnJzNXBVa1p2anhudE02RlBHQUpFa3Z0WDZ0bmNPUQ?oc=5",
+          "published_iso": "2026-06-07T12:00:00Z"
+        },
+        {
+          "title": "Queens lawmaker advances ARFID recognition legislation",
+          "source": "qns.com",
+          "why_it_matters": "Recognizing ARFID could expand diagnosis, treatment access, and insurance support for affected New Yorkers.",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3WFBuR2pyVWNqU0tXcmtObWFKaGxKQmZDQUhWQ291cGtZcmtHRTc0OW1sMnYwS2tWUjF2RlJxM1BpNjhMMkFGUEJtVmxvc01ZNm55eERUU1RlbHR5TDN0eklrTWU?oc=5",
+          "published_iso": "2026-06-08T14:40:50Z"
         }
       ]
     },
@@ -80,32 +94,32 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Apply in June for NYC civil service jobs up to $81K",
+          "title": "NYC civil service exam opens for jobs paying up to $81K",
           "source": "SILive.com",
-          "why_it_matters": "New Yorkers can access stable city jobs with solid pay by meeting this month’s application deadline.",
+          "why_it_matters": "City residents can apply this month for stable public-sector jobs with solid pay and benefits.",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWlgzaVJoZTU0Q2Z4Q1g4Zkx1UGVYa0pNeVJaNmx1MTRwWlc1RGFpY0VvUEtuMng5Yml0NW9KbkhwNFFqZEJNcUlJV3FKeXctajg0d3Z1TEVSeFlSaE93UGR4ckhVQTNrYmNiVmQxWWl4R3VkVW5jNkU4akN5WG5KdlAxTUFHQWFHX1pFMUV6bG1wc0NRREV6Qmk0eVRFZjJLcU94VFo5OEdIV00?oc=5",
           "published_iso": "2026-06-06T15:00:00Z"
         },
         {
-          "title": "Bronx housing lottery opens at 3060 3rd Avenue",
-          "source": "New York YIMBY",
-          "why_it_matters": "The lottery offers a rare chance for eligible residents to secure below-market housing in Melrose.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGJSVjNtMm9YRGs0RW0yVzA0d1Y5OXZhZnVacHNtTmdxUGVyMmgwQkpWdjdYdFIyRlZQZlBTazJ2LXBYVjZULWhHR0l2bXpSd2ZONV93QkgzX1J5R1ZzOHlOX3JvRF9KMUdDU0tMNkZaeldJTXZUR19uUEtqQThKNkZwcVV2RVVHdFRTbWtoMFJtYzZoQWl0R213aV9rTXpKTjF0OXln?oc=5",
-          "published_iso": "2026-06-05T11:00:20Z"
-        },
-        {
-          "title": "NYC extends trash bin reimbursement deadline to Sept. 7",
+          "title": "Homeowners get until Sept. 7 for mandatory NYC trash bin reimbursement",
           "source": "SILive.com",
-          "why_it_matters": "Eligible homeowners have more time to recover money spent on required city trash bins.",
+          "why_it_matters": "Eligible homeowners can recover money spent on required bins, easing a new sanitation-related household cost.",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ3JiN2RWTzNyOE9CNnVXRXNMWTlpVHRUUHF6a0M2NWNpSzAyZl80S1gzQmZIemR2QXhWV201by1JbEhmLWgyeHVNVWs2UDV4bUtmWk1Wc195RmcwYVQyUUpDQ2NqMmk5Zkw0d0ZpSVY0VXU3NXQxby1SZ2hlOWZ2RzMtdmRFZGRibk5YbDF2LV8waGdUTjRBbXFhSHVkMmhodl9RZndZTHUtTDNuVUxhY0xYSElSMFRkTVIxME5ObTFyY1RSblR0UHZObmp4d9IB4gFBVV95cUxPRTZKZWRMa0tHbFhHT0V6bkpzeC1pQk54bmRhTjFabFF3dEZaVEg3VmdCXzZDU1RLQ0xTOWoxdWhwY3VJc1BuTzVrMUc2Ykd6cC0xdXFfcmk3ejc1dWFDY3RTRTNGQTJrVjlvenRHcHZNeWJtSkZGZGs0Z3ZtX0FfZWgxYTFZMXU5WE5HWl8xMURZOTZFYndObTNxektNNXdld0VDOE1KVU5Kb2hvZUNvQlVKVFZ0dmNNbzR5eWhpTGwxMmYyTWFYdHJ6cElOZnZrUFgzUVdxczB2eXlzOEdjalJn?oc=5",
-          "published_iso": "2026-06-05T16:59:00Z"
+          "published_iso": "2026-06-05T16:39:00Z"
         },
         {
-          "title": "AG says refunds are coming in New York dealership fraud case",
+          "title": "AG says refunds are coming in New York car dealership fraud case",
           "source": "SILive.com",
-          "why_it_matters": "Affected car buyers may soon get compensation for overpayments tied to deceptive dealership practices.",
+          "why_it_matters": "Consumers who overpaid may soon receive compensation, returning money to affected New Yorkers.",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVRpZ3c5Y3lUdjVPU1oycEotR2o3R21MTldQOXBmeGE3dmJoZDdnVHBVU2lvTWl6c2tSdWtCaWk0Q3o3VmRuUlBPdFBxU1Y1b3FZREZqbFhIclNLSmlTR1kyUFo1UnJ5Z29fWWowekFoeVFROXpiWEcwZlpMaGZZTlg5SEZRLU9EbldjZTZyLThlR29fbjFIalVDclQzYTBaNVlBcC1mVkZJQUxrOUZtVExpQdIBxwFBVV95cUxQY09aYmJmc2premR1dGdKR0d1RmtIZnVlekJoY1ZaSGZfVHVCcGRlRWEzSEw2bWY5b0JjRUl2RksxN29PV3lhOS1DNnhUN0s4bDdROFNnS0hWb2JtMFp2MHoydlpmX0VmNjZIX0NFazVMM0toTzlua1ZJZ3hvMlB2Zk1sTFlFcW1NYWEweWxZTWhjTEFmRXIxSEZmX0JmazZTcEMzdUNmQVllbUNGYWRBSTY1UXQxc25KWDRXVnNoNkwzcUk5cFhV?oc=5",
           "published_iso": "2026-06-05T17:39:00Z"
+        },
+        {
+          "title": "NYC schools use comics to teach immigrant students their rights",
+          "source": "New York Daily News",
+          "why_it_matters": "Families facing immigration enforcement may gain practical guidance on protections and school-related rights.",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDd5VGlQQTBjWFg1VGU4bVM0NVFKVW14ZlA3cmtOQTZzbkFRaGxzU2xIREg4TzNsY2ZnQUpFU3JpLTJHVWZlb3ZKRFBuWjFraEhhMlhoYXo2NGRXLXBVNnpwUlBGM2FONE1qN0tGbldqZm9DNWlYN3Ftc3YyT29rWklfTmpyWkZsNzRzR29OVTNxNmJOaEJjOVdiQm5HMGxCZDRhbTA2d1NQbEIweVA0djVESkFvRmhaR194WXZhQmM3d2UtdHc?oc=5",
+          "published_iso": "2026-06-06T15:00:20Z"
         }
       ]
     },
@@ -113,46 +127,39 @@
       "title": "Community",
       "items": [
         {
-          "title": "NYC schools use comics to teach immigrant students their rights",
-          "source": "New York Daily News",
-          "why_it_matters": "Families facing immigration enforcement get school-based guidance on legal rights and protections for children.",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVDd5VGlQQTBjWFg1VGU4bVM0NVFKVW14ZlA3cmtOQTZzbkFRaGxzU2xIREg4TzNsY2ZnQUpFU3JpLTJHVWZlb3ZKRFBuWjFraEhhMlhoYXo2NGRXLXBVNnpwUlBGM2FONE1qN0tGbldqZm9DNWlYN3Ftc3YyT29rWklfTmpyWkZsNzRzR29OVTNxNmJOaEJjOVdiQm5HMGxCZDRhbTA2d1NQbEIweVA0djVESkFvRmhaR194WXZhQmM3d2UtdHc?oc=5",
-          "published_iso": "2026-06-06T15:00:20Z"
+          "title": "Weekend fairs and parades will close roads across NYC",
+          "source": "SILive.com",
+          "why_it_matters": "Street closures can disrupt driving, buses, and local travel plans throughout the city this weekend.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTVtNk9vM2tVUkZ3bTM4WEd5VEtQWkpKYmhieWFUM2ZLc1hhRzhZYlN0VGxXdy1paHgtUjlpbjJLNnRtN21pQzl5SlFiWWJZSWxzVzgxcUpnMVNLVnBSM2VWOUpKYUpOYmY1MmVVN0ZwM29zR09YQXVGR0NHa0xGT1h4SWJjYzdVXzFGUTBMMkZiNjdQM3NTS3VIQ2l1QUN2VDM1cll30gG6AUFVX3lxTFB3TXZYenBkSE1OTktDWTBGM0I2b05sWWJnU3FyMGtFSkRvcWFURHhvR2xkaG5hLWhRYzVTRTNhZ0ZjZUhSQ0xhSWtReFpDZ3FXYkgwRXFscXdtSTJ3LWoyUHRGWnp5SThWZW9pNEJWTGNEa3gzb3AwSDlxUkJvVnpQd3JjcS1Pa1I0WlhJWHM2V3o3WmVHNVJITDA4R1U1a2ZtUDhEWENVSmVaTTB3Z2o5TXJ6Wlg1aVJwUQ?oc=5",
+          "published_iso": "2026-06-05T20:16:00Z"
         },
         {
-          "title": "New Citi Bike stations spark debate in Bronx District 8",
-          "source": "The Riverdale Press",
-          "why_it_matters": "Station placements could change neighborhood transportation options, curb space, and street use for Bronx residents.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM05CU0xabEZRSVZGM09KNTVESU9ta2hraS1pMWxoRlI1TUVtcnVOVkM0TTdTQlc3SUxaT05WZUVPRTQ1N2dGT1BSUUlobFJLTzJzNU4zSUREZ2tqSFc0a1p5cnZrY182SGNiYzhONWFxVklvQnE4amxhSkdINTJ3RW54YVFxQTFKUHRaOVAwc2dQeTdNOFhXTVUyRXZuZ0pHemNmZk1SbkRjVGdqVlJ4c0pEUXhNM2hBUFE?oc=5",
-          "published_iso": "2026-06-05T15:06:00Z"
+          "title": "Queens man killed by falling tree during NYC storm",
+          "source": "ABC7 New York",
+          "why_it_matters": "The fatal storm incident underscores immediate safety risks from severe weather and falling trees.",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmFZYnBtX05JVnRfVGw3S3EyUVZUNV96TUI3REF5OGlNbnIxZ3ZIR0tVWFpHak1oeFdyZXpPYkZEZ2NfQ1JIbkJyM1Y2M0FfV081Z0FGNFZBMVA4OGVxejRCUHRqZDBaY1NYdmdyT3BIVzRpNlF6QzZhbTNramg2a3pGY1NfYnJNNmfSAY8BQVVfeXFMUFVZc0pmLTQxcmd1TmxETEpMRVJkUk9mZW13T0MwaFlaWkxHNnUwMF9zUmx2YnB3VHRicUdleFFmNzJKN0I1R0ZnYjNBQ1VSV1hEU1g0V0JSR3BhR3RfYzdBSy1GNW41MUY1bXNDNVRMWHhhNXRxZDZYamRMdzdvc1M1WkhvSW4xQVJLM1BHZWs?oc=5",
+          "published_iso": "2026-06-07T12:36:06Z"
         },
         {
-          "title": "New NYC area code arrives this month",
+          "title": "New NYC area code launches this month",
           "source": "Curbed",
-          "why_it_matters": "Residents and businesses may see new phone numbers assigned as the city expands telecom capacity.",
+          "why_it_matters": "Residents and businesses may see new phone numbers assigned as the city expands numbering capacity.",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZcWNRaV9BbW9jdGFSMWZ4RHJiQzJYSEE5UDFuWi1yRXpUd0FmZDBBSkpFZ2JMb29WSWZCS0Y2c2hVenF3ZEZGeG9La19XMVhfbTMxcWwxQlFWcHlpSlFqdF9nRm0wR0FEUDZwZlRmbGxWVnVjbFVhYUNB?oc=5",
           "published_iso": "2026-06-05T13:56:15Z"
         },
         {
-          "title": "Whole Foods plans new Bushwick location",
-          "source": "Bushwick Daily",
-          "why_it_matters": "A major grocery addition could expand food options, jobs, and retail activity in Bushwick.",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45ZU51dFdrNjZheWQwZnhoQk5iOENMenRCWGVyeVc0S3dxUGFYU2NGdTNTWVQwRUQxcmNORGJLZnhKRmdSZlVwZTNFSVBwS2JnV3dWNUh5ZzNfdmlsam0zQTFIdTU2RXBaSGxPQWNaY3MtZTg?oc=5",
-          "published_iso": "2026-06-06T10:31:58Z"
-        },
-        {
-          "title": "Governors Ball returns this weekend to NYC",
+          "title": "Governors Ball returns this weekend with major crowds expected",
           "source": "Time Out Worldwide",
-          "why_it_matters": "The festival will affect travel, crowds, and local business activity around the event area.",
+          "why_it_matters": "The festival can affect transit, neighborhood congestion, and weekend plans for many New Yorkers.",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWnVHZjNzNEFLUmVUdGg3UHkxRGxBNlNDcW1SYmZVM1RVMnRkalpiUEdtRTlsUnJxOThOTWV2SVZ5QjJuYlJoRjJ2Sm53c2RlSWdhNkhRRU9rOFp6VEpWVEJmcFc4R1RPM2tuakZ3S3JwYl9kOS1lOXFtLXhzXzcyMGdqYUJhdFpDb1QwVnJXblZlNVJieHA1eWF6c3RqY0JSRUFwVmg5RzVBbldZdnJMYnpRamI3Ni0zUGEtMG4xZUFHZ0t1YWYyZi1jRHdQdw?oc=5",
           "published_iso": "2026-06-05T18:08:19Z"
         },
         {
-          "title": "Borinquen Heritage Fest comes to Staten Island June 7",
-          "source": "SILive.com",
-          "why_it_matters": "The festival celebrates Puerto Rican culture and draws residents to a major community event on Staten Island.",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWlhVXV5OWxVSkR2eXVzbzRnQmFHTTA4R3FuaXhtUXBmLTJNV1FTWXV1V04zQ25OSEVsRDlCczNIaXhQVWxhUHhIU3cybTVHVFNRZlhrTTNHNThVQjh4M1hRLVlwWjhEenh1ZDR4bWdNN3JSaEV2MGw5cGRCSnlnMjBvc0M1aUFmTUdDcko5WEg2LU1WVUhmVUZ0VUpEemtYVGxjOFBJenowcVZDV0VKOHY0TkM5SGZsaWc?oc=5",
-          "published_iso": "2026-06-05T17:29:00Z"
+          "title": "Emergency housing voucher cutoff causes Upper West Side upheaval",
+          "source": "West Side Rag",
+          "why_it_matters": "Voucher changes could destabilize housing for affected residents and strain neighborhood support systems.",
+          "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOMFhEZ0tGenFCZS1vN3FfQ2tfdnUwMEFpUGk3Vkt6OFVLcTQ2anRadU51VzdpMlNMX0NybUhROGJEZHJCdTR1QmJ5al8td2gzS3dYSFdKSnROWTVKSHJfOWRNaDB3QmdSbWFsTmYxV19FZmdBOHg1RllxSEdyTlFsTURfSUpVT1BIUms0cFFtVGFDYTh5ZEVyYzlnV0pQWmVYVDhVRWF4c2lQX0Z0cG1hZFhHRzJ0c3lMY21STldVQmVDRUw2WWxfQzV1RDdXQ2d5RUM4cEdNUlRld2ZWak9RT0dvaWU4T3FUb0hpODNBazl6a3puOGJnQ0RNRy1sYlllUDNQdElpSUdzMnZLRi1tWmVNM2VyV1BaaEdpdE5ZdkFnZVdKTHhWS0xOUUxQUU84MjdrUGhSUThac2FzVUlBbjdNMERuRExmN2VEVnlHakw?oc=5",
+          "published_iso": "2026-06-08T12:22:11Z"
         }
       ]
     }
