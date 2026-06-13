@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-06-12T14:11:58Z",
-  "daily_fact": "The U.S. Navy scheduled planes to fly over New York City on Thursday morning, giving residents across the five boroughs a chance to see a rare aerial display.",
-  "topline_md": "New York City faced broad civic strain and change, with Con Edison cutting voltage to preserve reliability, a DOC captain indicted, rent and public defender funding tensions rising, and officials advancing school expansion, shelter Wi‑Fi, food aid, and housing-linked library rebuilds amid heated primary politics.",
+  "generated_at_utc": "2026-06-13T12:28:54Z",
+  "daily_fact": "Nina Schwalbe celebrated Hell’s Kitchen as a place of “community, diversity, acceptance” in her West Side Story for W42ST, highlighting the neighborhood’s welcoming spirit in Manhattan.",
+  "topline_md": "Severe storms threatening New York City with damaging winds, flooding and hail lead the latest updates, while city leaders juggle budget and housing pressures—from soaring NYPD overtime and rent tensions to school expansion plans and uncertainty over a possible federal ICE surge.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,11 +14,18 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "Con Edison Cuts Voltage 8% to Preserve Grid Reliability",
-          "source": "Con Edison",
-          "why_it_matters": "Reduced voltage can affect appliances and signals strain on the city’s electric system.",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcml6ZHFMREcwS1NwV1ZhdC1NUHBVcUh4T212X25JR1BfbGJyMWNuTzlVMndUelFOdlZ1TGNfcURWMWhUNkJGN3ZicGtWTXNsSFZqVjNkNE9wdHRUbm8zaTFvamh6WVZZTmk3eXdhQlBJVk5CcGdVVzdsTHFEcWZkZ1JnMGl1UjVZd2tqU0xlbDl0aWduUmJhVFpwVUVoMlNESTBWMVJaS3VRaWhXS1RmclhRMnJtSGtxTzNQcl9RZ0pfR0EwbUZQME9RWDNRQQ?oc=5",
-          "published_iso": "2026-06-12T01:43:04Z"
+          "title": "Severe thunderstorms may bring 70 mph winds, flooding, and hail to NYC",
+          "source": "SILive.com",
+          "why_it_matters": "Dangerous storms could disrupt travel, cause power outages, and create flash flooding across the city.",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUkdxNG9pb2g3MDdxS1hULTl6MkFpeXFRNXhZMHM3WWtTRHl0MnlfN1Q5M2I1RkhoazhUOUhBY2VZd2xuWXlDQ1RPTFlZbmozdkxnZHRVRlU0aUl6RjdFMS1XQmlmZE5aUW5pemlzQldDVlZFejVQVTB1V2xTWmV4d085NEdnVEVVMEJYUjJjYXVxU0pDcndfSUF0bHFUaFhmUGthenZvNmxaV1VSakNuTjBEdUxWbEFLQjVwVnBDVFNlYndja2lUYXloTlZBU1FpcDgw0gHnAUFVX3lxTE1OOXV5MHNjdHU5ZVNfQ3oydDU0M1lkRGhzQUdlam9UM3ZjNWlVci1nbzJnRmQ4ZnFBajFFS2RUTUlWYjZFZ0pPdHFZc3ZBVkZ3TzllZ1pDd1MyMW5pSkRmdUlCcGVpSDhHVTNlQ19DTnpnZVVDLTIxUlNpQ2Rwakt4VGwxZldnYXN2U3ZvR3JVT2pXTTF5N24zRThjdEVuRGhJak1SNXJFMTVxYkozd3FBb05CNG1mQmNDMDF6a19oc1JYdWZLN1VMbkJfd2RsMkdlQ1dBYVh2ejlJR2hLemY5cE9veVhwQQ?oc=5",
+          "published_iso": "2026-06-12T17:28:00Z"
+        },
+        {
+          "title": "Another round of storms could hit NYC before weekend cooldown",
+          "source": "Gothamist",
+          "why_it_matters": "Additional storms may affect commutes and outdoor plans before humidity eases this weekend.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczlYZU4zcVdfbFVHaUZGaWhSeVh2RGhoWElhbjRTLTFXSXBoWVA4TDY4a09weTBNaGhXdVBkSjNCRDVGTEpreDhUUjVZTktjYUNHQlNvbXA0RjRORVNKd3VfWXpqRjZPeUZINmEzVWY0TkJFY1BKWGxldmhITk5sczkyY2VPaTJZNTNuOGlfUFF3Q2JGOHJ0VkZHdEpfdThVRHJFVGdPT2pfbVNPamFXSUZJUzQ?oc=5",
+          "published_iso": "2026-06-12T12:44:00Z"
         }
       ]
     },
@@ -26,67 +33,60 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "NYC plans new classrooms and hires to meet class-size law",
+          "title": "City Council pushes priorities in NYC budget talks",
+          "source": "City & State New York",
+          "why_it_matters": "Budget decisions will shape city services, housing, schools, and public safety spending for residents.",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3pqc2NCVGdXTThFZXRDZVFsOWJ1Ty00TE44QlNjYmJwZWRPMHYwVGw0eFVsaXhOd0tFWmtXWHNFZTllUWdPcmFEbVFCUTZna1IyVUJrWXZpbWJQMnZOV1ZIQ195WFc5RkFlaTg5QnZjSnNZTUVYUzVNcllVQ3RGYVpycmZTVFhzUnJIbWpPTElUclI3NjZOcnZkTnA?oc=5",
+          "published_iso": "2026-06-12T21:04:42Z"
+        },
+        {
+          "title": "NYC plans school changes to meet class size law",
           "source": "Gothamist",
-          "why_it_matters": "The city must add space and teachers, affecting school budgets, staffing, and students across neighborhoods.",
+          "why_it_matters": "The plan affects classroom crowding, staffing, and school space across the city.",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkk3ei12VWRTV1pUVkNoOXU4NW1XcVlzWnYzQzhORFhfdlJDa2J6ejRBcUhQa2ctTkRPLVEzekVDWHltQUh4LWhTRGU0NVpYRTNTREwxOFVJZEF0VXllbzh3WVRMX0ZRcm1mMkIxNm5NWnZVbE9CVHlWZjFBRzdDX1d6R3YtdzZhRzZldGxiUzdsWXdSNlpqcHN4UXdYTG5EX0w4a2JBMEJYRHFlLW9DeWxtUQ?oc=5",
-          "published_iso": "2026-06-11T20:21:00Z"
+          "published_iso": "2026-06-12T20:58:00Z"
         },
         {
-          "title": "Public defender unions warn of strike without more funding",
-          "source": "Queens Daily Eagle",
-          "why_it_matters": "A strike could disrupt criminal court cases citywide and worsen delays for defendants and victims.",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmVXQS03UDdoTkV2UEZYTTc1Ui16SlVZUlM3cVhlQll4Y1JYY0stQmF6bE00N1h5SThHVllHaHI0clJqaWZzWmhqdFlLR2V2M0lXUFNWUE03dUt3Q2RpSlVCaEtFc0UtZTUtTWhPbDN2S0syN3JhX0F5Zk1PMXdBVFlSSTdpekZzc0dsQWVTZlBIdFJoVFpDX0NpX1pXMGFuTFNHOFJDb08xdWJo?oc=5",
-          "published_iso": "2026-06-12T01:56:49Z"
+          "title": "NYPD overtime nears $890 million amid budget gaps",
+          "source": "SILive.com",
+          "why_it_matters": "Rising police overtime could squeeze funding for other city services and deepen fiscal pressure.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ2ROVGs0QUx6NmJEN3hjV0RfbHNqWUJvU3dOY2paOFZXSFdER3pGSENmSjlzSTlTLTJaRGM3Nk5FaDRHTnZRRmhHUVl4QjB5RGZDa3p1dmdZMlFvWk80YWo4SFRtMG1acV80WjNUSFZBZE1JaF9JSVlwTTRkTGZrYTEzRnY0ZjBYR2tnRzdQTXMteVZ0clZlLV83bzJCbU9lTUE4VWE3aVRVYXZBdnfSAcIBQVVfeXFMTXpuaGV1OHF1OVZkN3I3NldFX3dJNWJKbGhOanVPQ0ZJbTlxZkVXOXNTbHJWT1BNbktWSG1EejNudlNLYWVvMmlTZkw2SE9LYUZkazdxX2lCb0JsODZOMXAyYUZpOE5aSktJWEhzc2pjVmFxRF9rejFTT1lKdDlxdFVxSE5ZQmNCSFh2Rm9rbnh6YlZOSXN3M01ZcFFDclMyNEJ3MDJxcFNsS1ZzTmdTUW0zYW9iYWpRUVdqVy1vYXlwekE?oc=5",
+          "published_iso": "2026-06-11T18:54:00Z"
         },
         {
-          "title": "State lawmakers approve Wi-Fi requirement for homeless shelters",
-          "source": "Gothamist",
-          "why_it_matters": "Shelter residents would gain better access to jobs, schoolwork, benefits, and essential online services.",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY2h5Y19WV0lVbE0xSm9JSmtfdmJKN3YyU3VEVGI0M2tSMTJiX0I2M2J5SExRZUNsTjVyRG9hUWhLdi1Vd1E4amcxVkxLRXlGc0xFRldoLV9Ub2tZYjZ0TjF2ZXFlcHc2Sk1yUUY3S3h2S3o0b0Y0WWdlVU1HRjlhcTB2bEhjYTlRZVhBWmhUR09TaFJaandxejV6YUVqZw?oc=5",
-          "published_iso": "2026-06-11T18:59:00Z"
+          "title": "Hochul says NYC prepared for possible ICE surge",
+          "source": "amNewYork",
+          "why_it_matters": "Any federal immigration enforcement increase could affect families, local agencies, and community trust citywide.",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrOEIwSmZsdUptc3Zva3UweFVkaVJmd1BVRWs0YVhldUxtMVI1bFpRMmxRM1hSdXRtb3JaNFZ1OThUUkU2UDNjX0ZaN28xQUdCbXVBU2lXS3ZCcjBPSmxYOVVQSklsWVpPajV3WEtzU2V2QQ?oc=5",
+          "published_iso": "2026-06-11T20:10:01Z"
         },
         {
-          "title": "Rent Guidelines Board hearing erupts over proposed rent increases",
+          "title": "Rent board meeting erupts over proposed rent increases",
           "source": "ABC7 Eyewitness News",
-          "why_it_matters": "Any approved increase would directly raise costs for roughly one million rent-stabilized apartments.",
+          "why_it_matters": "Potential rent hikes would directly affect costs for many rent-stabilized tenants across New York City.",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRThYZ3kxcml3cFNaTkk5U2NucE82M1BGMnRrcTBvb3dZNFEzYkhmV2ZWMWM3Qm1YVnF6bEM4b1hZcC0yclc5RGpYTDhUekF1LVZ0VXZGbWN3UU9OVTZ3UUp0QlVrTlhXZUxLN3BSYUhLa1Q0UHV0akEtR1laWDRUMVZjd0ZFVVdWRDc1R09YbjhTQU93a1hDT0lpVlJYR0JTN3dacFhPdDdGaXZ2RHp5edIBtgFBVV95cUxORkk3OGhTZlloZ2R5RXFMVUFkLVhUZ2ZWekRTUTBxVWZlNlNzM1QxTS1aR20zNWxmbFVqUmdzMEp2bVZvX3Bra05iOXhmRFRmRzNSdWNrdFk2M0Q2V19sZThpWXlORFdmTGs4T2QyMi1TZVF2ZThaWEVRZjY5Q2tzQTlvOXAxTnhObkkxYmREV1dkZGNMTjhfazBMbURFSTZ2eE9rOUFoR0NDZHVWNW0xWXU4enZvZw?oc=5",
           "published_iso": "2026-06-12T02:48:14Z"
         },
         {
-          "title": "Report finds $400 million in NYC homes vulnerable to deed theft",
+          "title": "Broker fee ban enforcement remains limited after one year",
           "source": "Gothamist",
-          "why_it_matters": "Property owners, especially seniors, could lose homes through fraud without stronger city protections.",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd3JSaDgybVEyUHFmWGtrOExJWGF0Z1pERXFMYkdZRFpqQnRWZXBBV1cwM1UzNTE3ZmxEYmlqTVJGendnMVdtQm1CdGFXcjZZeVpJX1BGb05zVWJYSURkNnFRVWtMSzV6bEQ2SExUNXpiRVhsZEdKdDZuTGk5Y0NhV3N5VVk0QjBMRk1uZFdHV0tIS1dZamZ4aXAyWE1OMmJJUXVDM1hRa2dQUQ?oc=5",
-          "published_iso": "2026-06-10T17:02:52Z"
+          "why_it_matters": "Weak enforcement can leave renters paying illegal or misleading housing costs despite city protections.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYUdFa2poNVNVclk1ZjB5YlpDamxDbWw4Z3dnSG1hdHdmTFRFY05WUHQtRHI1cWpUTUk1M2oxWUVhMVU5bHJMck5hWndHU2VmanNld0ZHdjVPR1Blb3daZHg3bFlFMEtZREp2NU9LV1lMRmZKVGlYbGRNNlZ6Z0pWWjZVb0otZEdoQ0hJa2hXczFDMnM4UGRVZkk0WFBGUzlLanFCa0NoY3ZZb0tQSGhj?oc=5",
+          "published_iso": "2026-06-12T20:58:00Z"
         },
         {
-          "title": "Six NYC libraries considered for rebuilds with affordable housing",
-          "source": "Crain's New York Business",
-          "why_it_matters": "The plan could add housing and modern libraries, reshaping public land use in multiple neighborhoods.",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcXlCRTdMSnR4Q1JHbUVacWoweVZkZlNGeGpZaERldzAwLWdLUW5MZ3BwRUhTM0RTdlNFWkplMGM0YW1XSGttSjEtNTAxdmZnUzBDcXNLSHlzenBpRjZackpVWm1WRXJfQ3BzaG1nTmhBUHNIS0x1MGM4eVRrY2NYLWVvNnFKT1gtOWgwZWtSS2FubTE5Z19GcS1qLXQ?oc=5",
-          "published_iso": "2026-06-11T09:00:00Z"
-        },
-        {
-          "title": "Brooklyn safety redesign stalls as residents seek Third Avenue truck relief",
+          "title": "Brooklyn safety redesign stalls on truck-heavy Third Avenue",
           "source": "Streetsblog New York City",
-          "why_it_matters": "Delays leave a dangerous corridor unchanged for pedestrians, cyclists, and drivers in Sunset Park.",
+          "why_it_matters": "Delays in street redesign can prolong dangerous conditions for pedestrians, cyclists, and nearby residents.",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV3g5TkxZVlhJdFZxcjc2eXg5RTFueUtlQ0s5Ni1fUVV5N3RMZHdCU2t1eDA2RnNISklTeDlYWDN0RjA1LTMtejN1NnRoOXkyOUROdmxpblhJT202NElVdk9FdkdnX1FXZVlxNHl0Rm5IcVl4SjhwRWJ1eFFzZXVlZzRYenlxaVZBTlFwbWhOTmZOQzZWNkpyWmhDNVV0eld0bldFTld0a2FCbmZCd3VHSncwalNEYXpDaHRkWk1ETFhFSHVQ?oc=5",
           "published_iso": "2026-06-12T04:05:00Z"
         },
         {
-          "title": "Correction captain indicted in alleged extortion and wage fraud scheme",
-          "source": "Department of Justice (.gov)",
-          "why_it_matters": "The case raises fresh concerns about corruption and oversight inside New York City's jail system.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0NpaS01VlRBQ0pNOWtaZXBWNHYwdmZpeHdNWmtJYmJvVTQ1cjhUeU9yR2dydm9rLVlXb0hlc2tVRHR6MGxuNGJ3bWVKbVVSNVY3YmVabHUwb05VaHBpczJ4TE9ja2xNOWJwZW5WR1J4YzUydU9yYzVYeVB6ZGxneklCRkVFTEdlRTVTcjJrbXVuSG5mdnIySHg1a19pMEs3eUxjcTFUaGo2ekpNelNweng1VFdVZmZzR0pCaldn?oc=5",
-          "published_iso": "2026-06-11T14:07:27Z"
-        },
-        {
-          "title": "Lawsuit challenges on-the-spot drug testing in NYC family courts",
-          "source": "The Imprint",
-          "why_it_matters": "The suit could change how parents are treated in custody and child welfare cases.",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXRxYW14cUI5ZUhWNWtXY2dMWXBVcU9RUGZXWXJWWmNVYnZGSk1Xd0U0MlJqcGhBOEVuaG16QVJiTG1OWWhrWVZSSHk1SlYzWUdVWjdueGY1RTRZWUcwX3JKenhZU0JMbWZQb0p5b1ZqdzJRSGZUanU2MFVROEtKYU03dFNQT3FOamx5eF9sMjRzOGktSVh0QW5PaHdVQTN0WDFRT3Vyc2Z3X2hPbi1hVFhFdkZCUW1XWnhJUUMxMXI?oc=5",
-          "published_iso": "2026-06-11T23:02:20Z"
+          "title": "Council weighs competing plans for carriage horse industry",
+          "source": "New York Daily News",
+          "why_it_matters": "The decision could change traffic, tourism, and animal welfare rules around Central Park.",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNGlIWlpRdmhhWmJjRF9qSjZVSktDS0xxdjY0bEhsRHEteHhKOTM3OHhOYmRPUXdNZmZ3bE55Rzd1cjNkWllNZ2hYUDFLNjZEcXMtMHptOGFoZEpKc2cteXRBeHBENUpZTnJxZk1jZWdFd3k0N1NWbzd1a3NBbVV2c3BrUHExbmtNaGN1b3lNOVNYZ2pXSy1NVDJOajRWQWw3YlpXMXBSRG1HZ1hiaklKT0t4YzlsRmVPZG0wY2RPclVzZDZVTjdsN2w3OWZUUQ?oc=5",
+          "published_iso": "2026-06-11T20:41:43Z"
         }
       ]
     },
@@ -94,18 +94,39 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "State offers $10 million to food banks and emergency food providers",
+          "title": "State offers $10 million for food banks and emergency food aid",
           "source": "Governor Kathy Hochul (.gov)",
-          "why_it_matters": "New funding could expand food access for New Yorkers facing hunger and rising grocery costs.",
+          "why_it_matters": "New funding could expand food access for New Yorkers facing hunger and rising living costs.",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaXdFOE9OZkprN05TUmx4NklqdjA2RzczaUZ0T0JRREhGbFJpR2o0My16eXRVZDB1MU9vN29OYW9wY2JGMi1tYUhabFptQmFWQllaMWNLVV85aE9pSERDaTNiLVA3NHowRGNLZy0tb0NHOWdub1Nid1BqUlExV0ZadUE0aDVxUTUwNDlVZHNvRUJwdy1vdDBFTnM4TE9ZZ3E4MVd0anBobFZmWkp2WXBUQl9RakZDbDJFZVNj?oc=5",
           "published_iso": "2026-06-11T16:59:23Z"
         },
         {
-          "title": "New Yorkers can apply for free air conditioners this summer",
+          "title": "Gouverneur opens dialysis unit for nursing home residents",
+          "source": "NYC Health + Hospitals",
+          "why_it_matters": "The new unit improves access to essential kidney care for vulnerable residents in Lower Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTW1XWG9STmJFOXU1LUpKRDRLNzB0c3dTRnhNekZkOFJUMjdzQ25ZS2RtOXg5SWFFR3hsVURyTW1QSUtCeE1qT2hya2hLZ3BiTEVSa0dRX2pOWjRTdFk5ckZ1VlVycjAzaEpOV2dMT3Q5djlnN2t0TUdBYWVsSWRDc3dpWE5BMVR5enBSb1pvYlQyZ1dMbHdXNmhIbERmakw2ZmdGdE05ZVJDQXB1SFh2bGNOcEtUbW12Y1JrQlpvNVRjMXZudDhhR3NhcU1na3ZJOEpvbUlXUDB0TkR6aTRNWjJYRU5kbzI5UlBBYWo1dDRBaFA4dHZaU0JIUEd1U2hab0UtdndKakl4R3g2amZVREdJdw?oc=5",
+          "published_iso": "2026-06-12T16:01:11Z"
+        },
+        {
+          "title": "Bronx public schools to build new STEAM center",
+          "source": "Commercial Observer",
+          "why_it_matters": "The project could expand hands-on science and tech opportunities for Bronx students.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdTFIUGlBSksyUVptVVRhbmRqa0NjNHIxLU9QVFBRbmtBakJHYlozSDJsZlhBNjA0cm5Ea0ZncUpBQ2RtbWVLUk5EckFxZ3IxVlJVYUV6dWxTQ212LXg0QjBzbzJGQ184VkxQT19sdDEyRWhUN3QyQ2NEWWhNS3J6dTR5SHRNc0dVUjZqbmQ2X0VBeTRSUlRJcFRpRGtJQWVKTkE?oc=5",
+          "published_iso": "2026-06-12T13:48:16Z"
+        },
+        {
+          "title": "Students urge NYC to restore school hearing screenings",
+          "source": "Gothamist",
+          "why_it_matters": "Resuming screenings could help detect hearing problems earlier and support affected students’ learning.",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX08yMkFlNkRSMnFNTGtUUXl4SVBhRVhGZGZSSkZxQi1RQUt3enNTYWJNLVV0Smd5T0pUS1NvTGtwVk1peFdOd1lrLW02Mmt2ekg3TldJandsNkxGZEZKdUpDd2xpd1ZBcnNNQ0NaVnNMQ05fcUpieV96Q1dObGZaU1A3eVZ5cjg5cXJaVmJlSmdJNXk2NWJrMGhKZmlPeE1ibl81RA?oc=5",
+          "published_iso": "2026-06-12T10:45:00Z"
+        },
+        {
+          "title": "NYC public schools closed one day next week",
           "source": "SILive.com",
-          "why_it_matters": "Free cooling units can protect vulnerable residents from dangerous heat and lower summer hardship.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXJ2WHhoZDlXaDdsYWZwclV3Uk8zMzlma0MxRHNlWDlDeHQxcWt1QnFTUHVicEJ6b2t5Q1RGbnpYSVBfTmpxbHFwbDFlUXRiM0x1SEJiQ0RpMnRyaHFGbzZJWUx0cjhwMERkMnFkckVMeWdNM2l4bDNOaTJBQTE1RlB2RXV0YmZoTnZEemZJcUY5ZTk0enZEZEtDN0NINWRWSHZYSU1rVzl4bXhjWWt4NWl5dVpHaWfSAcsBQVVfeXFMTl9YNlR3ZGlFS1RXbWRGd1NzZ2s5MlhycWwzeW40MzY4TUE0ZzhPRDVSdVE2ajVac2twbW5HQlUzeG42UmgxYkV0YXB0RkoxdXJBVXRpeWlob09HdW1jWXV0TGxRMkdoVHptdkhKV0xhYWFjSjZPWTVyMC1nQktqTUhNenZPWVpYemxnZWZ2ajdQS3Qtc1NzbjJfeG50UGpzQVVsOVluUmdGRTVVWGZhU1RhOVNoOXR4SzB1NkFZQWdFSHBTMEh2SGNGR0k?oc=5",
-          "published_iso": "2026-06-10T17:40:00Z"
+          "why_it_matters": "Families may need to adjust childcare, work schedules, and student plans for the closure.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaW9HVzI2OUkxQU5pcDBfNDRhWlJ2MVppb2tZTEtkMTlIUjZGVlc1Y0U2cmdIcUt4cnNXWVdWS0hzYmFhMnhfeFhnQTZldFQ5dmtwUERGSEg0LWQzd2QxQmxkdU92N0tCbjRpQVZMdEJhekU2OFRjVFlNekl4Y0l4Q2Znd3hMRXlZeHdYb1U3ZmVXOUpWOHNwbUVrWnlDOWdXWGNFTGNHbko?oc=5",
+          "published_iso": "2026-06-12T15:51:00Z"
         }
       ]
     },
@@ -113,32 +134,46 @@
       "title": "Community",
       "items": [
         {
-          "title": "NYC to add new 465 area code",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "Residents and businesses may soon see new phone numbers as demand for lines grows citywide.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOTlMYWl3elhlRE81Z1ZwSU1mY3hXUExMb1paZ0lBQ3dSVkhvdTY3OUZiaExKbkJYWngzTnUzQjJmWWR1Slkxem1kQmd5RjJGRlVvdERkcjBVa3JvbDZDS2ZhU2JVczItSlRTZDRCQ0FSUk83RUtHaXh3VVNJTkJaVzBkcDVKMFlOMEJWT1lMUnRGQXMtLTQ2eHBGaldCbUVf?oc=5",
-          "published_iso": "2026-06-11T17:38:30Z"
+          "title": "Weekend parades and festivals will close roads across NYC",
+          "source": "SILive.com",
+          "why_it_matters": "Street closures can disrupt driving, buses, and neighborhood access citywide this weekend.",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMHMya0FKZmp5OU9HQ3BqTVQ2YjNJTHRVaVczbnNTWXRtc1FWMDRWX0Eta3RmaUtIaXJmR1FVZjVPS3VhR3Mwb0hlNEI1V0VRbllFcjZ1MTdOcS1LQ0VzczdPbWxIZlJVbGV1dlo1R1RuWE5BZkVoR2N0N0picnR1cnhDQVVYMHhTTTEwejJMR08wSEl1QklOeVYzYmJOekJWbzBMZy1aXy1jWXhI0gHAAUFVX3lxTE1JV0R6RG1HWXNlVGFkcUpIai1fOTNsOGkzNlI1U2R6U0NaUHd0LThiVnZ3b09uSTF2Z1N3RElFUEQ2ZFNjRU1hWmstVlFUZy1EVkZlZEVFWTd5TlR0UEF3VkF3TW0zMExTR2t0ZURkU3p1VzZWN2pqOWZTaExaTGxEVUFqb3NGdURuRG5xZEU0SVFmQjhCamd5b2ZEVUI3MHpyZkRSUHRFcFhMYkpUOFNXWHV5UGZhLWpTb0VlQXp3QQ?oc=5",
+          "published_iso": "2026-06-12T19:41:00Z"
         },
         {
-          "title": "Carroll Street Bridge reopens for pedestrians and cyclists only",
+          "title": "Upper East Side Esplanade ramp reopens Monday",
+          "source": "Patch",
+          "why_it_matters": "The reopening restores long-limited waterfront access for walkers, runners, and cyclists on the Upper East Side.",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWngwZjAzaFhFUkxzaHo5RGQydnRVX3YtbVlzX3hXQnNNLS1DUUQ1TXhfX05oNzVOMXphMnFKWm5RWUpLNExhQ0c5VVlSb3VoR1VNbXZTVmFUOHFyUk9peE1JVnN0eHlVVmw1cnFNUzVCRWhZRlZYS1NSeXBHLTktTENNamlGbUg0eDRiZngxa0IxWnJhSVhmUUlqOFVxRTY2MGg00gG4AUFVX3lxTE5abXRaSWV1UlV1RUlUM01RTnp2MkdQUmFwSGhzT2NNa1l6MlBYbU42cGxjaGxLbjBPTWpEMkhxWDI2YVFyZGxSWExCMnRzNmpEekJmTUV2NFc5NENiRUhxVEQwYVg1UWQya2lJSjJrTEdXeEVCU3FodmtFS2lZTnY2QUNIOEJHR2xILWlWOHdNY3U5UkhSX3VoNlJXRk9vN3lPZGExbGV4bzNBRkh5TElyRHJ0T1dvOUM?oc=5",
+          "published_iso": "2026-06-12T19:28:30Z"
+        },
+        {
+          "title": "Historic Carroll Street Bridge reopens for pedestrians and cyclists",
           "source": "Brooklyn Paper",
-          "why_it_matters": "The restored bridge changes daily travel options and street access in Carroll Gardens and Gowanus.",
+          "why_it_matters": "The restored bridge improves local Brooklyn connections and safer non-car travel between neighborhoods.",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxVlBESkNnMHdraW9WblBYUkNNV25FOTVtVXhlcWJFWjVSbElNTlhqaXhfUGRJRTJTbl9RQmRXckRweFNYZWFBM2pYS29JdW1odUNwUUtPWWMxWlMyV05TUTNGQ0Z6SDhXWXVOYU96SUdMRE1jZUE?oc=5",
           "published_iso": "2026-06-11T11:40:33Z"
         },
         {
-          "title": "Lower Manhattan opens Centre 360 public observatory",
-          "source": "New York YIMBY",
-          "why_it_matters": "The new free civic attraction adds public access and tourism activity near City Hall.",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNck12SmEwanRyeU1rd2Y1Qjc4M1lqWlo1Z2pNUDhtbklZTXloTzhpNjJfWmNVa0lvZXk3blNhRjVacXJnS1JlZlJzYzg5SVNkclBFOXJHcDZsazQxc0RyaXg5czd1Q1h6YVBuWEgtVTVscWZhTkdHeVU1UEt2dUtBM2NTbk44Q09QUDJvWjNWeGJ1Sk85WTljTDFnX3U2NkdOaDNhV19vZTVvZThLdGJJUDIwR20xbkR0bm9IZWRxMktJQmo5a1VjVUMtdVRucHBIOGg1UnNNWUVUYXIta2dLamIyTVJRUQ?oc=5",
-          "published_iso": "2026-06-11T12:00:42Z"
+          "title": "Manhattan rents hit another record in May",
+          "source": "Crain's New York Business",
+          "why_it_matters": "Record rents intensify affordability pressures for current tenants and apartment hunters across Manhattan.",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOclZ6Z1BTcV9VMFhjdVhDUlN4aUxYNkFrdEhNNmRYODQ3WWh5bUhKUkdzNmhxLXpoQWpTR2R2VGs4LUxiSC1zc3BQM0x0TzJ4akZ2TVJKc1RtODRQWmVmS0E0cEpGbHBvMHE5allIMjVncnZMbzBtdk1EV0EtQ3FwWldEX1dacDN4Z1lSZmpMVTU3NS1NSENFOEp4OXBkTFBmd0ZaWUFn?oc=5",
+          "published_iso": "2026-06-12T09:30:00Z"
         },
         {
-          "title": "Chinese immigrants become NYC’s largest foreign-born group",
-          "source": "Gothamist",
-          "why_it_matters": "The demographic shift affects language access, schools, services, and political representation across the city.",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSm5zaTJ6cnNMMFVkUmQyOG93RGJwQWlGSVo4TXFKSWZ0SzVxSXJkOXM2NmwxVjRCX2RWeDFiSHMyN2NhNzAtU2lLcG03NEhNNEN1eFY0UVg1bXo4VTFONHY4QTBxRmZwenNJdEhSRndtbGVmZGM4Ny1OMXh6blhrR1YwRjhzdHplYWVkUTJxN050NE4xS1NqZGR6Rjg3dmgxblE?oc=5",
-          "published_iso": "2026-06-11T10:32:57Z"
+          "title": "Columbia will require SAT or ACT again",
+          "source": "New York Daily News",
+          "why_it_matters": "The admissions change affects New York City students preparing college applications and testing plans.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEU1RkN2ZVlzM0wwYVVDTU9YcU1DalVYQTFIYVU2NDNLa1poajNNX2xoOVBCQVgyM0oxYXNyel93bGRfU0gyQUo2cnBSNkpHSE5iLUhpMU1UM0txamo5RUZ1aEFiNzhsUlBqal9TRnA4NUtVR3hnaTFEYmJGSi1Mb1VHclB6THdwLXllT0NSSnhkNzJSb280R3NYSDA1MHlaeWp6V3NNVi1IT2Y4cEJN?oc=5",
+          "published_iso": "2026-06-12T20:46:09Z"
+        },
+        {
+          "title": "NYC unveils more colorful sidewalk sheds",
+          "source": "ABC7 Eyewitness News",
+          "why_it_matters": "The redesign could improve street appearance and pedestrian experience around long-standing construction sheds.",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZmhEQU56Wk5iUHNNWTlZN2d2aW9mS3B4Z0FkbUpraTZOQVR0Ukc3V0s2VkJHNFU3c2RqanRHNmRSTEQxRkxfNmdXQUpLTjZFUUFIT3J2c2xHSGhtdHpuejNpVU9NSTY5dlRTR0xhNmtweDdnMWpKVG1lSS1qaXRhSTZoVdIBiAFBVV95cUxQSkJwUmpsTUF3Ym1GUTRMSU5pcC1hVk11ZzNub2wwUzdXeVRrRk1CZXFEN0ZrQTcyRURIbjJaVURWTXhqX1QzdjZ4dnBjUmtOWEhJTVhnMjE3OGJZY1Qybl83Tk1xS0JEUmRvUXRjOTI3X09Id01BaW9QbnBUSHNxUkFXRHZwdzEw?oc=5",
+          "published_iso": "2026-06-12T22:00:15Z"
         }
       ]
     }
