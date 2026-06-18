@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-06-17T14:27:59Z",
-  "daily_fact": "Jonathan Spector’s play Birthright begins its New York premiere off-Broadway on June 16, bringing a new production to the city’s theater scene.",
-  "topline_md": "New York faces overlapping public-health and weather risks—rip currents, beach bacteria warnings, thunderstorms, and a salmonella-related Alfredo sauce recall—while city politics intensify around a looming budget gap, rent and after-school program fights, and active early voting ahead of key primaries.",
+  "generated_at_utc": "2026-06-18T14:13:34Z",
+  "daily_fact": "A Brooklyn woman won a $2 million New York Lottery scratch-off jackpot and chose a lump-sum payment of $1,218,000 before taxes, bringing exciting good news to New York City.",
+  "topline_md": "New York faces a volatile mix of disruption and scrutiny: a Brooklyn apartment fire displaced families, storms and unsafe beach conditions threaten public safety, and officials are confronting recalls, housing and contracting scandals, criminal cases, and major election and budget fights.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,32 +14,39 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "Dangerous rip currents expected across parts of tri-state",
+          "title": "Strong thunderstorms expected across New York City area",
           "source": "PIX11",
-          "why_it_matters": "Beachgoers face heightened drowning risk along regional shorelines during the advisory period.",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbzNXdGVsQVE3cVRFQnNPcWU1YVhJU0RrVFNWTjRMdk9kRFM1WVhPUzNTZWxXeDhjc0hjaUx1NldrM2xmenZBa254VEhtcVd6cHVERU0wRGx2REFEMTlValBhYUdERUhHTzMyX3ZVem93MmRZRzRSMzVjdVl4enhEQVNsQjVheUdPR29lXzlyWFdsOFhSMEJTU9IBngFBVV95cUxNTmlmR2laNldPV3BPSnZiUkNaTDk5SVQxd2E1a3plUWhyUVliYTdXTmJEcGhvaXUtYnRyRWktQkxrQThCcHcwNXRnSHo5UVNXQzVMYlNIRWRCMnVwMmgyWDNIVVVVNXoyQ0FMazcxdmUwTGo1Qi1NZWxxRVZOcm9JSm1GTkQyUzlPMno4WnF6QUUyOVlVUndhTHB4M2JYQQ?oc=5",
-          "published_iso": "2026-06-17T11:45:03Z"
+          "why_it_matters": "Severe weather can disrupt commutes, outdoor plans, and power service across the city today.",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcWxNMHUtRDEzSmVMTVlTTlk4dzlQU2d3a056b1ZZd0JUMFBLRUpYYzNyRldaU0VIMnpCRm9FR2N1VDlWeEJEbVc2czVTV0JjTGVDWGV6bElXSUZBR0M5U0ltYlQtNEdFcWdpWktmYTNwLU1ZSklMQ2IzQXc2X1B2WG9Ca9IBiAFBVV95cUxPeWFHM0NQMEtPbTNRc3l2ZWFZa1dzMHZhQlR1VnRPOGF1ZXJ1eUhPcjRXaHpILW04dHUwRmtOc21NSUM1WGo2ck1fWjZEaXBqZm9ZRzZ0S185bXB5dW1iSG1xYlAxS05ub3JLaDJGeXh2SndxUnlVQ1VHZnJCckhmTWRMTDJ4azZI?oc=5",
+          "published_iso": "2026-06-18T10:26:42Z"
         },
         {
-          "title": "NYC beach swimming warnings issued over bacteria levels",
-          "source": "The Journal News | lohud.com",
-          "why_it_matters": "Contaminated water can sicken swimmers and may disrupt beach plans in and around the city.",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVVkZktqUDVvODFWY3A3a0REcVhHSTdjRXRZMmloME5TNkJxSlBxWE9LalFzUGJkcGprNTFJaHRBQ2FueXZzbUpoeTlKaGVMaFFSNXJHSG1UelE1eDdLMnMxWHR0WU5EaFR3RDVQRzJDYk0yUUZESEhIdjV3bnFndVVNOTJubl9uUFFGc0I3Mm5kc3pFTFdQWDR3?oc=5",
-          "published_iso": "2026-06-17T09:51:00Z"
-        },
-        {
-          "title": "Alfredo sauce recalled in New York over salmonella fears",
+          "title": "Alfredo sauce recalled in New York over salmonella risk",
           "source": "NBC New York",
-          "why_it_matters": "Residents should check kitchens immediately to avoid possible foodborne illness from recalled products.",
+          "why_it_matters": "Shoppers may have contaminated sauce at home and should check products immediately to avoid illness.",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjRXZk9KSTZuaEtMVzczbm9wVHY0WTJvRGVHOTdBdEFhWkRnV3NoY3RCMlNub25VUjM2TXBFTUFOYjVCeEM1Q3dKS0tpVkJNc2l5aGVQQ09mUG51ZlBUVURVNk5TUmxtM1ctNUlBMzFuT1FQZlMxUVhUOHhoSnF6TUdPcHV3NEN0Q3Z2d0VtMmdoZDFDQk10R1EtN0RSNmVINmxidTVZdDBrMmtBb0R3RHgyQ1NNMlpsMC1yU3VCcWpZVERVNW5lUDhn0gHSAUFVX3lxTE5Uekk1c0lEMjlzUjdYYXVNVVFZSXJZbXQyd2ZiTVNvTDhHVV9UVl92YnJqaE5kTUdtUms0c1UwYmtqSDFJaWRROFRuY29aNk5YV1V3a0NXNnJNYWx3SXhaZzc4cVBDZGlFcjE4cnotazlXejdSYUlJU3VCcnZneGtLc1B6QmZ3UWR0RVNib2g5RDZDZV8zR0ZwaUJLbTJIOEttZWRnQ3B0SVF0eUttbkVFSFFLSm9lVzdsRk9wRHlYSlpHc0JmWXkyUXpoZHJHNFpVZw?oc=5",
           "published_iso": "2026-06-16T13:37:33Z"
         },
         {
-          "title": "New York City braces for rain and thunderstorms",
-          "source": "PIX11",
-          "why_it_matters": "Storms could affect commutes, outdoor events, and localized flooding risk across the city.",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCa0ltbVFKNDVrWnk5TUlab3hjX0VoYlB3WkduYlE0UnVDcG5XV1MzQjJxNVE2RTh2ZmpGZ3hONEpuak9jY1pUNktDbmZ2ZGdGRFVuMXdDMk1jc1NaOEtIakMzX1FNMFcwMWtyWGFTcVBxWHkzdEdFNjFxZE5scFXSAYQBQVVfeXFMTml4dEtzQWdyVGp4UmJmU21LakZ0b0d2dXhUb1F6NjYtc1FvZ1hlTm9BVEQySk1HX283aFo5ZnhKV0NqLXZjdUtMV0cwbEN2c2QzdjkwSERtM1VJWmV5MnBoT3NLSXdpZ2M4S2R3eXpYcEk2MGN5bGRCUnNTRnpIOTJiWF90?oc=5",
-          "published_iso": "2026-06-16T23:39:11Z"
+          "title": "Families displaced by Ocean Parkway apartment fire",
+          "source": "News12 | Brooklyn",
+          "why_it_matters": "A major Brooklyn fire forced residents from their homes and may affect nearby traffic and emergency response.",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQekV6ZGlfMmgtRW5ZWWtoS1VnSUtrTmllSDJfbWZvMGVMcXFncDBSSWN2WHNsY1N4YzFHc0NOZTV5ZHB0WTViZ01FRGlCQ1RlMDBBb28xRTRFNDE1UWJNQ1VzcFJqaEZ5azZDRVJOZDZWRnpkVS1UMWZsY09TWWZJQlQ0dEY3X2RKZXdHNHU3VXNVV25pdmlNMHRtd1hZdjdSdTUzeHVfOXU?oc=5",
+          "published_iso": "2026-06-18T11:59:18Z"
+        },
+        {
+          "title": "Staten Island beach declared unsafe for swimming",
+          "source": "SILive.com",
+          "why_it_matters": "Beachgoers could face health risks and need to change plans before heading to the shore.",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUxhYjNxdDdiRHowTlBsbDJyUHkxa1Z0bjltSDVCd0ZTemh6cDg1YTQxeUNscVp5emsyTVh1aENPTzI4VFJZNE1xNGhYY1U1djBoZnc4QlVSYWFaYlVTMEdlZEU5Mi13bjVmRHd2LWpfSnhfVDNjN2NSenI5YzgwYmtOcFBmd2pERjc5dWdONF9HdUNmU1V4eTlCamtWcmZU0gG0AUFVX3lxTE5KQV9YWG9nVllfcWsxWnd6djg0SlpkaExJcEFFWlY4TW4tWXpaNHhEWVJEbVBjTW5OLVJvUzNGWmExMHU0bmpOdFNteVBqWm4wWjBYWWsteDltNmdXOFJ2eGkzUDZVbkVzMnViUlJOZk9RNVpUVnFqTFkyM3FFWUhtcmpYYzdzd0hvZ0xDVl80TUV4Mm5yWllPeGlXbEpkY2l4VEIwU2tLOElHM0dyNkZUQlJYSw?oc=5",
+          "published_iso": "2026-06-17T17:54:00Z"
+        },
+        {
+          "title": "Cars south of Canal face towing for parade",
+          "source": "Streetsblog New York City",
+          "why_it_matters": "Drivers in Lower Manhattan risk towing tonight and should move vehicles before the enforcement deadline.",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUGp5d3dVdUwycEhMXzhhNUtyb2NxSzZLVEgxNGNlOTJjOGF4NTExM0RLanM3aWRqTWgxRUlJS190bVk1VVhwb01hWEFEWE9PUl9OZzQ3OXo1MjlDLXZMYTNJTG54UU5lNTJzcjgzX3Qxd2hya1RsRkw3WkJUM0FtWjNlYVlKMTVWbGZsRzR3YzhoQkc0cTBDQmZDVzNJakxrUzZETVBuSkw4dDFuYW1mUktlSWdfN2lVVXhua2d3ODlqMFZPMG1yYko0dmUzdlk?oc=5",
+          "published_iso": "2026-06-17T17:19:00Z"
         }
       ]
     },
@@ -47,74 +54,53 @@
       "title": "Civics & Politics",
       "items": [
         {
+          "title": "AG says Brooklyn landlords hid rent-stabilized apartments",
+          "source": "Gothamist",
+          "why_it_matters": "The case could affect housing access, rents, and tenant protections for Brooklyn residents.",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDB1S2NDSHJXcGJ5MGdXNWVySVUybWhFYm9GM3ZkVkttRzY4aG1XRjdySFdHWnhFVUxCU21iNzFsN1J1YndhVzB3dXA4M3VBVHl1eFcwbUNXZTdEb1pSYWhQZ0kwVkxWUmdOMy1OZWVEbkJyMW5aOTNMVXFFWHQyRUszSFdEV2I1SWcwdTkyTzFXTVp1aWVjQllJcDRQNE9VVlZoYzRFXzBsU3RfN1E?oc=5",
+          "published_iso": "2026-06-18T10:01:00Z"
+        },
+        {
           "title": "DOJ sues New York over home care overhaul",
           "source": "Gothamist",
-          "why_it_matters": "The lawsuit could disrupt home care services and state oversight affecting vulnerable New Yorkers.",
+          "why_it_matters": "The lawsuit could disrupt home care services relied on by elderly and disabled New Yorkers.",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlNdTQ1dUxRMDZJUHJJaTI3NHpHS2JvWmNqb3o5RFUzOVlONS1UN2RWWlBnNGEwbW5BQUVVbUJaWGlvRVNBeWVFVkZmOUh4QXFzNWZEMmZIZ1NGbjlyNTZMU3JVNUdFZzJDT1dGS25uRzRoWWVlQXRlY3dacE5qOTg2cmxvTUYyMHdOX2JnWk8xRk5mOG40bnNtczlCQ0NSLTlsSUU4bnQzZw?oc=5",
-          "published_iso": "2026-06-17T10:30:00Z"
+          "published_iso": "2026-06-17T20:39:00Z"
         },
         {
-          "title": "Nearly 250 NYC after-school programs face cancellation",
-          "source": "Gothamist",
-          "why_it_matters": "Potential cuts would affect child care, student support, and family schedules across the city.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMHhOcnByOVBnR1lLU3A2UksxeWREY3ZIbnRuRE1QNW82UnlUdWxsSGtKS3JUTVFoSjBjU3FOaUl1NWdPR3VUcjVkTDRrZjNPVGR6LVB3MjB5S1MzSUhkM3NfYnFlN2d6Ml9TdGFncEtHOTROXzJMZlFZX2JuWW13M2R2UkUxMUFtN3d0b1Y4UGwyTno2X0VCbUVnX3JKY0dLUGROakdwRkI?oc=5",
-          "published_iso": "2026-06-15T19:44:58Z"
-        },
-        {
-          "title": "Rent Guidelines Board nears vote on freeze or increase",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "The decision will directly affect rents for many stabilized tenants across New York City.",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLWo5NldjLTZBUmZfRUtFTXBpdFlmS2xaYm5iajFpaVNSQU9mNndCUU1vbWQ5VWY5RmVTc2lHMk9FOXlWQ3Q5am01bVNOT2d5dlhjdGNmOFlWUTAwR3RpNEEzVmxJUmhGWmt0X1JRSXJBTHR3ZnA5UkJoSTdlZTNST2hPWTBHU3lxX1FlSmdhSkplV2dnY1BsekVBN21aeGZ2UkZOZ3Z3?oc=5",
-          "published_iso": "2026-06-16T23:56:00Z"
-        },
-        {
-          "title": "Mamdani drops plan to delay billions to nonprofits",
-          "source": "NBC New York",
-          "why_it_matters": "Reversing the proposal may prevent service disruptions at nonprofits delivering city-funded programs.",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMGdkWUw3Y1dDSW5vQkRqdWZQU3N4NGMyemVqMmNfQzVjak5xSWRIOWgzVFlXbEJfZ2FKYWdlbGl3TThlSkFZN2xlZnZMUlFZOTJYbDVHV19NSVNjTkowdUxmMlJRWHZXNGRDQms1UU9UdUZ6cUttVXRiNHBEZWdxbXdwRmc5a1pZM2d5WGhSSkFicllsTm5WUHZzdTBXaHJDQU9jYS1BQlhuUDdWekJWb1prTmNLdUJ3b3p1MkIxNV9XaG81a2s4RDRtdFJCbUVzYlQ0cUdB0gHeAUFVX3lxTE5wUTJsV0lWS1g5MmRzcVlFUmVfT2RFV2x2NjRHemJGQ0loVlZoa1RpWHMzYTNSVF81VGxOaGtvRTlxRzFrNXBtZl9YRElSVTAwU0piRU16MWFsTnBaWG5IanNnV2xYYVUyWFpJZERHN0JXOFI1RmNuWXJZdVpVY3BzdGhPRzZScUNCWGF5dl8tTXVpLTI2NTI1dUdwOUx5UU1fQkVCZkRGakVuaktkcVduR21FV005TFdtem1YLUg3ekt6em50akZuZ3NlMkc3ekZnLVpGd3ZlZ1NpMWpodw?oc=5",
-          "published_iso": "2026-06-15T16:51:02Z"
-        },
-        {
-          "title": "Mamdani eyes tax-the-rich push amid budget gap",
-          "source": "New York Focus",
-          "why_it_matters": "New revenue proposals could shape city services, taxes, and the coming budget fight.",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGc0FGQ0ZzQTE1ZWRzbjVBNUlVREo4dWdjQ2VydUw0NDJBckh3NzBxWC1IU2xqS0o3c19DdmJLOVZnV0t5Qi1nd2N1QjM0R1NDUFlHVm1fcEduYmxSOFRUU2U0bm53V19RVmUtNHBFQQ?oc=5",
-          "published_iso": "2026-06-17T08:00:00Z"
-        },
-        {
-          "title": "62,000-plus New Yorkers voted in early voting’s first four days",
-          "source": "Spectrum News NY1",
-          "why_it_matters": "Strong turnout signals high-stakes primaries that will shape local representation and policy.",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjlYdEhfdmI3eVBrbmgwUjhhR2Q5RHQ1eEppRXlSdE9vMGFrWXgtLTNLbGhCLS1pQjJldFpTZ2xKMjV1R2ktUkRJckI4bzF2QzA0czZVMjRuQWdjcWk5WjhLT05pbnpETkJqMGNfRnZZNG1IOVZ0a0ZKTFdKc2x3RWtSMnVFVU9ZaDdHcUZWMTVpYXphQ0cxZm84bms?oc=5",
-          "published_iso": "2026-06-17T01:34:00Z"
-        },
-        {
-          "title": "Report finds unequal street safety in low-income communities",
-          "source": "amNewYork",
-          "why_it_matters": "The findings could influence where the city adds protections against deadly traffic crashes.",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vRWhSLTRWX2JIZTAySEVoY2JKVzJNQkxJRmROZk05b3ZTeVloQktIMnBiUzJPY3RUdXRRanF3dHRPZG5CM3dNWjAtRmJmbUFpRVRSNXZ0ZWxjbEhJVWFnTHFnbEJnS2U4YmVfNjBtMGNLOXhWSXpiSTVpbk50a00?oc=5",
-          "published_iso": "2026-06-15T22:32:53Z"
-        },
-        {
-          "title": "New rules require judges to visit jails",
-          "source": "amNewYork",
-          "why_it_matters": "The policy could affect sentencing decisions and accountability in family and criminal courts.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5TS1xQmZ1Nlh1VTFWV3dTanJhUml5aDZZa0hEQmZVUlRFZ3JFbnJYQS02Y01DYWI1Q2tuWVhhQzJxVFpfdThHUXdkLTlwZ3FYblZrSVhqTWNUQVVlX282eTVCWng0VkxYbVgzWGQyclRiWGRhZHhNQmxjUVBLdw?oc=5",
-          "published_iso": "2026-06-15T20:00:16Z"
+          "title": "Bronx Hub drug operation dismantled; 32 charged",
+          "source": "SILive.com",
+          "why_it_matters": "Major fentanyl and gun seizures could affect neighborhood safety and overdose risks in the Bronx.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVpsbHJ2UWpnZmdvRWdkVk9remVCbldTVU1uTDZpbnM5YmtaU1Q1QXhPYVFXVERYemJYbnFBRmNzQlNYRmVjamRjT2wyb1lsODNEamthRmwya3c4MUZJRWRPRmZOckhEa2RMMmNQOFlheG9iem1LTVZWTHo0N2k0SU00Yldmakk3OXU0cGxEUjNnVTFOek1Bd3ZMVVZ3SXhPa2E4LVFBdmY5dTTSAb8BQVVfeXFMUFU2ZXV3c1daLTQwNEtLX1hPQkp6OVp5TzQxS2g0R0VLWk9uYzdOb1JEaW91b2c1OVVoSzN4NXItcDBCZXcyakdxVTkwMXpEbUFuSUh5VzRvMC0xZV96bnVUbVRCd1RKbm5qWHIxR05vajNfN3lFQjNRLV9oR09yTUJKd1RnSGRHeWJfVEhnTVhiLWpWMHZBRmo0eC1sdXNXN1FvdUtQbWtXUGl0ejg0UVgtOWU4VHNfSlBFMlpzZWM?oc=5",
+          "published_iso": "2026-06-17T01:28:00Z"
         },
         {
           "title": "Hochul touts new transmission lines with limited power flowing",
           "source": "Gothamist",
-          "why_it_matters": "Transmission delays can slow cleaner energy delivery and affect reliability and utility planning.",
+          "why_it_matters": "Transmission delays can slow cleaner energy delivery and affect electricity reliability and costs citywide.",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHFmVGY1TXNSNnltRy1kWGhydGZnTDF3UV9rMUR0WGZGbzBNcFh4bi1TOElQTzFNOGZia29qckwzSVRrM2ZnNDBRY1lfVldxbmtENlp0TmJJUy1lM0hJbFNhSmIwV05lc3NmaG8zbWVqTzg4d1ZiTHBTQjU3WnU0djVwYTBHMDNqU3dPbEpBeGtZakxTbFAzNVB1WVVab1N1MFdWZjFtbjFCVkU?oc=5",
           "published_iso": "2026-06-16T20:47:00Z"
         },
         {
-          "title": "NYC unveils first look at redesigned sidewalk sheds",
-          "source": "6sqft",
-          "why_it_matters": "A redesign could improve street safety, light, and neighborhood quality on many blocks.",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQXBNbnJ4d1hYSHNQeTZndTRaNDIyb3lhX3E1U0tBRDI1ZFRlRnVlbDkxMFYyX2JOZnU2Tm9FWVo3LW8zOUNMejkyRUtLZWtNdHpqZl8wYjlPVkhKaHZvVTJ3RmtySDRpMkdYdk9pcm5idGVaZXRBSlhuNFRtTVc5LURhbngxOEFW?oc=5",
-          "published_iso": "2026-06-15T17:47:28Z"
+          "title": "Real estate scam complaints expose oversight gaps",
+          "source": "Gothamist",
+          "why_it_matters": "Weak enforcement against alleged housing scams can leave renters and buyers vulnerable to fraud.",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcTZzVXFvaUJjYTFuRERiMFFUU3ZncmVBTEZZcUl6b0FYc1V4N3MzWGxGYVkxSW40TW1xMzZ6VDBsVl9LblhPckxXN3NmVTNTaHdsUVR4RHgwcFMweXNmMTU3dGROanNESlZJa0xlb3FHS3g4cnRqRHpwRlFscTMwSThJZFhCSlA2YVYycFJkS0RZR0stLWVsa3lVZUdrZXVtMGw4UDY1RGducnVUOXBzUDFR?oc=5",
+          "published_iso": "2026-06-18T11:18:00Z"
+        },
+        {
+          "title": "NYC primary debate highlights ICE, war, and Super PACs",
+          "source": "amNewYork",
+          "why_it_matters": "The race could shape representation and policy priorities for New Yorkers after next week's primary.",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wamdhTEhDRzdGTWd6THBtbzlIQWp2WGVLUW03V2ZoYzI0ZGFwdU1hU0lYSUNPeVlBNmpqVHlDX0ZNMWszSnUxM0E2THpBUHA1MFp1X1lKY1RQZDRtajFCNks4QlkzX3FDMHpfd19kMEI2RDNJeTlIV0dtRQ?oc=5",
+          "published_iso": "2026-06-17T14:55:24Z"
+        },
+        {
+          "title": "Victim compensation rules face renewed scrutiny in Albany",
+          "source": "New York Focus",
+          "why_it_matters": "Potential changes could make it easier for crime victims in New York to get financial help.",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNG90WGExTnJaR0lkVU9icy1FZEMtemJ1MmNVbExhWHlpR3NZaW1iaVZiX3JGU1VOT2NLTWxGS0MtZ0NHMC10a1VMVC1FczJUbThuTFR3YjFHbFdNbWVGQzVNMTR2ejVPQzVSTzcyUXZ6VWRSZy1HdUk1WXZGZUI0U2c2MUVLWUZi?oc=5",
+          "published_iso": "2026-06-16T09:00:00Z"
         }
       ]
     },
@@ -122,32 +108,25 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Nearly 3 Million New Yorkers to Receive Tax Relief Payments",
-          "source": "Governor Kathy Hochul (.gov)",
-          "why_it_matters": "State tax relief checks could directly boost household budgets for many New York City residents this summer.",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQazlYUWNMRzlNZXN2UWFOQXJnVGZaZGlFbkpyZWI5NlJQWFUzQkJEc1NlT2RIdWg2M3lpbXBOY2JrZEd1YmNMd1otU1A4emU2V291Ml9NdkU2cEZSSUJ0aWxGNXRSVkJzRDhpb0VqNF9xOU9jbEtYZnV0bS1Oem9OOVFKVmY3RThIWXpKd1Q1M0M1MTNSRGk5WHViN3ItT19nU2NOcWthVVBNaU1Fb1dhWG1WbkRRZDhHMDFqTTJ3?oc=5",
-          "published_iso": "2026-06-16T15:22:02Z"
+          "title": "Nearly 3 million New Yorkers to get $2 billion tax relief",
+          "source": "NBC New York",
+          "why_it_matters": "Direct tax relief could boost household budgets for millions of New Yorkers this summer and fall.",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSnoyWE5LUFF5S1BBZ3YtYTFLTW1zd1RMYmRON2Z1OEFoUW5pcDdyY0lFdzlDeUZ6bDNITGFjY21XX0tEM2F2TDRrWXJXWi1TZXJrVGJRaWdHMFVuVkY3ako4VE9aQTR6RDJPWkt3WjdxTlJ3UU43QWZZaFhxRzdndmZlNXVjSlNFYnEybTlGQmdNb216bFFGcW1CYXF5bTVOTEtoMDZPLW9VTUVoZUtZY0xmY2RZMkZTS2JFNFJLd2gwMl83aDVNOWx6UGZRdXRFanfSAdoBQVVfeXFMUFdwMnFqSzdubHQ1RzhON0RldDRsam1BbEVOWXFhWGRzNGJHVWt5d3pLak1uX3I2eEZaT0FtTkFCZHRJQWhXLVFWUXRhMEN5Ym1pejF3U0RCaXRRc2ZzZkhpRlF0RTdLNVN0VFdPNF9SV1dRZlR1Y004NmE3cnltaHNZY2I2V05PLVppNmJ0Q1FHZ3lVTzg0blgyVEFHanQ3TDlSUE5oYm1CdkZBSlpVSTV4VnFZTFJESGhrN2YyUmtOQ0ZSQkdMd0hNRFBiZHJ4ckF0RjZobXRtd1E?oc=5",
+          "published_iso": "2026-06-18T03:05:36Z"
         },
         {
-          "title": "New York Launches Summer EBT Grocery Aid for Families",
-          "source": "WRGB",
-          "why_it_matters": "Eligible families can get extra food money during summer when school meals are unavailable.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdnRidmZUYXgtWUZrN3J6dGZraFdBUk84U3ZWVVNWYjBnMGtUTGIzZVFmbnhWWkwxSWtscGtGMlprdi14WTlROXZmeUJ4UUw0c2JERWFjeHRubFhwNlpIN2FmejN2Q0FmSXN0WFhiT1Q1R2ozVEQ1NWFaSGFSV0dIbmVES1ZPZlpBVVhxTm8zb2VfWEh4cmhvem1WcFl2WWxZdmhvT05BLVBHc2p3cUhPRjhxN0x1TlE4Sm5pbQ?oc=5",
-          "published_iso": "2026-06-15T20:24:12Z"
+          "title": "Queerspeech seeks submissions for writers cohort",
+          "source": "Playbill",
+          "why_it_matters": "The cohort offers a concrete creative opportunity for local writers seeking development and visibility.",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVRISmhQSFlYemU0Tm41YUdYQURVQzRkUWEwc29BRkVQVXdtQkJpaHpBMWZ4SHVaM2VkR3R0VGpUOElsMmpSeFBSdFB1WXhOQlRGcFZ3T2M0YlRwLW1fZzB0RE5WNXk3TG9OdFBQb0p3MUdLN1NfS1dWMFJJNVpVUnNDa2kyb2p2WEtieFpURndFaFhJdEhGMmgyRmtoTEUxTGRxcEkydHhjcjQwNlRXcTh0ZjdnYTlaX3pIenExb3duSWR1eG4ycA?oc=5",
+          "published_iso": "2026-06-17T19:14:06Z"
         },
         {
-          "title": "Essential Plan Enrollees Face July 1 Health Coverage Changes",
-          "source": "New York Focus",
-          "why_it_matters": "People losing coverage may need to act quickly to avoid gaps in health insurance.",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaDVEWjlpa21xcG5vamo3MXRfcGpCZHFQcHhDeEV5R0txamNYQVdzMHU2VGZ3ZGFpRkIwZFVvVWU1VjUzZW5nMlJocGNEMC1ucC1qZzJCS1c0MlE1VWc2djlvWkdNMkFlV0E4UERwUUo0aUg5NzJfbWdCYTVJc3ROcFh0bw?oc=5",
-          "published_iso": "2026-06-15T15:01:00Z"
-        },
-        {
-          "title": "Office-to-Residential Conversions Add Nearly 3,000 Manhattan Homes",
-          "source": "New York YIMBY",
-          "why_it_matters": "More housing units could modestly expand supply in Manhattan amid the city's affordability crisis.",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZE9zcWRFRnFDeGlVRzFxeHh6LWJ4Z0VhU3hnZTMtbGMzSmFvQUZaYnJQME8yd2ljYUJYd3U2QW8za0VvMGw4MVdlX3M0SFRXcjZBS1B3ZUk4RVhQUEVIUDJqanFhUTQ3WGs1aHhQLWJuUVNBMzZ5SThwS3RDNUZGa0NudUpMT3pSa2Zob291bGVFYTRybzRFcHVsaWo3dmlUT2I3OEpabkJpQWpoTFFsZ3N4OENEMzBRdVRneFZfYm0?oc=5",
-          "published_iso": "2026-06-15T12:00:45Z"
+          "title": "White Christmas announces NYC appointments submission deadline",
+          "source": "Playbill",
+          "why_it_matters": "Performers and theater workers have a time-sensitive audition opportunity tied to New York's arts economy.",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0Rwc1BrZTZVN3B0S3VZcURwcHhpMHBDblZqenh6dl9ZZXBEVHBHSmhQLVh4dC1aS1g0N1RoZVpnaTI0NlVVOERMM1VYTnZYdTN0OEcyWmEybFpqNEtfanlCMkRsMGdydHJ1OWx3dmJFX3A3LU53ZjZpdXZiM2Zva1pnYVUyR2JaZ3lwVGhOb2JTQU9NV2gwSU9UWkJxRnY3azZSTXFZT3g2OW1SVG56T3hWRVhPemRJRDZOb25yOWs3VVlXRm9LWkxMTWlFNDlT?oc=5",
+          "published_iso": "2026-06-16T19:33:06Z"
         }
       ]
     },
@@ -155,39 +134,46 @@
       "title": "Community",
       "items": [
         {
-          "title": "Mermaid Parade returns to Coney Island Saturday",
+          "title": "Staten Island Expressway delays snarl Thursday rush hour",
+          "source": "SILive.com",
+          "why_it_matters": "Rush-hour backups can disrupt commutes, school pickups, and deliveries for Staten Island residents today.",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYkU2b3AwYzJJWTFqOERtNlJPZGhQSktSb0JqOGVWSVpyeFZPdlpheUNBSDlMTllwZmN5TTVyOGFmUXlLSzQzOGctY0NCN3FzVUljWjl3dVRsVzkyQ0FhZHhSNDR6X0VnRld4N3NYcC02bzY5YVlQdHZSYXJSaV9TQkxLUDNwRmlKdVZHUUxselJxNlF6enRlOWphWk5EOHZiMTJUMUM4Q0VVdVB5ZG1lWTB2ZHU0V1ZBb0RUeg?oc=5",
+          "published_iso": "2026-06-18T10:54:00Z"
+        },
+        {
+          "title": "Electric school buses arrive in the Bronx",
+          "source": "News12 | Connecticut",
+          "why_it_matters": "Cleaner buses can reduce student exposure to pollution and improve neighborhood air quality.",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNGRZTVpHXzBUSDRqOWN0bnJ1STctN0dXSE9Lb2FhQ3FuSnVzX0hNZWZuMFZRaEl6WEEtSlZFTjVXQVd2ckwzSGVjTVF3c0VLTzM3UVR4WEx1TmtCRUF3cVlHemc1NGRXdGJiTDBxVmNIVW55UnZjcjJ0Y1A5aVJmRnpmdXRrOWZEY2NibmVxQnZzOTM5MTlGNTNBMGpibzYyNlNXcFJYcDUtSEd3TEpSTg?oc=5",
+          "published_iso": "2026-06-18T00:20:57Z"
+        },
+        {
+          "title": "JetBlue reportedly cuts back at Newark and NYC airports",
+          "source": "dailyvoice.com",
+          "why_it_matters": "Flight reductions could mean fewer travel options and schedule changes for local flyers.",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdm1fdXlDREx5X0dyYUJWckoxcmR3VW9Gd3VPSUVwNW4yUmM1d1Y4Q01qYlhnaHFjOW0yUjFsMGpmYldDOVlndlBVS3NpZW9RTDdvN1RaazJYcnFpWHlpc3d5VG5MMS1sVDQ1OUN2V2tIeV8wZG5xZER1em9LazNHQy0tYWZKdGVOQnVsdmtpODlicjlHZEh4N283ZHJkYmtJcGxRNk5FV0t6ZGQ2elYzNzBCa0RvMDJEOE9HZnRrVQ?oc=5",
+          "published_iso": "2026-06-17T18:46:38Z"
+        },
+        {
+          "title": "Coney Island Mermaid Parade returns Saturday",
           "source": "6sqft",
-          "why_it_matters": "The major annual parade will draw crowds, affecting weekend plans, transit, and neighborhood activity in Coney Island.",
+          "why_it_matters": "The popular parade affects weekend crowds, transit, and local business activity in Coney Island.",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GQzgxOEJlTTE1eUV6U0ZObWtoVV9SdDF0SmY5SDB4Mlg4bDA4RWFtbTMxTVlKQkR3RDdNb0R5QkJ6ajFnR3FKMzR5Qk1vckRoaklxZFFVOHZqSEo2TkJCd3ZzXzRSRTVROVRWS05jemx6NEhTR2NhN3RQYw?oc=5",
           "published_iso": "2026-06-16T16:00:27Z"
         },
         {
-          "title": "10 ways to celebrate Juneteenth in NYC",
+          "title": "12 ways to celebrate Juneteenth in NYC",
           "source": "Epicenter NYC",
-          "why_it_matters": "Residents can find timely local events and observances for the Juneteenth holiday across the city.",
+          "why_it_matters": "Residents can find timely local events marking the holiday across the city.",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VZVRFNjVoemMyM3M4UTJOaWFvLWs1blVWMk1DUmtmeFZ5dHdpRmlXV29id05JbFVKT1ZEdERMeUEyUmxpelVEVFdWbEhtRTQwWGNjYkdxQUlKN1FPRTBkODRnMW5sMmg2eWkzcGxXOWZWN28?oc=5",
           "published_iso": "2026-06-16T18:30:27Z"
         },
         {
-          "title": "Family of bus operators honored as MTA Heroes",
+          "title": "Alicia Keys to perform after Knicks victory parade",
           "source": "ABC7 New York",
-          "why_it_matters": "The recognition highlights transit workers' service and resonates with riders who rely on buses daily.",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81SDJoQ3pmZmNobFJ5WksxQk9OeFlSdmpUS1BQcVJoZEQ0S1llVGdydmxzWkNUVVRINzJLa2ZYdVhfWFFiZF9FVjNwNDc3RHJkMUE5c29OQVBhdVd1QkQ5bENnT1luQzIyYTVNZXJnbHc4WHlJN1ZWT0pPT3FTQdIBgwFBVV95cUxQNkliNVpYUUlkOTE1cWFnQmoyRElMOGRMZ3FFX296UDBaNTVFWWllM2hleFlaYzBKSGFlSmhDZVZtUmFIcEo3Q08tRzBBSGF6Q1NIY2Q5WE5BOXZzTGEtT1dxOXlrMnc0RC1RLTc3dEVBTmtiY3RwbTNOTE14cndCZFJGTQ?oc=5",
-          "published_iso": "2026-06-17T11:19:32Z"
-        },
-        {
-          "title": "West 8th Street co-named for Jimi Hendrix",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "The street renaming adds a new cultural landmark in the West Village for neighbors and visitors.",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVdIMHh4WUJoQUIybE5Xb2tkaVZpdHpoUkwyRHpfczNDY0JnWHdrb1hZUWRuVUNjWHVhSGhscm56ckF6VU9MMkVaNE42cTk4Zmh4TWI3b2FUTUxuRWdnNktuTlRSTkpBMUExZFZZTzliRVdTZzU2XzdBYTJpcElqdjAwUXQtZ0xhTW0taHFvRV9sSXBlSzcxOVp1LXZNeUlpNE5xZGMyMXFBOGQ3TWliWXFsclMyUDJq?oc=5",
-          "published_iso": "2026-06-15T21:38:25Z"
-        },
-        {
-          "title": "Gazillion Bubble Show to close after 19 years",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "Families and theatergoers have limited time to see a long-running New York children's entertainment staple.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSkdQRDBMUEZRa2xseHpJZXVHSnZWYmdyVmJQLTlZeUh3TmV6b0p5TTVKME9kWEdCdEhsZ0lucEVrMXV2RDFSTHY3R0NSRjVsZUI2UzlOaU1FcW02ZV9fc0pUOUpmZlVxSFI3emVIN2NvSTdfVXE0VnFXcWRiZFBhVnFwUk5SQjh6TU1DRXFkeTYzN2JLZFRLZzNNZ3BkbXRkcnhWY1drcXF4bE1uZktxLUFaQQ?oc=5",
-          "published_iso": "2026-06-16T18:11:20Z"
+          "why_it_matters": "The City Hall performance could draw large crowds and affect Lower Manhattan access.",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbmpWcm1sdnlYUGxCaXhSTGVlTnNaclA5U2ZjdGFYZGZLd2tlVFY3MGdjQ085cTZCcDE3TXpBbkR1d1hZbENMYkMzZFlmZWhMd3VMMEFrXzRIRVNud1BRakh3SGdxd200alo2TFg5Nm9lVTFJbW9saU5Rd2MxR1llX3lJd0JnaEJaSFBUWQ?oc=5",
+          "published_iso": "2026-06-17T22:51:38Z"
         }
       ]
     }
