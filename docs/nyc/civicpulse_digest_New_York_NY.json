@@ -1,85 +1,65 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-06-25T13:22:55Z",
-  "daily_fact": "The Fifth Avenue Association reported that businesses along Fifth Avenue generate billions in retail and office tax revenue, highlighting the corridor’s major contribution to New York City’s economy.",
-  "topline_md": "New York saw a volatile mix of public-safety and political developments, with a multi-alarm Brooklyn fire, multiple violent-crime cases, and major legal actions including bribery and Medicaid-fraud charges. Meanwhile, primary results reshaped the city’s political landscape as courts weighed transgender-rights disputes and officials debated a possible rent freeze.",
+  "generated_at_utc": "2026-06-26T13:14:26Z",
+  "daily_fact": "New York State is promoting safer summer beach trips by sharing shark-safety tips with swimmers heading to New York City-area beaches this season.",
+  "topline_md": "New York saw major housing and affordability moves as a rent freeze passed and city land-use panels advanced 2,400+ homes, while authorities also intensified public-integrity and public-safety actions with a $9 million Medicaid fraud takedown and 22 alleged gang members arrested over 26 shootings.",
   "order": [
-    "risks_alerts",
     "civics_politics",
     "opportunities_welfare",
     "community"
   ],
   "sections": {
-    "risks_alerts": {
-      "title": "Risks & Alerts",
-      "items": [
-        {
-          "title": "Multi-alarm fire breaks out in Brooklyn",
-          "source": "PIX11",
-          "why_it_matters": "A major Brooklyn fire can disrupt traffic, transit, and safety for nearby residents.",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpQVNfX0NFMGVtU0tmSmxVckNHeWZTTkREUUFxbEYxMnBVWUF3SkRjMnN4X0lNdVUtSVhzUWJWTUlhdENYS1NLUDFEaXJOaGcxUUEyQzVFMFhQYi1XOE5WZ2VDR1NHczdNMTJwc3AwU3pCbm9xUGRr0gF8QVVfeXFMTXJNNC10Ml9ETDQzWFJhUzBJcXVqbFZUQU9XVkJ4aV82b1FxWkd1WDZrNUMwQmt0VXZtaW5nckM1M3Bnc25xNEpWUTNoWWU0UlZwc0xndkFTLU5KQ2JyYjE1ZHVxWTE0MllJNGQyV0dick1ONWlpVWN1X1J0Nw?oc=5",
-          "published_iso": "2026-06-25T11:03:25Z"
-        }
-      ]
-    },
     "civics_politics": {
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Ex-Mayoral Chief of Staff Charged in Migrant Shelter Bribery Scheme",
-          "source": "Department of Justice (.gov)",
-          "why_it_matters": "The corruption case strikes at City Hall oversight of costly migrant shelter contracts funded by taxpayers.",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQnVoNUxNc0xuYzZMMnBDU0M1SlNMT01HMkhWTDg4SXhJT0J6MU1pbzlCTm40dlJCcm9vN25pdzRNNTlNbzVUTFVfR2dPR2FPLXFqbGM2QW5WRVBXdkp3LWZhU2t3VVNZZ0FNdkN1MzM4SkhRTGRBNEpkRXd3aEdwYnNVVnFMWVQ4eTBUemp3Z2dkQ0J6V2pBVHM3RE1neGo3RjRCenhjYUZyWEdtMmNreEhQbm03MGlwWUN3?oc=5",
-          "published_iso": "2026-06-24T16:16:52Z"
+          "title": "NYC rent freeze approved by Rent Guidelines Board",
+          "source": "New York Daily News",
+          "why_it_matters": "A rent freeze would directly affect many stabilized tenants’ housing costs across the city.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObXlFdFY0Tk10aFlJRnZRUjFNWUYtb0ZNUUd4NUpQNWtwWEFHY25kM19kaXdYbFIyNU1idlFJVVhzQlhEYVpWUkEyWDBjYnFZYlVtU2ZETjZXVDZTOEdBTkVwV0dRam5aSVpTNkh6Tl9UbkM3ajA2a3F2MjJ0NkxCQUNGNzRTeGhWR0JSMXpXcTZCRDhtYkdmQjJ3NVdzeTYySEE?oc=5",
+          "published_iso": "2026-06-25T23:37:31Z"
         },
         {
-          "title": "Rent Freeze Vote Looms for Stabilized NYC Apartments",
+          "title": "Council panel advances 2,400-unit housing projects",
+          "source": "New York City Council (.gov)",
+          "why_it_matters": "The approvals could add significant housing supply and affordable units in two city neighborhoods.",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMzBDTU45aU55eGdLcGxMYmlnSzhMdnNSY0hkYko1SnJvWFM3UzBIbWMyazRaNTlNRUR5d3dPb3dDelVjV1U4eTZsOWpUOFBOOXpGV2NPYXpfQQ?oc=5",
+          "published_iso": "2026-06-25T19:16:42Z"
+        },
+        {
+          "title": "New York sues Trump administration over immigration funding",
+          "source": "WRGB",
+          "why_it_matters": "The case could determine whether New York keeps federal immigration money tied to local services.",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUjFDWWRNYnkzTnNhNHJGWHAydHBKNXR4UjNGVmtBYkJCNHZmOHJoMTctdElya3RGOWlzYXo0Zm0zRUJtQWh5MTlLeHRSRzFxOGFIM3c5ZHFNQWZOS2h4X3dPUUJEV0lxZlFyN1JkY3Y5cTRmeEZ1WnhTMVEyWFRPQ1JNMjlfZVFwcG5iQTFwWmZWZmYyMHZubmhvZld4Z29CNWRBZHBhdnItUzZ4WE9kdXAzQkxNOTlVdHFNRzRR?oc=5",
+          "published_iso": "2026-06-25T02:54:51Z"
+        },
+        {
+          "title": "Adams aides scrutinized over migrant-crisis contracts",
           "source": "Gothamist",
-          "why_it_matters": "The decision could directly affect housing costs for millions of rent-stabilized tenants and landlords.",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzB5U2NTSU0yNVZvRlUyQ3ROeTQ1d1RwYjF3U3BDcWQtc2VpaHEybXhfMGw2c0w0WTFGMUk5eG83dG9MenFiRmlnUm00VEE5cFQtWFZiZjN3aDdxeEFqdXY3WUcyS3EwdEc5Q1poVmlxRjlzcGYxRDRZOW95Ung5UGhXeWwxLWhoRkdwZWxlUndJLXFEOXkzUE95a21nM3Z4?oc=5",
-          "published_iso": "2026-06-25T10:30:00Z"
+          "why_it_matters": "Allegations of insider gains could deepen concerns about oversight of costly city migrant spending.",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUll5a3R2V0xaRUJiSnlRZUlqdDB5VDZDbXpmei14OHhxYWl6OEVud1U3b01RNjRqa1Vad1plV25vQ0R0cEk0MzUydlZHcEw1T2ZDVjU4cHFDM29kUUROR0FsbG1zRFFmeGxvOUhSbE8tYkQ3NGI5Vk1aLU1NZG02M0FWVXdaUkYtZ0gtcDRsZU1LWXBEdnQwMzBiSmJMOGdGMUxNN0huczdCc01YZ0RrVlhaNA?oc=5",
+          "published_iso": "2026-06-25T10:31:28Z"
         },
         {
-          "title": "Judge Blocks Trump Officials From Accessing NYC Trans Kids’ Records",
-          "source": "Gothamist",
-          "why_it_matters": "The ruling protects patient privacy and preserves access to gender-affirming care for New York families.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0NUaWFKX3VBOGx0aE42bTZSdnpNWHdQbWpyU1VZTHBINndpQzNaOHZvVXlSeG5SUzd1cVF0T0JrclRhc0N2Q05iMmZ4MzVmaTdlMVZJbHNQN0dpOU5ueW5NWTNuQ1gtcXN6ajhvVVAyYUxpenk3dERhM19zWnZTLTE2SGRMM0FvR1lQUDNfWTV1Vm1QSnBUNDRqU1NUdEIyRHZCZUotdkFDY1NSVm5sRFJCTQ?oc=5",
-          "published_iso": "2026-06-24T23:59:00Z"
-        },
-        {
-          "title": "New York Pushes Back as DOJ Joins Trans Protections Lawsuit",
-          "source": "Gothamist",
-          "why_it_matters": "The case could reshape legal protections for transgender New Yorkers in daily life and public services.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRFBXVUU3bXVaQ29sNE9iSnVjWVNuMEk2WWxyMlRRZG16X3o4VVhEOVRpVV80SVN4NmlZb3plb250NnRhMUZmVjdGczNmanV3MzYtSXhDc1poc0FUdzAxaXFwWDhGVVlPemNMRmhQanRlNnNWakRJSk1oSFNiTG9zcjkzYUFybzlpcGxId2FDVE50ZkJneEJINmpCMFZJRy1zY0tvVWZ4U01MNFBZUFE?oc=5",
-          "published_iso": "2026-06-24T23:59:00Z"
-        },
-        {
-          "title": "Speed Cameras Launch in NYC Work Zones June 30",
-          "source": "ABC7 New York",
-          "why_it_matters": "Drivers face new automated enforcement aimed at reducing crashes around road crews across the city.",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ1VyT1BXYkxScThRLURlRXEzcjVVRmtVNlZCcmZZWUNTUWtOSXYtQVBDbEM0ZXdSamFYNlNzbUV2Wjl1SmlycEZHMFRZSk1vRU0zckFVdHZfVElnWUpVNTdyMXY0VkpNVlhmeXBmck4wQTVjbUFZeVU5VUw3S3ZlUmgzNNIBiAFBVV95cUxQb1kxRjV3cmxveXd6T3Btd0NFWFk2c2NEd3BiR1BPOWx6Rm56T1RHVFBnYXNaME9oUE9sbkc0U3FoNndKOWxibE1lV0JoQ25CMUhjeXhfQ21seDg2c3FuUllvSTRmMFlOZWJVLUh3WWRTMmRvNXN2TFJKeVNHbHVLYVFrYUtKQXRO?oc=5",
-          "published_iso": "2026-06-24T04:08:12Z"
-        },
-        {
-          "title": "State AG Announces $9 Million NYC Medicaid Fraud Takedown",
+          "title": "State announces $9 million Medicaid fraud takedown",
           "source": "New York State Attorney General (.gov)",
-          "why_it_matters": "Recovering stolen Medicaid funds can protect healthcare resources and deter fraud affecting vulnerable New Yorkers.",
+          "why_it_matters": "Recovering stolen public health funds can protect services and taxpayer dollars for New Yorkers.",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHM4d25LVnlfV2hfWGtaSzJOQVdNajRNc0RQYURzX0RWZ2xUR2RxVU5uT1FlMVREd29kaHRyUEVtYXg2aHJNbGFzZTV1T2JnSmJINGNzUEFvX054d1I2anREbU5QUmViZUVpa1d3ODlVeG5EM0djQUs0WFFlZ2VpbC0tdDVlcXB5d2lzYmYwTVVoamRaZURibzN2RDU0RFNGaUsyTU54akpUdmxodGF6eFRn?oc=5",
           "published_iso": "2026-06-24T12:00:00Z"
         },
         {
-          "title": "Primary Election Results Shape New York’s 2026 Political Map",
-          "source": "FOX 5 New York",
-          "why_it_matters": "Primary winners are likely to determine who represents many city voters in office next year.",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUFzZzEzNW5wQkdBM1ByeDdoNmJyNzR0dEFtWEhLWmZRZ0RNYmxWN2Zxbi04MnVhOTdTVmJJdERVTG8yNTZJVHJvV1REOW1WZ3hSQUh1WkwwN0dpTHNFUkpnaG90NV9qbm1QQjFJZnZCdURYbXA0dTh3dThFakk4d1NQMEtzNHRMTUoya2x3NnppWHd3Z3pXYlc1X0NRZnPSAaQBQVVfeXFMT3gtSk56a2Q2ZXNZVkdCNkhvd2lYUFhjWnVnbmhPejZPQUZXWTNFS2gwblowQ1ZUaXYzSnp0UHkwMjBCS0xnYVh2aDg3S1dLZmlURktiNUdjaXRaTkFWYklYdEpTZmFYSTVYSTl6YUdHMUYxUVExcHp3N2FNUVlHbWFvZE5lQXF0cEFaOXpHVWd3ZXNLdE8xTThkeFFZSmpLakdlbjA?oc=5",
-          "published_iso": "2026-06-24T11:20:10Z"
-        },
-        {
-          "title": "Home Care Overhaul Contractor Agrees to $160 Million Wage Settlement",
+          "title": "Home health overhaul firm agrees to $160 million settlement",
           "source": "Gothamist",
-          "why_it_matters": "The settlement affects thousands of home care workers and scrutiny of New York’s troubled care system.",
+          "why_it_matters": "The payout could affect thousands of workers and intensify scrutiny of New York’s home care transition.",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaDFHNmtHcTZYdDEzb0xmRS1uZDF2M2Vya3FNRm4zWlV5TGFXLU9JdEszdm1sTmZKTjlEMlVpWDF2WUZhcGZyVU5ZM09kWkFjaWVmR2JvaG1VSTY4cmV0QmhGVXpXSllBVGNYUmF1MW5VQ3VFTmhHMUVrZWpZWmZ3OVpIT2ZJTDBrUjN5QXhmc3ozRU11QkRvSW5wYU9UMWVwa0RiNFBkN3JFTW9i?oc=5",
           "published_iso": "2026-06-24T18:13:00Z"
+        },
+        {
+          "title": "Brooklyn reformers win majority of Democratic leader seats",
+          "source": "City & State New York",
+          "why_it_matters": "The shift could reshape Brooklyn Democratic power and influence endorsements, judgeships, and local party decisions.",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd0M2cWFnNXREbE04Q1lMd29iZmdqV3BSemFZckU2eTA2Y3NoMl9PRWs4Rks1Tm1wZHZtaTdTc0F4UFJLSlR3OVFxb04xSDhuR3NpRE85VjJDc1Y2NmFBQ0R4OFhLYW5oNVNhVXR1d1JabnF5eXVkcjJ6aXlsTk1wY0ZPOGFwcUg3MVlTTDFIRkUwQnl2Z2lsaEs3S3pzM0Nja1hRQmtXNzFXMnEwRGxYSE13c2MwbWxTeWx4NEQ5aU11S0pScUhDdVRUWFlVUHQ4bjl4WXYwWXJRaDZJNmc?oc=5",
+          "published_iso": "2026-06-24T21:42:09Z"
         }
       ]
     },
@@ -87,18 +67,39 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "Bronx entrepreneurs gain access to M&T Bank business grants",
+          "title": "Affordable health plan ending for 450,000 New Yorkers",
+          "source": "PIX11",
+          "why_it_matters": "Hundreds of thousands may lose low-cost coverage and need to quickly find new health insurance options.",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnpQdVRnRk80VFNJOEd5dUk4d1JibkJXb0ZlQ3RtNUdQTEFUM2treUdaa0U0VlFzcHJKcGJxWjZFd0VpRHNhelVydU03R0JNS19hXzR0aGVsQ2gwYTFjamtXV3VDM2RtbVQtYkhMcVk2dzVfeGlyNFpWbjVQbUFLZzZzU05CQzV0S2RlbDBQaGYtckpyQjRQemVpZWNHSVdzM1HSAacBQVVfeXFMUGFtMXN3VDhubkNZSkZILVlQQW82Vk1wN1U4ZnItYTZJeG9vWmdtNWVzNlItbGRvRktyb1dYSkhOMG9Kb0ROUGNRaFFMNFFZb2VYR1F3UW5hUkFkTnBLVUxsOVVXblZ3NG1hd0xkVmNwa3E0RGNjUE9LNXJPdVhjRjhnTThTSGcxRXRHa3pCZ042VzhkU2JKV3ZlQm0tRlJ3ZFVlZFNSNWs?oc=5",
+          "published_iso": "2026-06-25T13:54:43Z"
+        },
+        {
+          "title": "NYC Health + Hospitals hiring full- and part-time workers",
+          "source": "PIX11",
+          "why_it_matters": "The city health system is offering local job openings that could help residents find stable work.",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaTNEak1FaTZnaUdzTzdWd0MtVEhReDVhZjc5cWZNTklJQnB6Yk5FX0gtZktBZTZVNlFSSXZ0V0RVbE1sUXJEMmV5U3FoOHFSZG5ZTGx4S1ExaGwzVzdNWV9YV0JXWDd3c2tvNDRSWE44YmFUc1Q1LU5aQkdKSHZqT2hxMVQ2OEJZWndCMWJBb3o3eGxnS2dyWW5fb2J4VjRYMUNaSEpCV3Rna2JBNnlldTRnR0xNLWvSAbwBQVVfeXFMT1RhWHJTbC1xVjFFS3BKWUpzYWFPR2h5U1FURXRuT05fTDhGYkg5SzFub29rLUZvMUpPQUdGYkxqenZVdm9JbXVxcFZIM0s5ZFU5a19OdDliOEkyeFdYWXBPT0hGbXZZYjREa0dfNkIySWN4SnhzNFIzc3FXRkdZVUVDWFhzWjhmNXJNY3ZDWjRUdXh6cEl0cVVSR0x5Y0YyQXFzb05xSXdybGNmWnhxbG5iNmRWYjFDSGdIUWg?oc=5",
+          "published_iso": "2026-06-25T14:05:42Z"
+        },
+        {
+          "title": "Habitat plans 179 co-op homes in Brooklyn and Bronx",
+          "source": "Commercial Observer",
+          "why_it_matters": "New affordable homeownership units could expand housing opportunities in two boroughs facing high costs.",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUktiUTRnMTN6N2lXLU1NUnZFUnhlUWNEd3ByRWNPNzdGREx5SjNjaTNjaGJCX3NtQ1hnQTNmZWFIdWM2QXZleTdLUm11dHk4NzVSQW5OTTdvMkl1VmVJeHZ1QmhuUnl3ak1BVzRvcW9FVlNyLXgtZFBfdHVVRG9hSWlrMjQzWVlTQWM4em1BRG8zUWYtcGc?oc=5",
+          "published_iso": "2026-06-25T19:39:26Z"
+        },
+        {
+          "title": "Bronx entrepreneurs receive boost from M&T Bank grants",
           "source": "Bronx Times",
-          "why_it_matters": "New grant funding could help Bronx small businesses grow, hire locally, and stabilize neighborhood commercial corridors.",
+          "why_it_matters": "Small-business grants can help Bronx entrepreneurs grow operations and create neighborhood economic opportunities.",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LSG1rNS1aRVhaWTkxczd0clpQekJmQTljUUdVMFFJcTJBejRlejk3MzV6RXR4NEtnQktXandrN1dvUEF3NnlyT3ltb29XTWk3Rmp3MDQwNkhpbmlQbVJiV2V1ekFsOHFjNTY2LUhsN29oem5oTVBtOWhEc0dkdw?oc=5",
           "published_iso": "2026-06-24T17:07:44Z"
         },
         {
-          "title": "Autism nonprofit expands and relocates in the Bronx",
-          "source": "Crain's New York",
-          "why_it_matters": "Expanded autism services in the Bronx may improve access to care and support for local families.",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXdjUkgyYXlRaTFfM0pGRVhtQjZXQktaLThkT3huQUR0R0ZZT0g2X3E0d0hHTWRwZHNSOEFtZGpLUG5Kd1dSZFRGN1plaC1MemU0TThTRS1xWldLQlpLUXNhVElvalhUQ2pJSEY3cTlLTlpRVWJWMGdjOUFGbTR0RnVRbkg0Sk5SUUctWkN0dDROQXQ3aU9tcExkVU4zd2VnaWNfYTV3NGZWdw?oc=5",
-          "published_iso": "2026-06-23T16:30:00Z"
+          "title": "Spirit Halloween begins hiring for seasonal jobs",
+          "source": "PIX11",
+          "why_it_matters": "Seasonal openings may offer short-term income for residents seeking flexible work this summer and fall.",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQm5XSVhNUG5aX1oyaTROWlJWNHVROXpESHhzanNudjF1V0MtVlZHYTZjOEo5bDhUV2haOUpDWERkbVRFb011Tm1pUVJlUkw3d3JLZHdvRURqbjdNdUozNWRjQkZnSWJFVXc2aXFhVkVwc052Vnc0cVBBNmpRb3Y1ZzNfWDNaSDJNQzJtWVcxZUlqaUY3Q09Kc1lJbUxpa1HSAaQBQVVfeXFMTXIzb0RpNjdFUUNEd1c2RE9kV3pObGJZMjdYYkRNbEwtd3ZueHN2Z2o0b3lWOTRjM1FlTE9EQ2lDWXhYNXQtWWlQcFZ4ZHhLUE1mVGxSUENxQ0ZZeWZkT3ZrbEI2d1FieHNoazRLN25IOXFRVHViYVk4UHMwcmJKTjR2RC1JNXlOd3VsbUhvdE04UFJwcU56N1E4ZE9uVVg4NmlxcUg?oc=5",
+          "published_iso": "2026-06-24T15:25:42Z"
         }
       ]
     },
@@ -106,39 +107,32 @@
       "title": "Community",
       "items": [
         {
-          "title": "NYC Pride March 2026: street closures, viewing, and live coverage",
+          "title": "Fourth of July fireworks guide for NYC and nearby areas",
           "source": "ABC7 New York",
-          "why_it_matters": "Major Manhattan street closures and huge crowds will affect weekend travel and neighborhood access.",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeGtCNXM0eF9SQWd6Mjk4YVpPOUZMZk95eHVwUF9iajkxdGtHckZrRW5MZnJHSlRRWnRzYVJUVU4xZnJTWFhzWmlNeDdNUUFXZ3dhc2M3RmN0NU1JajFRVlVSLXJ3TFFHUDBTWlVJbmtzMnRlY2t3ODlMWDhJOGhxTGstYWtaa0d4TnQwZjdrUUR4LTVIZHRRTGlVTFQ2bm4xdGU2QnF4YWNxVGpvbHVzS1VYdEYzQU9fNko5TF9RTTFGcFF0VGlmT292aFZDXzZyczJoZktyb0hrNy1CTkHSAeMBQVVfeXFMTm5zSGUydEVpWkp0SThGeF9BME5lMmVQYUczeHhJaDdzWXg3OEp3dEtqNXlDTVVQekNoWkRleWt2Y3ZHTmpPZUQ2ekhtMEoyYlBrXzF1Vm1hZ3FGd0VRRU1nUEJYRUJFVEpSbGJyazBGX0poUEhWZXhJQjZOOG4ycUhUWnhRNGQxTERGdjN3ai1oOUE1d1M2MzYyQTRxejRTanl1cWh2ZjBSc3V1R2dSdVV0TlJrbE1VTEIwVmVwZ0l6UlZZb096MXJVakl3NlpWWEp4dmMyOWpPQi1PRGdMdnJybk0?oc=5",
-          "published_iso": "2026-06-24T16:57:41Z"
+          "why_it_matters": "Residents can plan holiday travel, viewing, and family outings around major regional fireworks displays.",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeDFQN1JBR1o1OTVWMWhZSk40UWJLaXRYeXp1QWUxd0Y5YXhZaTRJTFlEaEwxUU96YUFSbEgxbnhvSmlaT0lrTmdxVEtfN0J0Y0p0ZFRjQzZUQU43X3ZsZXZ5OWN2WVZ5RUEtZXNpZGRpcWhsNzQyZElZTXZtazQySTBjZ3JjUVBlZVRrNjU4MFg5TmE2d09R0gGcAUFVX3lxTE9PT3ZPNEtrZjJyVWk3WGpCUDhBYkVjZWhEODlpVkFZbkRfSE5tYm53ZzF2M3lDZ0lIRHdxNFp3RDh6TW1zcTFuREFXLVI5Nm5mNl9jUl93NmExU1R6Y1JOVnhVMDFPX2U3bnI4Zm9wUEF5RlkyZmE0MHpDQjFFNmhxT3AyZ2xuSGpyZmVzVXNKM3RqM2d2TlE0Vi15Qg?oc=5",
+          "published_iso": "2026-06-25T14:55:34Z"
         },
         {
-          "title": "Whole Foods announces opening date for new Brooklyn store",
-          "source": "PIX11",
-          "why_it_matters": "A new grocery store can change shopping options, jobs, and foot traffic for nearby Brooklyn residents.",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZnIta2lmLWk5UWU0cEJCdThXQlhKUEg4bExISXh2X2l2cVpBTW1hRHNuMXN3dnpIdDdBc3E4VTZsb0o0REpVSFZQc0dqdThkOC1GdFY0N2QyY1ZOTWZrZ3VQcjVHQWhFY3FfUExsekxJNzRuT3JkX0htVTY2WXJ6MURNemc5eGY2WVF0WVh2bkrSAZYBQVVfeXFMUGhXRGcxUXVUcXpSSm5RbzhzaGxCajJkTzV3MWVsRVhLRlpYZUt5bWdhbU51My1xZ2xFcmpqOGp6Z2EtMXdjR1VVMjFmQUU4ZGRLUDhtUjdpYVZOek9uQzdjM2ppa3JDRjI3MHBOTzlKYzA1MUVhSjFFeTZFOVFKdnRNYmx4dEZNOC1TcHBXakJhQ1JIc2JB?oc=5",
-          "published_iso": "2026-06-24T00:11:28Z"
+          "title": "Brooklyn Fourth of July celebrations mapped across the borough",
+          "source": "Brooklyn Paper",
+          "why_it_matters": "Brooklyn residents get neighborhood-specific options for holiday events close to home.",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03TzFudU1lZ1R2S2dCTzlQOGMzekZBZXJvb1FSTmZjRUtoR3VoaTJaNXFMc012Tjd1VldtOTh3YVhsLTRCR3pjWlVFN0VXdF9USEVqLV9fZU5WOXpUbTQtMlMxRmNOd05B?oc=5",
+          "published_iso": "2026-06-25T19:47:48Z"
         },
         {
-          "title": "NYC businesses opening and closing across the city",
+          "title": "NYC Pride defends hospitals' participation in march",
           "source": "Gothamist",
-          "why_it_matters": "Restaurant and retail openings or closures directly affect neighborhood services, jobs, and local street life.",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM3U4b1duQzlleTRjSWRmS1BDSEZDZENrcnJXUlFkZHcwakJCTlRrX25wVnJjTE5ZX1BhWXI4a0t5SUJXS0Y4N0hacUtPczFMbVAyN2tqN0l2RzNMa3B3QzBPd3JhY2tSNkt3YS10UDN1UlNnUWhFaDdaWl9MTU9SMllVVXd0MVZSWnl0Rzh4cWItd1lLZ2pIVUplZzF3Nk1NeE1TdThYaWtsZmdROC11TzhYT1hMUjd1cWpjUA?oc=5",
-          "published_iso": "2026-06-23T16:00:00Z"
+          "why_it_matters": "The dispute affects a major city event and ongoing local debates over trans youth healthcare.",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmJydDZNVTBNcTU4dllTcmRPUS02UjdkWjg3dTl0S1dvU1ZGT2NXbDJYeXgxR2pCaEZ2MUVEYW9yYzBhM2hPVEpIamJTSmpqanZTNWxUTERLMmhoUDhOY1ZKTnloU0lvVTY1ZzR2WnNqTTNmWDk2WmtuZFpxZ1pJekk3S3pkTHhra2ktS2x6cG8xRGxkQkRocGVtbzV5eHVzQlpWcXRuZDJRZ0JGZC1uRjVZZXk?oc=5",
+          "published_iso": "2026-06-25T22:31:00Z"
         },
         {
-          "title": "Free Caribbean food festival coming to Brooklyn this weekend",
-          "source": "PIX11",
-          "why_it_matters": "The event offers a free neighborhood gathering and may draw crowds affecting local transit and businesses.",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkFwVVItMXpOMnZCd29wazVlR1dCakg1YWo5N3llUVVtYV80dTEtQzUzQ0ZHTGl4eDN4enBmNnJiYm91akpJdDhBcUQ4MDFfemtRbEgySUs5T3FXYmNDZlFnTDRNU0lPVXF5V0RHMkJJTnpPakc4blg3ZXJheWEyY1ZuTTRXRXNWT3lIZ3JpYk1EWnp0TklmMUhpb19hdDZCMS1n0gGoAUFVX3lxTE1hU0ZaVFFXU2pEa2RoUmtNTHVPRWlfMWxYamVIaVpLejFQakhtb3ZpTEs5MW1JNU9sZHlRS25TN0JjdDkwV0hqY3VVVTVNbmxjXzQyWjNqTVFibVVCaUp5VEdteFpTSzktaDBNaWFoUjZIaGZHdjN4MWtzZVNkZGlvcVlpQzJRNUY5VTk4em5OTWN0WmNHZXVaaDQtZ0ZVYW9aMzd6UkVYNw?oc=5",
-          "published_iso": "2026-06-24T14:04:30Z"
-        },
-        {
-          "title": "Bronx’s only gay nightclub officially opens",
-          "source": "Bronx Times",
-          "why_it_matters": "The venue expands LGBTQ+ nightlife and community space in the Bronx.",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyaEJZd0IzcFRGSkFZUDlQS0dNUHlyTWlfb29XdkV6Y0JZaEFDT28zbGFsZzVXaUhvQWNBdFlzRmdHTUZpYnRVZk5uWkE2VVdYZ0RPdXVyVk1zOEoyNmJmNGdPZjNjNDRDeFZhUlU3eXVVQko5RmdvUg?oc=5",
-          "published_iso": "2026-06-23T19:18:28Z"
+          "title": "Researchers warn mutating mice are a growing NYC problem",
+          "source": "ABC7 New York",
+          "why_it_matters": "An expanding rodent issue could affect public health, housing conditions, and city pest-control efforts.",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSjVkQ2l0VWdDXzBwX3hqR05ycFVvN0V3RjU1cUNVMjJxY2p4QWt0V0JUblRuY3NKQzUyV1ROVmZMVnIxRlBha2x0dm5YSHJidkk0bFRBUWdMRzhxQTF3NTFQanpuVWRkbkpLbk1jMW5ZWnUxT0RmVkRNV3U2ZFh3ZVlmRml6cU1yVXp3anM2V1l4R1dHZHhGZk80YVR5RFVsd1dOSjZYRUNTTzY1dnBZ0gG0AUFVX3lxTE5zZ3dZSEtwNU9Hbkpia1c5aXhCUE1laXgtZXFnWTEzWFRZcnBTQTZNMG1QMThCd0VRTEltU2RzZm42cHlkc3hSMFFIRk4zRFR0c0hKRWJnNV9XOFVxa0tIUHVPdXd2eVdRMzFLVFBVN0ZWWnFFbE5nRVlSWkNEZEl4dnFiYlJLdWhISldBN0REOEtVWG9SaktEWEo3elRVYWVONEZNSnFzc25PNXBDalRuRDBCSw?oc=5",
+          "published_iso": "2026-06-24T15:00:57Z"
         }
       ]
     }
