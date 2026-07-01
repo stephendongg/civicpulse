@@ -1,8 +1,8 @@
 {
   "place": "New York NY",
-  "generated_at_utc": "2026-06-30T13:10:54Z",
-  "daily_fact": "The 2026 New York Stage and Film Festival announced its initial casting, signaling fresh creative energy and new performance opportunities for artists and audiences across New York City.",
-  "topline_md": "New York City is bracing for dangerous heat and an air-quality advisory through the July 4 weekend as officials activate emergency measures, while a deadly LIE coach bus crash and other violent incidents add urgency amid budget, housing, and public-safety fights at City Hall.",
+  "generated_at_utc": "2026-07-01T13:36:10Z",
+  "daily_fact": "New York City’s newest art museum restaurant is earning attention for its bright salads, adding a fresh dining attraction to the city’s cultural scene.",
+  "topline_md": "New York City is confronting a dangerous heat wave and air-quality advisory as Con Edison mobilizes, while a deadly Queens bus crash and major policy moves—including the City Council’s $125.8 billion budget and a Rikers facility closure—underscore simultaneous public safety and governance shifts.",
   "order": [
     "risks_alerts",
     "civics_politics",
@@ -14,32 +14,25 @@
       "title": "Risks & Alerts",
       "items": [
         {
-          "title": "NYC activates heat emergency plan ahead of dangerous heat",
-          "source": "ABC7 New York",
-          "why_it_matters": "Extreme heat can threaten health, strain transit, and disrupt daily routines across the city.",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbHJlRmFtbGZIb1RkaGp3U2NNYi1SSHAzQ0N4LVpRckM0eXd2ekFNaVhVR1NXejBkWVZodXBSS0ZGR1hUb1B3eU91QzFlaGVma1h4NWVJSTk4Y28ybl9sYWV0elMxNFREWkE4NWJqaTc3d2kwUFNoRDVtMDA3ODlza2tyTDFDeW55X0xYblAyVzBpX1dfdHBid2J5SXp4NGVqejdVSTFOSkFVZFdLQkNyeFI2cWlOWkHSAbwBQVVfeXFMUGNhYmNHVmNNTnN3N19EZVd2MGF1aWRsUjVXXzdtZUN2d2lxX2laVXlnRG5RWHJGS3hlRV9rSnZEREZoOGdNQk1FVlhSS2U5VDlLWllVdGxXUnQwREc4TnhETUIwRmRZdHMxQVJhS25ESFNoV1N2RkFidjI5UmFwMV9oY3gwS3VQMjBpT2RSN3dmSVkzYlA3NUdIQ2paZ0dFZVFLOTREQmVCT0JOQWh2RWNIREczdml0S0xyeGc?oc=5",
-          "published_iso": "2026-06-30T02:51:59Z"
+          "title": "NYC nears heat emergency as dangerous temperatures rise",
+          "source": "NBC New York",
+          "why_it_matters": "Extreme heat can threaten health citywide, especially for seniors, children, and residents without reliable cooling.",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzJ1cXdwMzZISjEzSV9aYkl0ZlJTcEhoMC1RVGJaY1RCclFHU00wMC1aTWp3OGtXWjRoM3ZqQmYtQi15N2RBVzF1aG53QzJSY014eUdRQThmSjhrRWtZT01lamJwRlRWOVg3b214c1JtV1RKd0N5MTFfY1M5VFdUTkZZdk5vR2FuU3k00gGTAUFVX3lxTFBaWWs0Ukoza2FLNDJMZGcxSWg1N3lIcnhDLWI1U19RUEpNSzVsZ2ozQ3huQWtDYldWMjZ1TXNtZWlPM2pSNXVFOW9jTmdPMW9DOU5GT3FtUlVpNXNwUzl1Z2hNSW95aFBWRjl3c2VCcFZvc0paQktuTEwyTTF1QThSOFRiUnpIVHhVZW0xQ3YyV3hZRQ?oc=5",
+          "published_iso": "2026-06-30T23:01:08Z"
         },
         {
-          "title": "Dangerous heat forecast through July 4 weekend",
-          "source": "ABC7 New York",
-          "why_it_matters": "Prolonged high temperatures raise risks for outdoor workers, seniors, and holiday crowds citywide.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUTY4ZG1xQ3BKM3hiR0NpdGR3VFd1c1FKNGNuQlhaY1ZwNTZwQTg4cHFGVTd0Ry1YeS1ib2dXVHgzZlJTUWl3aDUwdWhZMWstNG43YVVBYXZzRGIzMEI4U0c2NDh4NnlsNE9lTFZleUpHQ1NWNFFqbVJKR19ucmdpbUxkb2E0TnVaV24wU1ZPeDl6RDNxbExTRHpGMDlmN09MZW9BOGhuQlc?oc=5",
-          "published_iso": "2026-06-30T01:12:00Z"
-        },
-        {
-          "title": "Air Quality Health Advisory issued for NYC",
+          "title": "Air quality health advisory issued for New York City",
           "source": "PIX11",
-          "why_it_matters": "Poor air can worsen asthma and breathing problems, especially for children and older adults.",
+          "why_it_matters": "Poor air can worsen asthma and heart conditions, making outdoor activity riskier for many residents.",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOGtYWTlvYkk3bHVyU0xaTjZrLXBoWVNtZUpjOW40YXBUSEM2a2hyV01fYUVBcDg1UTBVNkRZVXAya1NTMXpScGlNdDczNDRreUloMzFxZ3Rnc3pRay13eVZSMDkzTlQ5ZlpVY3FwMjRIMGNBR3l1al9fRVN3RVE2Snl30gGHAUFVX3lxTE1GWmlwY2lGM0pQbG9nM0pyaVh3clNrdjBKSlJQRzRqbVMwVHVhbGNwcW5qS2ZIbTBEQWtDOGFDRFVPVGd6UjJCSXF6Z1NScWlfREhETGgyaC1sb3o1aXEtdnFHd0FmdVZUN2FQZnkzZWJKOVd5VEEwbjIzUE0xQzBYSnhHejFNQQ?oc=5",
           "published_iso": "2026-06-29T14:57:35Z"
         },
         {
-          "title": "Popular cheese sold in New York linked to listeria outbreak",
-          "source": "SILive.com",
-          "why_it_matters": "Residents may need to discard recalled cheese to avoid serious foodborne illness.",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUFNPem5yQ2NuSWozUTFUX0VDc1kzVW45TnlfNDhNTUd2Z0g2SU44NVRJNXdWdlNqRFVLX0FrNUxoUFVYbERkWWMwVHRnb3dQZ0ota0FTOGpDM0hGemp2ckJSSldkQlBlQlVhRUtISEVjUWt6ejJMRXZCcmtVQ1B6RUI3Z00tNVBnU3lGVHdRa3ptSUVKVlJSdW5SdEljUG5ZOTVNOGhsc1UzcXZvYVhIUDVQX3NvOEhOWjZnN0dTWdIB0wFBVV95cUxNNXhKbFUySWZISWxnMFN4OWJJREtsWG1kS2JVcnliNUh4RWg3QkFqcGRSYlJLcFhQOUhWMVI5R3hUSmdNb0JyUFdjeFJtX3hUUUNzcTZyd1J4Smh4WFpNdHRheGhBVnJWOUhXcVNLVkFkTWdOY3dKS3ppOHlieWRBS3Z3b1p4U1JzVkhUSEwtQlNRb19FWVRlYkJ2U0J1VEltd3d3TV9PWmZiT1YxWkkydzBOeE5iNDFRMFRYaWdSallKZXhKUmJOb3V3dVAyZW4ybGlF?oc=5",
-          "published_iso": "2026-06-29T11:58:00Z"
+          "title": "Con Edison mobilizes crews for extreme heat demand",
+          "source": "Con Edison",
+          "why_it_matters": "Power strain during heat waves can disrupt air conditioning and essential services if outages occur.",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlVOekN0UmNKeU8td1BBeDk0MVJTUUNhY1ZJVEU5bXN0QlVDT1NCM3AwbHNIc2pTU00yNDI4SHN3MUE0ekhlMldrNEJnU0p3QjE3Y3hzMVVJRUlRd2ZqMHhac3M4STVCYWpDTXJ3OTE3UmNXMGwyTVR5NldtRlBLUjVYQ0QwcGRJbzAwVmsxUEpESElFZ3c?oc=5",
+          "published_iso": "2026-06-30T17:42:05Z"
         }
       ]
     },
@@ -47,46 +40,60 @@
       "title": "Civics & Politics",
       "items": [
         {
-          "title": "Budget deal stalls over CityFHEPS as deadline nears",
-          "source": "amNewYork",
-          "why_it_matters": "A delayed city budget could affect housing aid, services, and spending decisions for New Yorkers.",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBPYTc5X0ZnVTdOWU9BUDFPdUVHQlc5TFFmY2M2TGNrRHo5ZFRuWTlyRU10Tlg0TE1KQzJJX0JleVptOC1iV1h3ZHdKRnY2MHhFSDI4ZlFobTJFSk9qV09TXzVWVHN4cThCODZMbTJkRjJyLW8wMEVjZ3RJQQ?oc=5",
-          "published_iso": "2026-06-29T21:30:41Z"
+          "title": "NYC Council approves $125.8 billion city budget for 2027",
+          "source": "News12 | Bronx",
+          "why_it_matters": "The budget sets city spending priorities for housing, schools, safety, and services residents rely on daily.",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSzNMRko2eEdIUktpc0g5dVRxVjFiUU1tb2F0YW05QTVsOHFlMHBiMmwxbFk3ZzZNX1hHSGtvT0JPZGVEeHk1RWk5QWMxTEhPdHRJd2w2ZEpUQWpJUlZfRUdWYVI0SEs0MUFDNTBpdzcyVERIMk1pSkxSUDU2SlQzUE5nNXZPd0UxWkpN?oc=5",
+          "published_iso": "2026-07-01T01:15:24Z"
         },
         {
-          "title": "State pledges $700M for Atlantic Yards affordable housing",
-          "source": "Gothamist",
-          "why_it_matters": "The funding could speed long-promised affordable apartments and reshape development around central Brooklyn.",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLVdPbmtPYUhXdWhBd0YwU2FRTy1HYXlHLWJPOUduTXpqRWV2NjBPd0FrUzFUUnBmbWlFaFlGdFZ5R3BkQXlHNmNSdXg1UEt6VmtWMV9IT18tOFdxMW9hU0w0eDdZVjNDZHY4TUN2d2FJcktiUTlHN0NSVnJLYUpqNFZoX0pYUnJVeG8xd1dUUm53Q1E1ektDVXdlblA0MUJjQkJQV0NoWUxNRjlWWkpKZmxxaw?oc=5",
-          "published_iso": "2026-06-29T21:44:00Z"
+          "title": "New York laws taking effect in July bring statewide changes",
+          "source": "FOX 5 New York",
+          "why_it_matters": "New laws can immediately affect residents’ rights, costs, and daily rules across the city.",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUVDUXpaWkJaZ0l5Y0g0SDBLcmN6ZXRNV09XZ2FkMnZrQWctektkYWxiMEFvSU15T1JhbGMzR0wwUFhINWxsNVdMNVhSakNyZVZyQlhwX2VfdkdHdHVlemczRTdsTTRIRGtaUXVFam9hSkxTekxPSGM3UWl1bVE5LWN2N1lOd9IBiwFBVV95cUxOSFJHQjA2ZEttbzVXbWlyQUtEM2xRRFFWMEpxTlROU3dZdmNYVnRudnZ4VWE2TG9qYk1QeGZKTnNvbXN2MFQzZXk1U1JYR3gxTmJ3czBERS1DQ2JQV2xDb29hLWFmTnhMRDk0WXRPR3N6azU2NXl4WjM2bk05QUh6TmREcnhnOHRiOUs0?oc=5",
+          "published_iso": "2026-07-01T13:04:08Z"
         },
         {
-          "title": "Mayor closes another Rikers facility in jail shutdown push",
+          "title": "Mayor closes another Rikers facility in push to shut jail complex",
           "source": "NYC.gov",
-          "why_it_matters": "The closure advances the city's plan to replace Rikers with borough-based jails.",
+          "why_it_matters": "The closure advances a major city jail overhaul with implications for detention, staffing, and borough-based facilities.",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmFjcW96eTcxY3N6UHRkVGdKRVlpb2hWUmtNN3RUZHMzUWJWTm50Qk0xemVNVmVBdGFjQmp6eERiWlNOQTVPUnM2ejkwMjl4dnFkSFhESklYSVBkYWxxcGk0eV80by1kejlXNFhweWFIQS1LMXlLWmcwUmhZUlFFc0pIV3RpSHVzdlhBREZiZHBXQ1JEdU9BQzZSNUNmanJGZDV6ckY4WXBhWjNyTWp1OQ?oc=5",
           "published_iso": "2026-06-29T21:20:55Z"
         },
         {
-          "title": "City officials could receive 18% pay raise",
-          "source": "City & State New York",
-          "why_it_matters": "Higher salaries for elected officials affect city spending and can influence who runs for office.",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX01ZQXVTWHh4ZE12eTZyRHhkR1p0SV9RdVluV1N3NDFjdFFFY0ZBN2tzVGNVa1F1QmNnQm5PM0ppMmVTR05ub0VKU1ZTWU5TTmprMDN0a2RVMTRjMHhma0FlTkpoN001RW0zblluUll2N1NMdTFpcnphaE5PQ1FReFlnM0YzbGxRbnpueGZ3czhNZ3V0X1VSaW5aVVRQQy14TDFqdDdhWTNPQQ?oc=5",
-          "published_iso": "2026-06-29T19:28:35Z"
+          "title": "South Bronx affordable housing project breaks ground with 328 homes",
+          "source": "Bronx Times",
+          "why_it_matters": "The project adds affordable apartments and health-linked development in a borough facing severe housing pressure.",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0NRSEZOMmRYOW4ybmlQVkxEaWx6ZmhpcmR1Q0ZCWXR0SXNITkdNOWlReVFQYWhqMjRsc0FIZ2R1NGhPQ1pmVHM0MVpKSFd0Tk9JUW10cVBnSk1XdFBBTU1ZMnNhUXVld1R5UTZ0b1VMOTdLVDF5TWlQMl9sZDIxX3ZJUndkQW8?oc=5",
+          "published_iso": "2026-06-30T19:15:23Z"
         },
         {
-          "title": "Mayor sued over e-bike policy amid safety fight",
+          "title": "City officials could receive nearly 20% pay raises",
           "source": "amNewYork",
-          "why_it_matters": "The lawsuit could change street rules affecting riders, pedestrians, and neighborhood safety citywide.",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1YndMSS01dTJfbGN4TUppM3ZjYmVyQ1VzUjJsNDRFTUFjZ0p5LU9oMlgyVzk1Wld3dWt1RUpSRzR0eFVEUGR0bk9FUGhydWU3bldqQjVMWHozLVdJUlRlWS1WSXpYQVZ2QUN1NjJwTmwtNGwyZEdJX19pSDlfcG8?oc=5",
-          "published_iso": "2026-06-28T13:19:42Z"
+          "why_it_matters": "Potential raises affect taxpayer spending and public trust in how city leaders set compensation.",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CU1EtdXdpcjg2R0JUaGpaQnIzNzE5YWJzS2M5bWVfUzVqWEdZYTBtNy02d2NpVXZRVUR1bWZWMWxMV19pdG9aRGJfX3Y4MFVOanVDZkFNalF6Y1otVzlNa0diY3RveTRVdDZYTnBhc2VPVHc?oc=5",
+          "published_iso": "2026-06-29T22:25:22Z"
         },
         {
-          "title": "Supreme Court immigration ruling sparks panic in New York communities",
-          "source": "Gothamist",
-          "why_it_matters": "The decision could alter legal risks and daily life for immigrant families across the city.",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOW9kNDkzM1R1dUIwLXp3MkhRb0tVaXBjX3JLRWpvNFMtMFhVZGpJZlcxWm9OQ0xPaW1uS2lQNmNEYkhwRWJ5NmFleTY4TkhWMGNFd3F3bTVTMERjampsTkNDQzFuN3RmNGdfYzdfYjlEZDJSSW83Qm9ZWGp4M1lNZS1XaEVraU5JYVRQYWlnVEtsdG0zTjQzNmhmMzNTZTU4WF9YckVQT2M?oc=5",
-          "published_iso": "2026-06-29T23:51:00Z"
+          "title": "DSNY may start placing alternate-side parking warning stickers on cars",
+          "source": "ABC7 New York",
+          "why_it_matters": "The change could alter parking enforcement and how drivers avoid tickets during street cleaning.",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUXI1YXFZeHY2bXExSGE0T3pPaUt0ejZLd2JLdFdNSFJHUmpJRF95MDB1Y2NERGVzS0ZBQ2JPaHRER0NRbFdDRVZ3eS1MMjRlV3UyakQ0UEg1VnNueGVabVBZTzJsLU1EZFpRTTR2SWdPRGhvdUdaT1BDX1FBUFNteWltN0w5SFc0SU1mbzg5TkthSDl5eWEtREpmWU9XUWY2dHRTRF83S0p3dnlGOHJrQkk4U2VKWTRGQlRrVVJRQjFBWm8zVm5N0gHMAUFVX3lxTE5DeEgxeTNwQ1lIWnphVVBLelc4MVl2OHNyX0tNRUg1RVJxM0xUYS02TVk2ZXdlRHFuQktvbHJKYUR3dWdoUFBlcThBVXAzTklHSWpHSUt4TDkyZHpRM05NbnZrcU5ldlBjMHNVRXRuY3d0ZEpsSUthenRXbEw4NnN2Q0NneFR1OGItUW1iR1hETVM1Y0hHbEJsZkU5QjBZZjB0SzllYlROVWM5OGQwYVlHR284TnhuaE1NenN1RkJXMWFoUE9aZjIxQmxqVQ?oc=5",
+          "published_iso": "2026-07-01T02:11:14Z"
+        },
+        {
+          "title": "Federal ruling leaves uncertainty over Gateway tunnel project funding",
+          "source": "NJ.com",
+          "why_it_matters": "The tunnel project is crucial to regional rail reliability for many New York commuters.",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbm40N0JDRDBMeE9jV3F6M0VCUDl0X2g5VDBnWXItOXB4Vk9Da3g5TW1rTG9vMDlQZ0hWT0dfYzZ6aHBOV2ZGUG1HVW1RdzJvRkpNNmpBa1Y3TGFlSmt2ZzlocEFIMHRaTkZrSy1uN3M5Vy1QVEhhSFk1M0tSNEJNU3hlTUdHZTRPN09HUFVUa3VJRF9iY0JMT2ZmWTV6N1JmazlUaFFwcHp6cjYtanFQX2hJVTY4eTZOLXZxbGE1RDFoUTJtTXhiLUtPWVhyNkRlU0kzRnpXd3pVZlBScHfSAfIBQVVfeXFMTlN4cHF0akt4MGFtd1VYalVkblBfOXJ1REFTSWFNWl8waC1XbWkxWkxtWGRQVlo1cHlwaENYVVlNMmhhX3BHVVpJYm9ITUVaaFpZalQxUTUxRlM2a0hiNzJXUHc1ZTMweFF0MnNkQnBvX3BvNHVkenpVTERlQkxQQzNWMkpTaWpTSkIyOXZJMDM4VWxyR3V0Rlp2TW9sM1F1YmNEbGpZb0VJV3RHTThUdzF5cVNRS1FqNjNOTmFyQkRQN2wzU0FZX0tpRVpmaGlpYnBtWGRTVENUTU5MMEJVZlNXb0xVREVYRUxBM095NFR2OXc?oc=5",
+          "published_iso": "2026-06-30T21:01:00Z"
+        },
+        {
+          "title": "Hydropower credits could weaken New York City climate law compliance",
+          "source": "New York Focus",
+          "why_it_matters": "How the city counts emissions reductions could affect building costs and climate progress.",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1adzA4RV9CMFFCMHdSeHNPRC1sS0RaVEU4WHBxc2l6cVJYSkRkeDFSeFJoUVVvWGZTU3Z3UWFhSnZoYnRTTHZWMUpfMXRxNU9EeGF5M3AzX2djMTExWFU1NllRZmRNaVhvNjVzN0o2V3M?oc=5",
+          "published_iso": "2026-06-30T09:00:00Z"
         }
       ]
     },
@@ -94,37 +101,30 @@
       "title": "Opportunities & Welfare",
       "items": [
         {
-          "title": "How Medicaid coverage changes will affect New Yorkers",
+          "title": "NYC housing lottery offers apartments starting at $537",
           "source": "PIX11",
-          "why_it_matters": "Medicaid changes could alter health coverage, costs, and care access for many city residents.",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOURxWHZUcEREOXo2VGNUejlPV3ZVVEwxblA4Q04xUUpqRDZlYi1USi1mcHMzREk5Ql9weFNrbHVXVUJYYVFzQ0FYNmR3TjlaT1lmbVV2Z0pRTmFNMVJPWjBoc1VyRml0b0tFbHpqSGpIY05UU1YzTXcxajMwTzktdzJlVkxPeXBGLVdDVm1CRERwU1BfMnfSAZsBQVVfeXFMUGoxTEFQdUVwY2N3T1hyM3hxcXNiM09yM1B1NFpoN3c4dC1WSTA5X01ZUXVkWGtvXzhvYVAwdUc5aUx2SktrWmxpR0Zfdkk3WmxDY0drSzBJS1BJcDY3UFJHd2RoejQ5NkxXZzFuWW00VXZlYnB4a1lnV2FSUkNaTUprcC1JYXgyMGk0Z0djdnRHamhCSjJrcDJQM1k?oc=5",
-          "published_iso": "2026-06-30T01:07:58Z"
+          "why_it_matters": "Low-cost units could help eligible New Yorkers secure more affordable housing amid high rents.",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWVBPa0EwUDY5dVZRX25NM3MzOHdlbThLMlBGc1Mzb0toOWtSWHlhVlNXazFrc2VGc1UtWU1zVFE4VW9TSUtqakFGZWp0dlN6ek9JdUJNdXRMdVI1NnJMTGNYMlBHNWRjZlRWcGVlSmozaDhOa2FiSzlZOUlhc2c1SldDbHdtVHhZNkZNZGpGbDN5bXpKVkwxQWd1dWJtV2tBbFM3VzM5MnJSaDDSAbABQVVfeXFMTnUxOFNycnhFeFI3MGI3NFk5V1YtOHhORjVrQXp4YkUtNWQwc2M4eC1Rel9FS3hhYWFnclBKVzFKX0VzTk5lUUhZdERSam5xVWZhRUoyN05VY0VNX2kxb0hsZEo3ZkVMMnE5YWpOQ2d4X2dMMHRIWUFianJBSDJ5Y1I4d0h5WjhtcXk3NzYtNFhrU1pYWUpSelNxLVJWVmxubWliMVJhNWNrdnZOeHVHX1I?oc=5",
+          "published_iso": "2026-06-29T11:18:44Z"
         },
         {
-          "title": "NYC offers free air conditioners: How to apply",
-          "source": "PIX11",
-          "why_it_matters": "Eligible residents can get cooling help during dangerous summer heat and lower health risks at home.",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFRNZEppbUs3eEVGeVdfSmtjMXRldkNSSnNpWWc2d0xyRU56Uk0xNFJSRFpGQ1lNRDIxOXBIT3Z1VUg3akxKUS1zMllzNXB1WXBBMm1Fakt6eUJ4dnE0RWpuMFdGTFhtUGkza2dHOFdoNm1GYi14ZHBvOTFGa0pNektUcVc0ekllN1Rr0gGQAUFVX3lxTE5qel9hcGxoTTVjM0NZMFdQNmQ4QVQtWjZmczVHUWRrN2U2REs4REVzNWI4T0IwbGtwRWNCQVpOZXZNSFQwNGZiWmhFLUVGYkZZaE80TUVSWHBNTUNiUFprTWVDXzU4NjJuRV9rU0k4VnlpR01WTmdNTWFYZVBfV2FUeXlyRDg5bGpIYlh5cjRKTw?oc=5",
-          "published_iso": "2026-06-29T10:57:38Z"
+          "title": "State adds $106 million to expand childcare capacity",
+          "source": "Governor Kathy Hochul (.gov)",
+          "why_it_matters": "More childcare slots could ease costs and waitlists for working families across New York City.",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHpSQUQwdjBjX1FQQnllYWg3WXlsZEV3T250UVgxT19TdkI2QzB2RVYzVUZURm5Ha3NHVENVUjlxZ19MYm9yaW9FOFNqNGVjZUkxZ3BZRldlNzRmUXdmS3BMRHNuc0NBeW5raWtWTFVjaWlOeDZ4c0Q2SjU4SVdkVWNqcm80c1RIdlp4b2diMXpjLTRkcURDaEVpamU1OEZBa3RZM0FndjE4YXhnWHdlRFpxWUZORmxXR3o4aUJsWmg?oc=5",
+          "published_iso": "2026-06-30T16:18:33Z"
         },
         {
-          "title": "What NYC’s rent freeze means for tenants",
-          "source": "Gothamist",
-          "why_it_matters": "A rent freeze can directly affect housing costs and lease decisions for many regulated tenants.",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYnJiZm03azgtWDVVU3k3QTNRSmtKcHUxOWdwcWlObWpLbFNiNXJSc1NWa3N0UFduamRsOVlGWEgtdGFCY3RUREhJYmljUVZXdDVkalpqVTI3TTJMZWRVWXRZdHBqdUJqRnktclF2VGdBWG1sNWY5UmtROUNrNHZMYlo3SXJIREpQdUE?oc=5",
-          "published_iso": "2026-06-30T10:00:00Z"
+          "title": "City funds free OMNY cards for over 1,000 CUNY students",
+          "source": "amNewYork",
+          "why_it_matters": "Free transit for CUNY students can reduce commuting costs and improve access to classes and jobs.",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYakVQT0x3Tk5ycDVTV2htbnM5SjFJTHdsa0VTMTlyU05BbWRLVmpRSTNRSi1YM3NvMWdLNXlCUHpRZHdtVEI3ZUNlYzJOeUhpNlRkdHVhRkFGU3ZSdjQ2RVV1d0lfYkxfZ3hHbzBpN1dvVWdXdk96NGNR?oc=5",
+          "published_iso": "2026-06-30T13:00:27Z"
         },
         {
-          "title": "South Bronx project adds 328 affordable, supportive homes",
+          "title": "Staten Island gets city’s first public health vending machines",
           "source": "NYC.gov",
-          "why_it_matters": "New affordable and supportive housing can ease local housing pressure and expand options for vulnerable residents.",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORk5YS1U4am8zUGt2bElhc3oxeTVyZm4wUnk4SURraFFLd1k3SDQtU3M5Yk5UbnhYX1ZjT0o2X3l1cUtUVVl5UG13MWpoY01RX1M3UjI0Q2tDVFJxZFByM2FySkF1THIzM0VublZxV1ZuY0FfSGpEeDgwMzNtSkUycmxaeTlHQ2pwOEN2ZkNobV8xS0NDNU1WNGw5VG02N3A4VlpoRW5CejFfMkFFWTV5Rg?oc=5",
-          "published_iso": "2026-06-29T21:20:55Z"
-        },
-        {
-          "title": "Staten Island gets NYC’s first public health vending machines",
-          "source": "NYC.gov",
-          "why_it_matters": "Free health supplies from vending machines can improve access to prevention tools and basic care resources.",
+          "why_it_matters": "Free health supplies from vending machines can improve access to basic care and harm reduction.",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWEVzam9zMC04NDZXY3otQVVRMVFzckZlQy05WXJSbUhMZHhBWWNQUUI1WGtueWJaTklfb0xqREZuNzVmV2NOTkw0LXM4Vm9lSmNMMXFoaTdXY1BlUG5meWdzc2xSR2lYdTNWRjJOSmZFdElkeEEwUnBRLWQ5TzZzN0NEcllXOG5iaXZGSk0wR3BxUVc1RFhEU2VTRHJleE5xZWhCSXlhdmRuSGRGLUVFZA?oc=5",
           "published_iso": "2026-06-29T17:25:45Z"
         }
@@ -134,39 +134,53 @@
       "title": "Community",
       "items": [
         {
-          "title": "LIE coach bus crash kills 2, snarls traffic",
-          "source": "ABC7 New York",
-          "why_it_matters": "A deadly highway crash caused major regional travel delays and injured dozens of people.",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNjZnUUtXa1ZNbWphdElYSTI0aGlRRjJuUTZKbGFWVG9NcEkxVTBwbjJpdnFjUnRFZVdidFZMa2gyQ0lhNnJFQVA2azJwaW1ZV2FhZmt1VFM5LXlQTUFuT0JObzI5VHQ3dWFVUEFjR0NLSDRtcWJIQWpybjlwQUZjVUs5US1FdkUzcE9sM2FDSHhlNFF0MkRpSjltODI4SXV1V0EtdUE4azhjb2NCRnJ2TFVjc1Q5T0phVENlUS00eGnSAcYBQVVfeXFMTUhnWXdYV3ZaMkw2MTJGemMxcDQwSHFrbjdfSGtqS2w5OExrd001TERyNzFuUGRMMkdjeHk3VEZzS2ZOMUdsVF9CS3BkQnZ0dlNaTFByZk8wbFJQZ1dCYXVXcHFPdnlzZzdINFdYaFVfUVZEYzItSTAxMk9ZNnVVa0M1eDZCVjN5WEt2Vk9uTS1iVGV6d1hDM0tWZEE3czVMem1nWEktZkZkRFZkQkx5Y0RMNmVfbmVqVjF1QTlwcXJwVy1MT2tB?oc=5",
-          "published_iso": "2026-06-30T09:33:00Z"
+          "title": "What’s open and closed in NYC for July 4",
+          "source": "SILive.com",
+          "why_it_matters": "Holiday closures affect transit, shopping, services, and residents’ plans across the city.",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNG1fd1phcXNqT1RQMUVTM2l2TS1yTjAyRUFQdy1DRWkyNDRxa2NhNktIbHh5akJVTHUxTmFFblZoYXgwUFdpMTctRTQ3VEZyVHlSUHVTOFRuRG1HZm9ycEFZclFQemhwMVVCaE9EUkVRejFmbnRZM3U4UkcwN2pRRll4TEpFdDAtUDVmckhiX1JVZ3JDWlB3TE530gGuAUFVX3lxTFA0eVM4b212cUU5Y3NVRVJnTlVJQ1o4UUVfU29QXzFmdzJiM2F2R0hoS2NiNFZjSmxISkx1ZUhwZnc5Sjc5V240VHFXS1UwM19KVGcxMlI2a1VTZFJheExEa0tFTWJSbGg0aEZ5ZUV3RUNvb2ZOVjNkNi0wNGFEWjNaN1B4TWhlWDhVOUVLbnhpcHY5TFF0ZTl4em12ZndWTmVtU2UzdUY0MVp1bE8xdw?oc=5",
+          "published_iso": "2026-06-30T16:48:00Z"
         },
         {
-          "title": "Bear spray forces evacuation of Manhattan hotel",
-          "source": "Gothamist",
-          "why_it_matters": "The incident injured eight people and disrupted guests and nearby emergency response in Manhattan.",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1N6TjhFclFLNjQ5a1Mzc1BiYUI2MXlWd284OFpvWGp1bkstTWNKSkRXTTJISDFMNmhvRWo5OGZaMkpsWjVqelBIeTcwc2hQRGtxZ2NUVE1UMzExOUJSQXNDSVo3aWNVZXhtUV83QVg2VXF2TlRmUWQ3LUkxbVpFOWFROUlxV3JZdzNLNElZMXdNMTBPLW5OWXR2SQ?oc=5",
-          "published_iso": "2026-06-29T18:48:00Z"
+          "title": "NYC could hit 100 degrees amid dangerous heat",
+          "source": "New York Magazine",
+          "why_it_matters": "Extreme heat can threaten health, strain power, and disrupt daily routines citywide.",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc25TLTVGbEhadlk5STNHRXpSdHhQd0duQllfZmJKVU9NNnB4Y0wtSGNFNDBOeUtva2pNdVI0UEZ6ZU90MUJzQlk3SVlLdm51ZzRaTkw5NzI4WWtUZW9CaV9adUdhbU40TkJkcllSSXRCV1JLUHVzY0Q2andwUGlvdGlSN2JpTUVqeEI5THZLNmRLTVcwOGxHcjdTTXRjUnczWmFHWg?oc=5",
+          "published_iso": "2026-06-30T20:29:00Z"
         },
         {
-          "title": "NYC readies America 250 events this week",
-          "source": "ABC7 New York",
-          "why_it_matters": "Residents can expect street activity, celebrations, and possible crowding tied to citywide patriotic events.",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbHVpWjJVNTFNVlJHbDR5Uk1DQ2dQOUdMcFNSUm1HZVVfS193d1pWYkx1R25nSm12MzJ6TnN4OHFPWTRfcmFaenhZVVNHZ1hHWlRlV3h5d25GT3dmS0cwa2RDSnZZd3dlOHhXeDBER1VDdXgtSmpoem9XdFY3dnVvUEVVdHljeU5i0gGOAUFVX3lxTFBGZTRPTWdiYTEwM0tCYzNVMDNGMnc2LWtnZGVZM3JWUUpiUDdiNUxOdkd5OE14T25aSk1xaHNjU3Y5QU1WV1NjMEhreWpYYmZIWmhkNDVpM0x0aUphbzVNQVVUMXFFRUdNR3Q3WWQzVDhxTjJjUjlqbUhLeTNnYWRlR0hLNzQxUF9adklaMGc?oc=5",
-          "published_iso": "2026-06-28T21:59:18Z"
-        },
-        {
-          "title": "Sail4th 250 tall ships event guide released",
+          "title": "Best places to watch NYC’s July 4 fireworks",
           "source": "Time Out Worldwide",
-          "why_it_matters": "The major harbor event will affect viewing plans, crowds, and waterfront activity around the holiday.",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS2lXeFRGZ2xtWjc5ZlBUcVp2bVM3eFMzVVNIRkxPUjZOQ1I1Z1FZQnJadFpTYVlkQU94YjNhc3FEb01WTUZDb3BfSnpiNjE5aXdwUEpfeWQtTUtka2ZMVHZRekc4ZFl2Nk5ySTUxREs4TWxSYUhCWXkwOV92Y3cyMHZoUjBmeFVGNHBGUExZREh6WDlJZk0xMzhSSk8wSHhVZDR2eF9vSDh2NTVvbUNPV0hpR010UlpyeHFUUy03cWlaVkc5dS1vaU9JZG1iSjVDMUtha3BXUQ?oc=5",
-          "published_iso": "2026-06-29T19:16:43Z"
-        },
-        {
-          "title": "Best places to watch NYC July 4 fireworks",
-          "source": "Time Out Worldwide",
-          "why_it_matters": "Fireworks viewing guidance helps residents plan holiday travel, crowds, and waterfront access.",
+          "why_it_matters": "Viewing guidance helps residents navigate crowds, plan travel, and enjoy a major holiday event.",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWURGMld6emFEcnJROFZuUXd5eUZXQUwtbHJNX181S1VZbWc1cnJqaDZKVjZQczNCWWdnQ3gtS1RNMXBFcDFma05IX05FOWlXYVJqYWUyRlpmVk1sU19vRXgtVm55X0ZFN3VuYUpqVURFbHFqcDJjSHJvMEhzZkMzSWx3S05Ia3BkNjR0WlJwOEVhTU5FcEthTy1UeWo?oc=5",
           "published_iso": "2026-06-29T19:19:12Z"
+        },
+        {
+          "title": "Blue Angels to lead July 4 flyover near Verrazzano",
+          "source": "SILive.com",
+          "why_it_matters": "The flyover will affect waterfront crowds, viewing plans, and holiday activity around Staten Island.",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVh5UXI4OS1zcERQNFBRNjA5ZjlPWDYxWU5oTHMxSjJWUlJlQzNVSGlaYzAwUlFJT2pFR1ZkQmlrNWdya0I1YXpBeDVPUDFhdkhWeGN3UWhWVU9IMzY0allBZ2tlQm1rR0EybXkzcko1dTJQdjdJVDBaSHlGN1ZqR0lpb2VvTnY3QmNESFFpbFY3b3ZwTkdiQUhVcnBDdm1pUVgzYmZNajlEX21OVjZ3ZGdXNNIBxwFBVV95cUxQb3BjU3pLa09PbUhMRmotcnRYWkFRejV6Q1RGV19Ra1dUWFE3Ym9iLTVuRkUzVnpBRU1aMnZCZTQxN2EwV3FrYUZVN2lOWGFZemlCV0NNUlUtZjJQUzExT0d0SWhteXhHdW9qNzNrOVU3SnEzTHkzVHJCQVhPbkktM0l5c2pXTGxnTnozdVdFd1NiWDdXZXNjdFZBWVNwcU0yUEs5MXk2c0ZKeHhDRGpMUmxJMkZDSHByWUV6dlR4eEd4SXJOYkVz?oc=5",
+          "published_iso": "2026-06-30T21:45:00Z"
+        },
+        {
+          "title": "Tall Ships will return to New York",
+          "source": "Curbed",
+          "why_it_matters": "The event brings major waterfront activity, tourism, and public programming for city residents.",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeWIxOUJCM0EzUy1pek5wekNQT1FTYnlNMEtzQUZYbEZmQVNjTm9xREdpQVNjbUdqN3diMTlzZmpQTDZFVUJaMzExc3lHSHhsUUVTNWRVQ1VnOXI2S0ZIbEUtUGlpbGVZMWtWd2ItWWZLeWtYWnhZSlpISkdpZDM4R3pEaE9nXy1qaWh2cmRKRENHS0lX?oc=5",
+          "published_iso": "2026-06-30T11:00:44Z"
+        },
+        {
+          "title": "Several major Broadway shows are closing soon",
+          "source": "SILive.com",
+          "why_it_matters": "Closures affect theatergoers, tourism, and the city’s cultural calendar.",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOamc5WkFiSEhBUEx4NXFRWU5GSzQtQlcxaEtFaFJQdEVQUWVmcnc4QkNQOGs2T28yMENlQWptRlJENHEtcEt4czNkbW1fQ2JGUmhDSjJMRG9nSHNRazZTNGdWbGFMUFpjMEZ2Smd5QnNGVE00T2ZsdVZrdVhaWlh1bnp2dHd4MkJadzhpeENxb1M3c3QxaEh1dWJucld6dXVSQm5jZVR0VTc3Qi1FWG04dFkxOVZLQdIBygFBVV95cUxNRTNtdHNFaktwSExEODJjd09jLWxiMHFwNUUyTk96UUgtZTVQVjNDT0NMTlExQ1VpRmNhWlEtcTVpVEs2Zl9menFjLThvQVI1QXVxY0xqdmxyYlAzUHhYa2hvSEc0dlVqSXJINnVLNmJ1dXpET0g3Ukd1UU9KSWx6ZTl2QmdXZ3hnVHN5U0U1UVA3NDA1T3BOWTJfSmhqV3A4TmlPc2dlcEllbU9scmstWVZoblk3eXJ6dUlnMnQ0RjlhLUU3cVdKc0J3?oc=5",
+          "published_iso": "2026-06-30T15:51:00Z"
+        },
+        {
+          "title": "Costco opening a new New York store this summer",
+          "source": "SILive.com",
+          "why_it_matters": "A new big-box store can change local shopping options, traffic, and nearby jobs.",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSlJGVm5CSTZzdEo2UEZvUm1iNnEtWWtEU0hNTUFPNDFxODh5VWM1WWNCX0ZXZS14eVZld3RYZGl4NFZXcW5nMnRVb2ExTXhjYlBJY1JUSE0wOG1qaU1Ld2lBWGZKdTVyZlJSb3NVMnNoeVAyczYtaDJsMWRrMUZRbkhLYmFUZlNNbklieFR1eFBmMzdrTTEyM1hyTzlzcWlnZWdOR09TdWZYb1ZKOE9QT0lDZEJWVTlJ0gHMAUFVX3lxTE11WkQzaHRuSUJVQnp3RnhWZXRQanhVNlJtMTVoeWZWdW1DQ1RsWnJuYlQ2cVZxeVZJVFVhQU1TdGMzUy1vQmk2RXlkT0ZBS1ZLcGtLeDBWd19UVGpaS1VzaDd4NkRuWE95ZV9BU21EZm5PMGtDNWFsMmRqY214aFlURjVCX0VpN09sWHRXdEQyT08xeWowODhFVTlaSmFzcm5xTTRuUnFxaEE3YS0xdVExZU5PSmVVSUtEcWdvaE5DNTNvSXI4WXNWOVhRMg?oc=5",
+          "published_iso": "2026-06-30T17:30:00Z"
         }
       ]
     }
